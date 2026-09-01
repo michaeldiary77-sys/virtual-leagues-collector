@@ -1,0 +1,21 @@
+# Données collectées (grossissent en continu, ne vont pas dans le dépôt)
+data/
+
+# Rapports générés par les scripts d'analyse
+analysis/reports/
+
+# Logs
+*.log
+
+# État runtime / fichiers temporaires
+*.tmp
+__pycache__/
+*.pyc
+
+# Environnements virtuels Python (si jamais utilisé plus tard)
+venv/
+.venv/
+
+# Fichiers d'éditeur
+.vscode/
+.idea/

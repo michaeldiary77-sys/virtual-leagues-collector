@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Collecteur — Ligues virtuelles</title>
+<link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-title">
+    <h1>Ligues virtuelles</h1>
+    <p class="subtitle">Collecteur bet261 — pilotage &amp; suivi</p>
+  </div>
+  <div class="summary-stats" id="summary-stats">
+    <div class="stat">
+      <span class="stat-value" id="stat-running">—</span>
+      <span class="stat-label">en cours</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value" id="stat-matches">—</span>
+      <span class="stat-label">matchs collectés</span>
+    </div>
+    <div class="stat">
+      <span class="stat-value" id="stat-odds">—</span>
+      <span class="stat-label">avec cotes</span>
+    </div>
+  </div>
+</header>
+
+<div class="toolbar">
+  <div class="toolbar-group">
+    <button id="btn-start-all" class="btn btn-primary">▶ Tout démarrer</button>
+    <button id="btn-stop-all" class="btn btn-danger-outline">⏹ Tout arrêter</button>
+  </div>
+  <div class="toolbar-group">
+    <button id="btn-merge-all" class="btn btn-secondary">⇪ Fusionner tout</button>
+  </div>
+</div>
+
+<main>
+  <div class="table-wrap">
+    <table id="leagues-table">
+      <thead>
+        <tr>
+          <th>Ligue</th>
+          <th>Statut</th>
+          <th>Saison</th>
+          <th>Progression</th>
+          <th>Matchs</th>
+          <th>Dernier cycle</th>
+          <th>Erreur</th>
+          <th class="col-actions">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="leagues-tbody">
+        <tr class="row-loading"><td colspan="8">Chargement…</td></tr>
+      </tbody>
+    </table>
+  </div>
+</main>
+
+<div id="log-panel-backdrop" class="hidden"></div>
+<aside id="log-panel" class="hidden" aria-label="Panneau de log">
+  <div class="log-panel-header">
+    <span id="log-panel-title">Log</span>
+    <button id="log-panel-close" class="btn-icon" aria-label="Fermer">✕</button>
+  </div>
+  <pre id="log-panel-content"></pre>
+</aside>
+
+<div id="toast-container"></div>
+
+<script src="dashboard.js"></script>
+</body>
+</html>
