@@ -54,12 +54,24 @@ chaque exécution — indispensable puisque chaque run planifié est un
 processus neuf, sans mémoire du précédent.
 
 Les données collectées sont poussées sur une **branche Git séparée `data`**
-(pas sur `main`, qui reste juste le code). Pour les récupérer :
+(pas sur `main`, qui reste juste le code).
+
+⚠️ **Ne pas faire `git checkout data -- data/`** dans ce dossier — ça
+écraserait le `data/` local du collecteur manuel (dashboard). Utiliser plutôt
+un *worktree* séparé, isolé du dossier de travail principal :
 
 ```bash
-git fetch origin data
-git checkout data -- data/
+# Une seule fois, pour créer le dossier séparé (sibling de ce repo) :
+git worktree add ../virtual-leagues-collector-data data
+
+# Ensuite, à chaque fois pour rafraîchir avec les dernières données :
+cd ../virtual-leagues-collector-data
+git pull
 ```
+
+Les données GitHub Actions sont alors dans
+`../virtual-leagues-collector-data/data/`, complètement séparées du `data/`
+local utilisé par `app.py`/le dashboard.
 
 À noter : contrairement au collecteur local (interrogation fiable toutes les
 75s), un workflow planifié GitHub Actions peut être retardé lors des pics de
