@@ -17,6 +17,10 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    env:
+      # Empêche Python de créer des .pyc/__pycache__ pendant les runs — sinon
+      # ils traînent dans le répertoire et finissent commit par erreur.
+      PYTHONDONTWRITEBYTECODE: "1"
     steps:
       - name: Checkout du code (branche main)
         uses: actions/checkout@v4
@@ -51,6 +55,8 @@ jobs:
 
       - name: Commit + push des données vers la branche "data"
         run: |
+          find . -name "__pycache__" -type d -prune -exec rm -rf {} +
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
