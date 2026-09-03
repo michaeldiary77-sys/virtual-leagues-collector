@@ -43,10 +43,36 @@ python merge_dataset.py --all
 
 `requests`, `flask`, `psutil`, `pandas` (pour l'analyse).
 
+## Collecte automatique via GitHub Actions (sans garder le PC allumé)
+
+`.github/workflows/collect.yml` lance un cycle de collecte pour chaque ligue
+toutes les 5 minutes (planifié + déclenchement manuel possible depuis
+l'onglet Actions). Nécessite un dépôt **public** (minutes illimitées) et le
+flag `--persist-season-gate` sur `collector.py`, qui fait persister
+`season_started`/`season_id` dans `state.json` au lieu de repartir à zéro à
+chaque exécution — indispensable puisque chaque run planifié est un
+processus neuf, sans mémoire du précédent.
+
+Les données collectées sont poussées sur une **branche Git séparée `data`**
+(pas sur `main`, qui reste juste le code). Pour les récupérer :
+
+```bash
+git fetch origin data
+git checkout data -- data/
+```
+
+À noter : contrairement au collecteur local (interrogation fiable toutes les
+75s), un workflow planifié GitHub Actions peut être retardé lors des pics de
+charge — la couverture des cotes (qui dépend de capter le round pendant
+qu'il est "courant") sera donc un peu moins bonne que celle du collecteur
+local continu. Les résultats, eux, ne sont pas affectés.
+
 ## Notes
 
-- `data/` n'est pas versionné (voir `.gitignore`) — c'est un dossier de sortie
-  qui grossit en continu au fil de la collecte, pas du code.
+- `data/` n'est pas versionné sur `main` (voir `.gitignore`) — c'est un
+  dossier de sortie qui grossit en continu au fil de la collecte, pas du
+  code. Il vit sur la branche `data` quand la collecte passe par GitHub
+  Actions (voir ci-dessus).
 - `backfill_odds.py` est un outil ponctuel écrit pour un bug de collecte
   aujourd'hui corrigé à la racine — conservé pour référence, pas utilisé par
   le flux normal.

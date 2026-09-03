@@ -1,0 +1,79 @@
+name: Collecte des ligues virtuelles
+
+"on":
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Une seule exécution à la fois, les suivantes attendent plutôt que d'annuler
+# ou de se chevaucher (évite les conflits de push sur la branche data).
+concurrency:
+  group: collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du code (branche main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installation des dépendances
+        run: pip install requests
+
+      - name: Récupère les données déjà collectées (branche data, si elle existe)
+        run: |
+          git fetch origin data 2>/dev/null || true
+          if git show-ref --verify --quiet refs/remotes/origin/data; then
+            git checkout origin/data -- data/
+            echo "Données existantes récupérées depuis la branche data."
+          else
+            echo "Aucune branche data existante — premier run."
+          fi
+
+      - name: Collecte un cycle pour chaque ligue
+        run: |
+          for league in $(jq -r 'keys[]' leagues.json); do
+            echo "=== $league ==="
+            python collector.py --league "$league" --once --persist-season-gate || \
+              echo "!! échec sur $league, on continue avec les autres ligues"
+          done
+
+      - name: Commit + push des données vers la branche "data"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Met de côté les données fraîchement collectées (data/ est gitignore
+          # sur main, donc un changement de branche ne les touche pas, mais on
+          # les sort du repo par prudence avant de manipuler les branches).
+          rm -rf /tmp/collected-data
+          mv data /tmp/collected-data
+
+          if git show-ref --verify --quiet refs/remotes/origin/data; then
+            git checkout -B data origin/data
+          else
+            git checkout --orphan data
+            git rm -rf . > /dev/null 2>&1 || true
+          fi
+
+          rm -rf data
+          mv /tmp/collected-data data
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Aucun changement de données à commit."
+          else
+            git commit -m "Mise à jour des données collectées - $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin HEAD:data
+          fi

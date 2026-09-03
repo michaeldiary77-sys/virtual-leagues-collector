@@ -586,6 +586,12 @@ def run_cycle(state: dict, runtime: dict, paths: dict, slug: str) -> None:
         append_rows(paths["odds_csv"], ODDS_HEADER, odds_rows)
 
         prune_expired(state, datetime.now(timezone.utc).isoformat())
+        # Toujours écrit (même si --persist-season-gate n'est pas utilisé cette
+        # fois) : inoffensif, et permet à une exécution future avec le flag de
+        # reprendre au bon point même si les précédentes tournaient sans lui.
+        state["season_started"] = runtime["season_started"]
+        state["season_id"] = runtime["season_id"]
+        state["current_round"] = runtime["current_round"]
         save_state(state, paths["state_file"])
 
         print(f"[cycle] {len(matches_rows)} match(es) écrits, "
@@ -608,6 +614,12 @@ def main() -> None:
                          help="Nom de dossier à utiliser avec --entry-point-id (sinon l'id sert de nom).")
     parser.add_argument("--interval", type=int, default=75, help="Secondes entre deux cycles.")
     parser.add_argument("--once", action="store_true", help="N'exécute qu'un seul cycle puis s'arrête.")
+    parser.add_argument("--persist-season-gate", action="store_true",
+                         help="Reprend season_started/season_id/current_round depuis state.json "
+                              "au lieu de toujours repartir à zéro. Nécessaire pour une exécution "
+                              "planifiée (ex: GitHub Actions) où chaque run est un processus neuf — "
+                              "sans ce flag, la porte round #1 ne s'ouvrirait jamais. Sans effet sur "
+                              "l'usage local habituel (dashboard) si non fourni.")
     args = parser.parse_args()
 
     entry_point_id, slug = resolve_league(args)
@@ -617,13 +629,23 @@ def main() -> None:
     state = load_state(paths["state_file"], entry_point_id)
     reconcile_seasons_on_startup(state, paths, slug)
 
-    # En mémoire uniquement, jamais persisté : reset à chaque lancement, pour
-    # que chaque exécution attende bien son propre round #1 avant de collecter.
-    runtime = {"season_started": False, "season_id": None, "current_round": None}
+    if args.persist_season_gate:
+        runtime = {
+            "season_started": state.get("season_started", False),
+            "season_id": state.get("season_id"),
+            "current_round": state.get("current_round"),
+        }
+        print(f"[season] --persist-season-gate actif — reprise depuis state.json "
+              f"(season_started={runtime['season_started']}, season_id={runtime['season_id']})")
+    else:
+        # En mémoire uniquement, jamais persisté : reset à chaque lancement, pour
+        # que chaque exécution attende bien son propre round #1 avant de collecter.
+        runtime = {"season_started": False, "season_id": None, "current_round": None}
 
     print(f"Démarrage collecteur — ligue={slug}, entryPointId={entry_point_id}, "
           f"dossier={paths['data_dir']}, intervalle={args.interval}s")
-    print("[season] en attente du round #1 pour démarrer la collecte...")
+    if not runtime["season_started"]:
+        print("[season] en attente du round #1 pour démarrer la collecte...")
 
     if args.once:
         run_cycle(state, runtime, paths, slug)
