@@ -1,0 +1,136 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+50b25ae13f59f5e1,german-league,164941,1,2026-09-09T15:44:30Z,Hoffenheim,Heidenheim,2,2,2.12,4.16,2.88,1.38,1.67,1.2,1.33,3.26,1.36,3.09,Oui,Oui,Non,Oui,Non,Away,53,"[4, 14, 16, 53]",True
+0f4334fc7619339f,german-league,164941,1,2026-09-09T15:44:30Z,Augsburg,Pauli,1,2,2.69,2.97,2.85,1.39,1.43,1.36,2.35,1.58,1.97,1.81,Oui,Oui,Non,Non,Oui,Away,84,"[44, 72, 84]",True
+ed987ca7bd1c62c7,german-league,164941,1,2026-09-09T15:44:30Z,Mainz,Koln,3,0,1.59,4.55,4.75,1.16,2.28,1.17,1.37,3.03,1.5,2.55,Oui,Non,Oui,Non,Non,Home,58,"[4, 37, 58]",True
+f5389be8570b39d4,german-league,164941,1,2026-09-09T15:44:30Z,Stuttgart,Freiburg,3,0,1.43,4.92,6.32,1.09,2.71,1.15,1.4,2.91,1.63,2.25,Oui,Non,Oui,Non,Non,Home,56,"[42, 43, 56]",True
+2b3b129b7edf5265,german-league,164941,1,2026-09-09T15:44:30Z,Frankfurt,Dortmund,4,0,1.81,4.27,3.64,1.25,1.93,1.19,1.35,3.11,1.41,2.83,Oui,Non,Oui,Non,Non,Home,72,"[44, 45, 70, 72]",True
+4020b6af2b43488b,german-league,164941,1,2026-09-09T15:44:30Z,Bremen,Wolfsburg,0,0,2.39,3.71,2.69,1.43,1.53,1.24,1.54,2.43,1.49,2.56,Non,Non,Non,Oui,Non,,,[],True
+c893f80830a1c7d0,german-league,164941,1,2026-09-09T15:44:30Z,Hambourg,Leipzig,1,4,3.41,4.19,1.89,1.84,1.28,1.19,1.36,3.08,1.4,2.88,Oui,Oui,Non,Non,Oui,Away,55,"[8, 15, 30, 46, 55]",True
+5cdf7c4853d7e1a0,german-league,164941,1,2026-09-09T15:44:30Z,Berlin,Mönchengladbach,5,1,1.81,4.06,3.82,1.23,1.93,1.21,1.46,2.66,1.5,2.55,Oui,Oui,Oui,Non,Non,Home,88,"[26, 28, 32, 59, 70, 88]",True
+8a613075e3f94ea7,german-league,164941,1,2026-09-09T15:44:30Z,Munich,Leverkusen,2,2,1.54,4.68,5.03,1.14,2.38,1.16,1.35,3.11,1.5,2.54,Oui,Oui,Non,Oui,Non,Away,85,"[33, 39, 83, 85]",True
+4f915cacf7ac9f8e,german-league,164941,2,2026-09-09T15:46:30Z,Leipzig,Mönchengladbach,2,2,1.3,6.13,7.74,1.05,3.36,1.09,1.24,3.9,1.6,2.3,Oui,Oui,Non,Oui,Non,Home,76,"[40, 44, 75, 76]",True
+681bfa46ae69b5e5,german-league,164941,2,2026-09-09T15:46:30Z,Freiburg,Mainz,3,0,1.8,4.09,3.85,1.23,1.95,1.2,1.45,2.72,1.49,2.58,Oui,Non,Oui,Non,Non,Home,89,"[56, 81, 89]",True
+59b392e10e005d0c,german-league,164941,2,2026-09-09T15:46:30Z,Heidenheim,Augsburg,1,2,2.33,3.94,2.65,1.44,1.56,1.22,1.41,2.83,1.41,2.86,Oui,Oui,Non,Non,Oui,Home,89,"[20, 53, 89]",True
+a0179f0d211f6cf2,german-league,164941,2,2026-09-09T15:46:30Z,Pauli,Berlin,2,0,3.35,2.36,2.97,1.36,1.29,1.54,4.27,1.21,2.94,1.39,Non,Non,Oui,Non,Non,Home,62,"[21, 62]",True
+eff7c0d2536e1c56,german-league,164941,2,2026-09-09T15:46:30Z,Wolfsburg,Munich,1,1,3.84,4.68,1.71,2.07,1.23,1.16,1.25,3.86,1.35,3.11,Non,Oui,Non,Oui,Non,Home,83,"[75, 83]",True
+0704b5315fcc6d6b,german-league,164941,2,2026-09-09T15:46:30Z,Koln,Frankfurt,1,1,3.21,4.49,1.9,1.84,1.31,1.17,1.25,3.89,1.32,3.31,Non,Oui,Non,Oui,Non,Home,26,"[7, 26]",True
+44922e2e48b40e57,german-league,164941,2,2026-09-09T15:46:30Z,Stuttgart,Bremen,4,1,1.55,4.89,4.75,1.16,2.37,1.15,1.27,3.64,1.43,2.79,Oui,Oui,Oui,Non,Non,Home,89,"[19, 20, 35, 56, 89]",True
+0b7138ce8d4f496d,german-league,164941,2,2026-09-09T15:46:30Z,Leverkusen,Hoffenheim,0,0,1.4,5.34,6.29,1.09,2.84,1.12,1.29,3.49,1.54,2.43,Non,Non,Non,Oui,Non,,,[],True
+f44d896282cd6fce,german-league,164941,2,2026-09-09T15:46:30Z,Dortmund,Hambourg,2,0,1.12,9.33,17.39,0.98,5.96,1.03,1.22,4.12,2.22,1.64,Non,Non,Oui,Non,Non,Home,70,"[62, 70]",True
+ec0133053131bb41,german-league,164941,4,2026-09-09T15:50:30Z,Wolfsburg,Augsburg,0,0,1.74,4.48,3.8,1.23,2.02,1.17,1.3,3.42,1.39,2.93,Non,Non,Non,Oui,Non,,,[],True
+0b5fe6255ea80b75,german-league,164941,4,2026-09-09T15:50:30Z,Mainz,Munich,0,3,3.38,4.17,1.91,1.83,1.28,1.2,1.37,3.04,1.41,2.86,Oui,Non,Non,Non,Oui,Away,90,"[81, 81, 90]",True
+5cbde4fb91eaefcb,german-league,164941,4,2026-09-09T15:50:30Z,Heidenheim,Berlin,4,1,2.28,3.47,3.01,1.35,1.58,1.27,1.74,2.06,1.62,2.25,Oui,Oui,Oui,Non,Non,Home,86,"[16, 42, 47, 68, 86]",True
+7f0c8e561def1c40,german-league,164941,4,2026-09-09T15:50:30Z,Dortmund,Leipzig,0,1,1.52,4.94,5.05,1.14,2.45,1.14,1.29,3.53,1.46,2.68,Non,Non,Non,Non,Oui,Away,57,[57],True
+ec5952027a19877d,german-league,164941,4,2026-09-09T15:50:30Z,Koln,Mönchengladbach,0,0,2.76,4.58,2.08,1.69,1.41,1.17,1.19,4.52,1.27,3.69,Non,Non,Non,Oui,Non,,,[],True
+877a63b230abbccb,german-league,164941,4,2026-09-09T15:50:30Z,Leverkusen,Pauli,3,1,1.47,4.34,6.7,1.08,2.59,1.18,1.64,2.21,1.85,1.92,Oui,Oui,Oui,Non,Non,Home,78,"[18, 23, 45, 78]",True
+bdf60e6cd5940dd7,german-league,164941,4,2026-09-09T15:50:30Z,Freiburg,Hambourg,2,1,1.32,5.47,8.43,1.04,3.26,1.12,1.4,2.88,1.78,2.0,Oui,Oui,Oui,Non,Non,Home,79,"[3, 61, 79]",True
+f36df7faddfdf963,german-league,164941,4,2026-09-09T15:50:30Z,Stuttgart,Hoffenheim,4,2,1.5,4.99,5.19,1.13,2.5,1.14,1.29,3.53,1.47,2.64,Oui,Oui,Oui,Non,Non,Home,74,"[6, 22, 44, 58, 59, 74]",True
+9ab08ff46bbd2976,german-league,164941,4,2026-09-09T15:50:30Z,Bremen,Frankfurt,1,4,2.19,3.91,2.88,1.38,1.63,1.22,1.44,2.74,1.43,2.77,Oui,Oui,Non,Non,Oui,Away,87,"[7, 13, 42, 76, 87]",True
+ff00a097fe397f65,german-league,164941,7,2026-09-09T15:56:30Z,Dortmund,Freiburg,2,3,1.27,6.16,9.23,1.03,3.63,1.09,1.31,3.36,1.76,2.04,Oui,Oui,Non,Non,Oui,Away,87,"[1, 10, 54, 80, 87]",True
+bb75c6b027231407,german-league,164941,7,2026-09-09T15:56:30Z,Hambourg,Hoffenheim,2,0,2.63,4.14,2.28,1.58,1.45,1.2,1.32,3.31,1.35,3.16,Non,Non,Oui,Non,Non,Home,66,"[3, 66]",True
+9e5034b66cb70e24,german-league,164941,7,2026-09-09T15:56:30Z,Berlin,Koln,4,2,1.68,4.35,4.24,1.19,2.11,1.18,1.39,2.94,1.48,2.61,Oui,Oui,Oui,Non,Non,Away,61,"[24, 39, 43, 57, 60, 61]",True
+1123aac9aa0f1949,german-league,164941,7,2026-09-09T15:56:30Z,Augsburg,Frankfurt,3,0,2.56,3.5,2.61,1.45,1.47,1.27,1.69,2.13,1.58,2.33,Oui,Non,Oui,Non,Non,Home,40,"[19, 23, 40]",True
+b8b404cec55a594b,german-league,164941,7,2026-09-09T15:56:30Z,Leverkusen,Wolfsburg,3,1,1.48,4.76,5.8,1.11,2.57,1.15,1.4,2.89,1.59,2.31,Oui,Oui,Oui,Non,Non,Home,54,"[27, 44, 47, 54]",True
+c5e5501a6628e0e3,german-league,164941,7,2026-09-09T15:56:30Z,Heidenheim,Stuttgart,2,2,3.09,3.96,2.07,1.7,1.33,1.22,1.43,2.78,1.43,2.77,Oui,Oui,Non,Oui,Non,Home,50,"[15, 46, 48, 50]",True
+4e8a0e933f7b4730,german-league,164941,7,2026-09-09T15:56:30Z,Leipzig,Bremen,2,2,1.44,5.12,5.95,1.1,2.7,1.14,1.32,3.33,1.54,2.44,Oui,Oui,Non,Oui,Non,Away,90,"[33, 48, 66, 90]",True
+4acd8c5923ceb888,german-league,164941,7,2026-09-09T15:56:30Z,Pauli,Mainz,2,1,3.99,2.74,2.25,1.6,1.21,1.41,2.98,1.38,2.38,1.56,Oui,Oui,Oui,Non,Non,Away,63,"[28, 37, 63]",True
+44662aa3ac803bc4,german-league,164941,7,2026-09-09T15:56:30Z,Mönchengladbach,Munich,3,2,3.31,4.37,1.89,1.85,1.29,1.18,1.29,3.53,1.35,3.13,Oui,Oui,Oui,Non,Non,Away,89,"[22, 32, 44, 79, 89]",True
+6ad4f41877beabdf,german-league,164941,9,2026-09-09T16:00:30Z,Dortmund,Munich,0,0,1.89,4.68,3.16,1.32,1.85,1.16,1.2,4.45,1.29,3.53,Non,Non,Non,Oui,Non,,,[],True
+c35bb143a936f678,german-league,164941,9,2026-09-09T16:00:30Z,Berlin,Freiburg,1,1,1.8,3.64,4.36,1.18,1.95,1.25,1.78,2.0,1.75,2.05,Non,Oui,Non,Oui,Non,Home,80,"[49, 80]",True
+414526092d5c8b6f,german-league,164941,9,2026-09-09T16:00:30Z,Pauli,Hambourg,1,1,2.36,2.63,3.91,1.22,1.54,1.44,3.28,1.32,2.53,1.51,Non,Oui,Non,Oui,Non,Away,61,"[55, 61]",True
+09dc6adcbc208e30,german-league,164941,9,2026-09-09T16:00:30Z,Leverkusen,Mainz,2,1,1.39,5.26,6.7,1.08,2.89,1.13,1.34,3.19,1.61,2.28,Oui,Oui,Oui,Non,Non,Home,58,"[29, 47, 58]",True
+5e59a31ff3d288d2,german-league,164941,9,2026-09-09T16:00:30Z,Leipzig,Hoffenheim,4,0,1.43,5.15,6.07,1.1,2.73,1.13,1.32,3.3,1.55,2.41,Oui,Non,Oui,Non,Non,Home,83,"[35, 47, 52, 83]",True
+fef6544be2166957,german-league,164941,9,2026-09-09T16:00:30Z,Koln,Bremen,2,3,3.27,4.59,1.87,1.87,1.3,1.17,1.23,4.1,1.31,3.38,Oui,Oui,Non,Non,Oui,Away,83,"[21, 27, 37, 59, 83]",True
+f5c6978babbdcbf6,german-league,164941,9,2026-09-09T16:00:30Z,Heidenheim,Frankfurt,0,1,2.72,3.82,2.32,1.56,1.42,1.23,1.47,2.63,1.45,2.72,Non,Non,Non,Non,Oui,Away,51,[51],True
+22fcf4ec96bf5962,german-league,164941,9,2026-09-09T16:00:30Z,Mönchengladbach,Augsburg,3,2,1.61,4.6,4.55,1.17,2.25,1.16,1.33,3.24,1.45,2.69,Oui,Oui,Oui,Non,Non,Home,79,"[25, 28, 41, 62, 79]",True
+05258261ad9ccb72,german-league,164941,9,2026-09-09T16:00:30Z,Wolfsburg,Stuttgart,3,0,2.22,4.14,2.71,1.42,1.61,1.2,1.33,3.24,1.36,3.09,Oui,Non,Oui,Non,Non,Home,74,"[57, 67, 74]",True
+1c58631bdbc6ca3c,german-league,164941,12,2026-09-09T16:06:30Z,Frankfurt,Stuttgart,1,1,1.68,4.44,4.17,1.2,2.11,1.18,1.35,3.15,1.44,2.74,Non,Oui,Non,Oui,Non,Home,88,"[88, 88]",True
+d0275da0a03c2355,german-league,164941,12,2026-09-09T16:06:30Z,Mönchengladbach,Leverkusen,1,3,3.1,3.89,2.08,1.7,1.33,1.22,1.46,2.66,1.45,2.69,Oui,Oui,Non,Non,Oui,Away,90,"[23, 41, 88, 90]",True
+62d84e46ae1ed178,german-league,164941,12,2026-09-09T16:06:30Z,Hoffenheim,Freiburg,0,1,1.98,4.05,3.25,1.3,1.77,1.21,1.41,2.86,1.43,2.78,Non,Non,Non,Non,Oui,Away,67,[67],True
+5e65996e2b21829f,german-league,164941,12,2026-09-09T16:06:30Z,Hambourg,Wolfsburg,1,1,2.81,3.83,2.26,1.59,1.39,1.23,1.48,2.62,1.45,2.7,Non,Oui,Non,Oui,Non,Home,88,"[73, 88]",True
+7496eb13efbb4356,german-league,164941,12,2026-09-09T16:06:30Z,Pauli,Dortmund,1,2,5.21,3.11,1.83,1.91,1.13,1.33,2.51,1.51,2.28,1.61,Oui,Oui,Non,Non,Oui,Away,73,"[27, 40, 73]",True
+b9b26f1c981f7bfb,german-league,164941,12,2026-09-09T16:06:30Z,Munich,Bremen,3,1,1.19,7.66,11.07,1.01,4.44,1.06,1.21,4.32,1.79,2.0,Oui,Oui,Oui,Non,Non,Home,84,"[2, 15, 17, 84]",True
+034d3f266443cd24,german-league,164941,12,2026-09-09T16:06:30Z,Mainz,Berlin,4,0,1.65,3.73,5.36,1.12,2.16,1.24,1.85,1.92,1.88,1.89,Oui,Non,Oui,Non,Non,Home,85,"[24, 77, 81, 85]",True
+a0bd18842035a98b,german-league,164941,12,2026-09-09T16:06:30Z,Leipzig,Heidenheim,1,1,1.38,5.14,7.15,1.07,2.93,1.13,1.4,2.88,1.69,2.13,Non,Oui,Non,Oui,Non,Home,90,"[84, 90]",True
+68d9dd4a4ea87498,german-league,164941,12,2026-09-09T16:06:30Z,Augsburg,Koln,1,2,2.01,3.95,3.22,1.31,1.74,1.22,1.44,2.72,1.45,2.7,Oui,Oui,Non,Non,Oui,Home,66,"[49, 53, 66]",True
+b4267fa9657793fd,german-league,164941,14,2026-09-09T16:10:30Z,Hambourg,Mainz,1,3,2.58,3.94,2.39,1.53,1.46,1.22,1.41,2.86,1.4,2.87,Oui,Oui,Non,Non,Oui,Home,86,"[24, 39, 62, 86]",True
+382c21e56ae25683,german-league,164941,14,2026-09-09T16:10:30Z,Pauli,Freiburg,1,2,3.63,2.57,2.53,1.48,1.25,1.46,3.4,1.31,2.56,1.5,Oui,Oui,Non,Non,Oui,Home,49,"[32, 42, 49]",True
+0b0345413ede3d91,german-league,164941,14,2026-09-09T16:10:30Z,Dortmund,Leverkusen,3,1,1.89,4.26,3.38,1.28,1.85,1.19,1.33,3.24,1.38,2.97,Oui,Oui,Oui,Non,Non,Home,66,"[13, 42, 58, 66]",True
+2b5326d5d9434671,german-league,164941,14,2026-09-09T16:10:30Z,Hoffenheim,Munich,3,3,4.62,5.38,1.52,2.44,1.16,1.12,1.18,4.73,1.36,3.08,Oui,Oui,Non,Oui,Non,Home,83,"[37, 40, 41, 73, 79, 83]",True
+c8a2472a9a3662e5,german-league,164941,14,2026-09-09T16:10:30Z,Leipzig,Wolfsburg,1,0,1.51,4.49,5.78,1.11,2.48,1.17,1.49,2.57,1.66,2.18,Non,Non,Oui,Non,Non,Home,57,[57],True
+f678b0eb8b01401d,german-league,164941,14,2026-09-09T16:10:30Z,Mönchengladbach,Stuttgart,1,3,1.98,4.07,3.22,1.31,1.77,1.21,1.39,2.93,1.41,2.83,Oui,Oui,Non,Non,Oui,Home,81,"[35, 36, 71, 81]",True
+62ae110bfec53d1e,german-league,164941,14,2026-09-09T16:10:30Z,Frankfurt,Berlin,2,1,1.39,4.79,7.49,1.06,2.87,1.15,1.53,2.45,1.83,1.95,Oui,Oui,Oui,Non,Non,Home,89,"[36, 66, 89]",True
+05d1c2faf07d28c5,german-league,164941,14,2026-09-09T16:10:30Z,Heidenheim,Koln,1,3,2.2,4.2,2.73,1.42,1.62,1.19,1.3,3.41,1.34,3.19,Oui,Oui,Non,Non,Oui,Home,73,"[27, 30, 63, 73]",True
+df29b8d27c5eb94d,german-league,164941,14,2026-09-09T16:10:30Z,Augsburg,Bremen,1,1,2.53,3.66,2.55,1.47,1.48,1.25,1.57,2.36,1.51,2.52,Non,Oui,Non,Oui,Non,Home,62,"[9, 62]",True
+e5f5ba533e0228c1,german-league,164941,17,2026-09-09T16:16:30Z,Bremen,Leverkusen,1,1,4.19,4.26,1.7,2.07,1.2,1.19,1.42,2.83,1.49,2.57,Non,Oui,Non,Oui,Non,Home,55,"[50, 55]",True
+e6a25c85e41f8535,german-league,164941,17,2026-09-09T16:16:30Z,Hoffenheim,Pauli,2,1,2.47,3.54,2.68,1.43,1.5,1.26,1.66,2.19,1.56,2.38,Oui,Oui,Oui,Non,Non,Home,37,"[24, 36, 37]",True
+ca30fe678a420173,german-league,164941,17,2026-09-09T16:16:30Z,Stuttgart,Koln,3,0,1.37,5.79,6.42,1.09,2.99,1.11,1.22,4.12,1.5,2.55,Oui,Non,Oui,Non,Non,Home,88,"[16, 63, 88]",True
+625bfd3642bbeaf2,german-league,164941,17,2026-09-09T16:16:30Z,Berlin,Augsburg,1,0,1.76,4.01,4.14,1.2,2.0,1.21,1.52,2.49,1.56,2.4,Non,Non,Oui,Non,Non,Home,53,[53],True
+379566960a1046f8,german-league,164941,17,2026-09-09T16:16:30Z,Frankfurt,Leipzig,1,1,1.82,4.21,3.68,1.24,1.93,1.19,1.39,2.96,1.44,2.74,Non,Oui,Non,Oui,Non,Away,56,"[48, 56]",True
+07e4093d158ae8c8,german-league,164941,17,2026-09-09T16:16:30Z,Hambourg,Mönchengladbach,2,1,2.21,4.21,2.7,1.42,1.61,1.19,1.3,3.44,1.34,3.21,Oui,Oui,Oui,Non,Non,Home,67,"[43, 44, 67]",True
+02c7ec5ff126c5d2,german-league,164941,17,2026-09-09T16:16:30Z,Freiburg,Wolfsburg,2,0,1.89,3.92,3.63,1.25,1.85,1.22,1.51,2.53,1.51,2.51,Non,Non,Oui,Non,Non,Home,88,"[79, 88]",True
+e74d4d635be71fd9,german-league,164941,17,2026-09-09T16:16:30Z,Mainz,Dortmund,2,3,2.27,3.68,2.88,1.38,1.59,1.25,1.57,2.36,1.51,2.5,Oui,Oui,Non,Non,Oui,Away,85,"[1, 43, 61, 72, 85]",True
+ea20b2a1a4b63f06,german-league,164941,17,2026-09-09T16:16:30Z,Munich,Heidenheim,4,1,1.17,7.74,13.01,1.0,4.76,1.05,1.25,3.89,1.92,1.86,Oui,Oui,Oui,Non,Non,Home,84,"[21, 38, 52, 77, 84]",True
+0dfcbbe1e9e47b87,german-league,164941,19,2026-09-09T16:20:30Z,Hambourg,Dortmund,1,3,3.48,4.24,1.86,1.88,1.27,1.19,1.35,3.15,1.4,2.9,Oui,Oui,Non,Non,Oui,Away,83,"[31, 32, 76, 83]",True
+9d6234f4c83b5ca5,german-league,164941,19,2026-09-09T16:20:30Z,Hoffenheim,Leverkusen,2,1,4.58,4.69,1.59,2.27,1.17,1.16,1.31,3.39,1.44,2.74,Oui,Oui,Oui,Non,Non,Away,68,"[4, 66, 68]",True
+6ab8ff1b80f21b83,german-league,164941,19,2026-09-09T16:20:30Z,Bremen,Stuttgart,1,1,2.43,3.95,2.53,1.48,1.51,1.22,1.4,2.88,1.4,2.89,Non,Oui,Non,Oui,Non,Home,70,"[51, 70]",True
+000b196454d3b3cd,german-league,164941,19,2026-09-09T16:20:30Z,Frankfurt,Koln,1,0,1.39,5.62,6.06,1.1,2.86,1.11,1.23,4.1,1.47,2.62,Non,Non,Oui,Non,Non,Home,58,[58],True
+5c568396f6dc20de,german-league,164941,19,2026-09-09T16:20:30Z,Mönchengladbach,Leipzig,0,1,2.17,3.93,2.89,1.37,1.64,1.22,1.43,2.77,1.43,2.79,Non,Non,Non,Non,Oui,Away,9,[9],True
+8e873bb13b121cef,german-league,164941,19,2026-09-09T16:20:30Z,Munich,Wolfsburg,3,0,1.23,6.63,10.34,1.02,3.97,1.08,1.29,3.53,1.81,1.97,Oui,Non,Oui,Non,Non,Home,65,"[9, 63, 65]",True
+62b29038ac7c3034,german-league,164941,19,2026-09-09T16:20:30Z,Berlin,Pauli,2,2,2.25,3.08,3.44,1.28,1.59,1.34,2.24,1.63,1.94,1.84,Oui,Oui,Non,Oui,Non,Home,78,"[11, 12, 72, 78]",True
+42b0f0afdfc1ca08,german-league,164941,19,2026-09-09T16:20:30Z,Augsburg,Heidenheim,3,0,2.3,3.5,2.95,1.36,1.57,1.27,1.72,2.1,1.61,2.29,Oui,Non,Oui,Non,Non,Home,80,"[63, 73, 80]",True
+fcaec4ac433cdbcb,german-league,164941,19,2026-09-09T16:20:30Z,Mainz,Freiburg,0,0,1.7,3.82,4.78,1.15,2.09,1.23,1.71,2.1,1.74,2.06,Non,Non,Non,Oui,Non,,,[],True
+705a62d985ce789f,german-league,164941,22,2026-09-09T16:26:30Z,Wolfsburg,Pauli,5,1,2.19,3.5,3.15,1.32,1.63,1.27,1.73,2.08,1.62,2.25,Oui,Oui,Oui,Non,Non,Away,87,"[37, 38, 42, 54, 74, 87]",True
+2f835cd555dd560d,german-league,164941,22,2026-09-09T16:26:30Z,Dortmund,Berlin,3,0,1.23,6.41,10.84,1.01,3.95,1.09,1.34,3.19,1.89,1.89,Oui,Non,Oui,Non,Non,Home,88,"[73, 73, 88]",True
+fa55e33bbf3c0ca0,german-league,164941,22,2026-09-09T16:26:30Z,Leverkusen,Heidenheim,4,1,1.35,5.49,7.33,1.06,3.08,1.12,1.33,3.25,1.64,2.21,Oui,Oui,Oui,Non,Non,Home,81,"[9, 40, 75, 80, 81]",True
+bcfc559893a06f83,german-league,164941,22,2026-09-09T16:26:30Z,Bremen,Hambourg,0,1,1.45,4.76,6.26,1.09,2.65,1.15,1.44,2.72,1.66,2.18,Non,Non,Non,Non,Oui,Away,7,[7],True
+0d9b72708b30a140,german-league,164941,22,2026-09-09T16:26:30Z,Stuttgart,Augsburg,5,1,1.38,5.61,6.47,1.08,2.95,1.11,1.26,3.79,1.53,2.47,Oui,Oui,Oui,Non,Non,Home,80,"[33, 44, 45, 60, 67, 80]",True
+3d8cf9e4986df9cd,german-league,164941,22,2026-09-09T16:26:30Z,Mainz,Hoffenheim,2,1,1.77,4.12,3.95,1.22,1.98,1.2,1.45,2.71,1.49,2.56,Oui,Oui,Oui,Non,Non,Home,83,"[80, 82, 83]",True
+6130b50aff24f897,german-league,164941,22,2026-09-09T16:26:30Z,Freiburg,Mönchengladbach,1,1,1.59,4.76,4.54,1.17,2.28,1.15,1.29,3.52,1.42,2.8,Non,Oui,Non,Oui,Non,Away,65,"[58, 65]",True
+d89b6be870b3db1a,german-league,164941,22,2026-09-09T16:26:30Z,Munich,Frankfurt,1,0,1.19,7.43,11.73,1.01,4.47,1.06,1.24,3.93,1.84,1.93,Non,Non,Oui,Non,Non,Home,25,[25],True
+bd323e90bbd018e8,german-league,164941,22,2026-09-09T16:26:30Z,Koln,Leipzig,1,5,4.39,4.96,1.59,2.28,1.18,1.14,1.23,4.02,1.38,3.0,Oui,Oui,Non,Non,Oui,Away,81,"[42, 43, 43, 47, 55, 81]",True
+ac33a86886ce1f96,german-league,164941,24,2026-09-09T16:30:30Z,Munich,Mönchengladbach,2,2,1.15,8.7,13.15,1.0,5.14,1.04,1.19,4.55,1.93,1.84,Oui,Oui,Non,Oui,Non,Away,74,"[26, 33, 60, 74]",True
+48a2018c05b3645f,german-league,164941,24,2026-09-09T16:30:30Z,Mainz,Pauli,1,0,1.97,3.3,4.01,1.21,1.78,1.3,2.05,1.75,1.88,1.9,Non,Non,Oui,Non,Non,Home,52,[52],True
+90d126b20bb6a95f,german-league,164941,24,2026-09-09T16:30:30Z,Freiburg,Dortmund,0,1,2.19,3.96,2.85,1.38,1.63,1.22,1.41,2.86,1.41,2.85,Non,Non,Non,Non,Oui,Away,28,[28],True
+9f1f44e3520e6ef9,german-league,164941,24,2026-09-09T16:30:30Z,Bremen,Leipzig,0,1,2.88,3.88,2.2,1.62,1.38,1.22,1.45,2.7,1.44,2.74,Non,Non,Non,Non,Oui,Away,53,[53],True
+578649409d3ab6a9,german-league,164941,24,2026-09-09T16:30:30Z,Stuttgart,Heidenheim,3,1,1.46,5.02,5.73,1.11,2.63,1.14,1.32,3.29,1.53,2.46,Oui,Oui,Oui,Non,Non,Home,89,"[36, 37, 62, 89]",True
+d7944c611c80fcf3,german-league,164941,24,2026-09-09T16:30:30Z,Wolfsburg,Leverkusen,1,1,3.6,4.21,1.84,1.9,1.25,1.19,1.37,3.01,1.43,2.79,Non,Oui,Non,Oui,Non,Home,89,"[89, 89]",True
+41521f286bc197ce,german-league,164941,24,2026-09-09T16:30:30Z,Frankfurt,Augsburg,3,1,1.41,5.31,6.23,1.09,2.81,1.13,1.3,3.45,1.55,2.41,Oui,Oui,Oui,Non,Non,Home,84,"[29, 46, 72, 84]",True
+8efd010e4c922ddf,german-league,164941,24,2026-09-09T16:30:30Z,Koln,Berlin,2,1,2.52,3.83,2.49,1.49,1.48,1.23,1.47,2.65,1.44,2.73,Oui,Oui,Oui,Non,Non,Away,72,"[19, 69, 72]",True
+8bc826c56d715d45,german-league,164941,24,2026-09-09T16:30:30Z,Hoffenheim,Hambourg,2,0,1.46,5.04,5.65,1.11,2.61,1.14,1.31,3.36,1.51,2.5,Non,Non,Oui,Non,Non,Home,58,"[46, 58]",True
+226f29e21a65f669,german-league,164941,27,2026-09-09T16:36:30Z,Dortmund,Hoffenheim,3,0,1.33,6.03,7.0,1.07,3.18,1.1,1.23,4.1,1.54,2.43,Oui,Non,Oui,Non,Non,Home,81,"[20, 37, 81]",True
+075acb68f919374c,german-league,164941,27,2026-09-09T16:36:30Z,Heidenheim,Hambourg,5,1,1.67,4.15,4.55,1.17,2.13,1.2,1.5,2.54,1.57,2.36,Oui,Oui,Oui,Non,Non,Away,79,"[29, 32, 42, 56, 65, 79]",True
+2cacb5855e5fe8e2,german-league,164941,27,2026-09-09T16:36:30Z,Wolfsburg,Mainz,5,1,1.95,4.11,3.29,1.3,1.79,1.2,1.38,2.97,1.41,2.83,Oui,Oui,Oui,Non,Non,Home,74,"[27, 34, 44, 55, 64, 74]",True
+b10d574c3297b6f4,german-league,164941,27,2026-09-09T16:36:30Z,Leverkusen,Frankfurt,4,1,1.41,5.16,6.3,1.09,2.78,1.13,1.33,3.23,1.57,2.36,Oui,Oui,Oui,Non,Non,Home,75,"[18, 28, 64, 67, 75]",True
+95f40ad18a667537,german-league,164941,27,2026-09-09T16:36:30Z,Berlin,Stuttgart,2,1,2.11,3.71,3.16,1.32,1.67,1.24,1.58,2.35,1.53,2.46,Oui,Oui,Oui,Non,Non,Away,66,"[7, 23, 66]",True
+61cab2a7f68d79c4,german-league,164941,27,2026-09-09T16:36:30Z,Pauli,Mönchengladbach,2,0,3.32,2.97,2.37,1.54,1.29,1.36,2.4,1.56,2.02,1.77,Non,Non,Oui,Non,Non,Home,73,"[14, 73]",True
+1f3736bb6a31b6e9,german-league,164941,27,2026-09-09T16:36:30Z,Leipzig,Augsburg,1,0,1.31,5.77,8.04,1.05,3.3,1.11,1.32,3.33,1.68,2.15,Non,Non,Oui,Non,Non,Home,26,[26],True
+462a7ca3099e756e,german-league,164941,27,2026-09-09T16:36:30Z,Koln,Munich,0,1,6.99,6.61,1.31,3.33,1.07,1.08,1.17,4.9,1.51,2.5,Non,Non,Non,Non,Oui,Away,52,[52],True
+9013140d8225abd8,german-league,164941,27,2026-09-09T16:36:30Z,Freiburg,Bremen,3,0,1.75,4.36,3.84,1.23,2.0,1.18,1.34,3.18,1.42,2.82,Oui,Non,Oui,Non,Non,Home,71,"[28, 53, 71]",True
+f8fdfde49682abbc,german-league,164941,29,2026-09-09T16:40:30Z,Stuttgart,Frankfurt,1,2,1.61,4.57,4.58,1.17,2.24,1.17,1.35,3.15,1.47,2.64,Oui,Oui,Non,Non,Oui,Away,82,"[5, 77, 82]",True
+7338e65b6f90d8b2,german-league,164941,29,2026-09-09T16:40:30Z,Leverkusen,Mönchengladbach,4,0,1.32,6.07,7.25,1.06,3.24,1.1,1.23,4.02,1.56,2.38,Oui,Non,Oui,Non,Non,Home,89,"[35, 53, 61, 89]",True
+640f54184c1fce7f,german-league,164941,29,2026-09-09T16:40:30Z,Freiburg,Hoffenheim,2,3,1.82,4.27,3.63,1.25,1.93,1.19,1.35,3.13,1.41,2.85,Oui,Oui,Non,Non,Oui,Home,90,"[23, 27, 40, 78, 90]",True
+230a8d12b093adfe,german-league,164941,29,2026-09-09T16:40:30Z,Wolfsburg,Hambourg,2,2,1.34,5.45,7.53,1.06,3.1,1.12,1.35,3.11,1.68,2.15,Oui,Oui,Non,Oui,Non,Home,63,"[13, 15, 48, 63]",True
+451b053715a95d37,german-league,164941,29,2026-09-09T16:40:30Z,Dortmund,Pauli,2,0,1.4,4.85,7.29,1.06,2.86,1.15,1.5,2.55,1.78,2.0,Non,Non,Oui,Non,Non,Home,73,"[16, 73]",True
+2b93622fb5b8df06,german-league,164941,29,2026-09-09T16:40:30Z,Bremen,Munich,0,4,4.29,4.78,1.62,2.22,1.19,1.15,1.26,3.76,1.39,2.95,Oui,Non,Non,Non,Oui,Away,64,"[15, 49, 53, 64]",True
+6c087a68e1bec525,german-league,164941,29,2026-09-09T16:40:30Z,Berlin,Mainz,1,0,2.05,3.61,3.38,1.28,1.71,1.25,1.67,2.17,1.6,2.3,Non,Non,Oui,Non,Non,Home,50,[50],True
+c08f470e4043bf84,german-league,164941,29,2026-09-09T16:40:30Z,Heidenheim,Leipzig,1,2,3.69,4.0,1.86,1.88,1.24,1.21,1.47,2.63,1.49,2.57,Oui,Oui,Non,Non,Oui,Away,79,"[25, 62, 79]",True
+02b70a9957f2ae0f,german-league,164941,29,2026-09-09T16:40:30Z,Koln,Augsburg,3,0,2.68,4.4,2.18,1.64,1.43,1.18,1.24,3.96,1.3,3.47,Oui,Non,Oui,Non,Non,Home,85,"[20, 49, 85]",True
+3f39c02030b6128c,german-league,164941,32,2026-09-09T16:46:30Z,Hambourg,Frankfurt,2,3,2.72,3.94,2.28,1.58,1.42,1.22,1.41,2.83,1.41,2.85,Oui,Oui,Non,Non,Oui,Away,68,"[6, 41, 49, 51, 68]",True
+38009b276117a09c,german-league,164941,32,2026-09-09T16:46:30Z,Hoffenheim,Berlin,3,1,1.89,3.95,3.59,1.26,1.85,1.22,1.48,2.59,1.5,2.55,Oui,Oui,Oui,Non,Non,Home,81,"[36, 43, 53, 81]",True
+f8a1d3b9c7ba89d3,german-league,164941,32,2026-09-09T16:46:30Z,Dortmund,Wolfsburg,3,2,1.38,5.39,6.72,1.08,2.93,1.12,1.31,3.37,1.58,2.33,Oui,Oui,Oui,Non,Non,Away,69,"[33, 44, 45, 49, 69]",True
+e271e919001b9ff2,german-league,164941,32,2026-09-09T16:46:30Z,Leipzig,Stuttgart,2,2,1.52,4.68,5.26,1.13,2.43,1.16,1.38,2.99,1.54,2.44,Oui,Oui,Non,Oui,Non,Home,48,"[2, 33, 39, 48]",True
+0f4d50526fd64380,german-league,164941,32,2026-09-09T16:46:30Z,Augsburg,Munich,2,2,5.05,4.57,1.55,2.35,1.14,1.17,1.4,2.9,1.54,2.43,Oui,Oui,Non,Oui,Non,Home,89,"[29, 42, 49, 89]",True
+19f8b165f58316da,german-league,164941,32,2026-09-09T16:46:30Z,Mönchengladbach,Mainz,2,1,1.83,4.1,3.69,1.24,1.91,1.2,1.42,2.8,1.46,2.66,Oui,Oui,Oui,Non,Non,Home,87,"[18, 22, 87]",True
+019925afdbc19e96,german-league,164941,32,2026-09-09T16:46:30Z,Leverkusen,Koln,3,0,1.29,6.49,7.8,1.05,3.48,1.08,1.21,4.28,1.59,2.32,Oui,Non,Oui,Non,Non,Home,86,"[21, 72, 86]",True
+20f0e3ef278e26a2,german-league,164941,32,2026-09-09T16:46:30Z,Pauli,Bremen,1,2,4.03,2.95,2.12,1.67,1.21,1.36,2.55,1.5,2.16,1.67,Oui,Oui,Non,Non,Oui,Home,80,"[32, 34, 80]",True
+5a928002c8866f98,german-league,164941,32,2026-09-09T16:46:30Z,Heidenheim,Freiburg,0,0,2.38,3.61,2.76,1.41,1.53,1.25,1.61,2.28,1.53,2.45,Non,Non,Non,Oui,Non,,,[],True
+f5722f14dad55bd7,german-league,164941,34,2026-09-09T16:50:30Z,Leverkusen,Bremen,1,2,1.39,5.45,6.38,1.09,2.89,1.12,1.27,3.64,1.53,2.46,Oui,Oui,Non,Non,Oui,Away,83,"[42, 44, 83]",True
+db8611b3df141b89,german-league,164941,34,2026-09-09T16:50:30Z,Pauli,Hoffenheim,1,2,4.07,2.9,2.13,1.66,1.21,1.37,2.64,1.47,2.22,1.64,Oui,Oui,Non,Non,Oui,Away,90,"[42, 65, 90]",True
+0c1f690dd2bd8831,german-league,164941,34,2026-09-09T16:50:30Z,Koln,Stuttgart,1,1,3.56,4.65,1.77,1.98,1.26,1.16,1.24,3.99,1.33,3.23,Non,Oui,Non,Oui,Non,Away,33,"[25, 33]",True
+8ac3b9394ef7ed6d,german-league,164941,34,2026-09-09T16:50:30Z,Augsburg,Berlin,1,0,2.1,3.23,3.64,1.25,1.68,1.31,2.06,1.74,1.85,1.92,Non,Non,Oui,Non,Non,Home,18,[18],True
+071a9adb950069bb,german-league,164941,34,2026-09-09T16:50:30Z,Leipzig,Frankfurt,1,1,1.42,5.06,6.41,1.09,2.78,1.14,1.36,3.06,1.61,2.29,Non,Oui,Non,Oui,Non,Home,76,"[28, 76]",True
+6cceea53c676ee8c,german-league,164941,34,2026-09-09T16:50:30Z,Mönchengladbach,Hambourg,3,0,1.28,5.94,9.26,1.03,3.55,1.1,1.35,3.13,1.8,1.99,Oui,Non,Oui,Non,Non,Home,42,"[24, 41, 42]",True
+effb94165c2657ed,german-league,164941,34,2026-09-09T16:50:30Z,Wolfsburg,Freiburg,3,1,1.82,3.99,3.86,1.23,1.92,1.21,1.49,2.56,1.52,2.49,Oui,Oui,Oui,Non,Non,Home,87,"[33, 36, 67, 87]",True
+cb62a3d4cfcc97e9,german-league,164941,34,2026-09-09T16:50:30Z,Dortmund,Mainz,3,2,1.31,5.94,7.67,1.06,3.29,1.1,1.27,3.7,1.61,2.28,Oui,Oui,Oui,Non,Non,Away,64,"[6, 14, 16, 51, 64]",True
+b1b512fe1750d8dd,german-league,164941,34,2026-09-09T16:50:30Z,Heidenheim,Munich,1,1,5.88,5.4,1.42,2.76,1.1,1.12,1.25,3.81,1.49,2.58,Non,Oui,Non,Oui,Non,Away,31,"[7, 31]",True
