@@ -1,0 +1,937 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+83b9fab1777faaae,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Croatia,France,2,0,4.51,4.25,1.66,2.15,1.17,1.19,1.46,2.68,1.54,2.43,Non,Non,Oui,Non,Non,Home,89,"[47, 89]",True
+f01b3bef4d308450,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Japan,Cabo Verde,1,1,1.75,3.92,4.26,1.19,2.0,1.22,1.59,2.33,1.61,2.28,Non,Oui,Non,Oui,Non,Home,65,"[50, 65]",True
+bf2d0a5b06a3858f,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Germany,Panama,1,0,1.47,4.7,6.02,1.1,2.59,1.16,1.44,2.75,1.63,2.23,Non,Non,Oui,Non,Non,Home,51,[51],True
+41885bb52e83f3e0,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Egypt,Saudi Arabia,1,0,2.02,3.7,3.38,1.28,1.73,1.24,1.61,2.29,1.56,2.38,Non,Non,Oui,Non,Non,Home,25,[25],True
+a99d41a9e5a9fe6a,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Colombia,Switzerland,0,2,2.71,3.62,2.41,1.52,1.42,1.25,1.6,2.3,1.53,2.47,Non,Non,Non,Non,Oui,Away,90,"[3, 90]",True
+0e72975b38d5dbeb,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Scotland,Belgium,1,2,3.9,4.06,1.79,1.95,1.22,1.21,1.47,2.63,1.51,2.52,Oui,Oui,Non,Non,Oui,Home,51,"[38, 42, 51]",True
+b0bcbb883c5c11ce,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Sweden,Mexico,1,2,2.75,3.68,2.35,1.55,1.41,1.25,1.56,2.38,1.5,2.53,Oui,Oui,Non,Non,Oui,Away,85,"[28, 47, 85]",True
+5a49fe9cf5e09a2b,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Czechia,IR Iran,1,2,2.63,3.57,2.5,1.49,1.44,1.26,1.63,2.23,1.55,2.42,Oui,Oui,Non,Non,Oui,Home,88,"[85, 85, 88]",True
+21e13de883ad499b,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Ecuador,Senegal,2,1,3.05,3.64,2.19,1.63,1.34,1.25,1.61,2.28,1.55,2.42,Oui,Oui,Oui,Non,Non,Home,42,"[35, 37, 42]",True
+4f33810fbe0627c9,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Uzbekistan,Morocco,0,3,7.42,4.32,1.44,2.68,1.06,1.18,1.73,2.08,1.99,1.79,Oui,Non,Non,Non,Oui,Away,84,"[49, 51, 84]",True
+752a096d495105c1,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Brazil,Algeria,2,1,1.7,4.26,4.23,1.19,2.08,1.19,1.42,2.81,1.5,2.55,Oui,Oui,Oui,Non,Non,Home,58,"[29, 30, 58]",True
+ae03424c8176c71a,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Spain,Jordan,4,0,1.32,5.27,8.91,1.04,3.25,1.13,1.48,2.6,1.89,1.88,Oui,Non,Oui,Non,Non,Home,70,"[30, 37, 41, 70]",True
+a6953e20cf9f062e,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Portugal,Qatar,2,1,1.56,4.62,4.9,1.15,2.33,1.16,1.37,3.05,1.51,2.53,Oui,Oui,Oui,Non,Non,Home,72,"[52, 54, 72]",True
+04b80951d4f28e85,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Argentina,South Africa,1,0,1.31,5.66,8.46,1.04,3.33,1.11,1.36,3.07,1.75,2.05,Non,Non,Oui,Non,Non,Home,64,[64],True
+f3d7b4b52bcc6bd2,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Haiti,Austria,2,2,5.79,4.35,1.52,2.44,1.11,1.18,1.55,2.41,1.71,2.11,Oui,Oui,Non,Oui,Non,Home,87,"[16, 54, 60, 87]",True
+04909bdca4c1371f,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Australia,Curacao,0,1,1.5,4.41,6.01,1.1,2.5,1.18,1.55,2.41,1.73,2.08,Non,Non,Non,Non,Oui,Away,55,[55],True
+49fdfa9d9535cef4,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Iraq,Paraguay,2,0,2.8,3.56,2.37,1.54,1.4,1.26,1.65,2.2,1.56,2.39,Non,Non,Oui,Non,Non,Home,67,"[60, 67]",True
+6fa9842a7905471e,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Turkiye,Bosnia-Herzegovina,0,2,2.13,3.81,3.04,1.34,1.66,1.23,1.5,2.54,1.48,2.61,Non,Non,Non,Non,Oui,Away,36,"[22, 36]",True
+433f9a056aacca02,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Netherlands,Canada,4,1,1.78,4.23,3.84,1.23,1.98,1.19,1.39,2.96,1.45,2.72,Oui,Oui,Oui,Non,Non,Home,71,"[21, 25, 44, 58, 71]",True
+9c2274f05f09aa6b,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Cote d'Ivoire,Tunisia,1,2,2.35,3.53,2.85,1.38,1.55,1.26,1.68,2.15,1.58,2.33,Oui,Oui,Non,Non,Oui,Away,75,"[23, 71, 75]",True
+9ff1fe7d8b979788,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Korea Republic,USA,2,2,2.77,3.89,2.26,1.59,1.4,1.22,1.44,2.73,1.43,2.77,Oui,Oui,Non,Oui,Non,Away,79,"[17, 26, 54, 79]",True
+a7f2cd42d9b9dc48,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,New Zealand,Congo DR,0,0,2.83,3.48,2.38,1.53,1.39,1.27,1.72,2.1,1.6,2.3,Non,Non,Non,Oui,Non,,,[],True
+f3d39f0cc2669a6a,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Norway,Uruguay,1,2,3.06,3.83,2.12,1.67,1.34,1.23,1.49,2.56,1.47,2.62,Oui,Oui,Non,Non,Oui,Away,59,"[1, 59, 59]",True
+1e8fc08da88ed534,coupe-du-monde,164957,1,2026-09-09T20:35:18Z,Ghana,England,2,1,6.46,4.9,1.43,2.74,1.08,1.15,1.41,2.85,1.65,2.21,Oui,Oui,Oui,Non,Non,Home,89,"[14, 84, 89]",True
+8856b87459e0f7be,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,South Africa,Haiti,0,2,2.05,3.55,3.45,1.27,1.72,1.26,1.72,2.09,1.64,2.23,Non,Non,Non,Non,Oui,Away,84,"[56, 84]",True
+ce5b3f423e39f6b7,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Switzerland,Ghana,1,2,1.63,4.02,5.07,1.14,2.2,1.21,1.63,2.24,1.71,2.11,Oui,Oui,Non,Non,Oui,Home,59,"[37, 41, 59]",True
+9ce1d3d11435bc0f,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Belgium,Cote d'Ivoire,3,1,1.93,3.86,3.52,1.26,1.81,1.22,1.52,2.48,1.52,2.5,Oui,Oui,Oui,Non,Non,Home,63,"[35, 40, 57, 63]",True
+11f821890c55112e,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,France,Colombia,2,2,1.63,4.51,4.43,1.18,2.19,1.17,1.35,3.12,1.46,2.66,Oui,Oui,Non,Oui,Non,Home,84,"[43, 44, 73, 84]",True
+88c1a4dc87ea43f4,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Senegal,Germany,2,2,2.83,3.84,2.24,1.6,1.39,1.23,1.47,2.63,1.45,2.7,Oui,Oui,Non,Oui,Non,Home,87,"[4, 17, 67, 87]",True
+946fe34adab3f6d9,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,New Zealand,Australia,2,3,4.19,3.87,1.78,1.97,1.2,1.22,1.6,2.3,1.61,2.27,Oui,Oui,Non,Non,Oui,Away,87,"[10, 13, 27, 82, 87]",True
+50ab328196e1ad51,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,IR Iran,Norway,2,3,3.07,3.67,2.16,1.64,1.34,1.25,1.59,2.31,1.54,2.44,Oui,Oui,Non,Non,Oui,Away,78,"[37, 40, 54, 73, 78]",True
+1460949f8e654931,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Netherlands,Spain,1,3,4.42,4.35,1.66,2.15,1.18,1.18,1.41,2.87,1.5,2.55,Oui,Oui,Non,Non,Oui,Away,65,"[24, 28, 61, 65]",True
+e945d5d743d229db,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Uruguay,Japan,1,0,2.15,3.68,3.09,1.33,1.65,1.25,1.59,2.32,1.53,2.45,Non,Non,Oui,Non,Non,Home,20,[20],True
+b1155ba6bc432a38,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Scotland,Czechia,0,1,2.63,3.7,2.44,1.51,1.44,1.24,1.54,2.43,1.49,2.57,Non,Non,Non,Non,Oui,Away,83,[83],True
+8beaf723530b413a,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,USA,Brazil,1,1,3.63,4.37,1.8,1.95,1.25,1.18,1.32,3.33,1.39,2.95,Non,Oui,Non,Oui,Non,Away,70,"[60, 70]",True
+905f541e4345b16e,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Saudi Arabia,Iraq,1,1,2.73,3.61,2.39,1.53,1.41,1.25,1.61,2.29,1.53,2.46,Non,Oui,Non,Oui,Non,Away,28,"[14, 28]",True
+4e9fd5b3429e6306,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Curacao,Ecuador,2,2,5.92,4.37,1.51,2.47,1.1,1.18,1.55,2.4,1.72,2.09,Oui,Oui,Non,Oui,Non,Away,83,"[13, 33, 69, 83]",True
+b198ea2064756c4c,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Congo DR,Turkiye,0,1,3.4,3.76,2.0,1.75,1.28,1.24,1.57,2.36,1.54,2.44,Non,Non,Non,Non,Oui,Away,47,[47],True
+2cdbaf4ab4ca52f9,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Cabo Verde,Qatar,1,4,2.97,3.67,2.22,1.61,1.36,1.25,1.58,2.34,1.52,2.48,Oui,Oui,Non,Non,Oui,Away,73,"[36, 37, 45, 68, 73]",True
+ab6b98500be4d908,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Jordan,Sweden,1,5,3.55,3.59,2.0,1.75,1.26,1.26,1.71,2.11,1.63,2.23,Oui,Oui,Non,Non,Oui,Away,67,"[19, 29, 31, 60, 64, 67]",True
+56437c10f87bf09f,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Panama,Uzbekistan,1,1,2.92,3.48,2.32,1.56,1.37,1.27,1.72,2.09,1.61,2.28,Non,Oui,Non,Oui,Non,Home,59,"[53, 59]",True
+2facf937f2b9d924,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Canada,Croatia,1,3,3.46,3.79,1.97,1.78,1.27,1.23,1.56,2.39,1.54,2.44,Oui,Oui,Non,Non,Oui,Away,79,"[33, 44, 69, 79]",True
+df3fee9e3156de2a,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,England,Morocco,0,1,2.84,3.39,2.42,1.52,1.39,1.28,1.8,1.98,1.66,2.19,Non,Non,Non,Non,Oui,Away,87,[87],True
+9138976939b3c707,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Mexico,Argentina,2,4,3.95,4.27,1.75,2.01,1.22,1.19,1.38,2.96,1.45,2.7,Oui,Oui,Non,Non,Oui,Away,79,"[19, 29, 42, 46, 58, 79]",True
+61a3b3e1ed751b25,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Paraguay,Portugal,2,1,5.14,4.64,1.54,2.39,1.13,1.16,1.38,3.0,1.53,2.47,Oui,Oui,Oui,Non,Non,Away,84,"[75, 76, 84]",True
+ad1045f6ca16fae8,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Bosnia-Herzegovina,Egypt,1,1,3.39,3.67,2.03,1.73,1.28,1.25,1.63,2.24,1.58,2.35,Non,Oui,Non,Oui,Non,Away,41,"[40, 41]",True
+4a11598c612ff1cd,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Tunisia,Korea Republic,2,1,2.84,3.5,2.37,1.54,1.39,1.27,1.71,2.11,1.6,2.31,Oui,Oui,Oui,Non,Non,Home,63,"[35, 51, 63]",True
+07348c042b7046d3,coupe-du-monde,164957,4,2026-09-09T20:41:18Z,Algeria,Austria,3,1,3.1,3.74,2.13,1.66,1.33,1.24,1.55,2.4,1.51,2.51,Oui,Oui,Oui,Non,Non,Home,72,"[1, 48, 49, 72]",True
+5b4626305b322d53,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Haiti,Tunisia,1,1,4.52,3.63,1.77,1.98,1.17,1.25,1.81,1.97,1.77,2.01,Non,Oui,Non,Oui,Non,Home,82,"[26, 82]",True
+80f05c6b9c103d01,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Sweden,Czechia,2,0,2.38,3.62,2.74,1.41,1.53,1.25,1.6,2.3,1.53,2.47,Non,Non,Oui,Non,Non,Home,56,"[15, 56]",True
+232a0f2b3d682c59,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Egypt,Netherlands,1,1,3.31,3.91,1.99,1.76,1.29,1.22,1.48,2.61,1.48,2.62,Non,Oui,Non,Oui,Non,Home,72,"[53, 72]",True
+2993f9866a260190,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Colombia,New Zealand,2,2,1.54,4.42,5.43,1.12,2.39,1.18,1.48,2.59,1.63,2.25,Oui,Oui,Non,Oui,Non,Away,81,"[8, 49, 65, 81]",True
+9a2d2b10f0baab12,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Argentina,Belgium,2,2,1.85,4.14,3.6,1.26,1.89,1.2,1.4,2.88,1.44,2.72,Oui,Oui,Non,Oui,Non,Away,59,"[16, 20, 48, 59]",True
+ca3fd6bbf122a0d7,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Austria,Bosnia-Herzegovina,2,1,1.83,3.92,3.86,1.23,1.91,1.22,1.54,2.45,1.55,2.42,Oui,Oui,Oui,Non,Non,Away,83,"[35, 83, 83]",True
+7b7d5f945fa6a2b2,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,South Africa,Saudi Arabia,2,2,2.74,3.56,2.41,1.52,1.41,1.26,1.65,2.21,1.56,2.39,Oui,Oui,Non,Oui,Non,Home,76,"[12, 24, 76, 76]",True
+75c0bbd5282e5423,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Uzbekistan,IR Iran,1,1,3.53,3.66,1.99,1.76,1.26,1.25,1.65,2.2,1.6,2.31,Non,Oui,Non,Oui,Non,Home,80,"[62, 80]",True
+97a28556f52f51e9,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Turkiye,Croatia,3,2,3.27,3.87,2.02,1.74,1.3,1.22,1.49,2.56,1.48,2.59,Oui,Oui,Oui,Non,Non,Away,90,"[35, 39, 59, 84, 90]",True
+6ee3ed798ce8e37f,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Portugal,Panama,4,2,1.39,5.12,6.85,1.07,2.88,1.13,1.39,2.96,1.66,2.18,Oui,Oui,Oui,Non,Non,Home,71,"[42, 44, 45, 48, 53, 71]",True
+b8e97604e6dace23,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Korea Republic,Australia,1,0,2.6,3.71,2.46,1.5,1.45,1.24,1.54,2.44,1.49,2.58,Non,Non,Oui,Non,Non,Home,7,[7],True
+87867d39bcd123f3,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Algeria,USA,2,1,2.92,3.83,2.19,1.63,1.37,1.23,1.49,2.58,1.46,2.66,Oui,Oui,Oui,Non,Non,Home,87,"[23, 85, 87]",True
+d15dd2466ab3d145,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Morocco,Senegal,0,0,1.91,3.39,4.14,1.2,1.83,1.28,1.97,1.81,1.84,1.93,Non,Non,Non,Oui,Non,,,[],True
+f72e6f01f84b22b3,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Germany,Scotland,1,1,1.73,4.4,3.93,1.22,2.04,1.18,1.34,3.19,1.42,2.8,Non,Oui,Non,Oui,Non,Home,50,"[32, 50]",True
+7ab65af2c86797a0,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Norway,Spain,1,2,4.78,4.32,1.62,2.23,1.15,1.18,1.46,2.68,1.56,2.39,Oui,Oui,Non,Non,Oui,Home,35,"[24, 35, 35]",True
+2dc68dd6d8f941e9,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Cabo Verde,Switzerland,1,1,4.36,3.74,1.78,1.97,1.18,1.24,1.71,2.1,1.7,2.12,Non,Oui,Non,Oui,Non,Away,7,"[6, 7]",True
+bb219eb9909c3614,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,England,Uruguay,3,1,2.25,3.8,2.83,1.39,1.59,1.23,1.5,2.55,1.47,2.65,Oui,Oui,Oui,Non,Non,Away,48,"[16, 17, 34, 48]",True
+9e98d9cad445ee74,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Brazil,Congo DR,6,0,1.4,5.1,6.62,1.08,2.83,1.14,1.38,3.0,1.64,2.23,Oui,Non,Oui,Non,Non,Home,88,"[21, 27, 28, 49, 82, 88]",True
+8649c705a312ab99,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Ghana,Curacao,1,3,1.76,3.85,4.33,1.18,2.0,1.23,1.63,2.23,1.65,2.21,Oui,Oui,Non,Non,Oui,Away,89,"[14, 74, 82, 89]",True
+66da3a7b455d4b40,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Japan,Canada,1,2,1.93,3.85,3.54,1.26,1.81,1.23,1.53,2.45,1.52,2.48,Oui,Oui,Non,Non,Oui,Home,63,"[18, 27, 63]",True
+6485e369a82d85d4,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Iraq,Jordan,1,1,2.48,3.46,2.72,1.42,1.5,1.27,1.73,2.08,1.61,2.29,Non,Oui,Non,Oui,Non,Home,64,"[55, 64]",True
+767e977797705905,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Paraguay,Mexico,1,2,3.46,3.87,1.95,1.79,1.27,1.22,1.51,2.51,1.51,2.53,Oui,Oui,Non,Non,Oui,Away,26,"[13, 20, 26]",True
+217458b734f22057,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Qatar,France,1,2,6.79,5.14,1.39,2.87,1.08,1.13,1.37,3.01,1.64,2.22,Oui,Oui,Non,Non,Oui,Away,83,"[40, 66, 83]",True
+a63b826f80a1c5f8,coupe-du-monde,164957,9,2026-09-09T20:51:18Z,Ecuador,Cote d'Ivoire,1,2,2.45,3.75,2.6,1.45,1.51,1.24,1.51,2.51,1.47,2.63,Oui,Oui,Non,Non,Oui,Home,89,"[76, 76, 89]",True
+c977bf278ebf0376,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Germany,Spain,1,1,3.9,4.21,1.77,1.99,1.22,1.19,1.4,2.88,1.46,2.66,Non,Oui,Non,Oui,Non,Home,68,"[22, 68]",True
+02cff468887541d9,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,South Africa,Mexico,1,2,4.4,4.01,1.71,2.06,1.18,1.21,1.55,2.41,1.59,2.31,Oui,Oui,Non,Non,Oui,Home,43,"[9, 20, 43]",True
+7f2361078f5d30fe,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Korea Republic,Croatia,1,1,3.21,3.7,2.09,1.69,1.31,1.24,1.59,2.33,1.54,2.44,Non,Oui,Non,Oui,Non,Away,87,"[84, 87]",True
+8f26f66c33a6b3b4,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Algeria,Bosnia-Herzegovina,1,1,2.13,3.7,3.12,1.33,1.66,1.24,1.58,2.34,1.53,2.46,Non,Oui,Non,Oui,Non,Away,85,"[83, 85]",True
+6bdfef3cab9eb97d,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Morocco,IR Iran,1,0,1.71,3.52,5.25,1.13,2.07,1.26,2.02,1.77,1.98,1.8,Non,Non,Oui,Non,Non,Home,89,[89],True
+b3b04e7101d2e774,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Brazil,Netherlands,1,2,2.07,4.23,2.93,1.37,1.7,1.19,1.31,3.38,1.35,3.14,Oui,Oui,Non,Non,Oui,Away,63,"[25, 34, 63]",True
+577139a0df666b56,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Egypt,Czechia,2,1,2.39,3.59,2.76,1.41,1.53,1.26,1.63,2.23,1.55,2.41,Oui,Oui,Oui,Non,Non,Away,41,"[14, 26, 41]",True
+9322bb5526cbe749,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Austria,Jordan,1,2,1.86,3.75,3.91,1.22,1.88,1.24,1.64,2.22,1.62,2.26,Oui,Oui,Non,Non,Oui,Away,57,"[29, 56, 57]",True
+6e4e03f19b52e188,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Iraq,Belgium,0,0,4.46,3.99,1.71,2.07,1.17,1.21,1.57,2.36,1.61,2.27,Non,Non,Non,Oui,Non,,,[],True
+991792718832bc57,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Colombia,Cote d'Ivoire,5,1,2.08,3.89,3.1,1.33,1.69,1.22,1.46,2.65,1.45,2.68,Oui,Oui,Oui,Non,Non,Home,84,"[17, 30, 36, 54, 62, 84]",True
+0115cbdb3482618d,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Saudi Arabia,USA,3,2,3.77,4.06,1.83,1.92,1.24,1.21,1.45,2.68,1.49,2.58,Oui,Oui,Oui,Non,Non,Away,85,"[14, 26, 31, 74, 85]",True
+a13fa38614e12948,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Panama,Uruguay,3,3,6.79,4.54,1.44,2.67,1.08,1.17,1.57,2.36,1.81,1.97,Oui,Oui,Non,Oui,Non,Home,84,"[2, 23, 43, 59, 74, 84]",True
+6548b5fb4a9875e7,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Japan,New Zealand,3,1,1.51,4.42,5.86,1.1,2.47,1.18,1.53,2.47,1.7,2.13,Oui,Oui,Oui,Non,Non,Away,75,"[17, 52, 55, 75]",True
+dcac796056b9aa0a,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Uzbekistan,Canada,4,0,2.96,3.78,2.18,1.63,1.36,1.23,1.51,2.5,1.48,2.6,Oui,Non,Oui,Non,Non,Home,48,"[32, 40, 44, 48]",True
+e6518cdab87ca45a,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Qatar,Curacao,3,0,1.65,4.06,4.81,1.15,2.16,1.21,1.58,2.35,1.64,2.21,Oui,Non,Oui,Non,Non,Home,70,"[16, 68, 70]",True
+90996d55ba88f9dc,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Haiti,Congo DR,0,3,3.36,3.52,2.09,1.69,1.29,1.27,1.73,2.07,1.64,2.23,Oui,Non,Non,Non,Oui,Away,48,"[27, 34, 48]",True
+4cf26da0f486bba1,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Portugal,Switzerland,3,0,2.14,3.81,3.03,1.35,1.65,1.23,1.5,2.54,1.48,2.62,Oui,Non,Oui,Non,Non,Home,48,"[18, 42, 48]",True
+540c600653c3cb2b,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Argentina,Australia,5,0,1.52,4.77,5.16,1.13,2.43,1.15,1.34,3.16,1.51,2.52,Oui,Non,Oui,Non,Non,Home,72,"[19, 41, 43, 60, 72]",True
+4c48e0127121c098,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Sweden,Ecuador,1,2,2.38,3.68,2.72,1.42,1.53,1.24,1.56,2.38,1.5,2.53,Oui,Oui,Non,Non,Oui,Away,85,"[72, 82, 85]",True
+7da105978bf0d3a3,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Ghana,Scotland,0,4,3.02,3.77,2.16,1.65,1.35,1.23,1.53,2.47,1.49,2.57,Oui,Non,Non,Non,Oui,Away,87,"[25, 46, 66, 87]",True
+c7a0e9c687040da9,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,England,France,2,1,3.17,4.11,1.99,1.76,1.32,1.2,1.37,3.02,1.4,2.9,Oui,Oui,Oui,Non,Non,Away,86,"[50, 58, 86]",True
+773d887ee3cc16cb,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Cabo Verde,Senegal,1,4,4.07,3.77,1.82,1.92,1.21,1.23,1.65,2.21,1.64,2.23,Oui,Oui,Non,Non,Oui,Away,90,"[27, 42, 70, 86, 90]",True
+f200c18f9a9214c9,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Paraguay,Tunisia,1,1,2.84,3.43,2.4,1.53,1.39,1.28,1.76,2.03,1.63,2.24,Non,Oui,Non,Oui,Non,Away,23,"[12, 23]",True
+1199750c6035d49c,coupe-du-monde,164957,11,2026-09-09T20:55:18Z,Norway,Turkiye,3,1,1.96,4.0,3.35,1.29,1.79,1.21,1.43,2.76,1.45,2.71,Oui,Oui,Oui,Non,Non,Home,71,"[10, 19, 64, 71]",True
+56fe1068ac1b083c,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Cote d'Ivoire,Ghana,1,0,2.0,3.77,3.39,1.28,1.75,1.23,1.56,2.38,1.53,2.45,Non,Non,Oui,Non,Non,Home,86,[86],True
+8e7a640db3f362c5,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Canada,England,0,4,5.0,4.52,1.57,2.33,1.14,1.17,1.41,2.85,1.55,2.42,Oui,Non,Non,Non,Oui,Away,54,"[31, 40, 44, 54]",True
+46bfbc738f8cd03c,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Norway,Egypt,2,2,2.16,3.73,3.04,1.34,1.64,1.24,1.55,2.41,1.51,2.52,Oui,Oui,Non,Oui,Non,Away,85,"[20, 35, 47, 85]",True
+d56d81cbfe60ff85,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,IR Iran,Panama,2,1,1.85,3.67,4.07,1.21,1.89,1.25,1.73,2.08,1.69,2.14,Oui,Oui,Oui,Non,Non,Home,90,"[59, 86, 90]",True
+ccd711ddc2bb03de,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,New Zealand,Qatar,0,2,3.73,3.86,1.88,1.86,1.24,1.23,1.55,2.41,1.55,2.42,Non,Non,Non,Non,Oui,Away,51,"[20, 51]",True
+a415be0df8051428,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Australia,Haiti,2,1,1.65,4.04,4.88,1.15,2.17,1.21,1.6,2.3,1.67,2.17,Oui,Oui,Oui,Non,Non,Home,60,"[6, 16, 60]",True
+e1e8ea4282d26fb7,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Mexico,Portugal,2,3,3.57,4.21,1.85,1.89,1.26,1.19,1.37,3.02,1.42,2.8,Oui,Oui,Non,Non,Oui,Home,73,"[18, 38, 63, 70, 73]",True
+bdcac7ce56976cbd,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Senegal,Uruguay,4,2,2.99,3.63,2.22,1.61,1.35,1.25,1.61,2.27,1.54,2.43,Oui,Oui,Oui,Non,Non,Home,83,"[41, 42, 44, 57, 62, 83]",True
+dd3ac6b458d08bbc,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Curacao,Cabo Verde,0,0,4.52,3.74,1.75,2.01,1.17,1.24,1.73,2.07,1.73,2.08,Non,Non,Non,Oui,Non,,,[],True
+873e70b60635e304,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Jordan,South Africa,0,2,2.51,3.39,2.73,1.42,1.48,1.28,1.79,1.99,1.65,2.21,Non,Non,Non,Non,Oui,Away,56,"[53, 56]",True
+4b4242a51fb9953c,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Sweden,Germany,1,0,3.31,4.0,1.97,1.78,1.3,1.21,1.43,2.76,1.45,2.71,Non,Non,Oui,Non,Non,Home,47,[47],True
+00dbc98346d79251,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Spain,Uzbekistan,5,0,1.3,5.52,8.98,1.03,3.36,1.12,1.42,2.8,1.84,1.93,Oui,Non,Oui,Non,Non,Home,84,"[23, 38, 67, 79, 84]",True
+92985924721b2000,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Czechia,Iraq,0,3,2.16,3.63,3.11,1.33,1.64,1.25,1.62,2.26,1.55,2.4,Oui,Non,Non,Non,Oui,Away,71,"[28, 66, 71]",True
+843f96882f712752,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Ecuador,Argentina,1,2,4.97,4.66,1.55,2.36,1.14,1.16,1.35,3.11,1.5,2.54,Oui,Oui,Non,Non,Oui,Home,74,"[3, 34, 74]",True
+da3e756b41f1f342,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,France,Switzerland,5,1,1.77,4.04,4.03,1.21,1.98,1.21,1.5,2.55,1.53,2.45,Oui,Oui,Oui,Non,Non,Home,86,"[12, 24, 40, 77, 79, 86]",True
+22dce7f32c5a2cf4,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Netherlands,Austria,2,0,2.16,3.96,2.9,1.37,1.64,1.22,1.42,2.83,1.42,2.83,Non,Non,Oui,Non,Non,Home,81,"[9, 81]",True
+2a46964611757266,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Croatia,Brazil,2,4,3.42,4.01,1.93,1.81,1.28,1.21,1.44,2.73,1.46,2.67,Oui,Oui,Non,Non,Oui,Away,83,"[12, 18, 32, 47, 61, 83]",True
+c6568d8a78ad128d,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Scotland,Morocco,1,2,6.0,3.98,1.56,2.35,1.1,1.21,1.77,2.02,1.89,1.88,Oui,Oui,Non,Non,Oui,Home,87,"[17, 78, 87]",True
+665744b413ac2ee1,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Korea Republic,Colombia,0,4,3.04,3.89,2.11,1.67,1.34,1.22,1.46,2.68,1.45,2.71,Oui,Non,Non,Non,Oui,Away,90,"[6, 10, 51, 90]",True
+e1b65cf53d564738,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Bosnia-Herzegovina,USA,2,1,3.83,4.02,1.82,1.93,1.23,1.21,1.48,2.61,1.51,2.53,Oui,Oui,Oui,Non,Non,Away,80,"[22, 71, 80]",True
+996404d31f3c935a,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Congo DR,Algeria,0,4,3.44,3.65,2.02,1.74,1.28,1.25,1.65,2.2,1.59,2.32,Oui,Non,Non,Non,Oui,Away,90,"[29, 75, 90, 90]",True
+c24527a7dadbf574,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Belgium,Paraguay,2,3,1.77,4.03,4.05,1.21,1.98,1.21,1.5,2.55,1.53,2.45,Oui,Oui,Non,Non,Oui,Away,72,"[21, 30, 44, 51, 72]",True
+a5a6040d71e5e078,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Tunisia,Saudi Arabia,1,0,2.22,3.49,3.1,1.33,1.61,1.27,1.73,2.08,1.62,2.26,Non,Non,Oui,Non,Non,Home,89,[89],True
+91db2a76ebd7ccd1,coupe-du-monde,164957,14,2026-09-09T21:01:18Z,Turkiye,Japan,2,3,3.43,3.86,1.96,1.78,1.28,1.23,1.51,2.51,1.5,2.53,Oui,Oui,Non,Non,Oui,Home,61,"[14, 40, 44, 46, 61]",True
+24e2cb6af576fef7,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Belgium,South Africa,2,1,1.6,4.16,5.18,1.13,2.26,1.2,1.57,2.36,1.67,2.16,Oui,Oui,Oui,Non,Non,Home,52,"[7, 27, 52]",True
+f9854890cacbca70,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Ecuador,Iraq,1,2,2.1,3.7,3.18,1.32,1.68,1.24,1.59,2.33,1.54,2.44,Oui,Oui,Non,Non,Oui,Away,87,"[37, 71, 87]",True
+8fc221bf75f9b82a,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Norway,Brazil,1,2,3.2,4.25,1.95,1.79,1.31,1.19,1.32,3.29,1.37,3.03,Oui,Oui,Non,Non,Oui,Away,60,"[42, 45, 60]",True
+60b97fc3945248be,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Jordan,USA,2,2,3.88,3.96,1.82,1.92,1.22,1.22,1.52,2.5,1.54,2.45,Oui,Oui,Non,Oui,Non,Away,81,"[39, 47, 59, 81]",True
+3c233f79bc0f0594,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Sweden,Ghana,3,1,1.87,3.87,3.74,1.24,1.86,1.22,1.55,2.41,1.55,2.41,Oui,Oui,Oui,Non,Non,Home,80,"[5, 50, 54, 80]",True
+da3355af7839f702,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,France,Senegal,5,0,1.71,4.17,4.27,1.19,2.07,1.2,1.46,2.66,1.53,2.47,Oui,Non,Oui,Non,Non,Home,72,"[27, 34, 64, 67, 72]",True
+b28f8c230a500d74,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,IR Iran,Uruguay,0,0,4.0,3.81,1.83,1.92,1.21,1.23,1.61,2.27,1.61,2.28,Non,Non,Non,Oui,Non,,,[],True
+16ca24b072c239b9,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Tunisia,Mexico,1,1,3.4,3.58,2.06,1.71,1.28,1.26,1.7,2.12,1.62,2.26,Non,Oui,Non,Oui,Non,Away,40,"[11, 40]",True
+2b9f65aafba5bf88,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Spain,Morocco,0,0,2.4,3.18,3.04,1.34,1.53,1.32,2.05,1.75,1.8,1.98,Non,Non,Non,Oui,Non,,,[],True
+be726f38259d2246,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Croatia,Haiti,3,1,1.49,4.37,6.16,1.09,2.51,1.18,1.58,2.33,1.77,2.02,Oui,Oui,Oui,Non,Non,Home,74,"[2, 22, 50, 74]",True
+f138ffe1cfb0fe4f,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Colombia,Argentina,2,1,3.78,4.35,1.77,1.98,1.23,1.18,1.34,3.18,1.41,2.84,Oui,Oui,Oui,Non,Non,Home,61,"[11, 44, 61]",True
+744c560bb7b728cf,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Netherlands,Algeria,4,0,1.9,4.0,3.53,1.26,1.84,1.21,1.46,2.67,1.48,2.61,Oui,Non,Oui,Non,Non,Home,85,"[24, 35, 72, 85]",True
+7e93b0efe0245b16,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Scotland,Cabo Verde,2,1,2.32,3.64,2.83,1.39,1.56,1.25,1.6,2.3,1.53,2.46,Oui,Oui,Oui,Non,Non,Home,79,"[16, 24, 79]",True
+55bde0e700b0ab08,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Czechia,Austria,1,0,2.96,3.71,2.21,1.62,1.36,1.24,1.56,2.38,1.51,2.51,Non,Non,Oui,Non,Non,Home,62,[62],True
+189dde0cba651705,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Egypt,Germany,2,1,3.45,4.02,1.92,1.82,1.27,1.21,1.43,2.75,1.46,2.68,Oui,Oui,Oui,Non,Non,Away,66,"[53, 66, 66]",True
+7664a7f61edf18ac,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Bosnia-Herzegovina,Portugal,2,1,5.86,4.92,1.46,2.63,1.1,1.15,1.36,3.1,1.56,2.38,Oui,Oui,Oui,Non,Non,Away,64,"[24, 44, 64]",True
+085520d4808cb2db,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Congo DR,Saudi Arabia,3,3,2.75,3.58,2.4,1.53,1.41,1.26,1.63,2.24,1.55,2.42,Oui,Oui,Non,Oui,Non,Away,85,"[17, 21, 24, 72, 80, 85]",True
+16d4a3c248a267c9,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Korea Republic,Japan,1,4,3.22,3.79,2.06,1.71,1.31,1.23,1.54,2.45,1.51,2.52,Oui,Oui,Non,Non,Oui,Away,72,"[33, 40, 50, 70, 72]",True
+119dd4bac0550ef0,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Canada,Panama,1,0,2.0,3.7,3.44,1.28,1.75,1.24,1.62,2.27,1.57,2.36,Non,Non,Oui,Non,Non,Home,5,[5],True
+37b541e423f4d0eb,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Australia,Paraguay,3,1,2.16,3.74,3.04,1.34,1.64,1.24,1.55,2.42,1.51,2.53,Oui,Oui,Oui,Non,Non,Home,73,"[20, 46, 48, 73]",True
+ceeff9ed80b71711,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,New Zealand,England,0,2,8.18,5.36,1.33,3.18,1.05,1.12,1.41,2.85,1.77,2.02,Non,Non,Non,Non,Oui,Away,45,"[30, 45]",True
+0f6e1e25bb09c491,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Curacao,Switzerland,1,2,8.24,4.78,1.37,2.97,1.05,1.15,1.6,2.31,1.94,1.83,Oui,Oui,Non,Non,Oui,Away,65,"[23, 49, 65]",True
+2dd36d785db670cb,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Cote d'Ivoire,Qatar,0,4,2.27,3.79,2.81,1.39,1.59,1.23,1.5,2.55,1.47,2.64,Oui,Non,Non,Non,Oui,Away,83,"[36, 45, 45, 83]",True
+fb4ef7979c5b6f11,coupe-du-monde,164957,16,2026-09-09T21:05:18Z,Turkiye,Uzbekistan,1,1,2.11,3.85,3.05,1.34,1.67,1.23,1.48,2.59,1.47,2.65,Non,Oui,Non,Oui,Non,Home,82,"[48, 82]",True
+f2685b75e13c0c3e,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Iraq,Germany,0,2,4.46,4.36,1.65,2.16,1.17,1.18,1.41,2.86,1.5,2.54,Non,Non,Non,Non,Oui,Away,81,"[74, 81]",True
+bb7ad0f069018297,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Portugal,IR Iran,0,4,1.76,4.1,4.02,1.21,1.99,1.2,1.46,2.65,1.51,2.51,Oui,Non,Non,Non,Oui,Away,90,"[42, 52, 64, 90]",True
+43a086476f21d356,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Bosnia-Herzegovina,Congo DR,1,0,2.37,3.55,2.8,1.4,1.54,1.26,1.66,2.19,1.57,2.37,Non,Non,Oui,Non,Non,Home,61,[61],True
+6fea378f3ddb16c7,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Haiti,Colombia,1,2,6.06,4.6,1.48,2.57,1.1,1.16,1.48,2.61,1.67,2.16,Oui,Oui,Non,Non,Oui,Home,74,"[42, 54, 74]",True
+1e32eb29600dc4a5,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Brazil,Japan,0,0,2.08,3.97,3.06,1.34,1.7,1.21,1.42,2.8,1.43,2.78,Non,Non,Non,Oui,Non,,,[],True
+6072b2e6a81cd782,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Qatar,Korea Republic,1,2,2.78,3.8,2.29,1.58,1.4,1.23,1.49,2.56,1.46,2.66,Oui,Oui,Non,Non,Oui,Away,88,"[34, 57, 88]",True
+1b4beaba9bd10fa7,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,England,Turkiye,3,0,1.6,4.45,4.74,1.16,2.25,1.18,1.4,2.88,1.52,2.49,Oui,Non,Oui,Non,Non,Home,80,"[18, 61, 80]",True
+542f9bb3b8b29501,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Austria,Norway,1,2,2.75,3.79,2.31,1.56,1.41,1.23,1.5,2.55,1.46,2.65,Oui,Oui,Non,Non,Oui,Away,66,"[20, 25, 66]",True
+cca52be0981d46c0,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Senegal,Canada,0,0,1.96,3.77,3.5,1.27,1.78,1.23,1.57,2.36,1.55,2.42,Non,Non,Non,Oui,Non,,,[],True
+60f4aced3f9266a6,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Switzerland,New Zealand,2,1,1.54,4.16,5.91,1.1,2.4,1.2,1.66,2.19,1.79,1.99,Oui,Oui,Oui,Non,Non,Home,67,"[1, 49, 67]",True
+1a07751d110be64b,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,South Africa,Czechia,1,0,3.52,3.77,1.96,1.79,1.27,1.24,1.58,2.34,1.55,2.41,Non,Non,Oui,Non,Non,Home,50,[50],True
+8b8b329dda3defc4,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Algeria,Croatia,2,3,3.31,3.67,2.06,1.71,1.29,1.25,1.62,2.25,1.57,2.37,Oui,Oui,Non,Non,Oui,Home,86,"[6, 19, 66, 84, 86]",True
+8df98c55b10f21dd,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Uruguay,Scotland,0,0,1.69,4.13,4.46,1.17,2.1,1.2,1.5,2.54,1.57,2.37,Non,Non,Non,Oui,Non,,,[],True
+e40d74dae83e04be,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Cabo Verde,Cote d'Ivoire,2,4,3.14,3.7,2.12,1.67,1.32,1.24,1.58,2.34,1.53,2.46,Oui,Oui,Non,Non,Oui,Home,86,"[23, 24, 39, 63, 81, 86]",True
+e168421f94a95d99,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Saudi Arabia,Australia,1,0,3.29,3.8,2.03,1.73,1.3,1.23,1.53,2.46,1.51,2.52,Non,Non,Oui,Non,Non,Home,7,[7],True
+a1d8533a20644af8,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,USA,Netherlands,1,3,2.94,4.12,2.09,1.68,1.36,1.2,1.35,3.14,1.37,3.01,Oui,Oui,Non,Non,Oui,Away,74,"[14, 46, 66, 74]",True
+ed03171c4064a54f,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Panama,Spain,0,0,10.52,5.75,1.26,3.65,1.02,1.11,1.45,2.68,1.99,1.79,Non,Non,Non,Oui,Non,,,[],True
+198e4ed18d479569,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Mexico,Belgium,2,1,2.84,3.83,2.24,1.6,1.39,1.23,1.48,2.6,1.46,2.68,Oui,Oui,Oui,Non,Non,Home,87,"[19, 57, 87]",True
+e162ba04c81c3b5f,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Morocco,Sweden,2,0,1.74,3.6,4.8,1.15,2.02,1.25,1.88,1.9,1.85,1.93,Non,Non,Oui,Non,Non,Home,44,"[16, 44]",True
+3d91b6ed28430a4f,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Ghana,Argentina,2,2,7.02,5.33,1.37,2.97,1.07,1.13,1.35,3.15,1.64,2.22,Oui,Oui,Non,Oui,Non,Away,51,"[18, 27, 46, 51]",True
+a2093f2a3cd56213,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Uzbekistan,Egypt,3,1,3.57,3.72,1.95,1.79,1.26,1.24,1.61,2.27,1.58,2.35,Oui,Oui,Oui,Non,Non,Home,84,"[42, 61, 70, 84]",True
+82f85ab86c082f23,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,France,Curacao,3,0,1.15,7.85,16.0,0.98,5.17,1.05,1.31,3.4,2.17,1.67,Oui,Non,Oui,Non,Non,Home,72,"[36, 39, 72]",True
+5203b6b178ce614e,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Tunisia,Jordan,1,1,2.22,3.31,3.25,1.3,1.61,1.3,1.92,1.85,1.74,2.05,Non,Oui,Non,Oui,Non,Home,61,"[58, 61]",True
+1097c2f278768053,coupe-du-monde,164957,19,2026-09-09T21:11:18Z,Paraguay,Ecuador,2,0,3.08,3.74,2.14,1.66,1.34,1.24,1.55,2.41,1.51,2.52,Non,Non,Oui,Non,Non,Home,69,"[9, 69]",True
+8eabccc3150c48e4,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Egypt,Qatar,1,0,2.26,3.65,2.91,1.37,1.59,1.25,1.59,2.32,1.53,2.47,Non,Non,Oui,Non,Non,Home,72,[72],True
+9a3c87d270e4b451,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Congo DR,Tunisia,2,2,3.57,3.47,2.03,1.73,1.26,1.27,1.8,1.98,1.69,2.13,Oui,Oui,Non,Oui,Non,Away,86,"[26, 30, 85, 86]",True
+8bd8dcdd44d79702,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Jordan,Portugal,1,2,5.86,4.64,1.48,2.54,1.1,1.16,1.45,2.72,1.63,2.23,Oui,Oui,Non,Non,Oui,Home,62,"[26, 33, 62]",True
+3cbcd4856c263724,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Spain,Switzerland,3,2,1.76,3.78,4.42,1.18,2.0,1.23,1.69,2.14,1.69,2.14,Oui,Oui,Oui,Non,Non,Home,78,"[10, 17, 43, 52, 78]",True
+9e1e9fb6f25bd247,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Canada,France,0,4,6.97,5.24,1.38,2.94,1.07,1.13,1.36,3.07,1.65,2.21,Oui,Non,Non,Non,Oui,Away,72,"[40, 41, 59, 72]",True
+c290c35509bffd19,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Sweden,England,3,1,4.0,4.08,1.77,1.98,1.21,1.2,1.47,2.63,1.52,2.5,Oui,Oui,Oui,Non,Non,Home,53,"[28, 41, 41, 53]",True
+924bd3d1c97d79b3,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Ecuador,Algeria,1,0,2.38,3.66,2.73,1.42,1.53,1.25,1.57,2.36,1.51,2.51,Non,Non,Oui,Non,Non,Home,1,[1],True
+e83d8979e2b116df,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Scotland,Senegal,1,1,3.45,3.78,1.98,1.77,1.27,1.23,1.56,2.38,1.54,2.44,Non,Oui,Non,Oui,Non,Home,67,"[40, 67]",True
+4e550f2eddb798f1,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Belgium,Bosnia-Herzegovina,2,2,1.67,4.13,4.58,1.17,2.13,1.2,1.51,2.5,1.59,2.33,Oui,Oui,Non,Oui,Non,Home,88,"[42, 43, 74, 88]",True
+b9cb1cd16866340b,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Netherlands,Mexico,2,0,2.15,3.98,2.91,1.37,1.65,1.21,1.41,2.86,1.41,2.84,Non,Non,Oui,Non,Non,Home,55,"[12, 55]",True
+5476e3b90fdcf9e4,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Czechia,Saudi Arabia,1,2,2.12,3.72,3.13,1.32,1.67,1.24,1.56,2.38,1.52,2.49,Oui,Oui,Non,Non,Oui,Home,76,"[29, 60, 76]",True
+b84e160dd54d5503,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,New Zealand,Uruguay,2,3,7.02,4.72,1.42,2.77,1.07,1.16,1.52,2.49,1.78,2.01,Oui,Oui,Non,Non,Oui,Away,90,"[32, 35, 55, 80, 90]",True
+7d146e0113f46a00,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Turkiye,Cabo Verde,1,2,2.12,3.79,3.09,1.33,1.67,1.23,1.52,2.49,1.49,2.57,Oui,Oui,Non,Non,Oui,Away,60,"[10, 49, 60]",True
+58268974b89cc1d5,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Croatia,South Africa,1,2,1.71,3.94,4.53,1.17,2.07,1.22,1.61,2.27,1.65,2.2,Oui,Oui,Non,Non,Oui,Home,86,"[19, 59, 86]",True
+b37fb6faaa986c51,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Korea Republic,Morocco,1,2,5.11,3.71,1.68,2.11,1.14,1.24,1.83,1.94,1.85,1.93,Oui,Oui,Non,Non,Oui,Home,89,"[21, 47, 89]",True
+f310a37ba858c781,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Colombia,Austria,0,6,2.37,3.78,2.67,1.43,1.54,1.23,1.5,2.55,1.46,2.66,Oui,Non,Non,Non,Oui,Away,72,"[21, 25, 45, 58, 69, 72]",True
+f522980e1f261b8e,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Curacao,IR Iran,3,2,6.41,4.32,1.49,2.53,1.09,1.18,1.63,2.24,1.82,1.96,Oui,Oui,Oui,Non,Non,Home,83,"[30, 39, 42, 61, 83]",True
+a4ecaf882ad54c82,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Japan,Iraq,1,2,1.8,3.79,4.14,1.2,1.94,1.23,1.64,2.21,1.64,2.23,Oui,Oui,Non,Non,Oui,Away,51,"[9, 45, 51]",True
+35c62e9b39378730,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Norway,Paraguay,1,0,1.89,3.98,3.56,1.26,1.84,1.21,1.46,2.65,1.48,2.6,Non,Non,Oui,Non,Non,Home,85,[85],True
+c9a928ae8f38eeba,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Cote d'Ivoire,Panama,1,2,1.87,3.76,3.86,1.23,1.87,1.24,1.63,2.24,1.61,2.29,Oui,Oui,Non,Non,Oui,Away,81,"[24, 41, 81]",True
+dd87150cfd01dfe5,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Australia,USA,2,1,2.59,3.86,2.41,1.52,1.46,1.23,1.45,2.7,1.43,2.77,Oui,Oui,Oui,Non,Non,Home,88,"[21, 57, 88]",True
+3670bec7b1b36e0a,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Brazil,Ghana,1,0,1.42,5.08,6.34,1.09,2.77,1.14,1.36,3.09,1.6,2.3,Non,Non,Oui,Non,Non,Home,38,[38],True
+5a91a5af6aa35f98,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Germany,Haiti,4,0,1.36,5.28,7.41,1.06,3.02,1.13,1.38,2.97,1.7,2.13,Oui,Non,Oui,Non,Non,Home,49,"[14, 32, 40, 49]",True
+61ab5b4791b3c945,coupe-du-monde,164957,20,2026-09-09T21:13:18Z,Argentina,Uzbekistan,1,2,1.34,5.5,7.54,1.06,3.12,1.12,1.34,3.19,1.67,2.17,Oui,Oui,Non,Non,Oui,Away,61,"[1, 57, 61]",True
+b2bbf09d7dd9dfb2,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Portugal,Curacao,1,1,1.24,6.4,10.62,1.02,3.92,1.09,1.33,3.25,1.86,1.92,Non,Oui,Non,Oui,Non,Home,76,"[19, 76]",True
+e4f0ecbc9a3aa4f5,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Mexico,Australia,1,3,2.11,3.86,3.05,1.34,1.67,1.23,1.48,2.61,1.46,2.66,Oui,Oui,Non,Non,Oui,Away,79,"[8, 43, 47, 79]",True
+24b38737b49af882,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Saudi Arabia,Croatia,0,4,4.41,3.96,1.72,2.05,1.18,1.22,1.58,2.34,1.62,2.26,Oui,Non,Non,Non,Oui,Away,61,"[20, 24, 48, 61]",True
+8944c40c18154fb4,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Haiti,Japan,0,3,7.01,4.74,1.42,2.77,1.07,1.16,1.51,2.51,1.78,2.01,Oui,Non,Non,Non,Oui,Away,71,"[56, 65, 71]",True
+b3e6f4e93f43775a,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,South Africa,Ecuador,2,2,3.59,3.79,1.93,1.81,1.26,1.23,1.57,2.35,1.55,2.4,Oui,Oui,Non,Oui,Non,Home,83,"[21, 29, 75, 83]",True
+ab38778c6f4c92a0,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Jordan,Congo DR,1,3,2.37,3.46,2.87,1.38,1.54,1.27,1.74,2.06,1.62,2.26,Oui,Oui,Non,Non,Oui,Away,87,"[3, 53, 53, 87]",True
+747c84e7efff9b22,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,England,Korea Republic,1,1,1.68,4.25,4.37,1.18,2.11,1.19,1.44,2.75,1.51,2.5,Non,Oui,Non,Oui,Non,Away,85,"[56, 85]",True
+a3e9fa4aa21140b5,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Austria,Germany,3,0,3.07,4.02,2.06,1.71,1.34,1.21,1.4,2.89,1.41,2.84,Oui,Non,Oui,Non,Non,Home,81,"[26, 44, 81]",True
+b8b48a290802a5a5,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Uzbekistan,Brazil,1,2,5.65,4.9,1.47,2.58,1.11,1.15,1.35,3.14,1.54,2.43,Oui,Oui,Non,Non,Oui,Away,76,"[13, 35, 76]",True
+200ca031f73cf2e1,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Bosnia-Herzegovina,Netherlands,0,0,4.61,4.42,1.62,2.21,1.16,1.18,1.4,2.9,1.5,2.53,Non,Non,Non,Oui,Non,,,[],True
+5db3c79d3a16bd9e,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,IR Iran,Canada,2,0,2.32,3.61,2.84,1.39,1.56,1.25,1.62,2.26,1.54,2.43,Non,Non,Oui,Non,Non,Home,82,"[11, 82]",True
+4532413856747d99,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Iraq,Ghana,3,0,2.36,3.62,2.78,1.4,1.54,1.25,1.61,2.29,1.53,2.45,Oui,Non,Oui,Non,Non,Home,66,"[55, 55, 66]",True
+3fb32d4ff0f3a670,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Panama,Turkiye,1,3,3.68,3.75,1.92,1.82,1.24,1.24,1.61,2.28,1.58,2.34,Oui,Oui,Non,Non,Oui,Away,82,"[36, 38, 75, 82]",True
+fec6c143fc3cdae3,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Morocco,Egypt,1,1,1.74,3.48,5.08,1.14,2.03,1.27,2.03,1.76,1.98,1.81,Non,Oui,Non,Oui,Non,Away,60,"[50, 60]",True
+650ec5d2994e7583,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Cabo Verde,Sweden,2,1,3.31,3.67,2.06,1.71,1.29,1.25,1.62,2.26,1.56,2.38,Oui,Oui,Oui,Non,Non,Home,88,"[85, 87, 88]",True
+f0260bfd7f7fdd84,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,France,Scotland,3,1,1.39,5.21,6.72,1.08,2.88,1.13,1.36,3.1,1.63,2.24,Oui,Oui,Oui,Non,Non,Home,87,"[29, 43, 70, 87]",True
+a844dd8ae5390323,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,USA,Czechia,1,1,2.17,3.84,2.95,1.36,1.64,1.23,1.48,2.61,1.46,2.68,Non,Oui,Non,Oui,Non,Away,47,"[15, 47]",True
+cf53da84235ba657,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Senegal,New Zealand,2,1,1.62,4.01,5.2,1.13,2.22,1.21,1.65,2.2,1.73,2.07,Oui,Oui,Oui,Non,Non,Home,54,"[43, 46, 54]",True
+65efed6e9df07757,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Paraguay,Colombia,0,0,3.62,4.03,1.87,1.87,1.25,1.21,1.45,2.69,1.48,2.61,Non,Non,Non,Oui,Non,,,[],True
+59ffb705e7801d6a,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Algeria,Norway,0,2,3.35,3.9,1.98,1.77,1.29,1.22,1.48,2.59,1.48,2.6,Non,Non,Non,Non,Oui,Away,70,"[59, 70]",True
+1ba53783c5588eb2,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Qatar,Argentina,2,2,5.74,4.92,1.46,2.6,1.11,1.15,1.35,3.14,1.55,2.41,Oui,Oui,Non,Oui,Non,Away,68,"[15, 46, 61, 68]",True
+df4c3a684cfbe395,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Switzerland,Cote d'Ivoire,1,1,2.05,3.64,3.35,1.29,1.71,1.25,1.64,2.22,1.58,2.34,Non,Oui,Non,Oui,Non,Home,84,"[80, 84]",True
+b2fd5bb57764774c,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Tunisia,Belgium,1,4,3.87,3.73,1.87,1.87,1.22,1.24,1.65,2.21,1.62,2.26,Oui,Oui,Non,Non,Oui,Home,87,"[8, 27, 61, 77, 87]",True
+2993de9ad5366c18,coupe-du-monde,164957,21,2026-09-09T21:15:18Z,Uruguay,Spain,3,3,3.65,3.83,1.9,1.83,1.25,1.23,1.56,2.39,1.55,2.41,Oui,Oui,Non,Oui,Non,Home,80,"[20, 22, 27, 51, 67, 80]",True
+b8d12ebed7241777,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Cote d'Ivoire,France,0,2,5.4,4.71,1.51,2.47,1.12,1.16,1.38,2.99,1.55,2.42,Non,Non,Non,Non,Oui,Away,64,"[54, 64]",True
+60ebbc3168fd099d,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Czechia,Tunisia,1,2,2.55,3.41,2.66,1.43,1.47,1.28,1.77,2.02,1.63,2.24,Oui,Oui,Non,Non,Oui,Away,49,"[42, 43, 49]",True
+3987ee3cf06966b6,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Belgium,Portugal,3,2,2.97,3.97,2.12,1.67,1.36,1.21,1.42,2.82,1.42,2.81,Oui,Oui,Oui,Non,Non,Home,78,"[5, 17, 56, 56, 78]",True
+fab2fa8817970c8e,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Japan,Algeria,1,0,2.02,3.76,3.35,1.29,1.74,1.24,1.56,2.39,1.53,2.46,Non,Non,Oui,Non,Non,Home,52,[52],True
+33d9bbf116abad91,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Ghana,Paraguay,0,2,2.86,3.69,2.28,1.58,1.38,1.24,1.57,2.37,1.51,2.51,Non,Non,Non,Non,Oui,Away,89,"[67, 89]",True
+e4dfa53daaf847f0,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Ecuador,Mexico,0,2,2.92,3.8,2.2,1.62,1.37,1.23,1.5,2.55,1.47,2.64,Non,Non,Non,Non,Oui,Away,69,"[20, 69]",True
+ee6c60a4b5223888,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Spain,IR Iran,2,1,1.5,4.45,5.94,1.1,2.5,1.17,1.52,2.48,1.7,2.12,Oui,Oui,Oui,Non,Non,Home,82,"[25, 58, 82]",True
+97550fcf7748c238,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Turkiye,Senegal,0,1,3.34,3.78,2.01,1.74,1.29,1.23,1.55,2.41,1.52,2.48,Non,Non,Non,Non,Oui,Away,64,[64],True
+2f2688dfde14b18b,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Germany,South Africa,2,2,1.5,4.72,5.48,1.12,2.49,1.16,1.38,2.98,1.56,2.4,Oui,Oui,Non,Oui,Non,Home,88,"[26, 47, 74, 88]",True
+6f30598e510803a8,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Haiti,Qatar,0,1,4.21,3.9,1.77,1.99,1.19,1.22,1.59,2.31,1.61,2.28,Non,Non,Non,Non,Oui,Away,46,[46],True
+a14883f00675a7e2,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Sweden,Uruguay,0,2,3.58,3.74,1.95,1.79,1.26,1.24,1.61,2.28,1.57,2.36,Non,Non,Non,Non,Oui,Away,72,"[18, 72]",True
+a8a19efe259c3948,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Colombia,Saudi Arabia,3,2,1.71,4.09,4.3,1.19,2.06,1.2,1.5,2.54,1.56,2.4,Oui,Oui,Oui,Non,Non,Home,89,"[22, 27, 42, 48, 89]",True
+bb4bd0eecad716ea,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Scotland,Canada,1,2,2.55,3.78,2.47,1.5,1.47,1.23,1.5,2.55,1.46,2.66,Oui,Oui,Non,Non,Oui,Home,86,"[28, 57, 86]",True
+a9a0c9dc6064aec2,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,New Zealand,Curacao,0,1,2.15,3.46,3.27,1.3,1.65,1.27,1.77,2.02,1.65,2.19,Non,Non,Non,Non,Oui,Away,61,[61],True
+4b49cc31971911f5,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Uzbekistan,Austria,1,1,3.85,3.89,1.84,1.9,1.23,1.22,1.55,2.42,1.55,2.4,Non,Oui,Non,Oui,Non,Away,26,"[21, 26]",True
+c74e27e74934f02e,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Korea Republic,Switzerland,0,2,3.4,3.67,2.03,1.73,1.28,1.25,1.64,2.23,1.58,2.34,Non,Non,Non,Non,Oui,Away,58,"[14, 58]",True
+6f074fd7b6ac1046,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Argentina,Cabo Verde,5,1,1.4,5.1,6.73,1.08,2.85,1.14,1.38,2.98,1.65,2.21,Oui,Oui,Oui,Non,Non,Home,78,"[1, 29, 43, 53, 62, 78]",True
+2c4282616c5f418f,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Croatia,Bosnia-Herzegovina,3,1,1.78,3.86,4.2,1.19,1.97,1.23,1.61,2.28,1.62,2.26,Oui,Oui,Oui,Non,Non,Home,89,"[22, 58, 71, 89]",True
+89705beba38809be,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Australia,Jordan,0,2,2.08,3.64,3.29,1.3,1.7,1.25,1.63,2.23,1.57,2.36,Non,Non,Non,Non,Oui,Away,35,"[16, 35]",True
+5ac752318320b1f1,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Norway,USA,2,2,2.22,4.01,2.78,1.4,1.61,1.21,1.39,2.96,1.39,2.92,Oui,Oui,Non,Oui,Non,Away,81,"[34, 64, 76, 81]",True
+1ad720de7cbbebe5,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Iraq,Morocco,0,3,7.28,4.11,1.47,2.58,1.06,1.2,1.84,1.94,2.06,1.74,Oui,Non,Non,Non,Oui,Away,90,"[19, 85, 90]",True
+04825f112c286a18,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Netherlands,Congo DR,2,0,1.54,4.57,5.2,1.13,2.39,1.17,1.41,2.86,1.55,2.4,Non,Non,Oui,Non,Non,Home,44,"[32, 44]",True
+aa97df5de0023a13,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Brazil,England,2,0,2.66,4.08,2.28,1.58,1.43,1.2,1.35,3.13,1.37,3.04,Non,Non,Oui,Non,Non,Home,42,"[32, 42]",True
+6f3d345d9c89d9ea,coupe-du-monde,164957,24,2026-09-09T21:21:18Z,Egypt,Panama,1,2,1.85,3.59,4.16,1.2,1.89,1.26,1.79,2.0,1.73,2.07,Oui,Oui,Non,Non,Oui,Home,65,"[15, 19, 65]",True
+f7715bb975c688b5,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Turkiye,IR Iran,2,2,2.72,3.7,2.37,1.54,1.42,1.24,1.55,2.41,1.5,2.56,Oui,Oui,Non,Oui,Non,Home,79,"[25, 52, 75, 79]",True
+0d35985f50b7e0a7,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Brazil,Panama,1,1,1.36,5.21,7.55,1.06,3.02,1.13,1.41,2.83,1.74,2.06,Non,Oui,Non,Oui,Non,Home,38,"[31, 38]",True
+928b941024627fb0,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Cote d'Ivoire,Curacao,3,1,1.5,4.47,5.96,1.1,2.51,1.17,1.52,2.49,1.7,2.12,Oui,Oui,Oui,Non,Non,Home,90,"[42, 59, 62, 90]",True
+7d99b60e7109d47b,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Japan,Saudi Arabia,2,1,1.69,4.08,4.47,1.17,2.09,1.2,1.53,2.47,1.59,2.32,Oui,Oui,Oui,Non,Non,Away,43,"[40, 41, 43]",True
+5a4fd1549a69f09d,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Norway,Bosnia-Herzegovina,0,0,1.69,4.2,4.36,1.18,2.1,1.19,1.46,2.68,1.53,2.46,Non,Non,Non,Oui,Non,,,[],True
+a8d83d8fccd178bb,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Croatia,Jordan,2,2,1.8,3.71,4.23,1.19,1.94,1.24,1.71,2.1,1.69,2.13,Oui,Oui,Non,Oui,Non,Home,84,"[24, 48, 81, 84]",True
+d8346db3020a74cc,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Germany,USA,2,2,2.01,4.12,3.13,1.32,1.75,1.2,1.36,3.07,1.39,2.93,Oui,Oui,Non,Oui,Non,Home,87,"[18, 23, 49, 87]",True
+7a8f813ea1496632,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Iraq,Cabo Verde,1,2,2.53,3.49,2.65,1.44,1.48,1.27,1.7,2.12,1.59,2.32,Oui,Oui,Non,Non,Oui,Home,74,"[26, 37, 74]",True
+a4afec6b936c2267,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Netherlands,Portugal,0,2,2.83,4.19,2.14,1.66,1.39,1.2,1.32,3.33,1.35,3.13,Non,Non,Non,Non,Oui,Away,88,"[59, 88]",True
+f00a696dda68ba35,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Spain,Canada,1,1,1.37,5.19,7.34,1.06,2.98,1.13,1.4,2.89,1.71,2.11,Non,Oui,Non,Oui,Non,Home,8,"[5, 8]",True
+3114c62c3ba1fb71,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Czechia,Congo DR,1,1,1.98,3.71,3.5,1.27,1.77,1.24,1.61,2.27,1.57,2.36,Non,Oui,Non,Oui,Non,Away,49,"[3, 49]",True
+01b6cd378da3df6a,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Egypt,Uruguay,0,0,3.83,3.82,1.86,1.87,1.23,1.23,1.59,2.32,1.58,2.34,Non,Non,Non,Oui,Non,,,[],True
+e88b16c4174adaae,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Ecuador,Tunisia,2,0,2.46,3.47,2.74,1.41,1.5,1.27,1.72,2.09,1.6,2.3,Non,Non,Oui,Non,Non,Home,87,"[62, 87]",True
+f24d6db3bb8a5a31,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Uzbekistan,Algeria,2,3,3.13,3.65,2.14,1.65,1.32,1.25,1.61,2.27,1.55,2.41,Oui,Oui,Non,Non,Oui,Home,89,"[27, 39, 64, 86, 89]",True
+c5f3137662ee4ef1,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Australia,Belgium,1,2,3.2,3.79,2.07,1.7,1.31,1.23,1.53,2.46,1.5,2.53,Oui,Oui,Non,Non,Oui,Home,77,"[59, 61, 77]",True
+a70a94a35ca2960a,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Colombia,Mexico,1,0,2.49,3.87,2.5,1.49,1.49,1.22,1.44,2.72,1.43,2.79,Non,Non,Oui,Non,Non,Home,49,[49],True
+b67c2d6e0a7191ae,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Korea Republic,Senegal,0,3,3.12,3.73,2.12,1.67,1.33,1.24,1.55,2.4,1.51,2.51,Oui,Non,Non,Non,Oui,Away,56,"[12, 54, 56]",True
+fae9715a48d88f73,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Haiti,England,0,2,9.71,5.78,1.28,3.56,1.03,1.11,1.4,2.88,1.87,1.9,Non,Non,Non,Non,Oui,Away,72,"[65, 72]",True
+4b2106de58baef12,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Sweden,France,1,1,5.37,4.62,1.52,2.44,1.12,1.16,1.41,2.86,1.57,2.36,Non,Oui,Non,Oui,Non,Home,60,"[43, 60]",True
+c6ca08dc0a31ea1a,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Argentina,Switzerland,4,2,1.92,3.94,3.51,1.27,1.82,1.22,1.48,2.59,1.49,2.57,Oui,Oui,Oui,Non,Non,Home,71,"[29, 32, 42, 61, 67, 71]",True
+fd0ce0b957cfd3d9,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,New Zealand,Scotland,1,1,3.6,3.83,1.92,1.82,1.25,1.23,1.55,2.4,1.54,2.43,Non,Oui,Non,Oui,Non,Away,46,"[2, 46]",True
+9ef2d8c3b05014c0,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Ghana,South Africa,0,2,2.51,3.56,2.63,1.44,1.48,1.26,1.64,2.22,1.55,2.4,Non,Non,Non,Non,Oui,Away,46,"[17, 46]",True
+d5b56bc0fa617556,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Austria,Morocco,1,2,4.44,3.49,1.82,1.92,1.18,1.27,1.92,1.86,1.84,1.94,Oui,Oui,Non,Non,Oui,Away,74,"[28, 38, 74]",True
+69731f5ee51ac7fc,coupe-du-monde,164957,26,2026-09-09T21:25:18Z,Qatar,Paraguay,2,0,2.43,3.69,2.64,1.44,1.51,1.24,1.55,2.41,1.5,2.55,Non,Non,Oui,Non,Non,Home,76,"[15, 76]",True
+ee000752dd8ab4e7,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Algeria,England,1,1,4.83,4.37,1.6,2.25,1.15,1.18,1.44,2.73,1.56,2.4,Non,Oui,Non,Oui,Non,Away,73,"[27, 73]",True
+18ff7967d785b6f7,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Jordan,Colombia,3,0,4.42,4.04,1.71,2.07,1.18,1.21,1.54,2.43,1.59,2.32,Oui,Non,Oui,Non,Non,Home,88,"[22, 42, 88]",True
+6e8856db82312c57,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Cabo Verde,Paraguay,1,1,2.63,3.6,2.49,1.49,1.44,1.25,1.61,2.28,1.53,2.45,Non,Oui,Non,Oui,Non,Home,80,"[31, 80]",True
+4d7df804cdb1b530,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Australia,Czechia,1,0,2.42,3.74,2.64,1.44,1.52,1.24,1.52,2.48,1.48,2.61,Non,Non,Oui,Non,Non,Home,21,[21],True
+aa2b2a20bd7e8ce7,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Netherlands,Croatia,1,1,2.28,3.84,2.76,1.41,1.58,1.23,1.47,2.64,1.45,2.71,Non,Oui,Non,Oui,Non,Home,70,"[1, 70]",True
+b61fb510af930e76,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Mexico,Ghana,3,1,1.81,3.96,3.93,1.22,1.94,1.22,1.52,2.49,1.54,2.43,Oui,Oui,Oui,Non,Non,Away,71,"[14, 20, 67, 71]",True
+6ba00ee9ccecc3a3,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Bosnia-Herzegovina,Japan,1,2,4.56,4.07,1.68,2.11,1.17,1.21,1.54,2.44,1.6,2.3,Oui,Oui,Non,Non,Oui,Away,71,"[43, 53, 71]",True
+8d16aac0348dcf8d,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Portugal,Spain,2,2,3.32,4.03,1.96,1.79,1.29,1.21,1.42,2.82,1.44,2.75,Oui,Oui,Non,Oui,Non,Home,83,"[20, 56, 78, 83]",True
+769d08fcdd0f8184,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Congo DR,Norway,0,4,4.58,4.12,1.67,2.13,1.17,1.2,1.52,2.49,1.59,2.33,Oui,Non,Non,Non,Oui,Away,72,"[43, 45, 47, 72]",True
+70b000dbf23d820d,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,New Zealand,Cote d'Ivoire,0,3,4.03,3.92,1.8,1.95,1.21,1.22,1.55,2.4,1.57,2.37,Oui,Non,Non,Non,Oui,Away,83,"[46, 78, 83]",True
+9bef723833256a8c,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Curacao,Korea Republic,0,0,5.91,4.33,1.52,2.45,1.1,1.18,1.57,2.36,1.74,2.06,Non,Non,Non,Oui,Non,,,[],True
+fb39c1fd7c46ac48,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,USA,Uzbekistan,1,1,1.81,4.03,3.86,1.23,1.94,1.21,1.48,2.61,1.51,2.52,Non,Oui,Non,Oui,Non,Home,58,"[1, 58]",True
+0a1caba8c13d4cc2,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Saudi Arabia,Qatar,0,1,2.81,3.74,2.29,1.58,1.39,1.24,1.53,2.46,1.49,2.58,Non,Non,Non,Non,Oui,Away,1,[1],True
+0b61cfd395b1bdb7,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Senegal,Brazil,3,3,3.36,4.03,1.94,1.8,1.29,1.21,1.43,2.78,1.45,2.71,Oui,Oui,Non,Oui,Non,Home,68,"[37, 38, 44, 61, 65, 68]",True
+4fe90426e26c5935,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Uruguay,Iraq,2,1,1.6,4.2,5.07,1.14,2.25,1.19,1.54,2.44,1.64,2.22,Oui,Oui,Oui,Non,Non,Home,52,"[40, 46, 52]",True
+df38c3b62ac0e8f7,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Switzerland,Haiti,1,1,1.45,4.43,6.85,1.07,2.64,1.18,1.62,2.26,1.85,1.93,Non,Oui,Non,Oui,Non,Home,83,"[36, 83]",True
+0b74149fcbe64e90,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Belgium,Ecuador,1,0,1.98,3.82,3.42,1.28,1.77,1.23,1.54,2.44,1.52,2.49,Non,Non,Oui,Non,Non,Home,4,[4],True
+8a3f849ed4b905f8,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Canada,Sweden,2,0,2.99,3.68,2.2,1.62,1.35,1.24,1.58,2.35,1.52,2.48,Non,Non,Oui,Non,Non,Home,90,"[47, 90]",True
+c23d2bdfbd464717,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,France,Argentina,1,3,2.26,4.09,2.69,1.43,1.59,1.2,1.35,3.16,1.37,3.05,Oui,Oui,Non,Non,Oui,Away,87,"[30, 40, 77, 87]",True
+57ac24d6969e7088,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,IR Iran,Egypt,2,0,2.72,3.45,2.48,1.49,1.42,1.27,1.74,2.06,1.61,2.27,Non,Non,Oui,Non,Non,Home,77,"[38, 77]",True
+5622a8fb0549eda0,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,South Africa,Morocco,1,1,7.82,4.19,1.44,2.68,1.05,1.19,1.84,1.94,2.12,1.7,Non,Oui,Non,Oui,Non,Away,40,"[33, 40]",True
+4e05e370a9f9d078,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Tunisia,Germany,1,1,3.95,3.99,1.8,1.95,1.22,1.21,1.51,2.5,1.54,2.44,Non,Oui,Non,Oui,Non,Away,58,"[17, 58]",True
+fce2ef94de2ba0a2,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Panama,Austria,0,2,4.6,3.94,1.7,2.08,1.16,1.22,1.62,2.27,1.66,2.19,Non,Non,Non,Non,Oui,Away,37,"[22, 37]",True
+8cef8ff5ee8674db,coupe-du-monde,164957,29,2026-09-09T21:31:18Z,Scotland,Turkiye,3,2,2.67,3.75,2.39,1.53,1.43,1.24,1.51,2.51,1.47,2.63,Oui,Oui,Oui,Non,Non,Away,88,"[8, 12, 69, 74, 88]",True
+16781677fcf1b412,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Scotland,Korea Republic,2,2,2.94,3.75,2.21,1.62,1.36,1.24,1.53,2.46,1.49,2.57,Oui,Oui,Non,Oui,Non,Away,75,"[6, 33, 51, 75]",True
+b9e5e36e161adb9c,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Congo DR,Germany,0,5,5.34,4.64,1.52,2.44,1.12,1.16,1.39,2.92,1.55,2.4,Oui,Non,Non,Non,Oui,Away,65,"[19, 27, 55, 62, 65]",True
+b1da09505a0a1f83,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Spain,Turkiye,0,0,1.41,4.97,6.73,1.08,2.81,1.14,1.41,2.84,1.67,2.17,Non,Non,Non,Oui,Non,,,[],True
+826a7047b5ec001e,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,New Zealand,Sweden,0,2,4.58,3.91,1.71,2.07,1.17,1.22,1.63,2.24,1.67,2.17,Non,Non,Non,Non,Oui,Away,72,"[12, 72]",True
+6d4a100ef96a4a75,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Czechia,Croatia,1,0,3.25,3.7,2.07,1.7,1.3,1.24,1.59,2.31,1.55,2.42,Non,Non,Oui,Non,Non,Home,37,[37],True
+a2f9cab224a2b510,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,USA,Morocco,0,1,4.68,3.73,1.73,2.04,1.16,1.24,1.76,2.03,1.76,2.03,Non,Non,Non,Non,Oui,Away,29,[29],True
+bd1d3dafb81122f8,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Uruguay,Austria,5,1,2.0,3.79,3.38,1.28,1.75,1.23,1.55,2.42,1.52,2.48,Oui,Oui,Oui,Non,Non,Away,76,"[1, 23, 28, 47, 60, 76]",True
+2c2371cf07cb7cde,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Australia,Ecuador,0,1,2.48,3.78,2.54,1.47,1.49,1.23,1.49,2.56,1.46,2.67,Non,Non,Non,Non,Oui,Away,7,[7],True
+302007e7ca31411e,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Portugal,Cote d'Ivoire,5,1,1.71,4.31,4.09,1.2,2.06,1.19,1.39,2.94,1.47,2.65,Oui,Oui,Oui,Non,Non,Away,80,"[30, 43, 44, 50, 67, 80]",True
+11cade7c33af0735,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,South Africa,Cabo Verde,2,2,2.9,3.53,2.31,1.56,1.37,1.26,1.68,2.15,1.58,2.34,Oui,Oui,Non,Oui,Non,Away,58,"[25, 51, 52, 58]",True
+9645283cdf445b80,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,France,Iraq,2,2,1.35,5.26,7.76,1.05,3.08,1.13,1.41,2.85,1.74,2.06,Oui,Oui,Non,Oui,Non,Away,69,"[28, 49, 52, 69]",True
+5ff71c1968263755,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Mexico,Qatar,1,0,2.03,3.83,3.26,1.3,1.73,1.23,1.51,2.51,1.49,2.56,Non,Non,Oui,Non,Non,Home,24,[24],True
+cbda5f2abcdd94b1,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Canada,Egypt,2,4,3.04,3.65,2.19,1.63,1.34,1.25,1.61,2.28,1.54,2.42,Oui,Oui,Non,Non,Oui,Away,75,"[31, 45, 45, 60, 61, 75]",True
+d3434ba6b09570f9,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Saudi Arabia,England,0,0,6.52,4.9,1.42,2.75,1.08,1.15,1.42,2.81,1.66,2.18,Non,Non,Non,Oui,Non,,,[],True
+5c27719860d9308c,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Panama,Algeria,1,4,3.65,3.6,1.97,1.78,1.25,1.26,1.71,2.1,1.64,2.22,Oui,Oui,Non,Non,Oui,Away,81,"[36, 37, 43, 65, 81]",True
+7a03106041286721,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Tunisia,Ghana,2,1,2.18,3.43,3.23,1.31,1.63,1.28,1.8,1.99,1.67,2.17,Oui,Oui,Oui,Non,Non,Home,87,"[37, 66, 87]",True
+aa677319a659c4cc,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Netherlands,Norway,1,2,2.21,3.99,2.8,1.4,1.61,1.21,1.39,2.92,1.4,2.9,Oui,Oui,Non,Non,Oui,Away,69,"[8, 28, 69]",True
+d29038e2119e7791,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Senegal,Haiti,2,1,1.49,4.35,6.28,1.09,2.52,1.18,1.6,2.3,1.78,2.0,Oui,Oui,Oui,Non,Non,Away,82,"[66, 70, 82]",True
+ec178d0aee747989,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Bosnia-Herzegovina,Uzbekistan,1,2,2.46,3.63,2.65,1.44,1.5,1.25,1.6,2.31,1.52,2.48,Oui,Oui,Non,Non,Oui,Home,90,"[85, 88, 90]",True
+7d9f48ce4451bb49,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Jordan,Japan,3,1,4.58,3.91,1.71,2.07,1.17,1.22,1.63,2.24,1.66,2.18,Oui,Oui,Oui,Non,Non,Home,81,"[20, 49, 50, 81]",True
+0a53de29537297ad,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Belgium,Colombia,1,3,2.31,3.78,2.76,1.41,1.57,1.23,1.5,2.54,1.47,2.65,Oui,Oui,Non,Non,Oui,Home,78,"[22, 37, 67, 78]",True
+cd893fd19a664efb,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Curacao,Argentina,1,4,13.69,7.39,1.17,4.71,0.99,1.06,1.3,3.43,2.03,1.77,Oui,Oui,Non,Non,Oui,Away,86,"[22, 38, 63, 84, 86]",True
+b9e47d03aac72f99,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,IR Iran,Brazil,2,0,4.17,4.22,1.72,2.06,1.2,1.19,1.43,2.78,1.5,2.55,Non,Non,Oui,Non,Non,Home,85,"[70, 85]",True
+acaf395d7315a8ba,coupe-du-monde,164957,31,2026-09-09T21:35:18Z,Switzerland,Paraguay,2,2,1.85,3.77,3.94,1.22,1.89,1.23,1.63,2.24,1.61,2.27,Oui,Oui,Non,Oui,Non,Home,77,"[3, 52, 70, 77]",True
+5d6e6477d7d7d673,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Sweden,Turkiye,5,1,2.27,3.79,2.81,1.39,1.58,1.23,1.5,2.54,1.47,2.64,Oui,Oui,Oui,Non,Non,Home,81,"[39, 40, 42, 53, 71, 81]",True
+67de12a00f5c5a75,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Ghana,Belgium,0,2,4.71,4.17,1.65,2.17,1.16,1.2,1.51,2.52,1.59,2.32,Non,Non,Non,Non,Oui,Away,44,"[43, 44]",True
+963f0246cc54ff86,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Japan,Netherlands,1,2,2.65,3.84,2.37,1.54,1.44,1.23,1.46,2.66,1.44,2.74,Oui,Oui,Non,Non,Oui,Home,76,"[58, 60, 76]",True
+b3102cd3f34f1ce6,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Haiti,Curacao,1,3,2.27,3.43,3.04,1.34,1.58,1.28,1.78,2.01,1.65,2.2,Oui,Oui,Non,Non,Oui,Home,69,"[22, 42, 68, 69]",True
+289451024e6aaae0,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,England,Bosnia-Herzegovina,1,1,1.4,5.02,6.7,1.08,2.82,1.14,1.4,2.9,1.66,2.19,Non,Oui,Non,Oui,Non,Away,37,"[19, 37]",True
+183d7d278a312e0b,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Norway,Croatia,4,1,2.44,3.75,2.61,1.45,1.51,1.24,1.51,2.5,1.47,2.63,Oui,Oui,Oui,Non,Non,Home,89,"[10, 21, 83, 86, 89]",True
+b7ec033502f176dd,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Ecuador,Portugal,0,4,4.01,4.33,1.73,2.04,1.21,1.18,1.37,3.03,1.45,2.71,Oui,Non,Non,Non,Oui,Away,84,"[26, 34, 82, 84]",True
+699a2133e226ac00,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Brazil,Scotland,3,0,1.61,4.52,4.56,1.17,2.23,1.17,1.36,3.07,1.48,2.61,Oui,Non,Oui,Non,Non,Home,66,"[29, 38, 66]",True
+d0ac8805e4578034,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Colombia,Czechia,3,1,2.08,3.85,3.13,1.33,1.69,1.23,1.49,2.57,1.48,2.62,Oui,Oui,Oui,Non,Non,Home,52,"[1, 11, 32, 52]",True
+bba0abe248bb9bdc,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Qatar,Jordan,2,3,2.12,3.63,3.18,1.32,1.67,1.25,1.63,2.24,1.56,2.38,Oui,Oui,Non,Non,Oui,Away,65,"[35, 39, 45, 53, 65]",True
+aece4d692b61637a,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Cabo Verde,Mexico,3,0,3.7,3.84,1.89,1.85,1.24,1.23,1.56,2.38,1.55,2.4,Oui,Non,Oui,Non,Non,Home,62,"[54, 55, 62]",True
+c8ff8a72a3158845,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Korea Republic,Cote d'Ivoire,1,4,2.48,3.78,2.55,1.47,1.5,1.23,1.49,2.57,1.46,2.67,Oui,Oui,Non,Non,Oui,Away,65,"[19, 34, 41, 51, 65]",True
+67643e767070cdfb,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Saudi Arabia,Switzerland,0,2,4.52,3.85,1.73,2.04,1.17,1.23,1.66,2.18,1.68,2.15,Non,Non,Non,Non,Oui,Away,47,"[20, 47]",True
+a389ee0dd6ded5e2,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Egypt,Spain,0,4,5.89,4.4,1.51,2.47,1.1,1.18,1.54,2.44,1.71,2.11,Oui,Non,Non,Non,Oui,Away,86,"[3, 80, 81, 86]",True
+133c58a41892ea1f,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,South Africa,Uruguay,2,3,5.95,4.38,1.51,2.48,1.1,1.18,1.55,2.41,1.72,2.09,Oui,Oui,Non,Non,Oui,Away,88,"[31, 38, 39, 70, 88]",True
+7f535b9a0b8dee83,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Algeria,Senegal,1,2,3.11,3.66,2.15,1.65,1.33,1.25,1.61,2.29,1.54,2.42,Oui,Oui,Non,Non,Oui,Home,77,"[27, 43, 77]",True
+e0e3a0c3f831ec4a,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Iraq,Canada,1,3,2.82,3.67,2.31,1.56,1.39,1.25,1.57,2.36,1.51,2.51,Oui,Oui,Non,Non,Oui,Away,69,"[30, 52, 66, 69]",True
+7be0927b518a9ea3,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Austria,IR Iran,1,0,2.3,3.64,2.86,1.38,1.57,1.25,1.6,2.3,1.53,2.46,Non,Non,Oui,Non,Non,Home,31,[31],True
+600cd94ac39284c8,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Germany,Australia,2,3,1.85,4.22,3.56,1.26,1.89,1.19,1.37,3.05,1.42,2.83,Oui,Oui,Non,Non,Oui,Away,74,"[19, 24, 52, 61, 74]",True
+d5a6bcb28775a7f4,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Argentina,New Zealand,3,1,1.27,5.96,9.37,1.03,3.57,1.1,1.35,3.11,1.81,1.97,Oui,Oui,Oui,Non,Non,Home,84,"[20, 52, 76, 84]",True
+08603d3dc7e8b987,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Morocco,Tunisia,0,0,1.67,3.52,5.64,1.11,2.13,1.27,2.08,1.73,2.06,1.74,Non,Non,Non,Oui,Non,,,[],True
+3e4ee0f43c7b490a,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Paraguay,France,1,2,7.15,5.17,1.38,2.94,1.07,1.13,1.39,2.93,1.68,2.15,Oui,Oui,Non,Non,Oui,Away,73,"[1, 18, 73]",True
+d899410abde05836,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Uzbekistan,Congo DR,1,1,2.32,3.56,2.87,1.38,1.56,1.26,1.65,2.19,1.57,2.37,Non,Oui,Non,Oui,Non,Home,85,"[29, 85]",True
+a05219843d215854,coupe-du-monde,164957,34,2026-09-09T21:41:18Z,Panama,USA,0,1,4.49,4.03,1.7,2.09,1.17,1.21,1.55,2.4,1.61,2.29,Non,Non,Non,Non,Oui,Away,74,[74],True
+b54d465015fe7032,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Algeria,IR Iran,3,0,2.77,3.53,2.4,1.52,1.4,1.26,1.67,2.17,1.57,2.36,Oui,Non,Oui,Non,Non,Home,83,"[58, 78, 83]",True
+2662ccbbc8834c23,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Ghana,Australia,0,2,3.33,3.76,2.02,1.73,1.29,1.24,1.56,2.39,1.53,2.47,Non,Non,Non,Non,Oui,Away,82,"[66, 82]",True
+b815866800e4f6ca,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Iraq,New Zealand,0,1,2.15,3.56,3.2,1.31,1.65,1.26,1.69,2.14,1.6,2.3,Non,Non,Non,Non,Oui,Away,71,[71],True
+6f79cd37ea8baab6,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Switzerland,Mexico,1,0,2.34,3.56,2.84,1.39,1.55,1.26,1.65,2.21,1.56,2.39,Non,Non,Oui,Non,Non,Home,50,[50],True
+c09544843978e165,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,South Africa,France,2,2,10.05,6.1,1.26,3.73,1.02,1.1,1.35,3.11,1.84,1.93,Oui,Oui,Non,Oui,Non,Home,73,"[7, 55, 68, 73]",True
+9a05e85ed7259a24,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Haiti,Scotland,3,3,4.24,3.93,1.76,2.0,1.19,1.22,1.58,2.34,1.61,2.29,Oui,Oui,Non,Oui,Non,Home,77,"[29, 30, 37, 49, 66, 77]",True
+978a5c1a34f0701f,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Colombia,Ecuador,3,2,2.04,3.89,3.2,1.31,1.72,1.22,1.48,2.61,1.47,2.64,Oui,Oui,Oui,Non,Non,Away,85,"[23, 28, 70, 81, 85]",True
+e5814c9b765d68c6,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Germany,Croatia,2,1,2.21,3.93,2.82,1.39,1.61,1.22,1.42,2.8,1.42,2.82,Oui,Oui,Oui,Non,Non,Home,85,"[32, 68, 85]",True
+7515e2a8ca1d9277,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Egypt,Turkiye,0,0,2.41,3.66,2.69,1.43,1.52,1.25,1.58,2.35,1.51,2.5,Non,Non,Non,Oui,Non,,,[],True
+e38004985f4a71e2,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Saudi Arabia,Senegal,0,2,4.26,3.91,1.76,2.0,1.19,1.22,1.59,2.32,1.61,2.27,Non,Non,Non,Non,Oui,Away,37,"[35, 37]",True
+54f3f563e4d42968,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Morocco,Congo DR,1,1,1.39,4.48,8.54,1.04,2.88,1.17,1.75,2.05,2.11,1.7,Non,Oui,Non,Oui,Non,Away,20,"[12, 20]",True
+5545d8edff390010,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Korea Republic,Sweden,3,1,2.63,3.66,2.46,1.5,1.44,1.25,1.57,2.36,1.51,2.52,Oui,Oui,Oui,Non,Non,Home,83,"[16, 39, 72, 83]",True
+8494f648992d2e61,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Japan,Czechia,1,4,1.97,3.82,3.44,1.28,1.78,1.23,1.54,2.43,1.52,2.47,Oui,Oui,Non,Non,Oui,Away,63,"[19, 27, 35, 47, 63]",True
+98fa11634a3e7b24,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Norway,Portugal,0,0,3.13,4.1,2.01,1.74,1.32,1.2,1.37,3.02,1.4,2.9,Non,Non,Non,Oui,Non,,,[],True
+f04c38515a17cb53,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Brazil,Spain,0,4,3.44,4.03,1.92,1.82,1.28,1.21,1.43,2.78,1.45,2.7,Oui,Non,Non,Non,Oui,Away,75,"[34, 54, 71, 75]",True
+02d89c9c39313f04,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Uzbekistan,Netherlands,1,4,4.77,4.42,1.6,2.25,1.15,1.18,1.42,2.83,1.53,2.46,Oui,Oui,Non,Non,Oui,Away,70,"[25, 39, 59, 62, 70]",True
+e14fa2c70f237100,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,USA,Uruguay,1,3,3.44,3.96,1.93,1.81,1.28,1.22,1.47,2.64,1.48,2.61,Oui,Oui,Non,Non,Oui,Away,87,"[14, 27, 83, 87]",True
+1f02d492d9b41aa5,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Cabo Verde,Tunisia,0,0,2.99,3.35,2.34,1.55,1.35,1.29,1.85,1.93,1.69,2.14,Non,Non,Non,Oui,Non,,,[],True
+f50fd3ce1c758fef,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,England,Jordan,2,1,1.44,4.77,6.47,1.08,2.69,1.15,1.46,2.67,1.69,2.14,Oui,Oui,Oui,Non,Non,Away,68,"[49, 50, 68]",True
+1103513b60123483,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Paraguay,Curacao,1,2,1.7,3.88,4.65,1.16,2.08,1.22,1.66,2.19,1.69,2.14,Oui,Oui,Non,Non,Oui,Home,52,"[40, 44, 52]",True
+37a37f0148b5b8cb,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Argentina,Cote d'Ivoire,0,0,1.55,4.65,5.02,1.14,2.37,1.16,1.36,3.07,1.51,2.52,Non,Non,Non,Oui,Non,,,[],True
+ea84a3a630816d6c,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Panama,Bosnia-Herzegovina,1,1,3.0,3.53,2.25,1.59,1.35,1.26,1.69,2.14,1.59,2.32,Non,Oui,Non,Oui,Non,Away,41,"[27, 41]",True
+38099e8bf6a417f3,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Qatar,Belgium,0,3,3.79,4.02,1.83,1.91,1.23,1.21,1.48,2.61,1.5,2.53,Oui,Non,Non,Non,Oui,Away,64,"[15, 64, 64]",True
+0386d49cec55c750,coupe-du-monde,164957,36,2026-09-09T21:45:18Z,Austria,Canada,4,1,2.07,3.81,3.17,1.32,1.7,1.23,1.51,2.51,1.49,2.58,Oui,Oui,Oui,Non,Non,Away,88,"[6, 28, 72, 78, 88]",True
+133d32ab2171556a,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Scotland,Algeria,0,1,2.56,3.7,2.51,1.48,1.47,1.24,1.55,2.42,1.49,2.57,Non,Non,Non,Non,Oui,Away,18,[18],True
+93af3acd46991283,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Canada,South Africa,0,0,2.1,3.72,3.18,1.32,1.68,1.24,1.57,2.36,1.53,2.47,Non,Non,Non,Oui,Non,,,[],True
+0a6c9fd8b991c3f4,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Cote d'Ivoire,Haiti,0,0,1.65,4.06,4.84,1.15,2.17,1.21,1.58,2.34,1.65,2.2,Non,Non,Non,Oui,Non,,,[],True
+7509ca6c502776c5,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Korea Republic,Argentina,1,3,5.2,4.69,1.53,2.42,1.13,1.16,1.37,3.04,1.53,2.47,Oui,Oui,Non,Non,Oui,Home,55,"[11, 12, 52, 55]",True
+07a62db1b936f5e5,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Croatia,Uzbekistan,2,2,1.76,3.88,4.26,1.19,1.99,1.22,1.61,2.28,1.62,2.25,Oui,Oui,Non,Oui,Non,Away,84,"[23, 57, 61, 84]",True
+2547cce6be5648a9,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Congo DR,Panama,1,0,2.43,3.46,2.78,1.4,1.51,1.27,1.73,2.08,1.61,2.29,Non,Non,Oui,Non,Non,Home,66,[66],True
+496a7eceaef059af,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,France,Mexico,0,1,1.59,4.5,4.83,1.15,2.28,1.17,1.39,2.93,1.52,2.5,Non,Non,Non,Non,Oui,Away,56,[56],True
+40524226044b3575,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Sweden,Brazil,0,2,3.86,4.11,1.79,1.95,1.23,1.2,1.44,2.73,1.49,2.58,Non,Non,Non,Non,Oui,Away,72,"[71, 72]",True
+29f28ed392fba674,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Spain,Austria,2,2,1.57,4.32,5.18,1.13,2.31,1.18,1.5,2.55,1.62,2.26,Oui,Oui,Non,Oui,Non,Away,79,"[18, 40, 69, 79]",True
+71e3520c07bf8527,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Turkiye,Iraq,2,1,2.08,3.76,3.19,1.31,1.69,1.24,1.55,2.41,1.51,2.51,Oui,Oui,Oui,Non,Non,Home,60,"[32, 40, 60]",True
+7bd60eb100136bae,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Tunisia,Uruguay,0,0,4.34,3.67,1.8,1.95,1.18,1.25,1.76,2.04,1.73,2.08,Non,Non,Non,Oui,Non,,,[],True
+c772f75197ca5c89,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,New Zealand,Paraguay,1,1,3.36,3.63,2.05,1.71,1.29,1.25,1.66,2.19,1.59,2.32,Non,Oui,Non,Oui,Non,Away,77,"[10, 77]",True
+77f7338bc5168fc4,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Bosnia-Herzegovina,Senegal,3,1,4.4,4.0,1.72,2.06,1.18,1.21,1.56,2.38,1.6,2.29,Oui,Oui,Oui,Non,Non,Home,85,"[27, 39, 81, 85]",True
+65989821e0e840d2,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Australia,Morocco,2,2,5.39,3.82,1.63,2.19,1.12,1.23,1.8,1.98,1.85,1.93,Oui,Oui,Non,Oui,Non,Home,66,"[13, 53, 57, 66]",True
+3695676ac7b4a717,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Curacao,Saudi Arabia,2,2,4.24,3.74,1.8,1.95,1.19,1.24,1.69,2.13,1.68,2.16,Oui,Oui,Non,Oui,Non,Home,85,"[41, 43, 53, 85]",True
+a1f899547d7e37ca,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Netherlands,England,2,3,3.04,4.11,2.05,1.72,1.34,1.2,1.36,3.07,1.39,2.94,Oui,Oui,Non,Non,Oui,Away,88,"[39, 43, 68, 74, 88]",True
+54efebb71b4db236,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Belgium,Cabo Verde,2,0,1.7,4.06,4.42,1.18,2.08,1.21,1.53,2.45,1.59,2.32,Non,Non,Oui,Non,Non,Home,74,"[36, 74]",True
+a8db760f266fb33a,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Portugal,Egypt,0,0,1.75,4.15,4.02,1.21,2.01,1.2,1.44,2.75,1.49,2.57,Non,Non,Non,Oui,Non,,,[],True
+2bd61e94b8d0097f,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Czechia,Qatar,4,1,2.5,3.72,2.56,1.47,1.49,1.24,1.53,2.46,1.48,2.59,Oui,Oui,Oui,Non,Non,Away,68,"[12, 16, 37, 51, 68]",True
+9c517b1fd217ba3b,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Norway,Japan,2,2,2.61,3.8,2.42,1.52,1.45,1.23,1.49,2.58,1.46,2.68,Oui,Oui,Non,Oui,Non,Away,53,"[23, 27, 35, 53]",True
+cea72853e2731db5,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Colombia,Germany,3,2,2.73,3.99,2.26,1.59,1.42,1.21,1.39,2.93,1.4,2.91,Oui,Oui,Oui,Non,Non,Home,90,"[13, 14, 45, 82, 90]",True
+f019086bace4ad54,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,IR Iran,USA,3,0,2.79,3.73,2.31,1.57,1.4,1.24,1.53,2.45,1.49,2.58,Oui,Non,Oui,Non,Non,Home,54,"[44, 45, 54]",True
+35e65edbc5780d3e,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Jordan,Switzerland,0,2,4.58,3.7,1.75,2.01,1.17,1.24,1.76,2.03,1.75,2.04,Non,Non,Non,Non,Oui,Away,38,"[14, 38]",True
+7f9e3674274cc240,coupe-du-monde,164957,39,2026-09-09T21:51:18Z,Ecuador,Ghana,2,1,1.96,3.79,3.51,1.27,1.79,1.23,1.56,2.38,1.54,2.44,Oui,Oui,Oui,Non,Non,Away,78,"[16, 40, 78]",True
+d5785dd0bb6d63bc,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Canada,USA,0,1,3.06,3.94,2.09,1.69,1.34,1.22,1.44,2.75,1.44,2.75,Non,Non,Non,Non,Oui,Away,60,[60],True
+18e6b0014f51e54b,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,IR Iran,Bosnia-Herzegovina,1,0,2.02,3.62,3.47,1.27,1.74,1.25,1.67,2.16,1.61,2.28,Non,Non,Oui,Non,Non,Home,36,[36],True
+977b014041923742,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Netherlands,Panama,1,2,1.52,4.5,5.6,1.11,2.45,1.17,1.47,2.64,1.63,2.24,Oui,Oui,Non,Non,Oui,Home,20,"[8, 10, 20]",True
+dff63b8228b45a60,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Croatia,Morocco,0,4,4.31,3.38,1.88,1.86,1.19,1.28,2.0,1.78,1.88,1.9,Oui,Non,Non,Non,Oui,Away,78,"[38, 67, 73, 78]",True
+3bd8f32766b43aa4,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Czechia,England,1,2,4.7,4.22,1.64,2.18,1.16,1.19,1.49,2.58,1.57,2.35,Oui,Oui,Non,Non,Oui,Home,86,"[51, 57, 86]",True
+2cb6670ed6d239ec,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Colombia,Ghana,3,0,1.7,4.23,4.24,1.19,2.08,1.19,1.43,2.75,1.51,2.52,Oui,Non,Oui,Non,Non,Home,40,"[18, 26, 40]",True
+732aa4b39504a834,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Korea Republic,Iraq,0,3,2.03,3.76,3.32,1.29,1.73,1.24,1.56,2.38,1.53,2.46,Oui,Non,Non,Non,Oui,Away,77,"[58, 71, 77]",True
+cb02e98813039474,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Egypt,Brazil,0,3,4.05,4.18,1.74,2.02,1.21,1.2,1.43,2.76,1.49,2.57,Oui,Non,Non,Non,Oui,Away,75,"[6, 55, 75]",True
+c5dea0a8cc7a208c,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Belgium,Switzerland,0,1,2.5,3.56,2.63,1.44,1.49,1.26,1.64,2.22,1.55,2.41,Non,Non,Non,Non,Oui,Away,55,[55],True
+f0f3418da905ddcd,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Portugal,Argentina,2,1,2.97,4.21,2.06,1.71,1.36,1.19,1.32,3.33,1.35,3.11,Oui,Oui,Oui,Non,Non,Away,73,"[40, 68, 73]",True
+93198bd7528ce10a,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Tunisia,France,1,4,6.67,4.75,1.43,2.72,1.08,1.16,1.48,2.6,1.72,2.09,Oui,Oui,Non,Non,Oui,Away,87,"[29, 38, 67, 82, 87]",True
+435ae591e13c0234,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Sweden,Haiti,2,1,1.59,4.11,5.32,1.13,2.28,1.2,1.61,2.27,1.71,2.1,Oui,Oui,Oui,Non,Non,Away,81,"[20, 49, 81]",True
+dbc80cb6afc4ddcb,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,New Zealand,South Africa,1,1,2.98,3.51,2.27,1.58,1.35,1.27,1.71,2.11,1.6,2.29,Non,Oui,Non,Oui,Non,Away,52,"[11, 52]",True
+b2e82a313ae218bb,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Curacao,Mexico,1,3,7.25,4.85,1.4,2.85,1.06,1.15,1.49,2.57,1.78,2.01,Oui,Oui,Non,Non,Oui,Away,81,"[36, 42, 80, 81]",True
+5fb63a75003e18aa,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Australia,Cabo Verde,2,1,2.11,3.69,3.18,1.32,1.67,1.24,1.59,2.31,1.54,2.43,Oui,Oui,Oui,Non,Non,Home,88,"[35, 73, 88]",True
+caa6ec8e6aad193a,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Scotland,Saudi Arabia,0,2,2.15,3.72,3.06,1.34,1.65,1.24,1.56,2.39,1.51,2.51,Non,Non,Non,Non,Oui,Away,65,"[12, 65]",True
+e7aa24011ce6c318,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Germany,Japan,2,4,2.29,3.92,2.71,1.42,1.57,1.22,1.42,2.8,1.42,2.83,Oui,Oui,Non,Non,Oui,Home,90,"[25, 36, 43, 57, 82, 90]",True
+b5b9f3747f3cddc6,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Turkiye,Austria,1,1,3.08,3.86,2.1,1.68,1.33,1.23,1.48,2.59,1.47,2.64,Non,Oui,Non,Oui,Non,Away,40,"[33, 40]",True
+0988aca5f360cc96,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Norway,Uzbekistan,2,0,1.7,4.14,4.37,1.18,2.09,1.2,1.49,2.58,1.55,2.41,Non,Non,Oui,Non,Non,Home,43,"[11, 43]",True
+c19f777ce29f7cfc,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Jordan,Senegal,0,1,4.21,3.75,1.8,1.95,1.19,1.24,1.69,2.14,1.68,2.16,Non,Non,Non,Non,Oui,Away,21,[21],True
+50485578b5bc6fa0,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Cote d'Ivoire,Paraguay,1,1,2.15,3.79,3.01,1.35,1.65,1.23,1.51,2.5,1.48,2.59,Non,Oui,Non,Oui,Non,Home,58,"[54, 58]",True
+9b15fd72fe3d063f,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Congo DR,Uruguay,1,3,5.62,4.34,1.53,2.4,1.11,1.18,1.54,2.44,1.68,2.14,Oui,Oui,Non,Non,Oui,Away,87,"[17, 34, 66, 87]",True
+f4e55b812791853a,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Spain,Algeria,2,1,1.44,4.75,6.55,1.08,2.7,1.16,1.47,2.63,1.71,2.11,Oui,Oui,Oui,Non,Non,Away,77,"[4, 35, 77]",True
+8bf5f36659e9bc39,coupe-du-monde,164957,41,2026-09-09T21:55:18Z,Ecuador,Qatar,0,2,2.33,3.8,2.72,1.42,1.56,1.23,1.49,2.57,1.46,2.67,Non,Non,Non,Non,Oui,Away,70,"[48, 70]",True
+cdaf5306979652e1,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Switzerland,Czechia,0,1,1.94,3.63,3.72,1.24,1.8,1.25,1.7,2.12,1.64,2.22,Non,Non,Non,Non,Oui,Away,85,[85],True
+fcff90886eb15d58,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Tunisia,Canada,3,1,2.49,3.51,2.68,1.43,1.49,1.27,1.69,2.14,1.58,2.34,Oui,Oui,Oui,Non,Non,Home,79,"[17, 63, 78, 79]",True
+7fbdb7a3af976de1,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,France,Belgium,2,2,1.72,4.22,4.12,1.2,2.05,1.19,1.43,2.79,1.49,2.56,Oui,Oui,Non,Oui,Non,Away,78,"[16, 25, 61, 78]",True
+0550160b26a50a4f,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Austria,Egypt,2,3,2.41,3.55,2.75,1.41,1.52,1.26,1.65,2.2,1.56,2.39,Oui,Oui,Non,Non,Oui,Home,76,"[37, 39, 65, 70, 76]",True
+e6c34333b0f9fb8e,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Uzbekistan,Japan,0,1,4.37,3.97,1.73,2.04,1.18,1.21,1.57,2.36,1.61,2.28,Non,Non,Non,Non,Oui,Away,69,[69],True
+f9c2ede183bc1c9a,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Bosnia-Herzegovina,Scotland,2,1,2.95,3.79,2.19,1.63,1.36,1.23,1.51,2.52,1.48,2.61,Oui,Oui,Oui,Non,Non,Home,45,"[3, 7, 45]",True
+5170649fefb29adb,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,IR Iran,Congo DR,0,0,1.96,3.64,3.65,1.25,1.79,1.25,1.68,2.15,1.63,2.25,Non,Non,Non,Oui,Non,,,[],True
+4d645abb55698fce,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Paraguay,Korea Republic,0,1,3.13,3.78,2.1,1.68,1.32,1.23,1.53,2.46,1.5,2.55,Non,Non,Non,Non,Oui,Away,28,[28],True
+ea3c76e470b8e496,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Cabo Verde,Ecuador,1,3,3.19,3.73,2.09,1.69,1.31,1.24,1.57,2.37,1.53,2.47,Oui,Oui,Non,Non,Oui,Home,61,"[12, 32, 57, 61]",True
+7a96faacca2f9768,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,USA,Spain,1,4,5.64,4.69,1.49,2.51,1.11,1.16,1.41,2.85,1.59,2.32,Oui,Oui,Non,Non,Oui,Away,83,"[1, 26, 50, 76, 83]",True
+c0718e5afdf1d19c,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Haiti,Argentina,0,3,11.08,6.54,1.22,4.04,1.01,1.08,1.33,3.26,1.89,1.89,Oui,Non,Non,Non,Oui,Away,86,"[12, 53, 86]",True
+31fc2d3afd3d27f4,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Ghana,Portugal,0,3,5.86,5.05,1.45,2.66,1.1,1.14,1.33,3.27,1.54,2.43,Oui,Non,Non,Non,Oui,Away,59,"[12, 16, 59]",True
+072029658fc3f27e,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Uruguay,Australia,2,0,1.83,3.94,3.83,1.23,1.91,1.22,1.52,2.48,1.54,2.45,Non,Non,Oui,Non,Non,Home,63,"[58, 63]",True
+3f250165478339c3,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Morocco,Colombia,2,0,1.88,3.53,4.1,1.2,1.86,1.26,1.83,1.95,1.75,2.04,Non,Non,Oui,Non,Non,Home,35,"[15, 35]",True
+348a4220960cb687,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,South Africa,Turkiye,1,4,3.29,3.74,2.04,1.72,1.3,1.24,1.57,2.36,1.53,2.45,Oui,Oui,Non,Non,Oui,Away,80,"[31, 42, 43, 68, 80]",True
+5d0bd12b4d89642b,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Panama,Croatia,0,0,5.03,3.91,1.65,2.16,1.14,1.22,1.69,2.13,1.74,2.06,Non,Non,Non,Oui,Non,,,[],True
+8a03f3dc274cb63b,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,England,Norway,1,0,1.89,4.05,3.51,1.27,1.84,1.21,1.43,2.77,1.45,2.68,Non,Non,Oui,Non,Non,Home,79,[79],True
+58065b30b5023840,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Iraq,Brazil,2,2,5.35,4.7,1.52,2.45,1.12,1.16,1.38,2.98,1.55,2.42,Oui,Oui,Non,Oui,Non,Away,88,"[27, 38, 57, 88]",True
+36c3a239396ca985,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Saudi Arabia,Cote d'Ivoire,1,2,3.45,3.82,1.97,1.78,1.27,1.23,1.54,2.44,1.52,2.48,Oui,Oui,Non,Non,Oui,Away,75,"[28, 55, 75]",True
+4eed5d75105b25cb,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Senegal,Netherlands,1,2,2.67,3.79,2.37,1.54,1.43,1.23,1.49,2.56,1.46,2.66,Oui,Oui,Non,Non,Oui,Away,40,"[38, 39, 40]",True
+d3b078a106998f6e,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Mexico,New Zealand,1,0,1.58,4.25,5.21,1.13,2.3,1.19,1.53,2.45,1.65,2.2,Non,Non,Oui,Non,Non,Home,22,[22],True
+bfbcca2d73c5efb4,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Jordan,Curacao,2,0,1.83,3.65,4.16,1.2,1.91,1.25,1.75,2.05,1.71,2.11,Non,Non,Oui,Non,Non,Home,89,"[89, 89]",True
+8f361352ae64d1c5,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Algeria,Sweden,3,2,2.96,3.67,2.22,1.61,1.36,1.25,1.58,2.33,1.53,2.47,Oui,Oui,Oui,Non,Non,Home,90,"[43, 44, 45, 46, 90]",True
+50841606f68f7287,coupe-du-monde,164957,44,2026-09-09T22:01:18Z,Qatar,Germany,1,3,3.94,4.3,1.74,2.02,1.22,1.19,1.37,3.01,1.45,2.71,Oui,Oui,Non,Non,Oui,Away,84,"[20, 49, 55, 84]",True
+302bb24aa838ecc7,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Saudi Arabia,Sweden,2,2,3.73,3.73,1.91,1.83,1.24,1.24,1.63,2.24,1.6,2.31,Oui,Oui,Non,Oui,Non,Away,81,"[18, 42, 58, 81]",True
+83f65c56a102cc9b,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Cabo Verde,Colombia,0,2,4.0,4.02,1.78,1.97,1.21,1.21,1.5,2.54,1.54,2.45,Non,Non,Non,Non,Oui,Away,81,"[69, 81]",True
+16255a008a45507c,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Austria,Brazil,2,0,3.68,4.11,1.84,1.9,1.25,1.2,1.42,2.8,1.46,2.66,Non,Non,Oui,Non,Non,Home,35,"[4, 35]",True
+2b71abdda1201f09,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Congo DR,Canada,1,1,3.2,3.7,2.09,1.68,1.31,1.24,1.59,2.33,1.54,2.44,Non,Oui,Non,Oui,Non,Home,65,"[58, 65]",True
+3b7e0cb34913684a,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Algeria,Egypt,0,3,2.88,3.54,2.33,1.56,1.38,1.26,1.68,2.16,1.58,2.34,Oui,Non,Non,Non,Oui,Away,81,"[57, 66, 81]",True
+0a3a0ec05ea628c4,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Tunisia,New Zealand,3,0,1.99,3.51,3.67,1.25,1.76,1.27,1.78,2.01,1.69,2.14,Oui,Non,Oui,Non,Non,Home,71,"[10, 63, 71]",True
+e958a5d923fd5089,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Morocco,Japan,1,0,1.93,3.42,4.0,1.21,1.81,1.28,1.92,1.86,1.8,1.99,Non,Non,Oui,Non,Non,Home,30,[30],True
+79c760dd5ee61083,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Jordan,Scotland,1,0,3.15,3.64,2.14,1.66,1.32,1.25,1.62,2.26,1.56,2.4,Non,Non,Oui,Non,Non,Home,63,[63],True
+1ac0cd783c3180d4,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Mexico,Cote d'Ivoire,0,2,2.12,3.86,3.04,1.34,1.67,1.23,1.47,2.62,1.46,2.67,Non,Non,Non,Non,Oui,Away,75,"[60, 75]",True
+4abe69f46405515d,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,England,Germany,2,0,2.03,4.17,3.05,1.34,1.73,1.2,1.33,3.22,1.37,3.03,Non,Non,Oui,Non,Non,Home,62,"[23, 62]",True
+8714758113049194,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Bosnia-Herzegovina,Spain,2,1,8.96,5.42,1.31,3.32,1.03,1.12,1.45,2.72,1.86,1.91,Oui,Oui,Oui,Non,Non,Home,69,"[19, 56, 69]",True
+6c243371f55cac94,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,South Africa,Korea Republic,0,1,3.73,3.87,1.87,1.86,1.24,1.22,1.55,2.42,1.54,2.42,Non,Non,Non,Non,Oui,Away,65,[65],True
+cd93e7af15724174,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Qatar,Ghana,2,0,2.19,3.69,3.0,1.35,1.62,1.24,1.57,2.36,1.52,2.49,Non,Non,Oui,Non,Non,Home,26,"[17, 26]",True
+4f56a000b2810f61,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Curacao,Belgium,1,2,8.81,5.23,1.32,3.22,1.04,1.13,1.49,2.58,1.89,1.88,Oui,Oui,Non,Non,Oui,Away,70,"[44, 45, 70]",True
+5cd4fb9bc5f8abde,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Switzerland,Ecuador,0,2,1.97,3.66,3.59,1.26,1.78,1.25,1.66,2.18,1.61,2.28,Non,Non,Non,Non,Oui,Away,86,"[32, 86]",True
+81e24ebf0c53e741,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,IR Iran,Netherlands,0,2,3.27,3.94,2.0,1.75,1.3,1.22,1.46,2.67,1.46,2.67,Non,Non,Non,Non,Oui,Away,70,"[3, 70]",True
+0e31e90db654f3d5,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,USA,Turkiye,1,1,2.1,3.98,3.01,1.35,1.68,1.21,1.42,2.83,1.42,2.8,Non,Oui,Non,Oui,Non,Away,70,"[39, 70]",True
+aec807aa4b958891,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Paraguay,Argentina,1,4,6.31,5.13,1.42,2.78,1.09,1.13,1.34,3.17,1.59,2.33,Oui,Oui,Non,Non,Oui,Away,90,"[24, 35, 37, 86, 90]",True
+c4b426fafe266475,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Panama,Norway,1,2,4.94,4.09,1.63,2.19,1.14,1.2,1.58,2.34,1.66,2.18,Oui,Oui,Non,Non,Oui,Away,82,"[33, 36, 82]",True
+52776ca2af8406bd,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Haiti,Iraq,1,3,3.79,3.67,1.91,1.83,1.23,1.25,1.68,2.15,1.64,2.23,Oui,Oui,Non,Non,Oui,Away,83,"[10, 32, 63, 83]",True
+bc54b17d1ad0f2ab,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Senegal,Czechia,1,1,2.12,3.65,3.19,1.31,1.67,1.25,1.62,2.27,1.55,2.4,Non,Oui,Non,Oui,Non,Away,51,"[49, 51]",True
+94c04543469f6065,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,France,Australia,3,0,1.47,4.86,5.83,1.1,2.6,1.15,1.37,3.01,1.58,2.35,Oui,Non,Oui,Non,Non,Home,68,"[50, 67, 68]",True
+ecb5b38e2f845048,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Uruguay,Croatia,3,3,2.17,3.65,3.07,1.34,1.64,1.25,1.61,2.29,1.54,2.43,Oui,Oui,Non,Oui,Non,Away,86,"[3, 20, 23, 56, 62, 86]",True
+0d2102b0d939e96f,coupe-du-monde,164957,46,2026-09-09T22:05:18Z,Uzbekistan,Portugal,2,2,5.63,4.83,1.48,2.55,1.11,1.15,1.37,3.04,1.56,2.4,Oui,Oui,Non,Oui,Non,Away,86,"[43, 44, 60, 86]",True
+21b5717836850623,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Brazil,South Africa,2,3,1.43,4.9,6.35,1.09,2.72,1.15,1.4,2.88,1.63,2.23,Oui,Oui,Non,Non,Oui,Home,77,"[33, 34, 42, 69, 77]",True
+1d3ef1d9085ca13e,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Japan,Panama,0,0,1.6,4.07,5.23,1.13,2.25,1.21,1.62,2.25,1.71,2.1,Non,Non,Non,Oui,Non,,,[],True
+d7c442835995feeb,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Germany,Switzerland,2,1,2.34,3.75,2.73,1.42,1.55,1.24,1.52,2.5,1.47,2.62,Oui,Oui,Oui,Non,Non,Home,89,"[68, 82, 89]",True
+05575e97069d436b,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Australia,Canada,2,2,2.34,3.75,2.73,1.41,1.55,1.24,1.52,2.49,1.48,2.62,Oui,Oui,Non,Oui,Non,Home,83,"[4, 33, 37, 83]",True
+a96ca2fe0007efb6,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Spain,Congo DR,3,1,1.28,5.62,9.84,1.02,3.51,1.11,1.45,2.71,1.93,1.84,Oui,Oui,Oui,Non,Non,Home,83,"[28, 41, 68, 83]",True
+e309d9fdfa403383,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,New Zealand,Belgium,0,3,6.1,4.5,1.48,2.54,1.1,1.17,1.52,2.49,1.71,2.11,Oui,Non,Non,Non,Oui,Away,79,"[3, 31, 79]",True
+90180846997a9ecf,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Ecuador,France,1,0,5.58,4.83,1.48,2.54,1.11,1.15,1.36,3.06,1.55,2.4,Non,Non,Oui,Non,Non,Home,70,[70],True
+ce71ae8349e209f7,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Czechia,Curacao,1,2,1.56,4.2,5.51,1.12,2.34,1.19,1.59,2.32,1.71,2.1,Oui,Oui,Non,Non,Oui,Home,87,"[14, 45, 87]",True
+ffe2fa3dab9711d9,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Egypt,USA,1,3,2.77,3.73,2.32,1.56,1.4,1.24,1.53,2.45,1.49,2.58,Oui,Oui,Non,Non,Oui,Away,77,"[33, 36, 76, 77]",True
+d3c07c8daffaed3e,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Qatar,Morocco,1,3,6.09,3.96,1.55,2.36,1.1,1.22,1.79,1.99,1.91,1.86,Oui,Oui,Non,Non,Oui,Away,77,"[31, 47, 66, 77]",True
+5a0219cf04c312fc,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Iraq,Algeria,3,2,3.09,3.59,2.18,1.63,1.33,1.26,1.65,2.2,1.57,2.36,Oui,Oui,Oui,Non,Non,Home,64,"[24, 35, 49, 59, 64]",True
+87aa92300e6166ca,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Haiti,Paraguay,0,3,4.13,3.78,1.81,1.94,1.2,1.23,1.65,2.2,1.64,2.22,Oui,Non,Non,Non,Oui,Away,33,"[4, 20, 33]",True
+82c5c8c002c6cb12,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Ghana,Cabo Verde,3,1,2.73,3.54,2.43,1.51,1.41,1.26,1.67,2.17,1.57,2.36,Oui,Oui,Oui,Non,Non,Home,68,"[31, 43, 60, 68]",True
+f004f92828d66864,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Turkiye,Tunisia,2,3,2.54,3.56,2.59,1.46,1.47,1.26,1.65,2.21,1.56,2.4,Oui,Oui,Non,Non,Oui,Home,63,"[29, 34, 45, 55, 63]",True
+64648267b543ab7f,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Croatia,IR Iran,1,1,2.34,3.49,2.89,1.37,1.55,1.27,1.71,2.1,1.6,2.29,Non,Oui,Non,Oui,Non,Home,75,"[49, 75]",True
+3dc3cb5857d23fe8,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Norway,Senegal,2,2,2.46,3.69,2.61,1.45,1.5,1.24,1.55,2.4,1.5,2.55,Oui,Oui,Non,Oui,Non,Away,86,"[43, 44, 47, 86]",True
+71be17a3516f661a,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Netherlands,Scotland,3,1,1.8,4.18,3.75,1.24,1.94,1.2,1.4,2.9,1.45,2.7,Oui,Oui,Oui,Non,Non,Home,86,"[41, 42, 85, 86]",True
+2592e6665db37871,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Korea Republic,Mexico,1,2,2.99,3.81,2.16,1.64,1.35,1.23,1.5,2.55,1.47,2.63,Oui,Oui,Non,Non,Oui,Home,28,"[19, 28, 28]",True
+269ee75a8c605439,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Portugal,Austria,3,1,1.85,4.17,3.58,1.26,1.89,1.2,1.39,2.95,1.43,2.76,Oui,Oui,Oui,Non,Non,Home,86,"[21, 28, 70, 86]",True
+59941681c1c5a59f,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Colombia,Uruguay,1,4,3.05,3.79,2.14,1.66,1.34,1.23,1.52,2.49,1.49,2.57,Oui,Oui,Non,Non,Oui,Away,63,"[27, 35, 41, 55, 63]",True
+3b85bb8c03a2e582,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Sweden,Bosnia-Herzegovina,1,2,1.91,3.85,3.63,1.25,1.83,1.23,1.54,2.43,1.54,2.45,Oui,Oui,Non,Non,Oui,Home,84,"[10, 74, 84]",True
+f674aad7ddfb9dab,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Uzbekistan,England,2,3,6.42,4.87,1.43,2.72,1.09,1.15,1.42,2.83,1.65,2.21,Oui,Oui,Non,Non,Oui,Home,63,"[44, 45, 58, 61, 63]",True
+c81006b15fbad2c3,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Cote d'Ivoire,Jordan,0,2,2.06,3.64,3.33,1.29,1.71,1.25,1.64,2.22,1.58,2.34,Non,Non,Non,Non,Oui,Away,26,"[22, 26]",True
+933660ef297d1a34,coupe-du-monde,164957,49,2026-09-09T22:11:18Z,Argentina,Saudi Arabia,3,0,1.34,5.48,7.59,1.06,3.12,1.12,1.35,3.15,1.67,2.16,Oui,Non,Oui,Non,Non,Home,74,"[13, 26, 74]",True
+5c28256547a34267,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Haiti,South Africa,1,1,3.3,3.52,2.11,1.67,1.3,1.26,1.73,2.08,1.63,2.24,Non,Oui,Non,Oui,Non,Away,46,"[18, 46]",True
+e2cc3e8e5ddf3f0c,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Ghana,Switzerland,0,6,4.76,3.96,1.67,2.12,1.15,1.22,1.63,2.24,1.68,2.15,Oui,Non,Non,Non,Oui,Away,77,"[7, 43, 44, 59, 68, 77]",True
+e60da26c20b49114,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Cote d'Ivoire,Belgium,1,1,3.2,3.82,2.06,1.71,1.31,1.23,1.51,2.5,1.49,2.57,Non,Oui,Non,Oui,Non,Home,40,"[30, 40]",True
+eae86fe5a5869593,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Colombia,France,3,2,4.47,4.51,1.63,2.2,1.17,1.17,1.36,3.1,1.47,2.64,Oui,Oui,Oui,Non,Non,Away,90,"[24, 37, 43, 55, 90]",True
+9a3b3ee8c830562b,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Germany,Senegal,1,4,2.2,3.89,2.87,1.38,1.62,1.22,1.45,2.71,1.43,2.76,Oui,Oui,Non,Non,Oui,Home,87,"[15, 43, 70, 75, 87]",True
+a3b9140370282522,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Australia,New Zealand,1,1,1.74,3.94,4.34,1.18,2.03,1.22,1.58,2.33,1.61,2.27,Non,Oui,Non,Oui,Non,Home,59,"[59, 59]",True
+c787c94286fd17e5,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Norway,IR Iran,1,2,2.23,3.73,2.92,1.37,1.61,1.24,1.54,2.43,1.5,2.55,Oui,Oui,Non,Non,Oui,Away,51,"[15, 42, 51]",True
+9d863e00d7a38cd1,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Spain,Netherlands,3,0,1.7,4.23,4.23,1.19,2.07,1.19,1.43,2.76,1.51,2.53,Oui,Non,Oui,Non,Non,Home,80,"[36, 41, 80]",True
+de4442eb4d10d6e5,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Japan,Uruguay,1,3,3.05,3.69,2.17,1.64,1.34,1.24,1.58,2.34,1.53,2.47,Oui,Oui,Non,Non,Oui,Away,87,"[23, 47, 61, 87]",True
+a4b38a12b8b36c00,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Czechia,Scotland,2,1,2.36,3.71,2.73,1.42,1.54,1.24,1.55,2.42,1.5,2.56,Oui,Oui,Oui,Non,Non,Home,50,"[29, 48, 50]",True
+a6a02c118c426db5,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Brazil,USA,4,2,1.8,4.35,3.66,1.25,1.95,1.18,1.33,3.24,1.4,2.89,Oui,Oui,Oui,Non,Non,Home,67,"[21, 28, 28, 48, 65, 67]",True
+2062be06b6c60ab6,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Iraq,Saudi Arabia,2,1,2.46,3.57,2.69,1.43,1.5,1.26,1.64,2.21,1.56,2.4,Oui,Oui,Oui,Non,Non,Away,45,"[19, 35, 45]",True
+6b169d283a72f5b3,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Ecuador,Curacao,2,1,1.56,4.21,5.55,1.12,2.35,1.19,1.59,2.31,1.72,2.09,Oui,Oui,Oui,Non,Non,Home,88,"[19, 66, 88]",True
+2a3b83efa8b2a96f,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Turkiye,Congo DR,2,1,1.93,3.88,3.51,1.27,1.81,1.22,1.51,2.51,1.51,2.52,Oui,Oui,Oui,Non,Non,Away,77,"[64, 72, 77]",True
+2c8cb14f820fc7c0,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Qatar,Cabo Verde,1,1,2.41,3.6,2.73,1.42,1.52,1.26,1.62,2.26,1.54,2.44,Non,Oui,Non,Oui,Non,Home,51,"[48, 51]",True
+f3bc392b4dffad1d,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Sweden,Jordan,2,3,1.96,3.65,3.63,1.25,1.79,1.25,1.67,2.17,1.61,2.27,Oui,Oui,Non,Non,Oui,Home,61,"[24, 29, 46, 53, 61]",True
+3cc6000c1740cebd,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Uzbekistan,Panama,3,1,2.33,3.5,2.9,1.37,1.56,1.27,1.71,2.1,1.6,2.3,Oui,Oui,Oui,Non,Non,Home,88,"[26, 74, 76, 88]",True
+9ff0263119c94a10,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Croatia,Canada,0,1,1.96,3.81,3.48,1.27,1.79,1.23,1.55,2.4,1.53,2.45,Non,Non,Non,Non,Oui,Away,28,[28],True
+b497cd19375ac953,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Morocco,England,2,1,2.43,3.36,2.86,1.38,1.52,1.29,1.83,1.95,1.67,2.17,Oui,Oui,Oui,Non,Non,Home,88,"[64, 82, 88]",True
+15cca605f930d20d,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Argentina,Mexico,2,3,1.75,4.3,3.92,1.22,2.01,1.19,1.37,3.02,1.44,2.73,Oui,Oui,Non,Non,Oui,Away,84,"[1, 4, 39, 46, 84]",True
+21ebf6d845c3f660,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Portugal,Paraguay,2,2,1.54,4.65,5.07,1.14,2.38,1.16,1.37,3.04,1.52,2.5,Oui,Oui,Non,Oui,Non,Away,89,"[41, 44, 46, 89]",True
+b1f6ebfbb859e85c,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Egypt,Bosnia-Herzegovina,3,0,2.09,3.62,3.29,1.3,1.69,1.25,1.66,2.19,1.59,2.33,Oui,Non,Oui,Non,Non,Home,82,"[29, 50, 82]",True
+115a59783a146d20,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Korea Republic,Tunisia,2,1,2.33,3.49,2.91,1.37,1.56,1.27,1.71,2.1,1.6,2.29,Oui,Oui,Oui,Non,Non,Home,90,"[24, 36, 90]",True
+a21969404db1becc,coupe-du-monde,164957,51,2026-09-09T22:15:18Z,Austria,Algeria,2,2,2.24,3.68,2.92,1.37,1.6,1.25,1.57,2.36,1.52,2.5,Oui,Oui,Non,Oui,Non,Home,86,"[42, 53, 83, 86]",True
+07c3fb2128257469,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Mexico,Haiti,3,0,1.52,4.4,5.73,1.11,2.44,1.18,1.52,2.48,1.68,2.15,Oui,Non,Oui,Non,Non,Home,77,"[46, 47, 77]",True
+4286ff2ce360c260,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,France,Ghana,1,1,1.31,5.65,8.31,1.04,3.3,1.11,1.36,3.1,1.73,2.07,Non,Oui,Non,Oui,Non,Home,70,"[22, 70]",True
+32339ea7bb984744,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Tunisia,Brazil,2,1,4.78,4.21,1.63,2.2,1.15,1.19,1.51,2.53,1.6,2.31,Oui,Oui,Oui,Non,Non,Away,55,"[19, 20, 55]",True
+669eb27de8fd6f60,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Congo DR,Egypt,2,1,3.64,3.67,1.95,1.79,1.25,1.25,1.66,2.19,1.61,2.28,Oui,Oui,Oui,Non,Non,Home,90,"[22, 23, 90]",True
+11e085c1cf3c5dad,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Curacao,Germany,0,4,8.68,5.66,1.3,3.36,1.04,1.11,1.38,3.0,1.78,2.01,Oui,Non,Non,Non,Oui,Away,88,"[30, 52, 88, 88]",True
+783e8a3657d8b0cc,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Scotland,Norway,1,4,3.27,3.96,1.99,1.76,1.3,1.22,1.45,2.71,1.46,2.68,Oui,Oui,Non,Non,Oui,Away,89,"[26, 33, 50, 54, 89]",True
+7f3ba1a30d0cc951,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Cabo Verde,Portugal,3,2,5.5,4.73,1.5,2.5,1.12,1.16,1.39,2.95,1.56,2.38,Oui,Oui,Oui,Non,Non,Away,83,"[31, 33, 34, 65, 83]",True
+e0e401ee3cb71515,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Spain,Croatia,3,2,1.62,4.1,5.01,1.14,2.21,1.2,1.58,2.34,1.67,2.17,Oui,Oui,Oui,Non,Non,Away,77,"[4, 22, 30, 76, 77]",True
+09f0ff645561fd11,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Panama,England,0,4,7.85,5.15,1.35,3.05,1.05,1.13,1.44,2.72,1.78,2.01,Oui,Non,Non,Non,Oui,Away,75,"[10, 49, 70, 75]",True
+feea0a7ddcf66305,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Saudi Arabia,Paraguay,0,4,2.84,3.64,2.31,1.56,1.39,1.25,1.6,2.31,1.53,2.47,Oui,Non,Non,Non,Oui,Away,85,"[18, 46, 70, 85]",True
+7df907330801e2b0,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Canada,Colombia,0,2,3.47,4.0,1.92,1.82,1.27,1.21,1.45,2.7,1.47,2.65,Non,Non,Non,Non,Oui,Away,38,"[1, 38]",True
+a6c0e71893d51545,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Belgium,Korea Republic,1,4,1.95,3.86,3.47,1.27,1.8,1.22,1.52,2.48,1.51,2.5,Oui,Oui,Non,Non,Oui,Away,72,"[30, 42, 68, 71, 72]",True
+3c5d4838e91ea8bf,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,USA,Austria,0,0,2.64,3.83,2.38,1.53,1.44,1.23,1.47,2.63,1.45,2.72,Non,Non,Non,Oui,Non,,,[],True
+e2b896a7960bad9a,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Jordan,Argentina,2,0,6.73,4.95,1.41,2.8,1.08,1.14,1.42,2.81,1.68,2.16,Non,Non,Oui,Non,Non,Home,49,"[9, 49]",True
+4035daa5552436d2,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Switzerland,Morocco,1,3,3.7,3.11,2.14,1.66,1.24,1.33,2.22,1.64,1.95,1.83,Oui,Oui,Non,Non,Oui,Away,89,"[10, 46, 79, 89]",True
+c2e1a666d799a398,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Australia,Turkiye,2,1,2.35,3.84,2.68,1.43,1.55,1.23,1.47,2.65,1.44,2.73,Oui,Oui,Oui,Non,Non,Away,88,"[75, 80, 88]",True
+3d7830cd915a273b,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Netherlands,Sweden,2,1,2.04,3.93,3.17,1.32,1.72,1.22,1.45,2.69,1.45,2.7,Oui,Oui,Oui,Non,Non,Away,72,"[31, 55, 72]",True
+c45ffa9f383ffc33,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Senegal,Uzbekistan,1,2,1.77,3.87,4.24,1.19,1.99,1.22,1.61,2.28,1.62,2.26,Oui,Oui,Non,Non,Oui,Away,62,"[22, 23, 62]",True
+6fc6da0751955f20,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Bosnia-Herzegovina,Iraq,2,1,2.65,3.52,2.51,1.48,1.44,1.27,1.68,2.16,1.57,2.35,Oui,Oui,Oui,Non,Non,Away,87,"[66, 83, 87]",True
+549f8d2fe614826b,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,New Zealand,Ecuador,2,2,4.01,3.89,1.81,1.94,1.21,1.22,1.57,2.36,1.58,2.34,Oui,Oui,Non,Oui,Non,Away,74,"[16, 40, 69, 74]",True
+3cd591d26023ca64,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Uruguay,Qatar,2,0,1.71,4.1,4.34,1.18,2.07,1.2,1.5,2.54,1.56,2.39,Non,Non,Oui,Non,Non,Home,89,"[49, 89]",True
+c02282db4715eafe,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,South Africa,Algeria,2,0,3.5,3.64,2.0,1.75,1.27,1.25,1.66,2.18,1.6,2.29,Non,Non,Oui,Non,Non,Home,66,"[58, 66]",True
+f40e4fb342c65b90,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,Czechia,Cote d'Ivoire,2,1,2.61,3.69,2.46,1.5,1.45,1.24,1.55,2.4,1.5,2.55,Oui,Oui,Oui,Non,Non,Home,86,"[5, 72, 86]",True
+2e4d9a67ccea1265,coupe-du-monde,164957,54,2026-09-09T22:21:18Z,IR Iran,Japan,0,1,3.2,3.61,2.13,1.66,1.31,1.25,1.65,2.21,1.57,2.35,Non,Non,Non,Non,Oui,Away,50,[50],True
+1d1651ca7c900e17,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Tunisia,Haiti,2,4,1.77,3.66,4.5,1.17,1.98,1.25,1.79,1.99,1.76,2.03,Oui,Oui,Non,Non,Oui,Away,68,"[35, 41, 42, 58, 65, 68]",True
+e821b38fe2aad903,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Czechia,Sweden,3,1,2.82,3.68,2.3,1.57,1.39,1.24,1.57,2.37,1.51,2.52,Oui,Oui,Oui,Non,Non,Home,72,"[20, 35, 46, 72]",True
+ba1fdfe7a24e68de,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Netherlands,Egypt,2,0,1.97,3.93,3.35,1.29,1.77,1.22,1.47,2.64,1.47,2.63,Non,Non,Oui,Non,Non,Home,55,"[16, 55]",True
+596be29f2cc84333,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,New Zealand,Colombia,0,2,5.11,4.35,1.58,2.31,1.14,1.18,1.48,2.61,1.6,2.3,Non,Non,Non,Non,Oui,Away,60,"[56, 60]",True
+1d6aef48753682d0,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Belgium,Argentina,2,2,3.44,4.11,1.9,1.84,1.28,1.2,1.39,2.92,1.43,2.78,Oui,Oui,Non,Oui,Non,Away,90,"[17, 86, 89, 90]",True
+44eef44b8dd0a1bc,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Bosnia-Herzegovina,Austria,0,4,3.84,3.88,1.85,1.89,1.23,1.22,1.55,2.4,1.56,2.4,Oui,Non,Non,Non,Oui,Away,77,"[3, 7, 15, 77]",True
+8cda8da406c1992c,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Saudi Arabia,South Africa,1,0,2.47,3.57,2.66,1.43,1.5,1.26,1.63,2.24,1.55,2.42,Non,Non,Oui,Non,Non,Home,24,[24],True
+901ea1de2571dd17,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,IR Iran,Uzbekistan,1,1,2.03,3.59,3.46,1.27,1.73,1.26,1.69,2.13,1.62,2.26,Non,Oui,Non,Oui,Non,Home,34,"[26, 34]",True
+b465268a77a201f0,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Croatia,Turkiye,1,0,2.06,3.79,3.22,1.31,1.71,1.23,1.53,2.46,1.5,2.53,Non,Non,Oui,Non,Non,Home,12,[12],True
+a44d23ca8e06b3c6,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Panama,Portugal,0,4,7.08,5.15,1.38,2.93,1.07,1.13,1.39,2.92,1.68,2.15,Oui,Non,Non,Non,Oui,Away,89,"[44, 75, 85, 89]",True
+28b6d06e41f1b6fa,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Australia,Korea Republic,0,0,2.46,3.72,2.6,1.45,1.5,1.24,1.53,2.46,1.48,2.59,Non,Non,Non,Oui,Non,,,[],True
+5e73fdd3e3d6c6d9,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,USA,Algeria,2,1,2.24,3.83,2.85,1.39,1.6,1.23,1.48,2.6,1.46,2.68,Oui,Oui,Oui,Non,Non,Home,87,"[49, 61, 87]",True
+f89146a2fa176347,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Senegal,Morocco,2,2,4.08,3.32,1.95,1.8,1.2,1.29,2.03,1.76,1.87,1.9,Oui,Oui,Non,Oui,Non,Home,85,"[13, 45, 63, 85]",True
+245ee06854615602,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Scotland,Germany,2,3,3.86,4.34,1.75,2.01,1.23,1.18,1.35,3.13,1.43,2.79,Oui,Oui,Non,Non,Oui,Away,89,"[19, 33, 35, 78, 89]",True
+04ea818a33ba1153,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Spain,Norway,1,4,1.69,4.17,4.37,1.18,2.09,1.2,1.47,2.62,1.54,2.43,Oui,Oui,Non,Non,Oui,Home,70,"[21, 26, 64, 70, 70]",True
+a75e8e23c2d7b3cd,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Switzerland,Cabo Verde,0,0,1.77,3.74,4.36,1.18,1.98,1.24,1.71,2.11,1.7,2.12,Non,Non,Non,Oui,Non,,,[],True
+00fb70da19d8d6ba,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Uruguay,England,0,0,2.76,3.81,2.3,1.57,1.41,1.23,1.49,2.57,1.46,2.67,Non,Non,Non,Oui,Non,,,[],True
+861397d72dfbb63c,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Congo DR,Brazil,0,2,6.45,5.04,1.42,2.78,1.08,1.14,1.38,3.0,1.63,2.25,Non,Non,Non,Non,Oui,Away,41,"[20, 41]",True
+ad349750d2ba36dc,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Curacao,Ghana,1,0,4.34,3.81,1.76,1.99,1.18,1.23,1.66,2.18,1.67,2.18,Non,Non,Oui,Non,Non,Home,5,[5],True
+5b185139dc45b149,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Canada,Japan,0,2,3.57,3.9,1.91,1.83,1.26,1.22,1.51,2.51,1.51,2.51,Non,Non,Non,Non,Oui,Away,88,"[88, 88]",True
+b1005742c6647a89,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Jordan,Iraq,2,2,2.7,3.46,2.49,1.49,1.42,1.27,1.73,2.08,1.61,2.29,Oui,Oui,Non,Oui,Non,Home,70,"[28, 40, 67, 70]",True
+9d7cdead08ff70de,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Mexico,Paraguay,0,0,1.85,3.95,3.74,1.24,1.88,1.22,1.51,2.53,1.52,2.49,Non,Non,Non,Oui,Non,,,[],True
+4fa741d7b8230827,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,France,Qatar,0,1,1.4,5.12,6.61,1.08,2.83,1.14,1.36,3.06,1.62,2.26,Non,Non,Non,Non,Oui,Away,58,[58],True
+c1a6b43065b37b21,coupe-du-monde,164957,56,2026-09-09T22:25:18Z,Cote d'Ivoire,Ecuador,4,2,2.53,3.79,2.49,1.49,1.48,1.23,1.49,2.58,1.45,2.69,Oui,Oui,Oui,Non,Non,Away,66,"[4, 14, 41, 49, 60, 66]",True
+86bcb85ec7605d18,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Uzbekistan,Scotland,0,3,3.12,3.8,2.1,1.68,1.33,1.23,1.52,2.5,1.49,2.57,Oui,Non,Non,Non,Oui,Away,76,"[67, 75, 76]",True
+5c42ccfca169f55d,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Korea Republic,Ecuador,1,0,2.43,3.77,2.61,1.45,1.51,1.24,1.5,2.53,1.47,2.65,Non,Non,Oui,Non,Non,Home,5,[5],True
+ceb7e9178429e434,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Panama,Senegal,1,1,5.22,4.03,1.61,2.23,1.13,1.21,1.65,2.21,1.73,2.08,Non,Oui,Non,Oui,Non,Home,68,"[2, 68]",True
+59c7690595afcc7d,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Saudi Arabia,Mexico,2,1,4.03,3.98,1.78,1.97,1.21,1.21,1.52,2.48,1.55,2.41,Oui,Oui,Oui,Non,Non,Home,80,"[31, 50, 80]",True
+7f4cbfcea38842ac,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Iraq,Netherlands,0,0,4.19,4.18,1.72,2.06,1.19,1.2,1.45,2.69,1.52,2.5,Non,Non,Non,Oui,Non,,,[],True
+1433416d17244c36,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Austria,Congo DR,1,0,1.74,3.96,4.29,1.19,2.02,1.22,1.57,2.37,1.6,2.3,Non,Non,Oui,Non,Non,Home,12,[12],True
+98dbd9e1504bfbaf,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Haiti,Belgium,1,1,7.62,4.95,1.38,2.95,1.06,1.14,1.49,2.58,1.8,1.98,Non,Oui,Non,Oui,Non,Away,51,"[16, 51]",True
+258a0f0d099cf159,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Egypt,Croatia,1,2,3.15,3.55,2.17,1.64,1.32,1.26,1.69,2.13,1.6,2.3,Oui,Oui,Non,Non,Oui,Home,51,"[37, 44, 51]",True
+e7991c3d110379d6,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,England,IR Iran,3,0,1.73,4.03,4.27,1.19,2.03,1.21,1.53,2.47,1.57,2.36,Oui,Non,Oui,Non,Non,Home,82,"[42, 47, 82]",True
+8a162866131e25d6,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Switzerland,Uruguay,1,1,2.98,3.55,2.26,1.59,1.35,1.26,1.67,2.17,1.58,2.34,Non,Oui,Non,Oui,Non,Away,69,"[64, 69]",True
+f2530bc30a4b4204,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,South Africa,Bosnia-Herzegovina,0,3,2.73,3.57,2.42,1.52,1.41,1.26,1.64,2.21,1.56,2.4,Oui,Non,Non,Non,Oui,Away,40,"[6, 13, 40]",True
+72dda9a670a1b281,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Norway,Sweden,0,1,2.32,3.76,2.75,1.41,1.56,1.24,1.51,2.52,1.47,2.63,Non,Non,Non,Non,Oui,Away,25,[25],True
+409fa283a340abe6,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Cabo Verde,France,1,4,7.92,5.34,1.34,3.13,1.05,1.12,1.4,2.9,1.74,2.06,Oui,Oui,Non,Non,Oui,Away,80,"[28, 33, 39, 55, 80]",True
+3423d2a2ba54819c,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Japan,Spain,1,2,4.61,4.12,1.67,2.13,1.16,1.2,1.53,2.47,1.6,2.31,Oui,Oui,Non,Non,Oui,Home,86,"[16, 23, 86]",True
+400fa403758e019b,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Paraguay,Jordan,1,2,2.32,3.58,2.86,1.38,1.56,1.26,1.64,2.22,1.56,2.4,Oui,Oui,Non,Non,Oui,Away,43,"[10, 24, 43]",True
+9c2330c3f6ff282d,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Germany,Cote d'Ivoire,2,1,1.87,4.13,3.54,1.26,1.87,1.2,1.4,2.9,1.44,2.75,Oui,Oui,Oui,Non,Non,Home,64,"[11, 61, 64]",True
+ccefe6f482f470ff,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Qatar,Canada,1,2,2.46,3.83,2.55,1.47,1.5,1.23,1.46,2.65,1.44,2.74,Oui,Oui,Non,Non,Oui,Away,62,"[19, 34, 62]",True
+1cf5beca34f92097,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Colombia,Turkiye,2,1,1.96,4.02,3.32,1.29,1.79,1.21,1.42,2.79,1.44,2.73,Oui,Oui,Oui,Non,Non,Home,52,"[16, 34, 52]",True
+204a504b92b19a82,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Brazil,Australia,3,1,1.76,4.3,3.85,1.23,1.99,1.19,1.37,3.05,1.43,2.76,Oui,Oui,Oui,Non,Non,Home,85,"[23, 47, 75, 85]",True
+f3b642d18de16e99,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Argentina,Czechia,1,2,1.53,4.64,5.28,1.13,2.42,1.16,1.39,2.96,1.54,2.43,Oui,Oui,Non,Non,Oui,Away,29,"[16, 19, 29]",True
+56aa6ccca7387b29,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Portugal,USA,2,3,1.82,4.32,3.57,1.26,1.92,1.18,1.33,3.23,1.4,2.91,Oui,Oui,Non,Non,Oui,Home,60,"[36, 42, 45, 57, 60]",True
+26c60b051ddeee83,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Algeria,Tunisia,1,2,2.52,3.39,2.71,1.42,1.48,1.28,1.79,1.99,1.64,2.21,Oui,Oui,Non,Non,Oui,Home,82,"[74, 77, 82]",True
+6bc5ea05173a1b21,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Morocco,Curacao,1,0,1.24,5.55,13.69,0.99,3.87,1.12,1.65,2.2,2.46,1.53,Non,Non,Oui,Non,Non,Home,47,[47],True
+0560e1202313fa4a,coupe-du-monde,164957,59,2026-09-09T22:31:18Z,Ghana,New Zealand,2,1,2.2,3.61,3.05,1.34,1.62,1.25,1.64,2.23,1.56,2.38,Oui,Oui,Oui,Non,Non,Home,75,"[42, 51, 75]",True
+bace425cecc2a71d,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Ghana,Cote d'Ivoire,2,0,3.35,3.8,2.01,1.75,1.29,1.23,1.54,2.43,1.52,2.49,Non,Non,Oui,Non,Non,Home,60,"[52, 60]",True
+542316e58b82a52c,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,England,Canada,1,0,1.55,4.52,5.18,1.13,2.37,1.17,1.42,2.82,1.56,2.39,Non,Non,Oui,Non,Non,Home,50,[50],True
+92e55a71faf85940,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Egypt,Norway,0,2,3.16,3.76,2.09,1.69,1.32,1.24,1.55,2.41,1.51,2.5,Non,Non,Non,Non,Oui,Away,31,"[25, 31]",True
+9b7e49ea155f1998,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Panama,IR Iran,0,3,3.87,3.62,1.9,1.84,1.22,1.25,1.73,2.08,1.67,2.17,Oui,Non,Non,Non,Oui,Away,80,"[61, 68, 80]",True
+125767c1e5026e10,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Qatar,New Zealand,2,1,1.92,3.8,3.61,1.25,1.82,1.23,1.57,2.36,1.56,2.4,Oui,Oui,Oui,Non,Non,Away,79,"[50, 51, 79]",True
+cf718aa28c769731,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Haiti,Australia,0,1,4.81,4.01,1.66,2.15,1.15,1.21,1.6,2.29,1.67,2.18,Non,Non,Non,Non,Oui,Away,87,[87],True
+c838515ebb514dc7,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Portugal,Mexico,2,0,1.89,4.2,3.43,1.28,1.85,1.19,1.36,3.07,1.41,2.86,Non,Non,Oui,Non,Non,Home,90,"[62, 90]",True
+1f6641e09d6a041f,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Uruguay,Senegal,0,0,2.14,3.63,3.16,1.32,1.66,1.25,1.63,2.25,1.56,2.39,Non,Non,Non,Oui,Non,,,[],True
+44c0af0ad9ecf451,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Cabo Verde,Curacao,4,1,1.82,3.7,4.18,1.2,1.93,1.24,1.71,2.1,1.68,2.14,Oui,Oui,Oui,Non,Non,Home,89,"[25, 45, 46, 59, 89]",True
+eeff53f52c9daaab,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,South Africa,Jordan,0,1,2.71,3.4,2.52,1.48,1.42,1.28,1.79,2.0,1.64,2.22,Non,Non,Non,Non,Oui,Away,48,[48],True
+1cc2fc6f244dedd9,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Germany,Sweden,0,5,2.01,3.96,3.24,1.31,1.75,1.22,1.44,2.73,1.45,2.71,Oui,Non,Non,Non,Oui,Away,89,"[28, 30, 71, 82, 89]",True
+084294615878fa58,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Uzbekistan,Spain,0,5,9.58,5.7,1.28,3.51,1.03,1.11,1.42,2.83,1.88,1.89,Oui,Non,Non,Non,Oui,Away,70,"[30, 39, 60, 61, 70]",True
+102d3841bf31d00d,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Iraq,Czechia,2,1,3.09,3.63,2.17,1.64,1.33,1.25,1.62,2.26,1.55,2.4,Oui,Oui,Oui,Non,Non,Away,63,"[16, 54, 63]",True
+532e041839ac41eb,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Argentina,Ecuador,2,1,1.57,4.6,4.9,1.15,2.33,1.16,1.37,3.02,1.51,2.51,Oui,Oui,Oui,Non,Non,Away,79,"[17, 70, 79]",True
+cb9a1185d9437779,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Switzerland,France,2,0,4.04,3.96,1.78,1.96,1.21,1.22,1.54,2.44,1.56,2.38,Non,Non,Oui,Non,Non,Home,71,"[67, 71]",True
+ebdcc392633de2c7,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Austria,Netherlands,2,3,2.86,3.97,2.18,1.63,1.38,1.21,1.41,2.86,1.41,2.85,Oui,Oui,Non,Non,Oui,Away,81,"[3, 14, 46, 49, 81]",True
+6e45b5122e00ed5f,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Brazil,Croatia,1,2,1.95,3.97,3.37,1.29,1.79,1.21,1.45,2.69,1.46,2.66,Oui,Oui,Non,Non,Oui,Home,82,"[21, 54, 82]",True
+1635aa8fa1c9327c,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Morocco,Scotland,2,0,1.62,3.82,5.51,1.12,2.21,1.23,1.82,1.96,1.87,1.9,Non,Non,Oui,Non,Non,Home,58,"[9, 58]",True
+42680b8d8b4838fc,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Colombia,Korea Republic,3,1,2.18,3.86,2.91,1.37,1.63,1.23,1.47,2.64,1.45,2.7,Oui,Oui,Oui,Non,Non,Home,82,"[39, 76, 78, 82]",True
+92bdc3a0d057dd0f,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,USA,Bosnia-Herzegovina,1,1,1.87,4.03,3.61,1.25,1.87,1.21,1.45,2.7,1.47,2.62,Non,Oui,Non,Oui,Non,Away,44,"[34, 44]",True
+bb7c5aa96802e3e8,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Algeria,Congo DR,0,3,1.95,3.73,3.57,1.26,1.79,1.24,1.61,2.29,1.57,2.36,Oui,Non,Non,Non,Oui,Away,87,"[5, 56, 87]",True
+8ac90f0ca666485f,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Paraguay,Belgium,1,2,4.1,4.04,1.76,2.0,1.2,1.21,1.5,2.53,1.54,2.42,Oui,Oui,Non,Non,Oui,Home,58,"[40, 49, 58]",True
+4522ff3777b0098a,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Saudi Arabia,Tunisia,0,3,3.04,3.43,2.27,1.58,1.34,1.28,1.78,2.01,1.65,2.21,Oui,Non,Non,Non,Oui,Away,90,"[26, 54, 90]",True
+74ff526f463504d9,coupe-du-monde,164957,61,2026-09-09T22:35:18Z,Japan,Turkiye,2,1,1.96,3.84,3.45,1.27,1.78,1.23,1.53,2.46,1.52,2.5,Oui,Oui,Oui,Non,Non,Home,83,"[74, 81, 83]",True
+03b399655e23d211,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,IR Iran,Senegal,1,3,3.04,3.53,2.23,1.6,1.34,1.26,1.69,2.13,1.6,2.31,Oui,Oui,Non,Non,Oui,Away,69,"[36, 40, 59, 69]",True
+b9d471b64d12b761,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Germany,Argentina,2,1,3.28,4.33,1.91,1.83,1.3,1.18,1.3,3.43,1.36,3.08,Oui,Oui,Oui,Non,Non,Away,70,"[27, 32, 70]",True
+eaea88991c04cd56,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Croatia,Austria,2,3,2.36,3.66,2.76,1.41,1.54,1.25,1.58,2.34,1.52,2.5,Oui,Oui,Non,Non,Oui,Away,75,"[26, 34, 48, 51, 75]",True
+8cf54bd6c0b6d7a3,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Netherlands,South Africa,1,2,1.56,4.45,5.15,1.13,2.34,1.18,1.45,2.72,1.58,2.34,Oui,Oui,Non,Non,Oui,Home,56,"[18, 25, 56]",True
+e1bba2df00679677,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Tunisia,Bosnia-Herzegovina,0,0,2.16,3.48,3.23,1.31,1.64,1.27,1.76,2.04,1.64,2.21,Non,Non,Non,Oui,Non,,,[],True
+4d2780bd6d839de0,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Sweden,Uzbekistan,3,0,1.9,3.83,3.68,1.25,1.84,1.23,1.56,2.38,1.55,2.41,Oui,Non,Oui,Non,Non,Home,43,"[22, 41, 43]",True
+53127ba3ef9c4b21,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Cote d'Ivoire,Morocco,1,4,5.08,3.7,1.69,2.1,1.14,1.24,1.84,1.94,1.85,1.93,Oui,Oui,Non,Non,Oui,Away,88,"[5, 23, 43, 75, 88]",True
+9b7c06f827c5830a,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Congo DR,USA,2,1,4.04,4.1,1.76,2.0,1.21,1.2,1.47,2.64,1.52,2.5,Oui,Oui,Oui,Non,Non,Home,85,"[42, 76, 85]",True
+e9254d49a1ba13df,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Australia,Algeria,1,1,2.39,3.64,2.72,1.42,1.53,1.25,1.59,2.33,1.52,2.49,Non,Oui,Non,Oui,Non,Home,77,"[69, 77]",True
+01a54734c66abe7c,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Korea Republic,Ghana,0,3,2.01,3.84,3.32,1.29,1.75,1.23,1.52,2.5,1.5,2.54,Oui,Non,Non,Non,Oui,Away,75,"[17, 73, 75]",True
+27bfdc4bfcfcd684,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Egypt,Japan,1,1,3.11,3.65,2.15,1.65,1.33,1.25,1.61,2.28,1.55,2.42,Non,Oui,Non,Oui,Non,Away,44,"[43, 44]",True
+941ab360cf0436f0,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Spain,England,1,1,2.06,3.82,3.2,1.31,1.71,1.23,1.51,2.51,1.49,2.57,Non,Oui,Non,Oui,Non,Home,54,"[53, 54]",True
+fb0348c75d8f9305,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Norway,Iraq,1,3,1.77,4.03,4.04,1.21,1.98,1.21,1.5,2.54,1.54,2.44,Oui,Oui,Non,Non,Oui,Home,73,"[18, 26, 27, 73]",True
+65553d84f81ad2e1,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Curacao,Uruguay,1,4,10.37,5.64,1.27,3.58,1.02,1.11,1.47,2.63,1.99,1.79,Oui,Oui,Non,Non,Oui,Away,82,"[44, 45, 70, 79, 82]",True
+a1ff555d983aa275,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Turkiye,Qatar,3,1,2.36,3.83,2.66,1.43,1.54,1.23,1.47,2.64,1.44,2.72,Oui,Oui,Oui,Non,Non,Away,85,"[16, 26, 52, 85]",True
+3af0e4d815ad0228,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Belgium,Saudi Arabia,3,2,1.67,4.11,4.61,1.16,2.13,1.2,1.53,2.47,1.6,2.31,Oui,Oui,Oui,Non,Non,Home,89,"[37, 41, 47, 81, 89]",True
+3f6b4dd7ec82ce85,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Colombia,Brazil,1,1,3.22,4.21,1.95,1.79,1.31,1.19,1.34,3.21,1.38,2.99,Non,Oui,Non,Oui,Non,Away,67,"[52, 67]",True
+7082559e3d45dee9,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Jordan,Mexico,0,1,4.19,3.92,1.77,1.99,1.19,1.22,1.58,2.34,1.6,2.3,Non,Non,Non,Non,Oui,Away,5,[5],True
+58d8d3bd31d4046c,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Canada,Switzerland,1,2,3.74,3.71,1.91,1.83,1.24,1.24,1.64,2.21,1.61,2.28,Oui,Oui,Non,Non,Oui,Away,79,"[44, 58, 79]",True
+9b76c7063009533b,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,New Zealand,Cabo Verde,0,1,3.28,3.57,2.1,1.68,1.3,1.26,1.69,2.14,1.61,2.29,Non,Non,Non,Non,Oui,Away,80,[80],True
+be644569a7074826,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,France,Portugal,3,1,2.0,4.2,3.11,1.33,1.75,1.19,1.33,3.26,1.37,3.04,Oui,Oui,Oui,Non,Non,Away,80,"[12, 30, 79, 80]",True
+279c7f8fadc09eb1,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Czechia,Paraguay,2,1,2.27,3.64,2.9,1.37,1.58,1.25,1.59,2.31,1.53,2.46,Oui,Oui,Oui,Non,Non,Home,77,"[58, 58, 77]",True
+23d73d8f384db636,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Ecuador,Haiti,1,2,1.62,4.15,4.95,1.14,2.22,1.2,1.55,2.42,1.64,2.23,Oui,Oui,Non,Non,Oui,Home,37,"[30, 34, 37]",True
+1a7eccc2a8b4a2bb,coupe-du-monde,164957,64,2026-09-09T22:41:18Z,Scotland,Panama,2,1,2.03,3.66,3.39,1.28,1.73,1.25,1.63,2.24,1.58,2.35,Oui,Oui,Oui,Non,Non,Home,69,"[3, 53, 69]",True
+a19c5b252a39977f,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Qatar,Egypt,3,0,2.96,3.67,2.22,1.61,1.36,1.25,1.59,2.33,1.53,2.47,Oui,Non,Oui,Non,Non,Home,80,"[30, 33, 80]",True
+dae42bafb02cf491,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Tunisia,Congo DR,1,1,2.11,3.4,3.43,1.28,1.68,1.28,1.85,1.93,1.71,2.1,Non,Oui,Non,Oui,Non,Away,90,"[12, 90]",True
+123450d57d4be5f3,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Portugal,Jordan,2,1,1.47,4.7,5.98,1.1,2.58,1.16,1.44,2.75,1.63,2.23,Oui,Oui,Oui,Non,Non,Away,60,"[26, 42, 60]",True
+9c602ee7401af3e7,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Switzerland,Spain,3,1,4.34,3.84,1.76,2.0,1.18,1.23,1.64,2.22,1.65,2.2,Oui,Oui,Oui,Non,Non,Home,77,"[42, 62, 63, 77]",True
+d489c94ca0d2198e,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,France,Canada,2,1,1.4,5.16,6.54,1.08,2.83,1.13,1.35,3.12,1.61,2.27,Oui,Oui,Oui,Non,Non,Home,85,"[44, 45, 85]",True
+be745ba2570dacdc,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,England,Sweden,1,1,1.75,4.09,4.08,1.2,2.0,1.2,1.48,2.61,1.52,2.47,Non,Oui,Non,Oui,Non,Away,56,"[43, 56]",True
+cc5a12168e9dc55f,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Algeria,Ecuador,0,0,2.66,3.7,2.41,1.52,1.43,1.24,1.55,2.41,1.5,2.55,Non,Non,Non,Oui,Non,,,[],True
+43937552dc47bb1a,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Senegal,Scotland,3,2,1.98,3.75,3.48,1.27,1.77,1.24,1.59,2.33,1.55,2.4,Oui,Oui,Oui,Non,Non,Home,84,"[32, 36, 44, 58, 84]",True
+ea36fe076d973ebe,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Bosnia-Herzegovina,Belgium,0,4,4.65,4.13,1.66,2.15,1.16,1.2,1.52,2.49,1.59,2.31,Oui,Non,Non,Non,Oui,Away,84,"[24, 53, 59, 84]",True
+423e1785731100f3,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Mexico,Netherlands,0,5,2.9,4.0,2.15,1.65,1.37,1.21,1.4,2.91,1.4,2.87,Oui,Non,Non,Non,Oui,Away,78,"[31, 33, 33, 75, 78]",True
+6c53785c2c0469aa,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Saudi Arabia,Czechia,0,2,3.18,3.74,2.09,1.69,1.32,1.24,1.56,2.38,1.52,2.48,Non,Non,Non,Non,Oui,Away,4,"[1, 4]",True
+770cbfe7dac3f49f,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Uruguay,New Zealand,3,0,1.42,4.68,7.04,1.07,2.76,1.16,1.54,2.44,1.8,1.98,Oui,Non,Oui,Non,Non,Home,89,"[12, 47, 89]",True
+ea0c8ef1ecc806ea,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Cabo Verde,Turkiye,1,1,3.1,3.73,2.13,1.66,1.33,1.24,1.56,2.39,1.51,2.51,Non,Oui,Non,Oui,Non,Home,83,"[56, 83]",True
+2ea8b8ed0ad161cd,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,South Africa,Croatia,1,0,4.67,3.94,1.69,2.1,1.16,1.22,1.62,2.25,1.67,2.17,Non,Non,Oui,Non,Non,Home,51,[51],True
+f9eb1afcb21afed5,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Morocco,Korea Republic,5,0,1.65,3.81,5.22,1.13,2.16,1.23,1.78,2.01,1.82,1.96,Oui,Non,Oui,Non,Non,Home,83,"[10, 18, 32, 63, 83]",True
+bb084b15609cf390,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Austria,Colombia,1,3,2.63,3.84,2.39,1.53,1.44,1.23,1.46,2.66,1.44,2.74,Oui,Oui,Non,Non,Oui,Away,86,"[9, 59, 63, 86]",True
+a8481844e289704c,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,IR Iran,Curacao,3,0,1.58,4.02,5.64,1.11,2.3,1.21,1.7,2.12,1.81,1.98,Oui,Non,Oui,Non,Non,Home,72,"[42, 71, 72]",True
+054ff933c74782d1,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Iraq,Japan,0,4,4.09,3.8,1.81,1.93,1.2,1.23,1.63,2.23,1.63,2.24,Oui,Non,Non,Non,Oui,Away,85,"[16, 27, 32, 85]",True
+bef69dc9caac155d,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Paraguay,Norway,0,3,3.89,4.03,1.8,1.94,1.22,1.21,1.48,2.6,1.51,2.51,Oui,Non,Non,Non,Oui,Away,50,"[24, 25, 50]",True
+c1f48d4800ded7bd,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Panama,Cote d'Ivoire,1,2,3.8,3.74,1.89,1.85,1.23,1.24,1.64,2.23,1.61,2.29,Oui,Oui,Non,Non,Oui,Away,38,"[6, 27, 38]",True
+9fd8db63bbd151f8,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,USA,Australia,0,3,2.31,3.83,2.73,1.41,1.56,1.23,1.47,2.63,1.45,2.71,Oui,Non,Non,Non,Oui,Away,82,"[40, 44, 82]",True
+22809a521042c179,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Ghana,Brazil,1,2,5.67,4.84,1.48,2.56,1.11,1.15,1.36,3.06,1.55,2.4,Oui,Oui,Non,Non,Oui,Away,57,"[19, 54, 57]",True
+dc2d20e86041a562,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Haiti,Germany,0,3,7.02,5.16,1.38,2.92,1.07,1.13,1.38,2.96,1.67,2.17,Oui,Non,Non,Non,Oui,Away,77,"[33, 76, 77]",True
+13f82dbec5be229c,coupe-du-monde,164957,67,2026-09-09T22:47:18Z,Uzbekistan,Argentina,2,2,7.16,5.47,1.36,3.04,1.07,1.12,1.32,3.28,1.63,2.24,Oui,Oui,Non,Oui,Non,Home,64,"[30, 31, 51, 64]",True
+bafff0faf104f7fd,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Bosnia-Herzegovina,Australia,0,2,3.28,3.73,2.05,1.71,1.3,1.24,1.58,2.34,1.54,2.44,Non,Non,Non,Non,Oui,Away,58,"[32, 58]",True
+40dd31c7766543cc,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Tunisia,Netherlands,1,2,3.63,3.85,1.91,1.83,1.25,1.23,1.55,2.42,1.54,2.44,Oui,Oui,Non,Non,Oui,Away,83,"[48, 67, 83]",True
+dd4c51474ca1c478,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Paraguay,Germany,1,3,4.36,4.41,1.66,2.15,1.18,1.18,1.37,3.01,1.47,2.63,Oui,Oui,Non,Non,Oui,Home,54,"[25, 27, 48, 54]",True
+1c89348f54113edf,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Uzbekistan,Iraq,1,2,2.79,3.54,2.38,1.53,1.4,1.26,1.67,2.17,1.57,2.36,Oui,Oui,Non,Non,Oui,Away,84,"[69, 78, 84]",True
+3bcc7a8e5dde437f,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Qatar,Brazil,2,2,4.84,4.59,1.57,2.31,1.15,1.17,1.37,3.04,1.5,2.54,Oui,Oui,Non,Oui,Non,Home,83,"[27, 44, 48, 83]",True
+4eaed23977a22ae0,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Mexico,Czechia,4,0,2.15,3.75,3.04,1.34,1.65,1.24,1.55,2.42,1.51,2.53,Oui,Non,Oui,Non,Non,Home,87,"[4, 40, 64, 87]",True
+d0da76be21a3e46e,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Haiti,Ghana,0,3,3.49,3.63,2.01,1.75,1.27,1.25,1.67,2.17,1.61,2.29,Oui,Non,Non,Non,Oui,Away,90,"[71, 71, 90]",True
+7d4eef54e9fb007e,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Algeria,Colombia,1,5,3.15,3.87,2.07,1.7,1.32,1.22,1.48,2.6,1.47,2.64,Oui,Oui,Non,Non,Oui,Away,88,"[9, 27, 34, 52, 72, 88]",True
+f929e90bb5256cbd,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,IR Iran,Scotland,1,2,2.2,3.65,3.02,1.35,1.62,1.25,1.6,2.3,1.54,2.44,Oui,Oui,Non,Non,Oui,Home,80,"[49, 72, 80]",True
+70452def18a0ec12,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Austria,Japan,5,1,2.7,3.67,2.4,1.53,1.42,1.25,1.57,2.36,1.51,2.52,Oui,Oui,Oui,Non,Non,Home,88,"[33, 36, 36, 48, 74, 88]",True
+b97492cc08a80f15,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,USA,Croatia,0,3,2.69,3.71,2.39,1.53,1.43,1.24,1.54,2.43,1.49,2.57,Oui,Non,Non,Non,Oui,Away,85,"[47, 71, 85]",True
+08f245c1f3e35b42,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Panama,Sweden,3,1,4.32,3.79,1.77,1.98,1.18,1.23,1.67,2.16,1.67,2.16,Oui,Oui,Oui,Non,Non,Away,50,"[41, 42, 44, 50]",True
+0d3ad1fec485eec1,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,France,New Zealand,3,2,1.22,6.5,11.16,1.01,4.03,1.08,1.34,3.21,1.9,1.87,Oui,Oui,Oui,Non,Non,Home,77,"[32, 38, 51, 55, 77]",True
+cfaee54beada1260,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Curacao,Canada,1,1,5.08,4.17,1.6,2.25,1.14,1.2,1.55,2.41,1.65,2.2,Non,Oui,Non,Oui,Non,Away,52,"[27, 52]",True
+ad968e84a8593cb5,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Switzerland,Turkiye,1,0,1.91,3.77,3.68,1.25,1.83,1.24,1.6,2.3,1.58,2.35,Non,Non,Oui,Non,Non,Home,12,[12],True
+598e549ae997d2a8,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Portugal,Congo DR,1,1,1.42,5.04,6.4,1.09,2.77,1.14,1.37,3.04,1.61,2.28,Non,Oui,Non,Oui,Non,Home,61,"[52, 61]",True
+c2ed67d98dc1df9a,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Senegal,Spain,1,3,4.88,4.11,1.63,2.19,1.15,1.2,1.56,2.38,1.64,2.21,Oui,Oui,Non,Non,Oui,Away,68,"[8, 36, 53, 68]",True
+cfa8acbd6000d4b1,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Cabo Verde,Korea Republic,0,4,3.31,3.69,2.05,1.71,1.29,1.24,1.6,2.29,1.56,2.4,Oui,Non,Non,Non,Oui,Away,59,"[43, 45, 45, 59]",True
+394245a26fcc4d68,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Saudi Arabia,Ecuador,2,1,3.4,3.84,1.98,1.77,1.28,1.23,1.53,2.47,1.51,2.51,Oui,Oui,Oui,Non,Non,Home,85,"[7, 43, 85]",True
+ff316a8db7d72f51,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,South Africa,Norway,1,2,4.61,4.19,1.65,2.15,1.16,1.19,1.49,2.56,1.58,2.35,Oui,Oui,Non,Non,Oui,Away,80,"[10, 72, 80]",True
+25257aeedf055321,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,England,Egypt,3,1,1.69,4.11,4.42,1.18,2.09,1.2,1.51,2.52,1.57,2.37,Oui,Oui,Oui,Non,Non,Home,70,"[23, 37, 50, 70]",True
+17a17114714e5f1c,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Jordan,Belgium,3,0,4.47,3.93,1.72,2.05,1.17,1.22,1.61,2.29,1.64,2.22,Oui,Non,Oui,Non,Non,Home,35,"[27, 30, 35]",True
+51681ba6703a2a0c,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Morocco,Argentina,1,2,2.56,3.45,2.64,1.44,1.47,1.28,1.74,2.06,1.61,2.27,Oui,Oui,Non,Non,Oui,Away,65,"[58, 60, 65]",True
+3ed673774cecd368,coupe-du-monde,164957,69,2026-09-09T22:51:18Z,Uruguay,Cote d'Ivoire,3,0,1.82,3.91,3.91,1.22,1.92,1.22,1.54,2.43,1.55,2.41,Oui,Non,Oui,Non,Non,Home,66,"[20, 52, 66]",True
+b2ebb38f7473fce8,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,France,Cote d'Ivoire,3,1,1.45,4.89,5.94,1.1,2.63,1.15,1.37,3.03,1.58,2.35,Oui,Oui,Oui,Non,Non,Away,66,"[24, 51, 56, 66]",True
+53379728900db9b8,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Tunisia,Czechia,3,0,2.7,3.45,2.5,1.49,1.42,1.27,1.74,2.06,1.62,2.27,Oui,Non,Oui,Non,Non,Home,90,"[22, 32, 90]",True
+18083cacacd19aec,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Portugal,Belgium,3,1,2.15,4.0,2.9,1.37,1.65,1.21,1.4,2.9,1.41,2.86,Oui,Oui,Oui,Non,Non,Home,59,"[39, 41, 45, 59]",True
+90e2a3916b4781d9,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Algeria,Japan,1,3,3.3,3.7,2.06,1.71,1.3,1.24,1.6,2.3,1.55,2.41,Oui,Oui,Non,Non,Oui,Away,81,"[35, 68, 71, 81]",True
+9b689966c09463bc,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Paraguay,Ghana,1,1,2.33,3.62,2.81,1.39,1.55,1.25,1.61,2.28,1.54,2.45,Non,Oui,Non,Oui,Non,Home,63,"[55, 63]",True
+205b89c8eaa3568c,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Mexico,Ecuador,2,1,2.18,3.81,2.96,1.36,1.63,1.23,1.5,2.55,1.47,2.63,Oui,Oui,Oui,Non,Non,Away,81,"[72, 79, 81]",True
+f61093b00be8c65f,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,IR Iran,Spain,2,2,5.77,4.38,1.52,2.44,1.11,1.18,1.53,2.45,1.69,2.13,Oui,Oui,Non,Oui,Non,Away,90,"[39, 72, 75, 90]",True
+308716d0d58f8e9e,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Senegal,Turkiye,3,0,1.99,3.84,3.37,1.29,1.76,1.23,1.52,2.49,1.51,2.53,Oui,Non,Oui,Non,Non,Home,62,"[12, 40, 62]",True
+2f4812d62d043256,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,South Africa,Germany,1,3,5.28,4.62,1.53,2.42,1.13,1.16,1.39,2.92,1.55,2.41,Oui,Oui,Non,Non,Oui,Away,66,"[16, 38, 53, 66]",True
+26c216258fa71cb3,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Qatar,Haiti,3,0,1.75,3.95,4.23,1.19,2.01,1.22,1.56,2.38,1.59,2.32,Oui,Non,Oui,Non,Non,Home,85,"[52, 73, 85]",True
+26432b86891d1d70,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Uruguay,Sweden,1,1,1.98,3.71,3.52,1.26,1.77,1.24,1.62,2.26,1.58,2.35,Non,Oui,Non,Oui,Non,Home,78,"[56, 78]",True
+12fe9763697bdb16,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Saudi Arabia,Colombia,1,0,4.32,4.19,1.7,2.09,1.18,1.2,1.46,2.66,1.53,2.45,Non,Non,Oui,Non,Non,Home,64,[64],True
+ebfecbf90785f82d,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Canada,Scotland,0,4,2.37,3.77,2.68,1.43,1.54,1.23,1.5,2.54,1.46,2.65,Oui,Non,Non,Non,Oui,Away,80,"[22, 36, 75, 80]",True
+52bdb8f51de86b7c,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Curacao,New Zealand,1,2,3.52,3.51,2.04,1.73,1.26,1.27,1.76,2.03,1.67,2.17,Oui,Oui,Non,Non,Oui,Home,65,"[38, 39, 65]",True
+f714a39f730bea78,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Austria,Uzbekistan,1,1,1.84,3.91,3.85,1.23,1.9,1.22,1.54,2.43,1.55,2.4,Non,Oui,Non,Oui,Non,Away,79,"[27, 79]",True
+7d698b1f2fd0b881,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Switzerland,Korea Republic,4,1,2.02,3.65,3.45,1.27,1.74,1.25,1.65,2.21,1.59,2.32,Oui,Oui,Oui,Non,Non,Home,74,"[22, 27, 34, 55, 74]",True
+a5e34f9cfc0135d2,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Cabo Verde,Argentina,0,3,6.85,5.19,1.39,2.9,1.07,1.13,1.37,3.04,1.64,2.21,Oui,Non,Non,Non,Oui,Away,36,"[1, 8, 36]",True
+fa3bfe81cc5b4d95,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Bosnia-Herzegovina,Croatia,2,0,4.15,3.85,1.79,1.96,1.2,1.23,1.61,2.27,1.62,2.26,Non,Non,Oui,Non,Non,Home,85,"[34, 85]",True
+0d68f40bcd57e9a2,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Jordan,Australia,0,4,3.54,3.72,1.97,1.78,1.26,1.24,1.61,2.28,1.57,2.36,Oui,Non,Non,Non,Oui,Away,53,"[32, 34, 35, 53]",True
+147e2306a816610a,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,USA,Norway,1,1,2.69,3.97,2.29,1.57,1.43,1.21,1.4,2.9,1.4,2.9,Non,Oui,Non,Oui,Non,Home,65,"[27, 65]",True
+d88d57207853822b,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Morocco,Iraq,0,1,1.49,4.05,7.0,1.07,2.52,1.21,1.84,1.94,2.04,1.76,Non,Non,Non,Non,Oui,Away,7,[7],True
+24004bd3e167e33e,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Congo DR,Netherlands,0,3,4.79,4.33,1.61,2.23,1.15,1.18,1.45,2.69,1.56,2.39,Oui,Non,Non,Non,Oui,Away,59,"[19, 27, 59]",True
+4394357a766009ce,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,England,Brazil,5,1,2.33,4.0,2.63,1.44,1.56,1.21,1.38,2.97,1.39,2.95,Oui,Oui,Oui,Non,Non,Home,90,"[25, 39, 43, 72, 79, 90]",True
+097fb4cf3f2191dd,coupe-du-monde,164957,71,2026-09-09T22:55:18Z,Panama,Egypt,0,1,4.1,3.68,1.84,1.9,1.2,1.25,1.72,2.09,1.68,2.14,Non,Non,Non,Non,Oui,Away,66,[66],True
+ced044f5e17921e4,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Morocco,Paraguay,3,0,1.53,4.01,6.38,1.09,2.42,1.21,1.8,1.99,1.94,1.83,Oui,Non,Oui,Non,Non,Home,49,"[36, 42, 49]",True
+bc62e918668c5fd3,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,New Zealand,Portugal,0,5,7.84,5.51,1.33,3.18,1.05,1.12,1.36,3.1,1.7,2.12,Oui,Non,Non,Non,Oui,Away,89,"[3, 22, 85, 87, 89]",True
+d7d07cd90c6dbb60,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Germany,Mexico,1,2,2.14,3.99,2.93,1.37,1.66,1.21,1.4,2.87,1.41,2.85,Oui,Oui,Non,Non,Oui,Home,66,"[16, 17, 66]",True
+f5b2726568ae26df,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Japan,USA,0,0,2.25,3.77,2.85,1.38,1.59,1.23,1.51,2.51,1.48,2.61,Non,Non,Non,Oui,Non,,,[],True
+feb6b5ccd9997547,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Uzbekistan,South Africa,2,1,2.4,3.57,2.75,1.41,1.52,1.26,1.65,2.21,1.56,2.39,Oui,Oui,Oui,Non,Non,Away,63,"[19, 26, 63]",True
+1fcbc8f5576ea1c3,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Argentina,Uruguay,1,3,2.04,3.99,3.13,1.33,1.72,1.21,1.42,2.81,1.43,2.77,Oui,Oui,Non,Non,Oui,Away,72,"[25, 34, 72, 72]",True
+00ca64472a8ad531,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Colombia,Bosnia-Herzegovina,1,2,1.72,4.15,4.18,1.2,2.04,1.2,1.46,2.67,1.52,2.49,Oui,Oui,Non,Non,Oui,Home,67,"[17, 45, 67]",True
+01e5c47c8fbf1cce,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Turkiye,Curacao,2,3,1.55,4.33,5.47,1.12,2.37,1.18,1.53,2.46,1.67,2.17,Oui,Oui,Non,Non,Oui,Home,67,"[22, 24, 54, 62, 67]",True
+bd08390855be3356,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Czechia,Belgium,0,1,3.6,3.86,1.91,1.83,1.25,1.23,1.54,2.45,1.53,2.46,Non,Non,Non,Non,Oui,Away,54,[54],True
+6ad60872da6a67e0,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Haiti,Cabo Verde,1,0,3.71,3.63,1.94,1.8,1.24,1.25,1.7,2.13,1.64,2.22,Non,Non,Oui,Non,Non,Home,54,[54],True
+e7f7d2934c622b04,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Spain,Scotland,2,0,1.37,5.12,7.54,1.06,2.99,1.14,1.44,2.75,1.75,2.04,Non,Non,Oui,Non,Non,Home,52,"[27, 52]",True
+9df4512dcbc8f12c,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Austria,England,1,3,3.92,4.09,1.78,1.96,1.22,1.2,1.46,2.67,1.5,2.54,Oui,Oui,Non,Non,Oui,Away,78,"[23, 34, 53, 78]",True
+1a2e754b4cd0b844,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Croatia,Congo DR,1,1,1.7,3.95,4.57,1.17,2.08,1.22,1.61,2.29,1.65,2.21,Non,Oui,Non,Oui,Non,Home,80,"[79, 80]",True
+3be849eefe33dbf3,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Korea Republic,France,1,3,5.7,4.8,1.48,2.56,1.11,1.15,1.38,3.0,1.56,2.38,Oui,Oui,Non,Non,Oui,Home,53,"[6, 12, 25, 53]",True
+73a89a6d98b2f4e0,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Sweden,IR Iran,2,0,2.55,3.53,2.6,1.45,1.47,1.26,1.67,2.17,1.57,2.37,Non,Non,Oui,Non,Non,Home,89,"[83, 89]",True
+9dd4f165e3c0c624,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Qatar,Algeria,2,3,2.71,3.76,2.35,1.55,1.42,1.24,1.51,2.52,1.47,2.64,Oui,Oui,Non,Non,Oui,Away,63,"[29, 39, 42, 58, 63]",True
+3f0299429f463471,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Ecuador,Jordan,1,1,2.02,3.68,3.41,1.28,1.74,1.25,1.63,2.24,1.58,2.35,Non,Oui,Non,Oui,Non,Home,80,"[52, 80]",True
+f7795622df8186ad,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Australia,Netherlands,4,1,3.29,4.06,1.96,1.78,1.3,1.21,1.4,2.88,1.43,2.79,Oui,Oui,Oui,Non,Non,Home,88,"[6, 25, 39, 50, 88]",True
+cc546559f193cc8f,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Cote d'Ivoire,Canada,2,3,2.2,3.77,2.94,1.36,1.62,1.23,1.52,2.5,1.48,2.6,Oui,Oui,Non,Non,Oui,Away,64,"[22, 28, 54, 62, 64]",True
+67126e13818cbe75,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Egypt,Senegal,0,2,2.98,3.53,2.27,1.58,1.36,1.26,1.69,2.14,1.59,2.32,Non,Non,Non,Non,Oui,Away,85,"[67, 85]",True
+85e4d618ba627890,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Norway,Tunisia,0,1,1.99,3.71,3.46,1.27,1.76,1.24,1.61,2.28,1.57,2.37,Non,Non,Non,Non,Oui,Away,26,[26],True
+e55e0fd1605e59d7,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Ghana,Saudi Arabia,2,1,2.55,3.64,2.55,1.47,1.47,1.25,1.59,2.32,1.52,2.49,Oui,Oui,Oui,Non,Non,Away,55,"[43, 44, 55]",True
+6a980c8678836f47,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Iraq,Panama,1,2,2.19,3.44,3.2,1.31,1.63,1.28,1.79,2.0,1.66,2.19,Oui,Oui,Non,Non,Oui,Home,88,"[54, 54, 88]",True
+63783be57261d980,coupe-du-monde,164957,74,2026-09-09T23:01:18Z,Brazil,Switzerland,2,1,2.19,3.78,2.96,1.36,1.63,1.23,1.52,2.49,1.48,2.59,Oui,Oui,Oui,Non,Non,Home,82,"[30, 78, 82]",True
+844b1b8908315c89,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,England,Algeria,3,2,1.66,4.28,4.46,1.17,2.14,1.19,1.44,2.74,1.52,2.47,Oui,Oui,Oui,Non,Non,Home,84,"[20, 38, 44, 71, 84]",True
+53684a30db2d2f27,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Colombia,Jordan,1,0,1.69,4.09,4.49,1.17,2.1,1.2,1.52,2.47,1.59,2.33,Non,Non,Oui,Non,Non,Home,26,[26],True
+217a2a610409a7d8,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Paraguay,Cabo Verde,0,1,2.33,3.6,2.84,1.39,1.56,1.25,1.62,2.25,1.55,2.42,Non,Non,Non,Non,Oui,Away,26,[26],True
+9d27a446c1d44f15,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Czechia,Australia,2,0,2.66,3.68,2.43,1.51,1.44,1.25,1.57,2.37,1.51,2.53,Non,Non,Oui,Non,Non,Home,55,"[19, 55]",True
+53db66a712425e0d,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Croatia,Netherlands,4,0,2.78,3.83,2.28,1.58,1.4,1.23,1.47,2.62,1.45,2.71,Oui,Non,Oui,Non,Non,Home,65,"[16, 26, 43, 65]",True
+153ca2acdf2c100d,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Ghana,Mexico,1,1,4.05,4.07,1.76,1.99,1.21,1.21,1.48,2.6,1.52,2.48,Non,Oui,Non,Oui,Non,Away,79,"[5, 79]",True
+5ce57cbeb5fabfc3,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Japan,Bosnia-Herzegovina,2,0,1.67,4.09,4.59,1.17,2.12,1.2,1.54,2.44,1.6,2.29,Non,Non,Oui,Non,Non,Home,88,"[41, 88]",True
+4d4b3a8fee92d92a,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Spain,Portugal,0,4,1.96,4.02,3.33,1.29,1.79,1.21,1.43,2.79,1.44,2.72,Oui,Non,Non,Non,Oui,Away,75,"[36, 44, 45, 75]",True
+3fba0efe149bf6fd,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Norway,Congo DR,0,0,1.65,4.19,4.66,1.16,2.17,1.2,1.5,2.55,1.58,2.34,Non,Non,Non,Oui,Non,,,[],True
+0bce7005afd0024a,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Cote d'Ivoire,New Zealand,1,3,1.76,3.94,4.18,1.2,1.99,1.22,1.57,2.37,1.59,2.32,Oui,Oui,Non,Non,Oui,Home,80,"[30, 53, 74, 80]",True
+d753422cd4ddda7f,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Korea Republic,Curacao,1,1,1.52,4.33,5.86,1.1,2.45,1.18,1.56,2.38,1.72,2.09,Non,Oui,Non,Oui,Non,Away,61,"[41, 61]",True
+ac75f6e9386ad599,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Uzbekistan,USA,1,1,3.85,4.04,1.81,1.94,1.23,1.21,1.47,2.64,1.5,2.54,Non,Oui,Non,Oui,Non,Home,43,"[19, 43]",True
+753370728e93ed6d,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Qatar,Saudi Arabia,0,1,2.14,3.75,3.07,1.34,1.66,1.24,1.54,2.43,1.5,2.53,Non,Non,Non,Non,Oui,Away,38,[38],True
+9edba9141815c546,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Brazil,Senegal,2,3,1.96,3.97,3.35,1.29,1.78,1.21,1.45,2.7,1.46,2.67,Oui,Oui,Non,Non,Oui,Away,56,"[32, 38, 43, 53, 56]",True
+7e925a088b22233a,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Iraq,Uruguay,0,1,5.05,4.2,1.6,2.25,1.14,1.19,1.54,2.44,1.64,2.22,Non,Non,Non,Non,Oui,Away,47,[47],True
+43234cd6653c5a7c,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Haiti,Switzerland,0,1,7.17,4.54,1.43,2.73,1.07,1.17,1.6,2.29,1.86,1.91,Non,Non,Non,Non,Oui,Away,87,[87],True
+01192a32c8c01655,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Ecuador,Belgium,0,1,3.33,3.82,2.01,1.74,1.29,1.23,1.53,2.46,1.51,2.52,Non,Non,Non,Non,Oui,Away,31,[31],True
+cb31ff3ca7a86e4e,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Sweden,Canada,2,2,2.22,3.7,2.94,1.36,1.61,1.24,1.56,2.39,1.51,2.52,Oui,Oui,Non,Oui,Non,Home,80,"[9, 47, 58, 80]",True
+2279bb91e07e9e3e,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Argentina,France,2,1,2.73,4.08,2.23,1.61,1.42,1.2,1.35,3.15,1.37,3.05,Oui,Oui,Oui,Non,Non,Home,85,"[3, 70, 85]",True
+bc2e6a43e5147802,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Egypt,IR Iran,1,2,2.61,3.42,2.6,1.45,1.45,1.28,1.76,2.03,1.63,2.25,Oui,Oui,Non,Non,Oui,Away,73,"[5, 53, 73]",True
+d6e2f36c52c8b052,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Morocco,South Africa,1,1,1.43,4.26,7.87,1.05,2.71,1.19,1.81,1.97,2.09,1.72,Non,Oui,Non,Oui,Non,Home,75,"[19, 75]",True
+d0c73eef0ed7076c,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Germany,Tunisia,2,2,1.8,3.96,3.97,1.21,1.94,1.22,1.52,2.48,1.54,2.42,Oui,Oui,Non,Oui,Non,Away,72,"[21, 25, 72, 72]",True
+aadde85b99fa6318,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Austria,Panama,1,1,1.65,4.04,4.84,1.15,2.16,1.21,1.59,2.32,1.66,2.19,Non,Oui,Non,Oui,Non,Home,81,"[56, 81]",True
+11e79284388ad856,coupe-du-monde,164957,76,2026-09-09T23:05:18Z,Turkiye,Scotland,2,1,2.46,3.84,2.54,1.47,1.5,1.23,1.46,2.66,1.44,2.74,Oui,Oui,Oui,Non,Non,Home,66,"[8, 47, 66]",True
+a406b78ef0f33dd5,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Belgium,Germany,1,2,2.68,3.96,2.3,1.57,1.43,1.22,1.4,2.88,1.4,2.88,Oui,Oui,Non,Non,Oui,Away,48,"[37, 38, 48]",True
+1718f7cf9ca4fbab,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Australia,Norway,2,3,3.1,3.89,2.08,1.69,1.33,1.22,1.47,2.64,1.46,2.67,Oui,Oui,Non,Non,Oui,Home,83,"[19, 45, 46, 61, 83]",True
+6462c130a0522d15,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Netherlands,Colombia,1,0,2.27,3.99,2.72,1.42,1.59,1.21,1.39,2.93,1.4,2.91,Non,Non,Oui,Non,Non,Home,33,[33],True
+842abe0801eff211,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Cote d'Ivoire,Turkiye,2,4,2.41,3.8,2.62,1.45,1.52,1.23,1.48,2.6,1.45,2.7,Oui,Oui,Non,Non,Oui,Away,84,"[19, 25, 37, 53, 59, 84]",True
+a1021205306987b8,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,IR Iran,Iraq,1,2,2.12,3.57,3.24,1.31,1.67,1.26,1.68,2.15,1.6,2.3,Oui,Oui,Non,Non,Oui,Home,53,"[33, 49, 53]",True
+136c8ba5ff687d3c,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Bosnia-Herzegovina,Qatar,2,0,2.99,3.77,2.17,1.64,1.35,1.23,1.52,2.48,1.49,2.58,Non,Non,Oui,Non,Non,Home,89,"[73, 89]",True
+318cba9c8a7ff4ed,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Scotland,Egypt,1,2,2.83,3.61,2.33,1.56,1.39,1.25,1.62,2.27,1.54,2.43,Oui,Oui,Non,Non,Oui,Home,80,"[21, 58, 80]",True
+349ea3263bb4d884,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Uruguay,Paraguay,2,0,1.69,4.01,4.58,1.17,2.1,1.21,1.57,2.36,1.63,2.25,Non,Non,Oui,Non,Non,Home,88,"[48, 88]",True
+a7288e0cadfb7df4,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,France,Haiti,0,0,1.18,7.14,13.47,1.0,4.58,1.07,1.32,3.29,2.03,1.76,Non,Non,Non,Oui,Non,,,[],True
+ef623bf19403019a,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Panama,South Africa,1,1,2.77,3.44,2.45,1.51,1.41,1.28,1.75,2.05,1.62,2.26,Non,Oui,Non,Oui,Non,Away,67,"[64, 67]",True
+b4b91c8b140b906b,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Czechia,Ecuador,3,0,2.67,3.67,2.42,1.52,1.43,1.25,1.56,2.38,1.5,2.54,Oui,Non,Oui,Non,Non,Home,69,"[67, 68, 69]",True
+287b601e3ea96a37,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Spain,Sweden,2,2,1.52,4.48,5.62,1.11,2.45,1.17,1.48,2.6,1.64,2.22,Oui,Oui,Non,Oui,Non,Home,78,"[43, 45, 74, 78]",True
+d95fd45b667ad750,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Tunisia,Uzbekistan,0,0,2.22,3.46,3.13,1.33,1.61,1.27,1.76,2.04,1.64,2.22,Non,Non,Non,Oui,Non,,,[],True
+b45aa91d228d1507,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Jordan,Ghana,1,1,2.52,3.51,2.65,1.44,1.48,1.27,1.69,2.14,1.58,2.34,Non,Oui,Non,Oui,Non,Away,90,"[89, 90]",True
+280440cafa059180,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Saudi Arabia,Cabo Verde,0,0,2.85,3.57,2.34,1.55,1.39,1.26,1.65,2.2,1.56,2.38,Non,Non,Non,Oui,Non,,,[],True
+7a5de1fb3a4ac574,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Canada,Argentina,3,1,5.41,4.82,1.5,2.5,1.12,1.15,1.35,3.12,1.53,2.46,Oui,Oui,Oui,Non,Non,Home,50,"[7, 8, 24, 50]",True
+5fef57daab64132b,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,USA,England,0,2,3.91,4.29,1.75,2.01,1.22,1.19,1.38,2.99,1.45,2.71,Non,Non,Non,Non,Oui,Away,82,"[70, 82]",True
+4dc6e4ce50983102,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Switzerland,Algeria,0,1,1.99,3.6,3.58,1.26,1.76,1.25,1.7,2.11,1.63,2.23,Non,Non,Non,Non,Oui,Away,78,[78],True
+8a0dcfe6e200a547,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Portugal,Croatia,2,1,1.98,3.99,3.3,1.3,1.77,1.21,1.44,2.73,1.45,2.69,Oui,Oui,Oui,Non,Non,Home,87,"[25, 50, 87]",True
+04d9a640b486dcea,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,New Zealand,Korea Republic,1,2,4.02,3.86,1.81,1.93,1.21,1.23,1.59,2.33,1.59,2.32,Oui,Oui,Non,Non,Oui,Home,26,"[14, 18, 26]",True
+d71e889d8730f80e,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Congo DR,Japan,1,3,4.99,4.1,1.62,2.21,1.14,1.2,1.58,2.35,1.66,2.19,Oui,Oui,Non,Non,Oui,Home,87,"[8, 59, 60, 87]",True
+b9e1396c91257dd1,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Mexico,Morocco,2,4,4.1,3.56,1.87,1.87,1.2,1.26,1.81,1.97,1.74,2.06,Oui,Oui,Non,Non,Oui,Home,77,"[32, 45, 45, 46, 61, 77]",True
+3ddc4d0bfff38e70,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Curacao,Brazil,0,1,11.25,6.58,1.22,4.07,1.01,1.08,1.33,3.26,1.9,1.87,Non,Non,Non,Non,Oui,Away,18,[18],True
+3ccd63c5963b7bc8,coupe-du-monde,164957,79,2026-09-09T23:11:18Z,Senegal,Austria,1,0,2.34,3.65,2.79,1.4,1.55,1.25,1.59,2.32,1.52,2.48,Non,Non,Oui,Non,Non,Home,82,[82],True
+7b3d9a9dffdbe550,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Turkiye,Sweden,2,1,2.93,3.76,2.21,1.61,1.37,1.24,1.52,2.48,1.49,2.58,Oui,Oui,Oui,Non,Non,Home,76,"[25, 34, 76]",True
+12aa3d89bab4cdc7,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Belgium,Ghana,0,0,1.7,4.08,4.4,1.18,2.08,1.2,1.52,2.49,1.58,2.35,Non,Non,Non,Oui,Non,,,[],True
+9713966268978652,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Netherlands,Japan,1,1,2.46,3.85,2.54,1.47,1.5,1.23,1.45,2.7,1.43,2.77,Non,Oui,Non,Oui,Non,Away,35,"[34, 35]",True
+4a0dad69e1242291,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Curacao,Haiti,3,2,2.96,3.42,2.33,1.56,1.36,1.28,1.78,2.01,1.64,2.22,Oui,Oui,Oui,Non,Non,Home,83,"[4, 36, 60, 78, 83]",True
+050698c3ea938df7,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Bosnia-Herzegovina,England,1,3,6.18,4.84,1.45,2.66,1.09,1.15,1.41,2.86,1.63,2.25,Oui,Oui,Non,Non,Oui,Away,55,"[1, 25, 47, 55]",True
+97bea72e5425f74f,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Croatia,Norway,1,1,2.64,3.69,2.44,1.51,1.44,1.24,1.56,2.4,1.5,2.55,Non,Oui,Non,Oui,Non,Away,78,"[70, 78]",True
+3ec9d7b4d09bb9ff,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Portugal,Ecuador,1,2,1.76,4.29,3.88,1.22,2.0,1.19,1.37,3.02,1.44,2.73,Oui,Oui,Non,Non,Oui,Away,89,"[43, 72, 89]",True
+3cc3a786d739baaf,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Scotland,Brazil,1,1,4.82,4.57,1.58,2.3,1.15,1.17,1.37,3.04,1.5,2.55,Non,Oui,Non,Oui,Non,Away,43,"[39, 43]",True
+02ab34ab531900c1,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Czechia,Colombia,2,2,3.28,3.89,2.01,1.75,1.3,1.22,1.49,2.59,1.48,2.61,Oui,Oui,Non,Oui,Non,Home,90,"[32, 61, 65, 90]",True
+d4d7c801df40b454,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Jordan,Qatar,1,0,2.94,3.6,2.26,1.59,1.36,1.25,1.63,2.23,1.55,2.4,Non,Non,Oui,Non,Non,Home,8,[8],True
+24dfdec9c17447ee,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Mexico,Cabo Verde,1,1,1.9,3.81,3.68,1.25,1.84,1.23,1.57,2.35,1.56,2.39,Non,Oui,Non,Oui,Non,Away,72,"[4, 72]",True
+2613a4fa97e8d713,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Cote d'Ivoire,Korea Republic,0,1,2.53,3.74,2.52,1.48,1.48,1.24,1.52,2.49,1.47,2.62,Non,Non,Non,Non,Oui,Away,37,[37],True
+23d4f898c2ae7ece,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Switzerland,Saudi Arabia,3,0,1.7,3.92,4.6,1.17,2.08,1.22,1.62,2.25,1.66,2.18,Oui,Non,Oui,Non,Non,Home,89,"[15, 65, 89]",True
+3ae1397caeb27c93,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Spain,Egypt,5,0,1.49,4.49,6.01,1.1,2.52,1.17,1.52,2.5,1.7,2.12,Oui,Non,Oui,Non,Non,Home,80,"[42, 44, 62, 66, 80]",True
+2fb4f39059badd2e,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Uruguay,South Africa,0,0,1.46,4.54,6.41,1.09,2.61,1.17,1.53,2.46,1.74,2.06,Non,Non,Non,Oui,Non,,,[],True
+d5acef3622dbcf99,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Senegal,Algeria,1,2,2.1,3.6,3.25,1.3,1.68,1.25,1.66,2.18,1.59,2.32,Oui,Oui,Non,Non,Oui,Away,74,"[14, 59, 74]",True
+45d6da953e12d8b3,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Canada,Iraq,0,1,2.28,3.67,2.86,1.38,1.58,1.25,1.58,2.34,1.52,2.49,Non,Non,Non,Non,Oui,Away,41,[41],True
+0baa12e91e584955,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,IR Iran,Austria,2,1,2.77,3.58,2.38,1.53,1.4,1.26,1.63,2.23,1.55,2.41,Oui,Oui,Oui,Non,Non,Home,45,"[25, 32, 45]",True
+02b6b81fef160724,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Australia,Germany,1,3,3.32,4.11,1.94,1.8,1.29,1.2,1.38,2.96,1.42,2.83,Oui,Oui,Non,Non,Oui,Home,87,"[25, 27, 37, 87]",True
+5c376d0959ef4421,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,New Zealand,Argentina,1,2,9.12,6.02,1.28,3.56,1.03,1.1,1.33,3.27,1.76,2.04,Oui,Oui,Non,Non,Oui,Away,61,"[2, 46, 61]",True
+caf99b1a6afe3c80,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Tunisia,Morocco,0,1,5.55,3.46,1.69,2.09,1.12,1.27,2.12,1.7,2.09,1.72,Non,Non,Non,Non,Oui,Away,47,[47],True
+e662c90c7a9e011d,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,France,Paraguay,2,1,1.37,5.23,7.2,1.07,2.97,1.13,1.38,2.99,1.67,2.16,Oui,Oui,Oui,Non,Non,Home,77,"[7, 59, 77]",True
+cad1674dbde803c3,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,Congo DR,Uzbekistan,0,1,2.77,3.57,2.39,1.53,1.4,1.26,1.64,2.22,1.55,2.4,Non,Non,Non,Non,Oui,Away,1,[1],True
+5c1327b490e72e43,coupe-du-monde,164957,81,2026-09-09T23:15:18Z,USA,Panama,1,0,1.74,3.97,4.32,1.18,2.03,1.21,1.56,2.38,1.6,2.3,Non,Non,Oui,Non,Non,Home,56,[56],True
+ddaa828713a52c5b,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,IR Iran,Algeria,1,2,2.39,3.57,2.76,1.41,1.53,1.26,1.64,2.22,1.55,2.41,Oui,Oui,Non,Non,Oui,Away,75,"[20, 67, 75]",True
+6a3b3be7cf751c2e,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Australia,Ghana,0,0,1.99,3.77,3.43,1.28,1.76,1.24,1.57,2.36,1.54,2.44,Non,Non,Non,Oui,Non,,,[],True
+0ab1ba679818f118,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,New Zealand,Iraq,0,0,3.23,3.55,2.14,1.66,1.31,1.26,1.7,2.12,1.61,2.28,Non,Non,Non,Oui,Non,,,[],True
+3327132a83bd8dc0,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Mexico,Switzerland,3,2,2.73,3.56,2.42,1.52,1.41,1.26,1.65,2.21,1.56,2.39,Oui,Oui,Oui,Non,Non,Away,54,"[36, 41, 45, 50, 54]",True
+5df4850c1df5bf27,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,France,South Africa,3,2,1.27,5.95,9.58,1.03,3.6,1.1,1.36,3.07,1.83,1.95,Oui,Oui,Oui,Non,Non,Away,90,"[19, 25, 49, 83, 90]",True
+d1bcc1f0c15ab88e,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Scotland,Haiti,0,0,1.77,3.92,4.2,1.19,1.99,1.22,1.57,2.35,1.6,2.31,Non,Non,Non,Oui,Non,,,[],True
+66a5904ab3203840,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Ecuador,Colombia,1,2,3.22,3.93,2.02,1.74,1.31,1.22,1.45,2.69,1.45,2.69,Oui,Oui,Non,Non,Oui,Away,88,"[20, 33, 88]",True
+ed45ed8093d9e74c,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Croatia,Germany,1,3,2.84,3.83,2.24,1.6,1.39,1.23,1.47,2.62,1.45,2.7,Oui,Oui,Non,Non,Oui,Home,89,"[20, 38, 85, 89]",True
+1716f574c60de9ca,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Turkiye,Egypt,1,1,2.83,3.69,2.3,1.57,1.39,1.24,1.56,2.39,1.5,2.53,Non,Oui,Non,Oui,Non,Home,70,"[22, 70]",True
+0161369e7aaca7e7,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Senegal,Saudi Arabia,2,4,1.75,3.97,4.25,1.19,2.02,1.21,1.55,2.4,1.59,2.33,Oui,Oui,Non,Non,Oui,Away,90,"[36, 42, 43, 51, 81, 90]",True
+3af60293e612a584,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Congo DR,Morocco,0,2,7.91,4.28,1.43,2.72,1.05,1.19,1.8,1.98,2.09,1.72,Non,Non,Non,Non,Oui,Away,64,"[10, 64]",True
+32e60bda6573b13c,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Sweden,Korea Republic,2,2,2.43,3.7,2.65,1.44,1.51,1.24,1.55,2.41,1.49,2.56,Oui,Oui,Non,Oui,Non,Away,79,"[25, 29, 74, 79]",True
+224a0d2c720ded81,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Czechia,Japan,2,2,3.44,3.78,1.98,1.77,1.28,1.23,1.56,2.38,1.54,2.44,Oui,Oui,Non,Oui,Non,Away,75,"[43, 44, 44, 75]",True
+3f4c081f25ea0c20,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Portugal,Norway,2,3,2.05,4.1,3.04,1.34,1.71,1.2,1.36,3.06,1.39,2.94,Oui,Oui,Non,Non,Oui,Away,79,"[37, 40, 64, 74, 79]",True
+141f01777edeb0b3,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Spain,Brazil,2,3,1.96,4.06,3.29,1.3,1.78,1.21,1.4,2.88,1.43,2.78,Oui,Oui,Non,Non,Oui,Away,53,"[1, 6, 18, 49, 53]",True
+8bc74365ab4edb03,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Netherlands,Uzbekistan,1,4,1.6,4.53,4.65,1.16,2.25,1.17,1.37,3.05,1.49,2.58,Oui,Oui,Non,Non,Oui,Away,70,"[19, 25, 50, 62, 70]",True
+5df5fd2ce9ed98b9,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Uruguay,USA,0,2,1.94,3.95,3.44,1.28,1.8,1.22,1.48,2.62,1.48,2.59,Non,Non,Non,Non,Oui,Away,57,"[12, 57]",True
+dc9b1b8052ed3b8d,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Tunisia,Cabo Verde,0,0,2.4,3.33,2.92,1.37,1.53,1.29,1.87,1.91,1.69,2.13,Non,Non,Non,Oui,Non,,,[],True
+0b3d683a6256daad,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Jordan,England,1,2,6.53,4.74,1.44,2.7,1.08,1.16,1.47,2.63,1.7,2.11,Oui,Oui,Non,Non,Oui,Away,90,"[55, 63, 90]",True
+6c717475db272824,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Curacao,Paraguay,0,3,4.69,3.96,1.68,2.11,1.16,1.22,1.62,2.26,1.67,2.17,Oui,Non,Non,Non,Oui,Away,90,"[19, 65, 90]",True
+7e38ace8d51ef8d9,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Cote d'Ivoire,Argentina,1,1,5.04,4.71,1.54,2.39,1.14,1.16,1.35,3.12,1.51,2.52,Non,Oui,Non,Oui,Non,Away,27,"[10, 27]",True
+18851e2381dcae96,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Bosnia-Herzegovina,Panama,3,1,2.46,3.48,2.73,1.41,1.5,1.27,1.71,2.1,1.6,2.3,Oui,Oui,Oui,Non,Non,Home,89,"[27, 36, 56, 89]",True
+fc013fc3d193dda7,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Belgium,Qatar,2,0,1.84,4.01,3.76,1.24,1.9,1.21,1.48,2.6,1.51,2.52,Non,Non,Oui,Non,Non,Home,33,"[29, 33]",True
+ca842939406728d0,coupe-du-monde,164957,83,2026-09-09T23:19:18Z,Canada,Austria,0,3,3.17,3.83,2.07,1.7,1.32,1.23,1.51,2.53,1.49,2.58,Oui,Non,Non,Non,Oui,Away,70,"[23, 27, 70]",True
+3dfd21e4bf5e3bc5,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Morocco,Belgium,3,0,2.03,3.36,3.71,1.24,1.73,1.29,1.92,1.85,1.78,2.01,Oui,Non,Oui,Non,Non,Home,82,"[11, 52, 82]",True
+92084e3a6e9e5370,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,USA,Senegal,2,0,2.73,3.74,2.35,1.55,1.41,1.24,1.53,2.46,1.49,2.59,Non,Non,Oui,Non,Non,Home,45,"[44, 45]",True
+ad435d58409e92c8,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Japan,Croatia,2,1,2.5,3.58,2.63,1.44,1.49,1.26,1.63,2.24,1.54,2.43,Oui,Oui,Oui,Non,Non,Home,61,"[5, 51, 61]",True
+a44ea5a117faee7d,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Paraguay,Canada,0,2,2.66,3.66,2.44,1.51,1.44,1.25,1.57,2.37,1.51,2.52,Non,Non,Non,Non,Oui,Away,76,"[55, 76]",True
+b9090aea1c4fd584,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,South Africa,IR Iran,0,1,3.86,3.71,1.88,1.86,1.23,1.24,1.66,2.19,1.63,2.25,Non,Non,Non,Non,Oui,Away,58,[58],True
+9b3fdf8b60bfef58,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Uruguay,Mexico,1,1,2.02,3.79,3.31,1.29,1.73,1.23,1.54,2.43,1.52,2.5,Non,Oui,Non,Oui,Non,Away,39,"[12, 39]",True
+d6ce2958ab593c03,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Algeria,Curacao,4,1,1.58,4.07,5.47,1.12,2.29,1.21,1.65,2.2,1.76,2.04,Oui,Oui,Oui,Non,Non,Home,62,"[2, 12, 26, 57, 62]",True
+1c400f56bf55244b,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Brazil,Cote d'Ivoire,3,0,1.7,4.4,4.1,1.2,2.08,1.18,1.35,3.12,1.44,2.74,Oui,Non,Oui,Non,Non,Home,87,"[82, 86, 87]",True
+09d592d7c74dac17,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Colombia,Norway,2,2,2.43,3.86,2.56,1.47,1.51,1.23,1.45,2.7,1.43,2.77,Oui,Oui,Non,Oui,Non,Away,78,"[11, 35, 62, 78]",True
+fb31fe592016c0c0,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Ghana,Czechia,1,1,3.2,3.7,2.09,1.69,1.31,1.24,1.58,2.33,1.54,2.45,Non,Oui,Non,Oui,Non,Away,50,"[6, 50]",True
+db51e8d4a5dc80b0,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Austria,Scotland,1,2,2.02,3.86,3.28,1.3,1.74,1.23,1.5,2.54,1.49,2.57,Oui,Oui,Non,Non,Oui,Home,86,"[65, 80, 86]",True
+7e0d3d5f39e2d1d8,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Korea Republic,Portugal,3,2,4.15,4.37,1.69,2.09,1.2,1.18,1.37,3.03,1.46,2.68,Oui,Oui,Oui,Non,Non,Home,61,"[20, 34, 52, 59, 61]",True
+2387dde5e6c8b316,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Uzbekistan,Australia,2,0,3.54,3.87,1.93,1.82,1.26,1.22,1.52,2.48,1.52,2.49,Non,Non,Oui,Non,Non,Home,23,"[4, 23]",True
+9fe9641161d51f85,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Switzerland,Bosnia-Herzegovina,1,3,1.73,3.87,4.44,1.18,2.03,1.22,1.63,2.23,1.65,2.19,Oui,Oui,Non,Non,Oui,Away,51,"[22, 41, 49, 51]",True
+53e08d43f6761765,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Egypt,Sweden,0,1,2.76,3.53,2.41,1.52,1.41,1.26,1.67,2.16,1.57,2.35,Non,Non,Non,Non,Oui,Away,69,[69],True
+04aa5b95a90e61fe,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Qatar,Netherlands,0,3,3.74,4.22,1.8,1.95,1.24,1.19,1.38,2.98,1.44,2.75,Oui,Non,Non,Non,Oui,Away,82,"[55, 59, 82]",True
+31d5d138906ece7c,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Argentina,Turkiye,3,1,1.53,4.8,5.06,1.14,2.42,1.15,1.33,3.27,1.49,2.58,Oui,Oui,Oui,Non,Non,Home,87,"[19, 35, 48, 87]",True
+0f8dfe40f5ee3d7d,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Germany,Ecuador,0,3,1.85,4.18,3.57,1.26,1.89,1.2,1.38,2.98,1.43,2.79,Oui,Non,Non,Non,Oui,Away,51,"[40, 45, 51]",True
+dbe4e74fdddbe340,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Iraq,Spain,1,2,8.36,5.23,1.33,3.16,1.04,1.13,1.46,2.68,1.83,1.95,Oui,Oui,Non,Non,Oui,Away,77,"[37, 44, 77]",True
+8b7258a94e130bd6,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,England,Congo DR,2,1,1.42,4.87,6.56,1.08,2.74,1.15,1.43,2.76,1.68,2.16,Oui,Oui,Oui,Non,Non,Home,84,"[2, 79, 84]",True
+33adeb3d8d5a44a7,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Haiti,New Zealand,1,3,2.81,3.42,2.43,1.51,1.39,1.28,1.77,2.02,1.64,2.23,Oui,Oui,Non,Non,Oui,Home,57,"[7, 34, 47, 57]",True
+2d99aff3f9d21af9,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Saudi Arabia,France,3,2,8.5,5.71,1.3,3.35,1.04,1.11,1.35,3.12,1.74,2.06,Oui,Oui,Oui,Non,Non,Home,80,"[40, 41, 62, 71, 80]",True
+d7b84a5b55d12821,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Cabo Verde,Jordan,3,1,2.37,3.43,2.88,1.38,1.54,1.28,1.76,2.03,1.63,2.24,Oui,Oui,Oui,Non,Non,Away,90,"[18, 22, 57, 90]",True
+1259286ef52bc18a,coupe-du-monde,164957,84,2026-09-09T23:21:18Z,Panama,Tunisia,2,1,3.8,3.41,1.98,1.77,1.23,1.28,1.89,1.88,1.77,2.03,Oui,Oui,Oui,Non,Non,Home,70,"[33, 43, 70]",True
+2fcdbe96edbf9da1,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Algeria,Scotland,2,1,2.38,3.71,2.7,1.42,1.53,1.24,1.55,2.42,1.49,2.56,Oui,Oui,Oui,Non,Non,Home,87,"[21, 73, 87]",True
+c054eb9d2c00ffc9,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,South Africa,Canada,0,2,3.17,3.74,2.09,1.68,1.32,1.24,1.56,2.39,1.52,2.49,Non,Non,Non,Non,Oui,Away,40,"[37, 40]",True
+e96318d271da9c32,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Haiti,Cote d'Ivoire,0,2,4.72,4.01,1.67,2.13,1.16,1.21,1.59,2.32,1.65,2.21,Non,Non,Non,Non,Oui,Away,83,"[53, 83]",True
+9398e7b4cf08d3dd,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Argentina,Korea Republic,3,2,1.59,4.57,4.74,1.16,2.28,1.17,1.36,3.06,1.49,2.56,Oui,Oui,Oui,Non,Non,Home,90,"[11, 30, 51, 74, 90]",True
+e402d2758faf2ef3,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Uzbekistan,Croatia,4,1,4.13,3.88,1.78,1.97,1.2,1.22,1.59,2.32,1.6,2.3,Oui,Oui,Oui,Non,Non,Away,66,"[17, 38, 48, 63, 66]",True
+db40baf47e0a6a0a,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Panama,Congo DR,2,1,2.72,3.42,2.5,1.49,1.42,1.28,1.77,2.03,1.63,2.24,Oui,Oui,Oui,Non,Non,Home,90,"[10, 17, 90]",True
+86ae5c43eeb7437b,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Mexico,France,1,4,5.01,4.64,1.55,2.36,1.14,1.16,1.37,3.05,1.51,2.51,Oui,Oui,Non,Non,Oui,Away,84,"[11, 30, 69, 78, 84]",True
+b6d24c518ea276b2,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Brazil,Sweden,0,3,1.82,4.14,3.72,1.24,1.92,1.2,1.41,2.84,1.46,2.68,Oui,Non,Non,Non,Oui,Away,64,"[42, 60, 64]",True
+e96a452a0042838e,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Austria,Spain,2,2,4.96,4.28,1.6,2.25,1.14,1.19,1.49,2.57,1.6,2.3,Oui,Oui,Non,Oui,Non,Away,84,"[35, 63, 68, 84]",True
+baabe09681b7466a,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Iraq,Turkiye,2,1,2.91,3.76,2.22,1.61,1.37,1.24,1.53,2.47,1.49,2.58,Oui,Oui,Oui,Non,Non,Home,88,"[53, 59, 88]",True
+d568b088c61238b8,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Uruguay,Tunisia,2,3,1.79,3.74,4.28,1.19,1.96,1.24,1.69,2.13,1.68,2.15,Oui,Oui,Non,Non,Oui,Away,90,"[24, 33, 67, 80, 90]",True
+3e41e3c5931f4ba6,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Paraguay,New Zealand,1,1,1.97,3.69,3.57,1.26,1.78,1.24,1.64,2.23,1.59,2.32,Non,Oui,Non,Oui,Non,Away,41,"[33, 41]",True
+00f3e2f3614bc066,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Senegal,Bosnia-Herzegovina,2,2,1.77,3.93,4.13,1.2,1.98,1.22,1.56,2.39,1.58,2.34,Oui,Oui,Non,Oui,Non,Home,46,"[37, 43, 45, 46]",True
+27b4f764847d1320,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Morocco,Australia,1,0,1.66,3.7,5.3,1.13,2.14,1.24,1.87,1.91,1.89,1.89,Non,Non,Oui,Non,Non,Home,20,[20],True
+7b09a25d32568148,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Saudi Arabia,Curacao,1,1,1.84,3.7,4.07,1.2,1.9,1.24,1.69,2.13,1.66,2.18,Non,Oui,Non,Oui,Non,Home,25,"[21, 25]",True
+5d86ec7e94bf0dc2,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,England,Netherlands,4,1,2.07,4.1,3.0,1.35,1.7,1.2,1.36,3.07,1.39,2.95,Oui,Oui,Oui,Non,Non,Home,70,"[2, 33, 51, 69, 70]",True
+19185eb4e18d2734,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Cabo Verde,Belgium,0,4,4.23,3.98,1.75,2.01,1.19,1.21,1.55,2.41,1.58,2.33,Oui,Non,Non,Non,Oui,Away,64,"[17, 39, 56, 64]",True
+3dc3e93f366ecd25,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Egypt,Portugal,0,4,4.06,4.16,1.74,2.02,1.21,1.2,1.45,2.71,1.5,2.53,Oui,Non,Non,Non,Oui,Away,89,"[23, 57, 87, 89]",True
+48676e7739b2f5b8,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Qatar,Czechia,2,1,2.73,3.69,2.36,1.54,1.41,1.24,1.56,2.39,1.5,2.53,Oui,Oui,Oui,Non,Non,Away,86,"[2, 54, 86]",True
+f2e49bfc3bf674bc,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Japan,Norway,2,1,2.52,3.79,2.51,1.48,1.48,1.23,1.49,2.58,1.45,2.69,Oui,Oui,Oui,Non,Non,Away,60,"[23, 45, 60]",True
+962e9b6b44941d96,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Germany,Colombia,2,1,2.22,4.1,2.73,1.41,1.61,1.2,1.34,3.19,1.36,3.07,Oui,Oui,Oui,Non,Non,Away,90,"[53, 87, 90]",True
+e3941a19fd61a6b4,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,USA,IR Iran,2,3,2.34,3.7,2.76,1.41,1.55,1.24,1.55,2.42,1.5,2.56,Oui,Oui,Non,Non,Oui,Away,83,"[32, 41, 41, 61, 83]",True
+1ee3ac61a7ca4415,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Switzerland,Jordan,3,1,1.67,3.87,4.92,1.15,2.12,1.22,1.7,2.12,1.74,2.06,Oui,Oui,Oui,Non,Non,Away,81,"[3, 23, 53, 81]",True
+69b9579b996552b4,coupe-du-monde,164957,86,2026-09-09T23:25:18Z,Ghana,Ecuador,0,0,3.37,3.79,2.0,1.75,1.29,1.23,1.55,2.42,1.52,2.48,Non,Non,Non,Oui,Non,,,[],True
+101016ed653270a0,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Argentina,Brazil,2,2,2.12,4.23,2.84,1.39,1.67,1.19,1.3,3.45,1.34,3.2,Oui,Oui,Non,Oui,Non,Away,82,"[38, 45, 78, 82]",True
+eb4c4c05e2ff579b,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Sweden,Austria,2,2,2.66,3.63,2.45,1.51,1.43,1.25,1.59,2.31,1.52,2.48,Oui,Oui,Non,Oui,Non,Away,62,"[29, 52, 61, 62]",True
+0e08dec1fe72c305,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,New Zealand,Saudi Arabia,1,1,3.04,3.57,2.22,1.61,1.34,1.26,1.66,2.18,1.58,2.35,Non,Oui,Non,Oui,Non,Away,35,"[34, 35]",True
+dfae5cdd37874fde,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Korea Republic,Haiti,2,2,1.63,4.16,4.84,1.15,2.19,1.2,1.53,2.45,1.62,2.26,Oui,Oui,Non,Oui,Non,Home,62,"[37, 38, 43, 62]",True
+db506fd438762f94,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Cote d'Ivoire,Algeria,0,0,2.42,3.71,2.65,1.44,1.52,1.24,1.54,2.43,1.49,2.57,Non,Non,Non,Oui,Non,,,[],True
+97ba9db826543bdb,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Curacao,Bosnia-Herzegovina,1,3,4.03,3.72,1.84,1.9,1.21,1.24,1.68,2.15,1.65,2.19,Oui,Oui,Non,Non,Oui,Away,70,"[24, 38, 49, 70]",True
+92d6f94fd20d082f,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Germany,Ghana,0,1,1.54,4.67,5.11,1.14,2.39,1.16,1.36,3.06,1.52,2.49,Non,Non,Non,Non,Oui,Away,49,[49],True
+3a65598d9dc9a007,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Egypt,Iraq,2,2,2.11,3.6,3.24,1.31,1.67,1.25,1.66,2.18,1.59,2.33,Oui,Oui,Non,Oui,Non,Home,82,"[25, 31, 34, 82]",True
+d00ba47a55afeab1,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Australia,Panama,0,2,1.82,3.83,4.02,1.21,1.92,1.23,1.61,2.28,1.61,2.29,Non,Non,Non,Non,Oui,Away,47,"[23, 47]",True
+1b9c1d1bafca844d,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Colombia,Uzbekistan,0,0,1.69,4.26,4.29,1.19,2.1,1.19,1.43,2.78,1.5,2.53,Non,Non,Non,Oui,Non,,,[],True
+86f6b480ed718cdb,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Croatia,England,2,2,3.74,3.94,1.86,1.88,1.24,1.22,1.51,2.51,1.52,2.48,Oui,Oui,Non,Oui,Non,Away,71,"[13, 53, 62, 71]",True
+314b7c634c3216c4,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,IR Iran,Tunisia,1,2,2.37,3.33,2.97,1.36,1.54,1.29,1.87,1.9,1.7,2.12,Oui,Oui,Non,Non,Oui,Home,76,"[57, 57, 76]",True
+f505ec50d053f5f5,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Spain,South Africa,0,0,1.3,5.5,9.42,1.03,3.41,1.12,1.45,2.7,1.9,1.87,Non,Non,Non,Oui,Non,,,[],True
+a130a530d034c84a,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Belgium,Uruguay,0,1,2.75,3.68,2.36,1.54,1.41,1.24,1.56,2.38,1.51,2.53,Non,Non,Non,Non,Oui,Away,83,[83],True
+450343006197a2dd,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Czechia,Cabo Verde,2,0,2.32,3.55,2.88,1.38,1.56,1.26,1.67,2.18,1.57,2.36,Non,Non,Oui,Non,Non,Home,77,"[47, 77]",True
+10d0301eddad2230,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Ecuador,Morocco,1,1,5.17,3.74,1.67,2.13,1.13,1.24,1.82,1.95,1.85,1.93,Non,Oui,Non,Oui,Non,Home,24,"[1, 24]",True
+55900df146b6d770,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Norway,Qatar,4,0,1.95,3.95,3.41,1.28,1.8,1.22,1.47,2.64,1.48,2.62,Oui,Non,Oui,Non,Non,Home,73,"[24, 50, 68, 73]",True
+c0b507c3b41afe78,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Netherlands,Switzerland,2,0,2.55,3.73,2.5,1.49,1.47,1.24,1.52,2.48,1.48,2.61,Non,Non,Oui,Non,Non,Home,54,"[37, 54]",True
+e809d3481b46ad12,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Congo DR,Senegal,0,2,4.58,3.96,1.7,2.08,1.17,1.22,1.61,2.29,1.65,2.21,Non,Non,Non,Non,Oui,Away,31,"[25, 31]",True
+4770f2ead5ddd923,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Turkiye,Paraguay,0,2,2.27,3.75,2.83,1.39,1.58,1.24,1.53,2.47,1.48,2.59,Non,Non,Non,Non,Oui,Away,61,"[13, 61]",True
+5a85c909b440756a,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Scotland,USA,4,1,3.04,3.94,2.09,1.69,1.34,1.22,1.44,2.75,1.43,2.76,Oui,Oui,Oui,Non,Non,Home,80,"[13, 38, 59, 80, 80]",True
+d153ca6226e6e6b1,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Jordan,France,1,0,8.13,5.36,1.33,3.17,1.05,1.12,1.41,2.84,1.78,2.01,Non,Non,Oui,Non,Non,Home,52,[52],True
+a2ccb0d98b769ec6,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Canada,Mexico,1,2,3.54,3.98,1.9,1.84,1.26,1.21,1.46,2.65,1.48,2.6,Oui,Oui,Non,Non,Oui,Away,80,"[25, 44, 80]",True
+5bf2c50a7b094ce5,coupe-du-monde,164957,89,2026-09-09T23:31:18Z,Portugal,Japan,0,1,2.04,3.97,3.16,1.32,1.73,1.21,1.43,2.76,1.44,2.74,Non,Non,Non,Non,Oui,Away,58,[58],True
+361cfa2ddefc883e,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Czechia,Switzerland,0,3,3.6,3.64,1.97,1.77,1.26,1.25,1.68,2.15,1.62,2.26,Oui,Non,Non,Non,Oui,Away,32,"[12, 24, 32]",True
+47ac394f38a635f9,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Canada,Tunisia,2,2,2.66,3.48,2.52,1.48,1.43,1.27,1.71,2.1,1.6,2.31,Oui,Oui,Non,Oui,Non,Away,70,"[30, 42, 53, 70]",True
+cdf5fa426ad0189f,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Belgium,France,2,1,3.89,4.14,1.78,1.97,1.22,1.2,1.43,2.77,1.48,2.6,Oui,Oui,Oui,Non,Non,Away,57,"[4, 12, 57]",True
+d545ebe8f46260f6,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Egypt,Austria,2,3,2.86,3.56,2.33,1.56,1.38,1.26,1.65,2.2,1.56,2.38,Oui,Oui,Non,Non,Oui,Away,84,"[10, 18, 32, 46, 84]",True
+4ac3ff85c9a0950b,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Japan,Uzbekistan,2,1,1.66,4.16,4.61,1.16,2.15,1.2,1.5,2.53,1.58,2.34,Oui,Oui,Oui,Non,Non,Home,46,"[25, 30, 46]",True
+06ca3d2d9fa69d71,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Scotland,Bosnia-Herzegovina,0,1,2.17,3.71,3.04,1.34,1.64,1.24,1.57,2.37,1.52,2.49,Non,Non,Non,Non,Oui,Away,51,[51],True
+4b61d8091be9b7fd,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Congo DR,IR Iran,3,2,3.69,3.62,1.95,1.79,1.24,1.25,1.7,2.12,1.64,2.22,Oui,Oui,Oui,Non,Non,Away,59,"[38, 44, 47, 52, 59]",True
+cf7487bf3921f6ed,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Korea Republic,Paraguay,0,2,2.19,3.74,2.98,1.36,1.63,1.24,1.54,2.43,1.5,2.54,Non,Non,Non,Non,Oui,Away,77,"[1, 77]",True
+daf599a293c51158,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Ecuador,Cabo Verde,3,0,2.1,3.69,3.19,1.31,1.68,1.24,1.59,2.32,1.54,2.44,Oui,Non,Oui,Non,Non,Home,71,"[44, 53, 71]",True
+13016b71b1e91e48,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Spain,USA,1,3,1.52,4.57,5.46,1.12,2.44,1.17,1.43,2.76,1.6,2.31,Oui,Oui,Non,Non,Oui,Home,51,"[5, 25, 30, 51]",True
+e470d92adb89b4eb,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Argentina,Haiti,4,2,1.23,6.48,11.04,1.01,4.01,1.08,1.34,3.21,1.89,1.88,Oui,Oui,Oui,Non,Non,Away,86,"[32, 34, 40, 47, 49, 86]",True
+54c286da3167ea1a,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Portugal,Ghana,2,1,1.45,5.02,5.87,1.1,2.66,1.14,1.34,3.2,1.55,2.4,Oui,Oui,Oui,Non,Non,Away,89,"[25, 54, 89]",True
+6b836ee61b9b2c51,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Australia,Uruguay,1,2,3.98,3.99,1.79,1.96,1.21,1.21,1.51,2.51,1.54,2.44,Oui,Oui,Non,Non,Oui,Home,77,"[55, 72, 77]",True
+d70545994af01702,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Colombia,Morocco,0,2,3.96,3.51,1.92,1.82,1.22,1.27,1.83,1.94,1.74,2.06,Non,Non,Non,Non,Oui,Away,83,"[51, 83]",True
+54a92266833e3693,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Turkiye,South Africa,2,2,2.08,3.73,3.21,1.31,1.69,1.24,1.57,2.36,1.53,2.46,Oui,Oui,Non,Oui,Non,Home,62,"[1, 24, 44, 62]",True
+b7efdbaed72a6a94,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Croatia,Panama,2,1,1.63,4.01,5.02,1.14,2.19,1.21,1.63,2.24,1.7,2.12,Oui,Oui,Oui,Non,Non,Home,89,"[12, 46, 89]",True
+3796d69e43e4460e,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Norway,England,0,2,3.44,4.06,1.91,1.83,1.28,1.21,1.41,2.84,1.44,2.74,Non,Non,Non,Non,Oui,Away,58,"[43, 58]",True
+5f67945f93e0e945,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Brazil,Iraq,2,1,1.49,4.7,5.66,1.11,2.52,1.16,1.4,2.87,1.58,2.33,Oui,Oui,Oui,Non,Non,Home,75,"[26, 29, 75]",True
+f11ba807fa905f0b,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Cote d'Ivoire,Saudi Arabia,1,1,1.96,3.84,3.45,1.27,1.78,1.23,1.53,2.47,1.51,2.51,Non,Oui,Non,Oui,Non,Home,73,"[59, 73]",True
+0f084294e3b1df93,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Netherlands,Senegal,1,2,2.3,3.82,2.76,1.41,1.57,1.23,1.48,2.6,1.45,2.69,Oui,Oui,Non,Non,Oui,Home,80,"[51, 51, 80]",True
+11c05fb93372d755,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,New Zealand,Mexico,0,2,4.83,4.13,1.64,2.19,1.15,1.2,1.54,2.43,1.62,2.25,Non,Non,Non,Non,Oui,Away,55,"[21, 55]",True
+200f32ef761b867d,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Curacao,Jordan,0,0,4.24,3.61,1.83,1.91,1.19,1.25,1.79,2.0,1.74,2.06,Non,Non,Non,Oui,Non,,,[],True
+373d52e718162ee9,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Sweden,Algeria,2,3,2.32,3.62,2.83,1.39,1.56,1.25,1.61,2.29,1.53,2.45,Oui,Oui,Non,Non,Oui,Away,82,"[5, 24, 55, 79, 82]",True
+0393479a685460c5,coupe-du-monde,164957,91,2026-09-09T23:35:18Z,Germany,Qatar,2,3,1.77,4.29,3.83,1.23,1.99,1.19,1.37,3.04,1.44,2.75,Oui,Oui,Non,Non,Oui,Home,67,"[30, 33, 35, 54, 67]",True
+aa10e7cc8befe0e7,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,South Africa,Egypt,0,0,3.87,3.71,1.88,1.86,1.22,1.24,1.67,2.17,1.63,2.24,Non,Non,Non,Oui,Non,,,[],True
+76ef251bf58f3b16,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Algeria,Argentina,0,4,5.26,4.63,1.53,2.42,1.13,1.16,1.39,2.93,1.54,2.42,Oui,Non,Non,Non,Oui,Away,86,"[20, 47, 83, 86]",True
+f61e023e52e4d30e,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Mexico,Turkiye,2,1,2.11,3.93,3.01,1.35,1.67,1.22,1.44,2.75,1.43,2.76,Oui,Oui,Oui,Non,Non,Away,76,"[63, 67, 76]",True
+22dcc58370109c8e,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Cabo Verde,Germany,1,2,4.53,4.29,1.65,2.16,1.17,1.19,1.44,2.74,1.53,2.46,Oui,Oui,Non,Non,Oui,Away,87,"[6, 61, 87]",True
+be08e02d03fc2424,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Austria,Iraq,3,1,1.89,3.83,3.7,1.24,1.85,1.23,1.57,2.37,1.56,2.4,Oui,Oui,Oui,Non,Non,Away,73,"[6, 18, 53, 73]",True
+4d7629b31adda1af,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Switzerland,Norway,2,1,2.34,3.63,2.8,1.4,1.55,1.25,1.6,2.29,1.53,2.46,Oui,Oui,Oui,Non,Non,Home,89,"[19, 27, 89]",True
+8606be5a6a3bb98d,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Jordan,New Zealand,1,3,2.24,3.47,3.07,1.34,1.6,1.27,1.74,2.06,1.63,2.25,Oui,Oui,Non,Non,Oui,Home,71,"[18, 42, 66, 71]",True
+ca45a6c80f7c7783,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Morocco,Ghana,2,2,1.46,4.21,7.17,1.07,2.6,1.19,1.76,2.03,1.99,1.79,Oui,Oui,Non,Oui,Non,Away,74,"[12, 13, 54, 74]",True
+0d47c6078423eaf2,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Haiti,Portugal,1,1,8.98,5.77,1.29,3.45,1.03,1.11,1.37,3.05,1.78,2.0,Non,Oui,Non,Oui,Non,Home,42,"[28, 42]",True
+6cb1d981dd521763,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Canada,Belgium,0,4,3.78,4.02,1.83,1.91,1.23,1.21,1.47,2.63,1.5,2.55,Oui,Non,Non,Non,Oui,Away,82,"[13, 42, 68, 82]",True
+2e33bc8e2614b0ba,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Paraguay,Brazil,0,3,5.31,4.71,1.52,2.45,1.13,1.16,1.37,3.02,1.54,2.45,Oui,Non,Non,Non,Oui,Away,71,"[29, 33, 71]",True
+c0839be2238c277c,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Curacao,Netherlands,1,0,8.48,5.5,1.32,3.27,1.04,1.12,1.4,2.88,1.79,1.99,Non,Non,Oui,Non,Non,Home,57,[57],True
+a956e3e27d4ee5b6,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Senegal,Croatia,0,0,2.55,3.54,2.6,1.45,1.47,1.26,1.67,2.17,1.57,2.37,Non,Non,Non,Oui,Non,,,[],True
+b9cf5a482cb7dd9f,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,IR Iran,Australia,0,0,2.52,3.61,2.59,1.46,1.48,1.25,1.61,2.27,1.54,2.45,Non,Non,Non,Oui,Non,,,[],True
+a503a0a46ace0ded,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,England,Japan,1,2,2.03,3.9,3.23,1.31,1.73,1.22,1.47,2.62,1.47,2.63,Oui,Oui,Non,Non,Oui,Away,84,"[16, 74, 84]",True
+d4e42e7b60ca1140,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Tunisia,Spain,1,1,7.11,4.51,1.43,2.71,1.07,1.17,1.61,2.28,1.86,1.91,Non,Oui,Non,Oui,Non,Home,86,"[48, 86]",True
+9c6b857198832c72,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Congo DR,Scotland,3,1,3.09,3.7,2.15,1.65,1.33,1.24,1.58,2.35,1.53,2.47,Oui,Oui,Oui,Non,Non,Home,73,"[3, 9, 54, 73]",True
+8c158e2ab148afa6,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,USA,Sweden,2,0,2.43,3.72,2.63,1.44,1.51,1.24,1.53,2.46,1.48,2.6,Non,Non,Oui,Non,Non,Home,69,"[52, 69]",True
+4e186d338fe403fb,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Uruguay,Ecuador,3,0,1.81,3.99,3.9,1.22,1.93,1.21,1.5,2.53,1.53,2.47,Oui,Non,Oui,Non,Non,Home,86,"[82, 82, 86]",True
+96b5432df07f232c,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Bosnia-Herzegovina,Cote d'Ivoire,2,2,3.41,3.87,1.97,1.78,1.28,1.22,1.51,2.52,1.5,2.54,Oui,Oui,Non,Oui,Non,Home,88,"[18, 27, 70, 88]",True
+e9b29afe4a4ee524,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Panama,Colombia,0,1,5.25,4.27,1.57,2.31,1.13,1.19,1.53,2.46,1.65,2.2,Non,Non,Non,Non,Oui,Away,20,[20],True
+29102143bad9a53f,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Saudi Arabia,Korea Republic,0,2,3.43,3.83,1.97,1.78,1.28,1.23,1.54,2.44,1.52,2.49,Non,Non,Non,Non,Oui,Away,42,"[39, 42]",True
+e618451606a46330,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,France,Czechia,5,1,1.45,4.81,6.15,1.09,2.65,1.15,1.42,2.82,1.63,2.24,Oui,Oui,Oui,Non,Non,Home,85,"[32, 34, 38, 64, 71, 85]",True
+ee7f6614a216dbc4,coupe-du-monde,164957,94,2026-09-09T23:41:18Z,Qatar,Uzbekistan,5,1,2.21,3.72,2.96,1.36,1.62,1.24,1.55,2.4,1.51,2.52,Oui,Oui,Oui,Non,Non,Home,84,"[20, 35, 43, 54, 68, 84]",True
