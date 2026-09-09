@@ -1,0 +1,136 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+eca2e8b4aee81bfe,french-league,164863,1,2026-09-09T03:54:30Z,Auxerre,Lorient,2,0,2.05,3.49,3.49,1.27,1.71,1.27,1.78,2.01,1.67,2.16,Non,Non,Oui,Non,Non,Home,18,"[9, 18]",True
+01ca1b4b58505331,french-league,164863,1,2026-09-09T03:54:30Z,Lille,Angers,2,2,1.27,5.43,11.7,1.01,3.64,1.12,1.6,2.31,2.23,1.64,Oui,Oui,Non,Oui,Non,Home,90,"[9, 38, 45, 90]",True
+d0057bce8d51f25f,french-league,164863,1,2026-09-09T03:54:30Z,Monaco,Paris SG,2,2,3.94,4.08,1.78,1.97,1.22,1.2,1.47,2.64,1.51,2.52,Oui,Oui,Non,Oui,Non,Home,86,"[1, 43, 59, 86]",True
+e92a2736e41fa456,french-league,164863,1,2026-09-09T03:54:30Z,Le Havre,Strasbourg,1,2,3.3,3.43,2.15,1.65,1.3,1.28,1.81,1.97,1.68,2.15,Oui,Oui,Non,Non,Oui,Away,67,"[22, 34, 67]",True
+401bde7e150cf2d4,french-league,164863,1,2026-09-09T03:54:30Z,Marseille,Brest,0,1,1.54,4.51,5.24,1.13,2.38,1.17,1.43,2.76,1.58,2.35,Non,Non,Non,Non,Oui,Away,57,[57],True
+e573c30408ca9f45,french-league,164863,1,2026-09-09T03:54:30Z,Rennes,Nantes,2,2,1.4,4.61,7.76,1.05,2.84,1.16,1.63,2.25,1.93,1.84,Oui,Oui,Non,Oui,Non,Home,48,"[37, 41, 43, 48]",True
+1e864303c0de7ada,french-league,164863,1,2026-09-09T03:54:30Z,Paris FC,Lyon,1,2,2.81,3.44,2.42,1.52,1.39,1.28,1.75,2.05,1.62,2.26,Oui,Oui,Non,Non,Oui,Away,61,"[5, 46, 61]",True
+254a40e831489ce0,french-league,164863,1,2026-09-09T03:54:30Z,Lens,Metz,5,0,1.21,6.34,13.3,1.0,4.22,1.09,1.44,2.72,2.17,1.67,Oui,Non,Oui,Non,Non,Home,85,"[28, 32, 36, 74, 85]",True
+994afaed1e74d199,french-league,164863,1,2026-09-09T03:54:30Z,Toulouse,Nice,3,2,3.04,3.22,2.38,1.54,1.34,1.31,2.0,1.79,1.78,2.01,Oui,Oui,Oui,Non,Non,Away,70,"[8, 9, 12, 51, 70]",True
+19ef5e7e7ac6c226,french-league,164863,2,2026-09-09T03:56:30Z,Angers,Marseille,0,3,5.53,4.37,1.54,2.4,1.12,1.18,1.51,2.5,1.66,2.19,Oui,Non,Non,Non,Oui,Away,79,"[38, 57, 79]",True
+9a107fc766309ec1,french-league,164863,2,2026-09-09T03:56:30Z,Nantes,Le Havre,2,0,2.59,3.24,2.74,1.41,1.46,1.31,1.96,1.82,1.75,2.05,Non,Non,Oui,Non,Non,Home,53,"[19, 53]",True
+f8938eb38cd2e808,french-league,164863,2,2026-09-09T03:56:30Z,Brest,Rennes,3,2,2.0,3.51,3.63,1.25,1.75,1.27,1.78,2.01,1.68,2.15,Oui,Oui,Oui,Non,Non,Home,89,"[31, 32, 35, 56, 89]",True
+53a3045db8fcf502,french-league,164863,2,2026-09-09T03:56:30Z,Paris SG,Auxerre,3,2,1.25,6.51,9.34,1.03,3.77,1.08,1.26,3.74,1.71,2.1,Oui,Oui,Oui,Non,Non,Home,58,"[27, 29, 51, 56, 58]",True
+f6a9f1b4cc12f6da,french-league,164863,2,2026-09-09T03:56:30Z,Lyon,Lens,1,3,2.52,3.28,2.79,1.4,1.48,1.3,1.92,1.86,1.72,2.09,Oui,Oui,Non,Non,Oui,Away,60,"[20, 42, 53, 60]",True
+6b5109f4454d950c,french-league,164863,2,2026-09-09T03:56:30Z,Monaco,Lille,0,0,2.02,3.44,3.66,1.25,1.74,1.28,1.85,1.93,1.73,2.08,Non,Non,Non,Oui,Non,,,[],True
+2df650a5dd0f6692,french-league,164863,2,2026-09-09T03:56:30Z,Strasbourg,Toulouse,3,2,2.29,3.42,3.02,1.35,1.57,1.28,1.78,2.0,1.65,2.21,Oui,Oui,Oui,Non,Non,Home,88,"[17, 35, 70, 72, 88]",True
+214ff239e07ab217,french-league,164863,2,2026-09-09T03:56:30Z,Metz,Nice,4,2,3.72,3.88,1.88,1.86,1.24,1.22,1.54,2.43,1.54,2.43,Oui,Oui,Oui,Non,Non,Home,80,"[3, 5, 20, 49, 59, 80]",True
+8f2bc61de9c71c5a,french-league,164863,2,2026-09-09T03:56:30Z,Lorient,Paris FC,1,1,2.91,3.33,2.4,1.52,1.37,1.29,1.86,1.91,1.69,2.13,Non,Oui,Non,Oui,Non,Away,78,"[43, 78]",True
+7fd475866aaca929,french-league,164863,4,2026-09-09T04:00:30Z,Paris SG,Lens,1,1,1.92,3.66,3.77,1.24,1.82,1.25,1.69,2.14,1.64,2.23,Non,Oui,Non,Oui,Non,Home,42,"[6, 42]",True
+7ea00d7584fea170,french-league,164863,4,2026-09-09T04:00:30Z,Auxerre,Marseille,1,4,3.32,3.34,2.18,1.63,1.29,1.29,1.89,1.88,1.73,2.08,Oui,Oui,Non,Non,Oui,Home,73,"[24, 38, 65, 69, 73]",True
+2021ea529812d501,french-league,164863,4,2026-09-09T04:00:30Z,Lille,Paris FC,2,1,1.54,4.05,6.12,1.09,2.39,1.21,1.75,2.05,1.88,1.89,Oui,Oui,Oui,Non,Non,Home,62,"[39, 41, 62]",True
+4964ade02afebf05,french-league,164863,4,2026-09-09T04:00:30Z,Monaco,Rennes,3,0,1.67,4.13,4.6,1.16,2.14,1.2,1.52,2.49,1.59,2.32,Oui,Non,Oui,Non,Non,Home,40,"[15, 30, 40]",True
+bec425f3ba3b7ef3,french-league,164863,4,2026-09-09T04:00:30Z,Lorient,Nice,3,2,3.77,3.63,1.93,1.81,1.24,1.25,1.71,2.11,1.65,2.2,Oui,Oui,Oui,Non,Non,Home,83,"[32, 38, 56, 67, 83]",True
+6ca2da643d3408b2,french-league,164863,4,2026-09-09T04:00:30Z,Lyon,Metz,3,3,1.22,6.69,11.14,1.01,4.1,1.08,1.31,3.38,1.87,1.9,Oui,Oui,Non,Oui,Non,Home,90,"[19, 27, 36, 46, 65, 90]",True
+1b3ecc39989ff4c1,french-league,164863,4,2026-09-09T04:00:30Z,Brest,Strasbourg,2,0,1.86,3.64,4.03,1.21,1.88,1.25,1.74,2.07,1.69,2.14,Non,Non,Oui,Non,Non,Home,67,"[48, 67]",True
+c4f22eb364116d05,french-league,164863,4,2026-09-09T04:00:30Z,Angers,Le Havre,1,2,3.3,3.65,2.07,1.7,1.3,1.25,1.63,2.23,1.57,2.36,Oui,Oui,Non,Non,Oui,Home,89,"[71, 71, 89]",True
+adbd74113db2ef73,french-league,164863,4,2026-09-09T04:00:30Z,Nantes,Toulouse,1,1,3.3,3.16,2.27,1.59,1.3,1.32,2.1,1.72,1.85,1.93,Non,Oui,Non,Oui,Non,Away,63,"[51, 63]",True
+8c44724461ee990d,french-league,164863,7,2026-09-09T04:06:30Z,Brest,Angers,1,1,1.45,4.06,8.17,1.05,2.66,1.21,1.96,1.82,2.25,1.62,Non,Oui,Non,Oui,Non,Home,76,"[16, 76]",True
+c9547586048809c8,french-league,164863,7,2026-09-09T04:06:30Z,Nice,Marseille,1,1,2.06,3.32,3.67,1.25,1.71,1.29,1.97,1.81,1.8,1.98,Non,Oui,Non,Oui,Non,Away,44,"[42, 44]",True
+07df1c7b78a61c30,french-league,164863,7,2026-09-09T04:06:30Z,Strasbourg,Auxerre,2,1,1.67,4.05,4.69,1.16,2.13,1.21,1.57,2.37,1.63,2.24,Oui,Oui,Oui,Non,Non,Home,73,"[6, 57, 73]",True
+7d8e32594274ed67,french-league,164863,7,2026-09-09T04:06:30Z,Metz,Lille,2,1,3.96,3.67,1.87,1.87,1.22,1.25,1.7,2.12,1.66,2.18,Oui,Oui,Oui,Non,Non,Home,79,"[34, 40, 79]",True
+09eb4b8fd55d89ba,french-league,164863,7,2026-09-09T04:06:30Z,Nantes,Monaco,0,2,4.15,3.79,1.8,1.94,1.2,1.23,1.65,2.21,1.64,2.22,Non,Non,Non,Non,Oui,Away,28,"[23, 28]",True
+5e4cec470fd206ff,french-league,164863,7,2026-09-09T04:06:30Z,Toulouse,Lorient,4,1,2.04,3.72,3.33,1.29,1.72,1.24,1.59,2.32,1.55,2.42,Oui,Oui,Oui,Non,Non,Home,70,"[35, 42, 46, 70, 70]",True
+5a92fdc67b8a7dfa,french-league,164863,7,2026-09-09T04:06:30Z,Lyon,Paris SG,2,1,5.0,4.29,1.59,2.27,1.14,1.19,1.49,2.57,1.6,2.3,Oui,Oui,Oui,Non,Non,Home,79,"[41, 43, 79]",True
+56861ec026065714,french-league,164863,7,2026-09-09T04:06:30Z,Lens,Rennes,1,2,1.85,3.56,4.18,1.2,1.89,1.26,1.82,1.96,1.75,2.04,Oui,Oui,Non,Non,Oui,Home,57,"[21, 25, 57]",True
+956f9d9e54daa0b8,french-league,164863,7,2026-09-09T04:06:30Z,Le Havre,Paris FC,2,1,3.48,3.19,2.18,1.63,1.27,1.32,2.09,1.72,1.86,1.92,Oui,Oui,Oui,Non,Non,Home,83,"[49, 82, 83]",True
+f871790ffe662f8e,french-league,164863,9,2026-09-09T04:10:30Z,Toulouse,Paris SG,0,2,7.68,4.87,1.38,2.93,1.06,1.15,1.52,2.48,1.84,1.94,Non,Non,Non,Non,Oui,Away,61,"[8, 61]",True
+731ec435acebefae,french-league,164863,9,2026-09-09T04:10:30Z,Lyon,Marseille,2,3,2.35,3.73,2.73,1.42,1.55,1.24,1.53,2.47,1.48,2.59,Oui,Oui,Non,Non,Oui,Home,77,"[42, 45, 45, 76, 77]",True
+084320f013944f8f,french-league,164863,9,2026-09-09T04:10:30Z,Angers,Monaco,1,2,5.37,4.69,1.51,2.46,1.12,1.16,1.38,2.97,1.55,2.42,Oui,Oui,Non,Non,Oui,Away,87,"[71, 81, 87]",True
+5de9ebdafb75a943,french-league,164863,9,2026-09-09T04:10:30Z,Nantes,Paris FC,0,4,2.95,2.95,2.62,1.45,1.36,1.36,2.38,1.56,1.99,1.8,Oui,Non,Non,Non,Oui,Away,71,"[6, 38, 49, 71]",True
+e5ae8e8605eb3ce8,french-league,164863,9,2026-09-09T04:10:30Z,Strasbourg,Lens,2,3,3.06,3.11,2.43,1.51,1.34,1.33,2.13,1.69,1.85,1.92,Oui,Oui,Non,Non,Oui,Home,88,"[22, 42, 67, 83, 88]",True
+974e1686003f6423,french-league,164863,9,2026-09-09T04:10:30Z,Metz,Rennes,1,0,2.99,3.92,2.12,1.67,1.35,1.22,1.44,2.73,1.44,2.74,Non,Non,Oui,Non,Non,Home,16,[16],True
+1acad3e79fa929be,french-league,164863,9,2026-09-09T04:10:30Z,Nice,Le Havre,0,1,1.54,3.93,6.48,1.08,2.4,1.22,1.86,1.92,2.0,1.78,Non,Non,Non,Non,Oui,Away,18,[18],True
+b721583ed1c9f814,french-league,164863,9,2026-09-09T04:10:30Z,Brest,Auxerre,4,1,1.61,4.03,5.29,1.13,2.24,1.21,1.65,2.2,1.74,2.06,Oui,Oui,Oui,Non,Non,Home,70,"[41, 43, 44, 58, 70]",True
+3f3523a77574ba11,french-league,164863,9,2026-09-09T04:10:30Z,Lorient,Lille,2,2,4.13,3.43,1.9,1.84,1.2,1.28,1.92,1.85,1.81,1.97,Oui,Oui,Non,Oui,Non,Home,79,"[26, 29, 56, 79]",True
+25b19fecd947736d,french-league,164863,12,2026-09-09T04:16:30Z,Le Havre,Lorient,2,0,3.17,3.52,2.17,1.64,1.32,1.26,1.71,2.11,1.61,2.28,Non,Non,Oui,Non,Non,Home,62,"[49, 62]",True
+1dbc246351a5cb1b,french-league,164863,12,2026-09-09T04:16:30Z,Paris FC,Monaco,2,2,3.1,3.55,2.19,1.62,1.33,1.26,1.68,2.15,1.59,2.31,Oui,Oui,Non,Oui,Non,Away,87,"[41, 57, 72, 87]",True
+1b1fe3d93dcff92e,french-league,164863,12,2026-09-09T04:16:30Z,Strasbourg,Lyon,1,3,2.42,3.66,2.68,1.43,1.52,1.25,1.57,2.35,1.51,2.51,Oui,Oui,Non,Non,Oui,Away,87,"[18, 66, 83, 87]",True
+f2c98cfc1136d3af,french-league,164863,12,2026-09-09T04:16:30Z,Metz,Nantes,2,1,2.1,3.68,3.22,1.31,1.68,1.25,1.6,2.29,1.55,2.41,Oui,Oui,Oui,Non,Non,Home,47,"[32, 36, 47]",True
+a3c84ff8eae16097,french-league,164863,12,2026-09-09T04:16:30Z,Lens,Angers,1,0,1.33,4.66,10.84,1.01,3.2,1.16,1.84,1.94,2.41,1.55,Non,Non,Oui,Non,Non,Home,70,[70],True
+4a9eb91e18f22ce1,french-league,164863,12,2026-09-09T04:16:30Z,Nice,Brest,4,1,1.63,3.72,5.67,1.11,2.2,1.24,1.91,1.86,1.95,1.82,Oui,Oui,Oui,Non,Non,Home,73,"[38, 40, 40, 71, 73]",True
+abf26298ade724fe,french-league,164863,12,2026-09-09T04:16:30Z,Auxerre,Toulouse,2,2,2.79,3.15,2.6,1.45,1.4,1.32,2.07,1.73,1.81,1.97,Oui,Oui,Non,Oui,Non,Home,74,"[7, 8, 66, 74]",True
+b6b4ab2896aa0709,french-league,164863,12,2026-09-09T04:16:30Z,Marseille,Lille,2,0,1.93,3.42,3.99,1.21,1.81,1.28,1.91,1.86,1.79,1.99,Non,Non,Oui,Non,Non,Home,86,"[49, 86]",True
+9a2f8889c79d6bb1,french-league,164863,12,2026-09-09T04:16:30Z,Rennes,Paris SG,2,1,3.82,3.85,1.86,1.88,1.23,1.23,1.56,2.38,1.56,2.38,Oui,Oui,Oui,Non,Non,Home,76,"[42, 51, 76]",True
+9798e45657b907d8,french-league,164863,14,2026-09-09T04:20:30Z,Le Havre,Lille,1,4,5.05,3.39,1.76,1.99,1.14,1.28,2.11,1.71,2.02,1.77,Oui,Oui,Non,Non,Oui,Away,90,"[22, 42, 66, 89, 90]",True
+388e085816dad8f9,french-league,164863,14,2026-09-09T04:20:30Z,Paris FC,Toulouse,1,2,2.65,3.14,2.75,1.41,1.44,1.32,2.08,1.73,1.81,1.97,Oui,Oui,Non,Non,Oui,Away,86,"[15, 57, 86]",True
+e8d15abe709c44ea,french-league,164863,14,2026-09-09T04:20:30Z,Lens,Auxerre,1,1,1.43,4.58,7.09,1.07,2.73,1.17,1.58,2.34,1.84,1.94,Non,Oui,Non,Oui,Non,Home,58,"[2, 58]",True
+23ee7b426c70931f,french-league,164863,14,2026-09-09T04:20:30Z,Lyon,Brest,1,1,1.71,4.17,4.23,1.19,2.06,1.2,1.45,2.68,1.52,2.49,Non,Oui,Non,Oui,Non,Away,90,"[88, 90]",True
+a4b1c4c0d26fa1f3,french-league,164863,14,2026-09-09T04:20:30Z,Strasbourg,Paris SG,0,1,5.9,4.39,1.51,2.47,1.1,1.18,1.54,2.42,1.71,2.1,Non,Non,Non,Non,Oui,Away,55,[55],True
+37fe09569267479a,french-league,164863,14,2026-09-09T04:20:30Z,Metz,Angers,1,0,1.75,3.83,4.36,1.18,2.0,1.23,1.65,2.21,1.66,2.19,Non,Non,Oui,Non,Non,Home,89,[89],True
+49839a752c785555,french-league,164863,14,2026-09-09T04:20:30Z,Nantes,Lorient,2,1,2.44,3.36,2.84,1.39,1.51,1.29,1.83,1.95,1.67,2.17,Oui,Oui,Oui,Non,Non,Home,48,"[15, 42, 48]",True
+412ab368b13cebbd,french-league,164863,14,2026-09-09T04:20:30Z,Rennes,Marseille,1,0,2.0,3.73,3.42,1.28,1.75,1.24,1.6,2.31,1.56,2.39,Non,Non,Oui,Non,Non,Home,41,[41],True
+080c40de1b3c8b43,french-league,164863,14,2026-09-09T04:20:30Z,Nice,Monaco,4,1,1.93,3.57,3.8,1.23,1.81,1.26,1.75,2.05,1.68,2.16,Oui,Oui,Oui,Non,Non,Away,84,"[18, 31, 40, 53, 84]",True
+e1fe3167798ded1d,french-league,164863,17,2026-09-09T04:26:30Z,Paris SG,Angers,3,0,1.18,7.06,14.61,0.99,4.67,1.07,1.37,3.05,2.15,1.68,Oui,Non,Oui,Non,Non,Home,76,"[15, 58, 76]",True
+77dd84af87363761,french-league,164863,17,2026-09-09T04:26:30Z,Toulouse,Le Havre,3,0,2.16,3.48,3.23,1.31,1.64,1.27,1.75,2.04,1.64,2.22,Oui,Non,Oui,Non,Non,Home,80,"[47, 67, 80]",True
+0a99eff6b0d29110,french-league,164863,17,2026-09-09T04:26:30Z,Rennes,Strasbourg,2,3,1.53,4.37,5.7,1.11,2.43,1.18,1.53,2.45,1.69,2.14,Oui,Oui,Non,Non,Oui,Home,77,"[12, 26, 55, 72, 77]",True
+5c450c4242ee7014,french-league,164863,17,2026-09-09T04:26:30Z,Monaco,Lorient,2,0,1.44,4.93,6.2,1.09,2.69,1.14,1.38,2.96,1.61,2.28,Non,Non,Oui,Non,Non,Home,61,"[35, 61]",True
+0684c1dcc74d48da,french-league,164863,17,2026-09-09T04:26:30Z,Lens,Nice,0,1,2.09,3.28,3.63,1.25,1.69,1.3,2.01,1.78,1.82,1.96,Non,Non,Non,Non,Oui,Away,80,[80],True
+20b3d495af8b748a,french-league,164863,17,2026-09-09T04:26:30Z,Marseille,Nantes,1,2,1.38,4.85,7.86,1.05,2.94,1.15,1.54,2.43,1.87,1.91,Oui,Oui,Non,Non,Oui,Home,73,"[27, 28, 73]",True
+736b697d6e9f63c5,french-league,164863,17,2026-09-09T04:26:30Z,Paris FC,Metz,2,0,1.43,4.55,7.03,1.07,2.71,1.17,1.59,2.32,1.84,1.93,Non,Non,Oui,Non,Non,Home,41,"[23, 41]",True
+c0d9ccefae4b0b3c,french-league,164863,17,2026-09-09T04:26:30Z,Auxerre,Lyon,2,2,2.91,3.39,2.37,1.54,1.37,1.28,1.8,1.98,1.66,2.19,Oui,Oui,Non,Oui,Non,Home,70,"[10, 33, 63, 70]",True
+69e89b13de89d5cd,french-league,164863,17,2026-09-09T04:26:30Z,Lille,Brest,5,0,1.52,4.49,5.64,1.11,2.45,1.17,1.48,2.59,1.65,2.21,Oui,Non,Oui,Non,Non,Home,71,"[15, 22, 55, 62, 71]",True
+5ca97bf09800155d,french-league,164863,19,2026-09-09T04:30:30Z,Paris FC,Lorient,2,2,2.02,3.45,3.64,1.25,1.74,1.27,1.83,1.95,1.72,2.1,Oui,Oui,Non,Oui,Non,Home,84,"[24, 45, 65, 84]",True
+dad4a0e28a95b54e,french-league,164863,19,2026-09-09T04:30:30Z,Nice,Metz,0,1,1.17,6.84,16.67,0.98,4.76,1.07,1.46,2.67,2.42,1.55,Non,Non,Non,Non,Oui,Away,58,[58],True
+0ad6c83fb5ff0479,french-league,164863,19,2026-09-09T04:30:30Z,Toulouse,Strasbourg,0,0,2.35,3.41,2.94,1.36,1.55,1.28,1.79,1.99,1.65,2.2,Non,Non,Non,Oui,Non,,,[],True
+50667c4c13ab498b,french-league,164863,19,2026-09-09T04:30:30Z,Lille,Monaco,3,1,1.86,4.09,3.6,1.25,1.88,1.2,1.42,2.81,1.45,2.69,Oui,Oui,Oui,Non,Non,Away,83,"[26, 50, 82, 83]",True
+0a79e389512da9eb,french-league,164863,19,2026-09-09T04:30:30Z,Marseille,Angers,0,0,1.25,5.66,12.06,1.0,3.78,1.11,1.55,2.42,2.2,1.65,Non,Non,Non,Oui,Non,,,[],True
+00ffd5e67079610c,french-league,164863,19,2026-09-09T04:30:30Z,Lens,Lyon,3,2,1.86,3.72,3.94,1.22,1.88,1.24,1.66,2.18,1.64,2.23,Oui,Oui,Oui,Non,Non,Home,61,"[2, 15, 42, 60, 61]",True
+8109aa3a323b5b42,french-league,164863,19,2026-09-09T04:30:30Z,Auxerre,Paris SG,2,2,8.53,4.68,1.37,2.97,1.04,1.16,1.66,2.19,2.03,1.76,Oui,Oui,Non,Oui,Non,Away,90,"[19, 75, 75, 90]",True
+f415a98fa72105d2,french-league,164863,19,2026-09-09T04:30:30Z,Rennes,Brest,2,0,1.53,4.38,5.59,1.11,2.41,1.18,1.52,2.49,1.67,2.18,Non,Non,Oui,Non,Non,Home,81,"[58, 81]",True
+94ad99e51d99bf12,french-league,164863,19,2026-09-09T04:30:30Z,Le Havre,Nantes,2,1,2.8,3.15,2.59,1.46,1.4,1.32,2.06,1.74,1.81,1.98,Oui,Oui,Oui,Non,Non,Home,88,"[16, 22, 88]",True
+ca6734b48fa8b9f1,french-league,164863,22,2026-09-09T04:36:30Z,Brest,Nantes,3,2,1.59,3.78,5.94,1.1,2.27,1.23,1.9,1.87,1.98,1.8,Oui,Oui,Oui,Non,Non,Home,75,"[8, 38, 60, 66, 75]",True
+b8f232276b3e2460,french-league,164863,22,2026-09-09T04:36:30Z,Lille,Lens,1,1,2.12,3.25,3.55,1.26,1.67,1.3,2.02,1.77,1.82,1.96,Non,Oui,Non,Oui,Non,Away,83,"[53, 83]",True
+d706185a1d874457,french-league,164863,22,2026-09-09T04:36:30Z,Marseille,Paris FC,2,0,1.54,4.1,5.99,1.1,2.39,1.2,1.69,2.13,1.83,1.95,Non,Non,Oui,Non,Non,Home,35,"[25, 35]",True
+8c1277c3c2a05eb9,french-league,164863,22,2026-09-09T04:36:30Z,Monaco,Le Havre,1,0,1.52,4.49,5.63,1.11,2.45,1.17,1.48,2.61,1.64,2.23,Non,Non,Oui,Non,Non,Home,59,[59],True
+5a83736b73acd995,french-league,164863,22,2026-09-09T04:36:30Z,Lorient,Metz,0,0,1.62,4.27,4.77,1.15,2.21,1.19,1.48,2.62,1.57,2.36,Non,Non,Non,Oui,Non,,,[],True
+21d893269cc5bb3f,french-league,164863,22,2026-09-09T04:36:30Z,Auxerre,Rennes,0,3,2.65,3.22,2.69,1.43,1.44,1.31,1.98,1.8,1.76,2.04,Oui,Non,Non,Non,Oui,Away,74,"[22, 67, 74]",True
+e6011bcdf095ece5,french-league,164863,22,2026-09-09T04:36:30Z,Lyon,Toulouse,1,2,1.98,3.68,3.53,1.26,1.77,1.24,1.64,2.23,1.59,2.32,Oui,Oui,Non,Non,Oui,Home,74,"[60, 72, 74]",True
+8611c14dd4b6c4f7,french-league,164863,22,2026-09-09T04:36:30Z,Paris SG,Nice,1,3,1.65,4.21,4.6,1.17,2.16,1.19,1.48,2.61,1.56,2.39,Oui,Oui,Non,Non,Oui,Away,65,"[28, 34, 64, 65]",True
+634c77057c75f6fc,french-league,164863,22,2026-09-09T04:36:30Z,Angers,Strasbourg,2,0,3.42,3.62,2.03,1.73,1.28,1.25,1.67,2.17,1.6,2.3,Non,Non,Oui,Non,Non,Home,23,"[17, 23]",True
+56945c9d5997a5d1,french-league,164863,24,2026-09-09T04:40:30Z,Paris FC,Le Havre,3,0,2.2,3.36,3.24,1.31,1.62,1.29,1.86,1.91,1.71,2.11,Oui,Non,Oui,Non,Non,Home,86,"[22, 40, 86]",True
+9acfffeef57b5dfe,french-league,164863,24,2026-09-09T04:40:30Z,Rennes,Lens,2,0,2.18,3.22,3.45,1.27,1.63,1.31,2.05,1.75,1.83,1.95,Non,Non,Oui,Non,Non,Home,72,"[49, 72]",True
+7d7b41194af6fa4a,french-league,164863,24,2026-09-09T04:40:30Z,Angers,Brest,0,2,3.48,3.78,1.97,1.78,1.27,1.23,1.56,2.38,1.54,2.44,Non,Non,Non,Non,Oui,Away,81,"[76, 81]",True
+958aea180f2a21dc,french-league,164863,24,2026-09-09T04:40:30Z,Paris SG,Lyon,1,1,1.6,4.66,4.57,1.17,2.26,1.16,1.32,3.29,1.45,2.69,Non,Oui,Non,Oui,Non,Home,89,"[82, 89]",True
+9d16c26232f0ff03,french-league,164863,24,2026-09-09T04:40:30Z,Lorient,Toulouse,0,1,3.3,3.63,2.08,1.7,1.3,1.25,1.65,2.2,1.58,2.33,Non,Non,Non,Non,Oui,Away,52,[52],True
+999c9bfaa1295ee8,french-league,164863,24,2026-09-09T04:40:30Z,Monaco,Nantes,2,1,1.43,4.61,6.99,1.07,2.73,1.16,1.56,2.4,1.81,1.97,Oui,Oui,Oui,Non,Non,Away,80,"[37, 38, 80]",True
+6fd9d3926859eb94,french-league,164863,24,2026-09-09T04:40:30Z,Lille,Metz,3,0,1.16,7.56,15.04,0.99,4.94,1.06,1.32,3.33,2.12,1.7,Oui,Non,Oui,Non,Non,Home,90,"[27, 75, 90]",True
+05c833916332af9c,french-league,164863,24,2026-09-09T04:40:30Z,Auxerre,Strasbourg,1,0,2.33,3.21,3.14,1.32,1.56,1.31,2.02,1.77,1.79,1.99,Non,Non,Oui,Non,Non,Home,59,[59],True
+deceab1c9b64ba75,french-league,164863,24,2026-09-09T04:40:30Z,Marseille,Nice,1,0,1.91,3.62,3.84,1.23,1.83,1.25,1.72,2.08,1.67,2.17,Non,Non,Oui,Non,Non,Home,57,[57],True
+fed75e4bd7dd9c6b,french-league,164863,27,2026-09-09T04:46:30Z,Lorient,Marseille,1,2,4.24,4.05,1.73,2.03,1.19,1.21,1.52,2.5,1.56,2.38,Oui,Oui,Non,Non,Oui,Away,56,"[28, 43, 56]",True
+da4de9733164ca3c,french-league,164863,27,2026-09-09T04:46:30Z,Brest,Paris FC,2,0,1.96,3.29,4.09,1.2,1.79,1.3,2.07,1.73,1.9,1.87,Non,Non,Oui,Non,Non,Home,42,"[41, 42]",True
+44f92f0c8617065e,french-league,164863,27,2026-09-09T04:46:30Z,Angers,Auxerre,3,1,2.61,3.62,2.5,1.49,1.45,1.25,1.6,2.3,1.53,2.47,Oui,Oui,Oui,Non,Non,Home,81,"[4, 69, 70, 81]",True
+61b1af1584b0a2ca,french-league,164863,27,2026-09-09T04:46:30Z,Strasbourg,Nice,1,2,2.55,3.3,2.74,1.41,1.47,1.3,1.88,1.89,1.7,2.12,Oui,Oui,Non,Non,Oui,Away,82,"[44, 45, 82]",True
+c0d2353487bbfdc0,french-league,164863,27,2026-09-09T04:46:30Z,Toulouse,Monaco,2,4,3.28,3.82,2.03,1.73,1.3,1.23,1.53,2.47,1.51,2.53,Oui,Oui,Non,Non,Oui,Home,65,"[23, 32, 39, 55, 58, 65]",True
+55697d3eb4709028,french-league,164863,27,2026-09-09T04:46:30Z,Metz,Le Havre,1,2,2.52,3.82,2.5,1.49,1.48,1.23,1.47,2.63,1.44,2.72,Oui,Oui,Non,Non,Oui,Away,74,"[5, 22, 74]",True
+32aef907b841a484,french-league,164863,27,2026-09-09T04:46:30Z,Paris SG,Lille,0,2,1.69,3.91,4.67,1.16,2.09,1.22,1.64,2.22,1.68,2.15,Non,Non,Non,Non,Oui,Away,80,"[39, 80]",True
+520ec7f516eacdb4,french-league,164863,27,2026-09-09T04:46:30Z,Lyon,Rennes,1,0,1.86,3.91,3.73,1.24,1.88,1.22,1.52,2.49,1.53,2.47,Non,Non,Oui,Non,Non,Home,40,[40],True
+137227352ab6c36e,french-league,164863,27,2026-09-09T04:46:30Z,Nantes,Lens,2,1,4.38,3.03,1.99,1.76,1.18,1.34,2.47,1.52,2.16,1.67,Oui,Oui,Oui,Non,Non,Home,84,"[24, 78, 84]",True
+622b06d8da6f1eac,french-league,164863,29,2026-09-09T04:50:30Z,Lorient,Le Havre,1,1,2.55,3.6,2.56,1.47,1.47,1.25,1.62,2.27,1.54,2.44,Non,Oui,Non,Oui,Non,Away,62,"[60, 62]",True
+7e9c08ba664990ce,french-league,164863,29,2026-09-09T04:50:30Z,Monaco,Paris FC,2,2,1.63,3.94,5.18,1.13,2.2,1.22,1.69,2.13,1.76,2.04,Oui,Oui,Non,Oui,Non,Home,66,"[42, 43, 55, 66]",True
+828f0df827cad968,french-league,164863,29,2026-09-09T04:50:30Z,Lyon,Strasbourg,2,1,1.71,4.06,4.37,1.18,2.07,1.21,1.52,2.48,1.58,2.35,Oui,Oui,Oui,Non,Non,Home,51,"[30, 37, 51]",True
+d5eceb50e7524af4,french-league,164863,29,2026-09-09T04:50:30Z,Nantes,Metz,1,0,1.57,4.03,5.68,1.11,2.31,1.21,1.7,2.12,1.8,1.98,Non,Non,Oui,Non,Non,Home,11,[11],True
+eebddb124b5a26f5,french-league,164863,29,2026-09-09T04:50:30Z,Angers,Lens,1,0,5.92,3.77,1.6,2.26,1.1,1.24,1.91,1.87,1.98,1.8,Non,Non,Oui,Non,Non,Home,77,[77],True
+5e995e9b7708b3d3,french-league,164863,29,2026-09-09T04:50:30Z,Brest,Nice,0,0,2.35,3.25,3.06,1.34,1.55,1.3,1.97,1.81,1.76,2.03,Non,Non,Non,Oui,Non,,,[],True
+5bec36096126a196,french-league,164863,29,2026-09-09T04:50:30Z,Toulouse,Auxerre,1,1,1.98,3.65,3.56,1.26,1.77,1.25,1.66,2.18,1.61,2.28,Non,Oui,Non,Oui,Non,Home,38,"[28, 38]",True
+26993da656c95f3f,french-league,164863,29,2026-09-09T04:50:30Z,Lille,Marseille,2,0,1.94,3.85,3.52,1.26,1.8,1.23,1.54,2.45,1.53,2.47,Non,Non,Oui,Non,Non,Home,73,"[60, 73]",True
+8062a2dc75c199cb,french-league,164863,29,2026-09-09T04:50:30Z,Paris SG,Rennes,2,3,1.48,4.86,5.6,1.11,2.55,1.15,1.36,3.1,1.55,2.42,Oui,Oui,Non,Non,Oui,Home,88,"[44, 45, 62, 77, 88]",True
+014bbad4330590b8,french-league,164863,32,2026-09-09T04:56:30Z,Nice,Auxerre,2,1,1.44,4.31,7.55,1.06,2.69,1.19,1.75,2.05,2.02,1.77,Oui,Oui,Oui,Non,Non,Home,75,"[6, 25, 75]",True
+ce83bf0dd3b17a06,french-league,164863,32,2026-09-09T04:56:30Z,Strasbourg,Lille,2,0,2.59,3.1,2.84,1.39,1.46,1.33,2.13,1.69,1.85,1.93,Non,Non,Oui,Non,Non,Home,65,"[52, 65]",True
+422f51265a496da7,french-league,164863,32,2026-09-09T04:56:30Z,Nantes,Paris SG,0,3,10.34,5.14,1.3,3.37,1.02,1.13,1.61,2.28,2.13,1.69,Oui,Non,Non,Non,Oui,Away,90,"[81, 88, 90]",True
+a471e0808c446961,french-league,164863,32,2026-09-09T04:56:30Z,Metz,Monaco,0,1,3.99,4.55,1.7,2.09,1.21,1.17,1.3,3.44,1.4,2.89,Non,Non,Non,Non,Oui,Away,54,[54],True
+d4320f089ce370e5,french-league,164863,32,2026-09-09T04:56:30Z,Le Havre,Marseille,0,1,5.65,4.09,1.57,2.33,1.11,1.2,1.66,2.18,1.78,2.01,Non,Non,Non,Non,Oui,Away,52,[52],True
+4538f54b27e3ce9d,french-league,164863,32,2026-09-09T04:56:30Z,Brest,Lorient,5,1,1.68,3.97,4.67,1.16,2.11,1.21,1.61,2.28,1.66,2.18,Oui,Oui,Oui,Non,Non,Home,83,"[30, 42, 45, 52, 74, 83]",True
+311b8c49ea8e8eb6,french-league,164863,32,2026-09-09T04:56:30Z,Rennes,Toulouse,3,2,1.77,3.77,4.35,1.18,1.98,1.23,1.69,2.14,1.68,2.14,Oui,Oui,Oui,Non,Non,Away,79,"[19, 40, 48, 72, 79]",True
+2d752b79da076e13,french-league,164863,32,2026-09-09T04:56:30Z,Lyon,Angers,1,1,1.35,4.87,8.95,1.04,3.09,1.15,1.62,2.26,2.03,1.76,Non,Oui,Non,Oui,Non,Away,85,"[84, 85]",True
+ec44eb101b0612c8,french-league,164863,32,2026-09-09T04:56:30Z,Lens,Paris FC,1,1,1.72,3.52,5.16,1.13,2.05,1.26,2.0,1.79,1.96,1.82,Non,Oui,Non,Oui,Non,Home,85,"[62, 85]",True
+9c8331901d409815,french-league,164863,34,2026-09-09T05:00:30Z,Angers,Paris SG,0,3,14.87,7.32,1.17,4.81,0.99,1.06,1.34,3.19,2.14,1.69,Oui,Non,Non,Non,Oui,Away,67,"[3, 31, 67]",True
+46d41421056a4e73,french-league,164863,34,2026-09-09T05:00:30Z,Le Havre,Toulouse,0,4,4.4,3.59,1.81,1.94,1.18,1.26,1.83,1.95,1.78,2.01,Oui,Non,Non,Non,Oui,Away,52,"[14, 28, 38, 52]",True
+483c0bfcccc27289,french-league,164863,34,2026-09-09T05:00:30Z,Strasbourg,Rennes,2,3,2.2,3.54,3.1,1.33,1.62,1.26,1.69,2.13,1.6,2.3,Oui,Oui,Non,Non,Oui,Away,72,"[31, 34, 45, 64, 72]",True
+1ff5c8d46b138c86,french-league,164863,34,2026-09-09T05:00:30Z,Lorient,Monaco,3,0,4.05,4.21,1.74,2.03,1.21,1.19,1.42,2.8,1.49,2.59,Oui,Non,Oui,Non,Non,Home,85,"[18, 67, 85]",True
+c6022b7ec6ff6b33,french-league,164863,34,2026-09-09T05:00:30Z,Nice,Lens,2,0,2.29,2.78,3.8,1.23,1.58,1.4,2.84,1.41,2.29,1.6,Non,Non,Oui,Non,Non,Home,66,"[27, 66]",True
+2c44e03326034bd3,french-league,164863,34,2026-09-09T05:00:30Z,Nantes,Marseille,1,1,4.25,3.49,1.86,1.88,1.19,1.27,1.89,1.88,1.8,1.98,Non,Oui,Non,Oui,Non,Home,54,"[33, 54]",True
+29ce3100f2548d88,french-league,164863,34,2026-09-09T05:00:30Z,Metz,Paris FC,1,2,2.66,3.54,2.49,1.49,1.44,1.26,1.66,2.18,1.56,2.38,Oui,Oui,Non,Non,Oui,Home,90,"[43, 81, 90]",True
+14389e486b107c12,french-league,164863,34,2026-09-09T05:00:30Z,Lyon,Auxerre,0,2,1.46,4.87,5.89,1.1,2.62,1.15,1.38,3.01,1.58,2.34,Non,Non,Non,Non,Oui,Away,75,"[52, 75]",True
+c245e01f524bf6c0,french-league,164863,34,2026-09-09T05:00:30Z,Brest,Lille,1,1,2.41,3.02,3.17,1.32,1.52,1.35,2.28,1.61,1.94,1.83,Non,Oui,Non,Oui,Non,Away,44,"[25, 44]",True
