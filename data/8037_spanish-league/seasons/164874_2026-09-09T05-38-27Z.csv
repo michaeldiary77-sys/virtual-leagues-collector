@@ -1,0 +1,151 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+b3af4b909e68bc59,spanish-league,164874,1,2026-09-09T05:38:27Z,Levante,Barca,1,0,5.15,3.63,1.69,2.09,1.13,1.25,1.91,1.87,1.9,1.88,Non,Non,Oui,Non,Non,Home,17,[17],True
+e6c3477f4c022dad,spanish-league,164874,1,2026-09-09T05:38:27Z,Vigo,Valencia,0,0,1.96,3.11,4.38,1.18,1.78,1.33,2.35,1.58,2.09,1.72,Non,Non,Non,Oui,Non,,,[],True
+d199463bf5b6157f,spanish-league,164874,1,2026-09-09T05:38:27Z,Real Oviedo,A. Madrid,0,1,6.09,3.05,1.76,2.0,1.1,1.34,2.77,1.43,2.56,1.49,Non,Non,Non,Non,Oui,Away,59,[59],True
+5da8cf00fd7ee4a7,spanish-league,164874,1,2026-09-09T05:38:27Z,Getafe,R. Sociedad,2,3,3.66,2.74,2.37,1.54,1.25,1.41,2.91,1.39,2.32,1.59,Oui,Oui,Non,Non,Oui,Away,84,"[25, 29, 35, 69, 84]",True
+a65f04c0abd6b5ae,spanish-league,164874,1,2026-09-09T05:38:27Z,R. Madrid,Girona,0,1,1.32,5.05,9.73,1.03,3.26,1.14,1.61,2.29,2.08,1.73,Non,Non,Non,Non,Oui,Away,10,[10],True
+b7881ac94a22556c,spanish-league,164874,1,2026-09-09T05:38:27Z,R. Vallecano,Mallorca,1,2,1.95,3.08,4.51,1.17,1.8,1.33,2.42,1.55,2.15,1.68,Oui,Oui,Non,Non,Oui,Away,74,"[17, 56, 74]",True
+f19fe6b03173773f,spanish-league,164874,1,2026-09-09T05:38:27Z,Osasuna,Elche,3,1,1.96,2.81,5.15,1.13,1.79,1.39,3.07,1.36,2.59,1.48,Oui,Oui,Oui,Non,Non,Home,90,"[8, 54, 88, 90]",True
+a0b1c17ce27ab0a8,spanish-league,164874,1,2026-09-09T05:38:27Z,Bilbao,Espanyol,1,1,1.45,4.42,6.87,1.07,2.64,1.18,1.63,2.25,1.86,1.92,Non,Oui,Non,Oui,Non,Away,87,"[84, 87]",True
+fbd9556bc65bb908,spanish-league,164874,1,2026-09-09T05:38:27Z,Villareal,Alavés,2,0,1.45,4.18,7.77,1.05,2.67,1.2,1.84,1.93,2.12,1.7,Non,Non,Oui,Non,Non,Home,69,"[48, 69]",True
+54262191e3ee00fb,spanish-league,164874,1,2026-09-09T05:38:27Z,Sevilla,Betis,0,2,2.34,3.14,3.19,1.32,1.55,1.32,2.12,1.7,1.85,1.92,Non,Non,Non,Non,Oui,Away,88,"[88, 88]",True
+78ebf3821450b59a,spanish-league,164874,2,2026-09-09T05:40:27Z,Barca,R. Madrid,1,1,1.9,3.35,4.24,1.19,1.84,1.29,2.03,1.77,1.89,1.89,Non,Oui,Non,Oui,Non,Home,60,"[60, 60]",True
+fa0a94c628e02dcc,spanish-league,164874,2,2026-09-09T05:40:27Z,R. Sociedad,Villareal,2,0,1.96,3.3,4.04,1.21,1.78,1.3,2.05,1.75,1.88,1.89,Non,Non,Oui,Non,Non,Home,40,"[25, 40]",True
+7567386bea6f4f4d,spanish-league,164874,2,2026-09-09T05:40:27Z,Betis,Bilbao,2,1,2.07,2.98,4.14,1.2,1.7,1.36,2.52,1.51,2.16,1.68,Oui,Oui,Oui,Non,Non,Home,80,"[16, 66, 80]",True
+3d1f9e6449221601,spanish-league,164874,2,2026-09-09T05:40:27Z,Mallorca,Osasuna,0,0,2.17,2.51,4.99,1.14,1.64,1.48,3.97,1.24,3.02,1.37,Non,Non,Non,Oui,Non,,,[],True
+c6c7cd0e2bcaa9e6,spanish-league,164874,2,2026-09-09T05:40:27Z,Girona,A. Madrid,2,1,2.12,3.64,3.18,1.32,1.67,1.25,1.62,2.25,1.56,2.39,Oui,Oui,Oui,Non,Non,Home,74,"[23, 41, 74]",True
+55ca7bf8e0be4a30,spanish-league,164874,2,2026-09-09T05:40:27Z,Valencia,R. Vallecano,0,0,1.75,2.89,7.03,1.07,2.01,1.37,3.28,1.32,3.02,1.37,Non,Non,Non,Oui,Non,,,[],True
+7d6c12477be64279,spanish-league,164874,2,2026-09-09T05:40:27Z,Vigo,Getafe,1,2,1.95,3.1,4.47,1.17,1.8,1.33,2.38,1.56,2.12,1.7,Oui,Oui,Non,Non,Oui,Away,85,"[12, 40, 85]",True
+161cf3467362f48a,spanish-league,164874,2,2026-09-09T05:40:27Z,Espanyol,Real Oviedo,0,2,2.47,3.43,2.76,1.41,1.5,1.28,1.76,2.04,1.62,2.25,Non,Non,Non,Non,Oui,Away,45,"[33, 45]",True
+fabfe030a3313a60,spanish-league,164874,2,2026-09-09T05:40:27Z,Elche,Sevilla,2,0,2.36,2.91,3.41,1.28,1.54,1.37,2.5,1.51,2.08,1.73,Non,Non,Oui,Non,Non,Home,71,"[19, 71]",True
+cd59c5c6c3074366,spanish-league,164874,2,2026-09-09T05:40:27Z,Alavés,Levante,2,2,1.41,3.9,10.55,1.02,2.8,1.22,2.31,1.6,2.83,1.41,Oui,Oui,Non,Oui,Non,Away,73,"[26, 28, 36, 73]",True
+bc335b0001cc6224,spanish-league,164874,5,2026-09-09T05:46:27Z,R. Madrid,Vigo,1,1,1.16,7.04,17.15,0.98,4.9,1.07,1.44,2.73,2.43,1.54,Non,Oui,Non,Oui,Non,Home,28,"[8, 28]",True
+0dc3762ea0ce698d,spanish-league,164874,5,2026-09-09T05:46:27Z,Osasuna,Villareal,1,0,2.8,3.15,2.6,1.45,1.4,1.32,2.07,1.74,1.81,1.97,Non,Non,Oui,Non,Non,Home,23,[23],True
+ea0a730da5623c3a,spanish-league,164874,5,2026-09-09T05:46:27Z,Girona,Alavés,3,0,1.31,4.99,10.65,1.02,3.34,1.14,1.69,2.14,2.24,1.63,Oui,Non,Oui,Non,Non,Home,74,"[21, 24, 74]",True
+f94a68301cae3958,spanish-league,164874,5,2026-09-09T05:46:27Z,Betis,Elche,4,0,1.65,3.11,7.64,1.06,2.17,1.33,2.94,1.39,2.91,1.4,Oui,Non,Oui,Non,Non,Home,52,"[32, 46, 48, 52]",True
+635e9d422b63b6b5,spanish-league,164874,5,2026-09-09T05:46:27Z,A. Madrid,R. Sociedad,1,1,1.87,3.5,4.19,1.19,1.87,1.27,1.87,1.9,1.79,2.0,Non,Oui,Non,Oui,Non,Home,74,"[46, 74]",True
+848abb669da9a713,spanish-league,164874,5,2026-09-09T05:46:27Z,Real Oviedo,Barca,0,1,7.61,3.62,1.53,2.41,1.06,1.25,2.26,1.62,2.43,1.54,Non,Non,Non,Non,Oui,Away,72,[72],True
+46c3701fa8207b6a,spanish-league,164874,5,2026-09-09T05:46:27Z,Levante,R. Vallecano,2,0,2.15,2.79,4.23,1.19,1.65,1.4,2.92,1.39,2.39,1.56,Non,Non,Oui,Non,Non,Home,70,"[62, 70]",True
+4059659c25e6d852,spanish-league,164874,5,2026-09-09T05:46:27Z,Espanyol,Mallorca,0,3,2.04,3.51,3.52,1.26,1.73,1.27,1.77,2.02,1.67,2.17,Oui,Non,Non,Non,Oui,Away,88,"[8, 37, 88]",True
+06dcf9b2830dcc74,spanish-league,164874,5,2026-09-09T05:46:27Z,Sevilla,Getafe,3,0,1.98,3.27,4.02,1.21,1.77,1.3,2.08,1.73,1.9,1.88,Oui,Non,Oui,Non,Non,Home,61,"[33, 58, 61]",True
+2bab259a94d3e9fb,spanish-league,164874,5,2026-09-09T05:46:27Z,Bilbao,Valencia,3,1,1.46,3.96,8.03,1.05,2.6,1.22,2.01,1.77,2.28,1.61,Oui,Oui,Oui,Non,Non,Away,79,"[23, 48, 78, 79]",True
+106e26c9a23a24a0,spanish-league,164874,7,2026-09-09T05:50:27Z,R. Madrid,Osasuna,3,1,1.27,5.09,13.26,1.0,3.61,1.14,1.79,1.99,2.59,1.49,Oui,Oui,Oui,Non,Non,Home,68,"[11, 33, 63, 68]",True
+718df34c0b12c480,spanish-league,164874,7,2026-09-09T05:50:27Z,Barca,R. Sociedad,2,1,1.68,3.35,5.97,1.1,2.11,1.29,2.31,1.59,2.26,1.62,Oui,Oui,Oui,Non,Non,Home,83,"[71, 76, 83]",True
+d912ed4c3ce93adf,spanish-league,164874,7,2026-09-09T05:50:27Z,Real Oviedo,Alavés,0,0,2.76,2.31,3.77,1.23,1.41,1.57,4.61,1.19,3.13,1.35,Non,Non,Non,Oui,Non,,,[],True
+96308b0baf8a3628,spanish-league,164874,7,2026-09-09T05:50:27Z,A. Madrid,R. Vallecano,1,0,1.3,4.87,11.93,1.01,3.39,1.15,1.81,1.97,2.48,1.52,Non,Non,Oui,Non,Non,Home,21,[21],True
+7794f7d900ad1910,spanish-league,164874,7,2026-09-09T05:50:27Z,Girona,Vigo,3,1,1.34,5.47,7.63,1.06,3.13,1.12,1.35,3.13,1.68,2.15,Oui,Oui,Oui,Non,Non,Home,72,"[20, 35, 55, 72]",True
+1246b9ccacb97830,spanish-league,164874,7,2026-09-09T05:50:27Z,Sevilla,Levante,3,1,1.43,4.19,8.27,1.05,2.73,1.19,1.88,1.89,2.2,1.65,Oui,Oui,Oui,Non,Non,Home,62,"[34, 40, 59, 62]",True
+87b2ac9767ca0cff,spanish-league,164874,7,2026-09-09T05:50:27Z,Bilbao,Villareal,0,1,1.7,3.67,5.05,1.14,2.09,1.25,1.86,1.92,1.86,1.92,Non,Non,Non,Non,Oui,Away,79,[79],True
+7543ce33656dcb3f,spanish-league,164874,7,2026-09-09T05:50:27Z,Espanyol,Getafe,1,1,2.2,3.47,3.15,1.32,1.62,1.27,1.75,2.05,1.63,2.23,Non,Oui,Non,Oui,Non,Away,55,"[2, 55]",True
+f8bfa3a86dfc2a6d,spanish-league,164874,7,2026-09-09T05:50:27Z,Elche,Mallorca,1,1,1.96,2.81,5.15,1.13,1.78,1.39,3.08,1.36,2.6,1.48,Non,Oui,Non,Oui,Non,Home,85,"[71, 85]",True
+4b92ce872077ca5c,spanish-league,164874,7,2026-09-09T05:50:27Z,Betis,Valencia,0,1,1.68,3.33,6.13,1.09,2.12,1.29,2.37,1.57,2.31,1.59,Non,Non,Non,Non,Oui,Away,27,[27],True
+71569a75c79ebc97,spanish-league,164874,10,2026-09-09T05:56:27Z,Getafe,Mallorca,0,1,2.0,2.83,4.85,1.15,1.75,1.39,2.96,1.38,2.49,1.52,Non,Non,Non,Non,Oui,Away,81,[81],True
+0f18a5fd1bbc1653,spanish-league,164874,10,2026-09-09T05:56:27Z,R. Madrid,Espanyol,1,1,1.18,6.89,15.05,0.99,4.64,1.07,1.41,2.86,2.25,1.62,Non,Oui,Non,Oui,Non,Home,45,"[34, 45]",True
+d5949b1e841206ab,spanish-league,164874,10,2026-09-09T05:56:27Z,Valencia,Real Oviedo,3,0,1.87,3.0,5.23,1.13,1.87,1.35,2.71,1.45,2.4,1.55,Oui,Non,Oui,Non,Non,Home,88,"[78, 79, 88]",True
+d1105bb721ed0a9e,spanish-league,164874,10,2026-09-09T05:56:27Z,Levante,Betis,2,4,2.77,2.92,2.8,1.4,1.4,1.37,2.43,1.54,2.01,1.78,Oui,Oui,Non,Non,Oui,Away,76,"[8, 10, 18, 60, 73, 76]",True
+63b81a1bee96f7bc,spanish-league,164874,10,2026-09-09T05:56:27Z,Villareal,Elche,2,0,1.46,4.06,7.7,1.06,2.61,1.21,1.91,1.86,2.17,1.67,Non,Non,Oui,Non,Non,Home,46,"[22, 46]",True
+4a5136e63c678bcf,spanish-league,164874,10,2026-09-09T05:56:27Z,Bilbao,A. Madrid,0,0,2.3,3.04,3.38,1.28,1.57,1.34,2.28,1.61,1.96,1.82,Non,Non,Non,Oui,Non,,,[],True
+811f164e50100af2,spanish-league,164874,10,2026-09-09T05:56:27Z,Osasuna,Barca,1,2,4.95,3.57,1.73,2.03,1.14,1.26,1.93,1.85,1.89,1.88,Oui,Oui,Non,Non,Oui,Away,46,"[32, 41, 46]",True
+30398d7eac87d9d8,spanish-league,164874,10,2026-09-09T05:56:27Z,Vigo,R. Sociedad,0,2,3.28,2.87,2.46,1.5,1.3,1.38,2.57,1.49,2.11,1.71,Non,Non,Non,Non,Oui,Away,46,"[26, 46]",True
+272ee18b9b24cce3,spanish-league,164874,10,2026-09-09T05:56:27Z,Sevilla,Girona,2,1,2.67,3.52,2.49,1.49,1.43,1.27,1.68,2.15,1.58,2.34,Oui,Oui,Oui,Non,Non,Home,82,"[20, 42, 82]",True
+9251421b8165767d,spanish-league,164874,10,2026-09-09T05:56:27Z,R. Vallecano,Alavés,1,0,1.89,2.95,5.21,1.13,1.85,1.36,2.79,1.42,2.45,1.54,Non,Non,Oui,Non,Non,Home,34,[34],True
+50c9c17de3ccca11,spanish-league,164874,12,2026-09-09T06:00:27Z,Getafe,Real Oviedo,2,0,2.2,2.89,3.87,1.22,1.62,1.38,2.63,1.47,2.19,1.66,Non,Non,Oui,Non,Non,Home,38,"[35, 38]",True
+1e8ef650c49b7c63,spanish-league,164874,12,2026-09-09T06:00:27Z,R. Vallecano,Vigo,2,3,2.0,3.43,3.72,1.24,1.75,1.28,1.86,1.91,1.74,2.06,Oui,Oui,Non,Non,Oui,Away,84,"[26, 39, 53, 54, 84]",True
+d4145d40efae7473,spanish-league,164874,12,2026-09-09T06:00:27Z,Bilbao,Barca,2,0,2.53,3.13,2.89,1.37,1.47,1.33,2.1,1.71,1.83,1.95,Non,Non,Oui,Non,Non,Home,69,"[33, 69]",True
+cd18253ffeebcd8d,spanish-league,164874,12,2026-09-09T06:00:27Z,Sevilla,Alavés,1,3,1.8,3.18,5.24,1.13,1.94,1.32,2.41,1.55,2.23,1.64,Oui,Oui,Non,Non,Oui,Home,89,"[25, 72, 82, 89]",True
+b14f2190d2c349e4,spanish-league,164874,12,2026-09-09T06:00:27Z,Espanyol,Girona,1,4,3.25,3.99,1.99,1.76,1.3,1.21,1.43,2.77,1.44,2.73,Oui,Oui,Non,Non,Oui,Away,77,"[43, 44, 44, 73, 77]",True
+5379320365ba66c2,spanish-league,164874,12,2026-09-09T06:00:27Z,R. Madrid,Elche,2,0,1.17,6.15,22.93,0.97,4.76,1.09,1.77,2.02,3.4,1.31,Non,Non,Oui,Non,Non,Home,23,"[6, 23]",True
+5dcb29d002a3da4f,spanish-league,164874,12,2026-09-09T06:00:27Z,Osasuna,R. Sociedad,1,2,3.74,2.94,2.21,1.62,1.24,1.36,2.5,1.51,2.11,1.71,Oui,Oui,Non,Non,Oui,Home,89,"[68, 69, 89]",True
+dc768599ab52c146,spanish-league,164874,12,2026-09-09T06:00:27Z,Levante,Mallorca,1,2,2.02,3.01,4.31,1.19,1.74,1.35,2.49,1.52,2.16,1.67,Oui,Oui,Non,Non,Oui,Home,41,"[32, 40, 41]",True
+d33e672ed1fdeb16,spanish-league,164874,12,2026-09-09T06:00:27Z,Villareal,Valencia,4,2,1.54,4.17,5.9,1.1,2.4,1.2,1.65,2.2,1.79,1.99,Oui,Oui,Oui,Non,Non,Home,62,"[25, 41, 43, 47, 57, 62]",True
+05a4a663fb77c472,spanish-league,164874,12,2026-09-09T06:00:27Z,A. Madrid,Betis,2,1,1.46,4.29,7.1,1.07,2.62,1.19,1.71,2.1,1.95,1.83,Oui,Oui,Oui,Non,Non,Away,82,"[24, 65, 82]",True
+da77307b5cf23dc7,spanish-league,164874,15,2026-09-09T06:06:27Z,Valencia,A. Madrid,1,0,2.87,2.71,2.91,1.37,1.38,1.42,2.89,1.4,2.26,1.62,Non,Non,Oui,Non,Non,Home,50,[50],True
+35f2cd7a26d452d5,spanish-league,164874,15,2026-09-09T06:06:27Z,Elche,Barca,1,0,4.19,3.11,2.0,1.75,1.19,1.33,2.32,1.59,2.05,1.74,Non,Non,Oui,Non,Non,Home,10,[10],True
+b3018269a24e9235,spanish-league,164874,15,2026-09-09T06:06:27Z,Vigo,Bilbao,1,1,2.47,2.91,3.21,1.31,1.5,1.37,2.48,1.52,2.06,1.74,Non,Oui,Non,Oui,Non,Away,87,"[74, 87]",True
+9bade164eb83d893,spanish-league,164874,15,2026-09-09T06:06:27Z,Villareal,Levante,3,0,1.23,5.89,12.74,1.0,3.96,1.1,1.52,2.49,2.22,1.64,Oui,Non,Oui,Non,Non,Home,88,"[15, 68, 88]",True
+8bfb7f05856ff119,spanish-league,164874,15,2026-09-09T06:06:27Z,R. Sociedad,Espanyol,0,3,1.7,3.7,4.92,1.15,2.07,1.24,1.82,1.96,1.82,1.96,Oui,Non,Non,Non,Oui,Away,85,"[50, 66, 85]",True
+9de5c495148af160,spanish-league,164874,15,2026-09-09T06:06:27Z,Real Oviedo,Osasuna,2,1,3.55,2.56,2.58,1.46,1.26,1.47,3.44,1.3,2.57,1.49,Oui,Oui,Oui,Non,Non,Home,90,"[82, 82, 90]",True
+b0001a8741b7cf7f,spanish-league,164874,15,2026-09-09T06:06:27Z,Alavés,Betis,0,1,2.26,2.8,3.85,1.23,1.59,1.4,2.82,1.42,2.29,1.61,Non,Non,Non,Non,Oui,Away,60,[60],True
+a35568767ced67bd,spanish-league,164874,15,2026-09-09T06:06:27Z,Mallorca,Girona,2,2,2.38,2.75,3.62,1.25,1.53,1.41,2.89,1.4,2.3,1.6,Oui,Oui,Non,Oui,Non,Away,90,"[4, 13, 89, 90]",True
+5f77bd8a852b29eb,spanish-league,164874,15,2026-09-09T06:06:27Z,R. Vallecano,Sevilla,0,1,2.39,3.2,3.04,1.34,1.53,1.31,2.02,1.77,1.79,1.99,Non,Non,Non,Non,Oui,Away,55,[55],True
+a68ba28ef802eb2f,spanish-league,164874,15,2026-09-09T06:06:27Z,Getafe,R. Madrid,0,3,4.81,3.26,1.83,1.91,1.15,1.3,2.22,1.64,2.06,1.74,Oui,Non,Non,Non,Oui,Away,75,"[55, 67, 75]",True
+a60bf09493f5e7ab,spanish-league,164874,17,2026-09-09T06:10:27Z,Levante,R. Madrid,1,1,5.65,3.72,1.63,2.2,1.11,1.24,1.91,1.87,1.95,1.82,Non,Oui,Non,Oui,Non,Away,84,"[70, 84]",True
+43c51a27dae9add2,spanish-league,164874,17,2026-09-09T06:10:27Z,Mallorca,Alavés,0,0,1.83,2.56,8.18,1.05,1.91,1.47,4.57,1.19,4.0,1.23,Non,Non,Non,Oui,Non,,,[],True
+c5a6b5ee98752564,spanish-league,164874,17,2026-09-09T06:10:27Z,Real Oviedo,Sevilla,0,1,3.67,2.78,2.34,1.55,1.25,1.4,2.82,1.42,2.27,1.61,Non,Non,Non,Non,Oui,Away,19,[19],True
+df6721609331d318,spanish-league,164874,17,2026-09-09T06:10:27Z,Villareal,A. Madrid,1,0,2.63,3.51,2.53,1.48,1.44,1.27,1.69,2.14,1.58,2.34,Non,Non,Oui,Non,Non,Home,82,[82],True
+6016dfe6967c5e12,spanish-league,164874,17,2026-09-09T06:10:27Z,Getafe,Girona,1,0,2.78,3.08,2.66,1.44,1.4,1.33,2.16,1.67,1.86,1.91,Non,Non,Oui,Non,Non,Home,5,[5],True
+7e1added445cf8ed,spanish-league,164874,17,2026-09-09T06:10:27Z,Valencia,Barca,0,2,3.43,2.93,2.34,1.55,1.28,1.37,2.48,1.52,2.07,1.73,Non,Non,Non,Non,Oui,Away,90,"[77, 90]",True
+5834e8485ef4045e,spanish-league,164874,17,2026-09-09T06:10:27Z,Vigo,Betis,2,1,2.35,2.92,3.42,1.28,1.55,1.37,2.49,1.52,2.08,1.73,Oui,Oui,Oui,Non,Non,Away,67,"[41, 58, 67]",True
+723d64347f4fadd7,spanish-league,164874,17,2026-09-09T06:10:27Z,R. Vallecano,Espanyol,3,1,2.17,3.48,3.2,1.31,1.64,1.27,1.75,2.05,1.64,2.23,Oui,Oui,Oui,Non,Non,Home,74,"[14, 36, 48, 74]",True
+c2169bc5baff39df,spanish-league,164874,17,2026-09-09T06:10:27Z,R. Sociedad,Elche,0,1,1.65,3.1,7.54,1.06,2.16,1.33,2.94,1.39,2.89,1.4,Non,Non,Non,Non,Oui,Away,77,[77],True
+e1a8d6f8c9cf7032,spanish-league,164874,17,2026-09-09T06:10:27Z,Osasuna,Bilbao,1,2,2.87,2.88,2.74,1.41,1.38,1.38,2.51,1.51,2.06,1.74,Oui,Oui,Non,Non,Oui,Away,74,"[44, 67, 74]",True
+d3e8cd094decd357,spanish-league,164874,20,2026-09-09T06:16:27Z,Barca,Levante,2,0,1.1,8.12,33.96,0.95,6.43,1.05,1.56,2.39,3.74,1.26,Non,Non,Oui,Non,Non,Home,74,"[32, 74]",True
+e8cbaa0ba5ef9a66,spanish-league,164874,20,2026-09-09T06:16:27Z,Valencia,Vigo,1,4,1.67,3.43,5.85,1.1,2.12,1.28,2.21,1.65,2.17,1.67,Oui,Oui,Non,Non,Oui,Away,72,"[28, 34, 47, 69, 72]",True
+2e9f299c3553c0ff,spanish-league,164874,20,2026-09-09T06:16:27Z,A. Madrid,Real Oviedo,0,2,1.35,4.82,8.95,1.03,3.07,1.15,1.64,2.23,2.04,1.75,Non,Non,Non,Non,Oui,Away,39,"[24, 39]",True
+3d9002051ce4d126,spanish-league,164874,20,2026-09-09T06:16:27Z,R. Sociedad,Getafe,3,0,1.72,3.27,5.82,1.1,2.05,1.3,2.4,1.56,2.29,1.6,Oui,Non,Oui,Non,Non,Home,69,"[20, 60, 69]",True
+7f55ddfb39e6b523,spanish-league,164874,20,2026-09-09T06:16:27Z,Girona,R. Madrid,1,3,2.59,3.74,2.46,1.5,1.45,1.24,1.52,2.49,1.47,2.62,Oui,Oui,Non,Non,Oui,Away,57,"[25, 30, 34, 57]",True
+2a9b3fdad9e1286f,spanish-league,164874,20,2026-09-09T06:16:27Z,Mallorca,R. Vallecano,2,0,1.91,2.5,7.33,1.06,1.83,1.49,4.6,1.19,3.82,1.25,Non,Non,Oui,Non,Non,Home,50,"[9, 50]",True
+a7a643f1e8a81202,spanish-league,164874,20,2026-09-09T06:16:27Z,Elche,Osasuna,0,0,2.51,2.68,3.47,1.27,1.48,1.43,3.05,1.37,2.37,1.57,Non,Non,Non,Oui,Non,,,[],True
+2ffb13a5b808b4b4,spanish-league,164874,20,2026-09-09T06:16:27Z,Espanyol,Bilbao,2,3,2.97,3.48,2.3,1.57,1.36,1.27,1.73,2.08,1.61,2.27,Oui,Oui,Non,Non,Oui,Home,60,"[18, 27, 35, 48, 60]",True
+a0741bd69e48f6f4,spanish-league,164874,20,2026-09-09T06:16:27Z,Alavés,Villareal,1,0,2.29,3.07,3.36,1.29,1.57,1.34,2.24,1.63,1.93,1.84,Non,Non,Oui,Non,Non,Home,6,[6],True
+e2cf81f5a5af87e7,spanish-league,164874,20,2026-09-09T06:16:27Z,Betis,Sevilla,1,1,1.88,3.31,4.43,1.18,1.86,1.29,2.1,1.71,1.95,1.83,Non,Oui,Non,Oui,Non,Home,26,"[15, 26]",True
+ccd8892888db962d,spanish-league,164874,22,2026-09-09T06:20:27Z,Getafe,R. Vallecano,1,0,2.1,2.64,4.9,1.15,1.68,1.44,3.49,1.29,2.77,1.43,Non,Non,Oui,Non,Non,Home,54,[54],True
+d091a0daa7479986,spanish-league,164874,22,2026-09-09T06:20:27Z,Mallorca,Sevilla,2,0,2.12,2.65,4.74,1.16,1.67,1.44,3.39,1.31,2.7,1.45,Non,Non,Oui,Non,Non,Home,52,"[38, 52]",True
+900a6196d9ba13a2,spanish-league,164874,22,2026-09-09T06:20:27Z,R. Sociedad,Levante,1,1,1.34,4.31,11.89,1.01,3.1,1.19,2.1,1.71,2.79,1.42,Non,Oui,Non,Oui,Non,Home,43,"[29, 43]",True
+ecb32814ea6d725c,spanish-league,164874,22,2026-09-09T06:20:27Z,Barca,A. Madrid,3,0,1.71,3.4,5.53,1.12,2.07,1.28,2.19,1.66,2.13,1.7,Oui,Non,Oui,Non,Non,Home,53,"[21, 38, 53]",True
+26935dba82f2c659,spanish-league,164874,22,2026-09-09T06:20:27Z,Alavés,R. Madrid,2,1,4.03,3.11,2.04,1.72,1.21,1.33,2.28,1.61,2.02,1.77,Oui,Oui,Oui,Non,Non,Home,59,"[15, 44, 59]",True
+42da41d8ed6163e1,spanish-league,164874,22,2026-09-09T06:20:27Z,Elche,Bilbao,1,2,2.71,2.72,3.08,1.33,1.42,1.42,2.88,1.4,2.26,1.62,Oui,Oui,Non,Non,Oui,Away,57,"[30, 33, 57]",True
+09643e8b63c150fd,spanish-league,164874,22,2026-09-09T06:20:27Z,Valencia,Osasuna,1,1,1.98,2.85,4.93,1.15,1.77,1.38,2.93,1.39,2.48,1.52,Non,Oui,Non,Oui,Non,Away,71,"[38, 71]",True
+e50c0906bf0aed2f,spanish-league,164874,22,2026-09-09T06:20:27Z,Vigo,Villareal,0,1,2.52,3.2,2.85,1.38,1.48,1.31,2.0,1.78,1.77,2.02,Non,Non,Non,Non,Oui,Away,65,[65],True
+71aeb2793779ea5d,spanish-league,164874,22,2026-09-09T06:20:27Z,Girona,Real Oviedo,2,2,1.43,4.67,6.74,1.08,2.71,1.16,1.51,2.5,1.76,2.04,Oui,Oui,Non,Oui,Non,Home,57,"[4, 21, 52, 57]",True
+74642eec5278ca07,spanish-league,164874,22,2026-09-09T06:20:27Z,Betis,Espanyol,3,0,1.69,3.82,4.87,1.15,2.1,1.23,1.73,2.08,1.76,2.04,Oui,Non,Oui,Non,Non,Home,75,"[51, 62, 75]",True
+b1488be54c6d2e12,spanish-league,164874,25,2026-09-09T06:26:27Z,A. Madrid,Vigo,3,1,1.31,5.36,9.06,1.03,3.31,1.12,1.47,2.64,1.89,1.88,Oui,Oui,Oui,Non,Non,Home,81,"[19, 48, 52, 81]",True
+e11d972f0df9e805,spanish-league,164874,25,2026-09-09T06:26:27Z,Espanyol,Valencia,1,2,2.17,3.56,3.14,1.32,1.64,1.26,1.68,2.15,1.59,2.31,Oui,Oui,Non,Non,Oui,Home,70,"[9, 57, 70]",True
+a194acfd4f05980a,spanish-league,164874,25,2026-09-09T06:26:27Z,Sevilla,Villareal,1,0,2.6,3.44,2.6,1.45,1.45,1.28,1.75,2.05,1.62,2.26,Non,Non,Oui,Non,Non,Home,51,[51],True
+b179aab747b279cb,spanish-league,164874,25,2026-09-09T06:26:27Z,Levante,Osasuna,2,2,2.62,2.93,2.97,1.36,1.45,1.37,2.42,1.55,2.01,1.78,Oui,Oui,Non,Oui,Non,Away,74,"[7, 62, 68, 74]",True
+3913ec19796c786a,spanish-league,164874,25,2026-09-09T06:26:27Z,Girona,R. Sociedad,3,1,1.98,3.66,3.56,1.26,1.77,1.25,1.66,2.18,1.61,2.28,Oui,Oui,Oui,Non,Non,Home,90,"[28, 39, 41, 90]",True
+9136518618ce6af5,spanish-league,164874,25,2026-09-09T06:26:27Z,Barca,Alavés,5,0,1.22,5.3,19.56,0.97,4.09,1.13,1.96,1.82,3.41,1.3,Oui,Non,Oui,Non,Non,Home,75,"[16, 27, 33, 50, 75]",True
+790307b7b0ebc09a,spanish-league,164874,25,2026-09-09T06:26:27Z,Betis,Mallorca,4,0,1.63,3.35,6.73,1.08,2.2,1.29,2.43,1.54,2.43,1.54,Oui,Non,Oui,Non,Non,Home,84,"[4, 9, 70, 84]",True
+8fcdd88c4be66ddf,spanish-league,164874,25,2026-09-09T06:26:27Z,Real Oviedo,Elche,0,2,2.79,2.29,3.76,1.24,1.4,1.57,4.7,1.18,3.17,1.34,Non,Non,Non,Non,Oui,Away,70,"[69, 70]",True
+76e11fa5d5f464eb,spanish-league,164874,25,2026-09-09T06:26:27Z,Bilbao,Getafe,2,1,1.49,3.82,7.9,1.05,2.53,1.23,2.11,1.71,2.34,1.58,Oui,Oui,Oui,Non,Non,Home,69,"[57, 65, 69]",True
+7857e6e1e11a55ee,spanish-league,164874,25,2026-09-09T06:26:27Z,R. Madrid,R. Vallecano,1,0,1.19,5.84,20.59,0.97,4.47,1.1,1.8,1.98,3.25,1.33,Non,Non,Oui,Non,Non,Home,27,[27],True
+af4ed52df256f402,spanish-league,164874,27,2026-09-09T06:30:27Z,A. Madrid,Osasuna,2,0,1.46,4.22,7.14,1.07,2.6,1.19,1.75,2.04,1.98,1.8,Non,Non,Oui,Non,Non,Home,25,"[18, 25]",True
+d4ceec5f8e5625cf,spanish-league,164874,27,2026-09-09T06:30:27Z,Elche,Valencia,1,1,2.09,2.8,4.46,1.17,1.69,1.4,2.94,1.39,2.42,1.54,Non,Oui,Non,Oui,Non,Away,87,"[46, 87]",True
+865d330c9bb9c144,spanish-league,164874,27,2026-09-09T06:30:27Z,Bilbao,Levante,0,0,1.2,5.72,18.68,0.98,4.3,1.11,1.78,2.01,3.04,1.37,Non,Non,Non,Oui,Non,,,[],True
+faf24384442ac7a5,spanish-league,164874,27,2026-09-09T06:30:27Z,Girona,R. Vallecano,3,0,1.32,5.02,9.63,1.03,3.24,1.14,1.61,2.29,2.07,1.73,Oui,Non,Oui,Non,Non,Home,86,"[21, 30, 86]",True
+b79c126e7f356a8c,spanish-league,164874,27,2026-09-09T06:30:27Z,Barca,Vigo,1,0,1.24,5.58,13.13,1.0,3.84,1.11,1.62,2.26,2.37,1.57,Non,Non,Oui,Non,Non,Home,25,[25],True
+f6b93e43362c16f2,spanish-league,164874,27,2026-09-09T06:30:27Z,Betis,Getafe,1,0,1.69,3.33,6.0,1.1,2.1,1.29,2.34,1.58,2.28,1.61,Non,Non,Oui,Non,Non,Home,51,[51],True
+ca236a01dde0597e,spanish-league,164874,27,2026-09-09T06:30:27Z,Espanyol,Villareal,2,1,2.94,3.86,2.17,1.64,1.36,1.23,1.47,2.63,1.45,2.69,Oui,Oui,Oui,Non,Non,Home,89,"[1, 56, 89]",True
+c54ccbc63c759f51,spanish-league,164874,27,2026-09-09T06:30:27Z,R. Madrid,Sevilla,1,1,1.23,5.78,13.01,1.0,3.93,1.11,1.56,2.39,2.28,1.61,Non,Oui,Non,Oui,Non,Away,76,"[48, 76]",True
+57ed3a2bbfb5a158,spanish-league,164874,27,2026-09-09T06:30:27Z,Real Oviedo,Mallorca,0,0,2.75,2.47,3.44,1.28,1.41,1.5,3.76,1.26,2.71,1.45,Non,Non,Non,Oui,Non,,,[],True
+d6d447786ce8d7b5,spanish-league,164874,27,2026-09-09T06:30:27Z,Alavés,R. Sociedad,1,2,3.17,2.68,2.7,1.42,1.32,1.43,3.01,1.37,2.33,1.58,Oui,Oui,Non,Non,Oui,Away,87,"[41, 45, 87]",True
+2858e60dba493879,spanish-league,164874,30,2026-09-09T06:36:27Z,Sevilla,Barca,3,1,4.44,3.7,1.77,1.98,1.18,1.24,1.75,2.05,1.73,2.07,Oui,Oui,Oui,Non,Non,Home,80,"[3, 12, 38, 80]",True
+56dfc11856af00f6,spanish-league,164874,30,2026-09-09T06:36:27Z,Getafe,Valencia,2,0,2.19,2.82,4.04,1.21,1.63,1.39,2.81,1.42,2.3,1.6,Non,Non,Oui,Non,Non,Home,88,"[79, 88]",True
+cf775a0cd001ad9f,spanish-league,164874,30,2026-09-09T06:36:27Z,A. Madrid,Espanyol,2,1,1.34,5.42,7.61,1.06,3.11,1.12,1.36,3.07,1.69,2.14,Oui,Oui,Oui,Non,Non,Home,77,"[40, 50, 77]",True
+c380df9aed8c4104,spanish-league,164874,30,2026-09-09T06:36:27Z,Villareal,Mallorca,0,1,1.47,4.27,6.85,1.07,2.58,1.19,1.7,2.12,1.91,1.86,Non,Non,Non,Non,Oui,Away,28,[28],True
+2f3ef9e606c00b0c,spanish-league,164874,30,2026-09-09T06:36:27Z,R. Madrid,Betis,1,0,1.28,5.06,12.49,1.0,3.53,1.14,1.76,2.03,2.48,1.52,Non,Non,Oui,Non,Non,Home,80,[80],True
+06a2843200aafe09,spanish-league,164874,30,2026-09-09T06:36:27Z,R. Vallecano,R. Sociedad,2,2,3.64,2.93,2.25,1.59,1.25,1.36,2.5,1.51,2.1,1.71,Oui,Oui,Non,Oui,Non,Home,73,"[1, 14, 72, 73]",True
+46976597129f6fd2,spanish-league,164874,30,2026-09-09T06:36:27Z,Vigo,Real Oviedo,1,1,2.11,3.02,3.93,1.22,1.68,1.35,2.41,1.55,2.08,1.73,Non,Oui,Non,Oui,Non,Home,33,"[21, 33]",True
+00b520976f3b1ad9,spanish-league,164874,30,2026-09-09T06:36:27Z,Levante,Elche,1,1,2.15,2.72,4.39,1.18,1.65,1.42,3.13,1.35,2.51,1.51,Non,Oui,Non,Oui,Non,Home,56,"[56, 56]",True
+5d907b3d30814908,spanish-league,164874,30,2026-09-09T06:36:27Z,Bilbao,Girona,0,1,1.71,3.74,4.83,1.15,2.07,1.24,1.78,2.01,1.78,2.0,Non,Non,Non,Non,Oui,Away,54,[54],True
+2e9b4aa9c8d1d824,spanish-league,164874,30,2026-09-09T06:36:27Z,Osasuna,Alavés,1,0,1.99,2.84,4.9,1.15,1.76,1.39,2.96,1.38,2.49,1.52,Non,Non,Oui,Non,Non,Home,24,[24],True
+7b00b9fcb417a501,spanish-league,164874,32,2026-09-09T06:40:27Z,Villareal,Getafe,3,1,1.52,4.2,6.04,1.1,2.43,1.19,1.65,2.21,1.8,1.98,Oui,Oui,Oui,Non,Non,Home,81,"[12, 22, 49, 81]",True
+a76d53ff005cefe6,spanish-league,164874,32,2026-09-09T06:40:27Z,R. Vallecano,Real Oviedo,1,0,2.21,3.06,3.56,1.26,1.62,1.34,2.27,1.61,1.97,1.81,Non,Non,Oui,Non,Non,Home,86,[86],True
+e8e666ecb99ddc11,spanish-league,164874,32,2026-09-09T06:40:27Z,Osasuna,Vigo,0,2,2.14,3.23,3.52,1.26,1.65,1.31,2.04,1.76,1.83,1.95,Non,Non,Non,Non,Oui,Away,36,"[4, 36]",True
+af3a3f656b041b9c,spanish-league,164874,32,2026-09-09T06:40:27Z,Espanyol,Barca,0,1,5.28,4.46,1.55,2.37,1.13,1.17,1.45,2.68,1.6,2.3,Non,Non,Non,Non,Oui,Away,50,[50],True
+57498b699a9a936e,spanish-league,164874,32,2026-09-09T06:40:27Z,Bilbao,Alavés,3,0,1.42,3.87,10.56,1.02,2.78,1.22,2.33,1.58,2.85,1.41,Oui,Non,Oui,Non,Non,Home,54,"[3, 4, 54]",True
+0618da30546fdf52,spanish-league,164874,32,2026-09-09T06:40:27Z,R. Madrid,Mallorca,1,1,1.16,6.45,21.51,0.97,4.87,1.08,1.66,2.18,3.09,1.36,Non,Oui,Non,Oui,Non,Home,70,"[57, 70]",True
+55f211bcfd987ff5,spanish-league,164874,32,2026-09-09T06:40:27Z,A. Madrid,Elche,0,1,1.29,4.87,12.59,1.0,3.45,1.15,1.84,1.93,2.58,1.49,Non,Non,Non,Non,Oui,Away,1,[1],True
+e4694aa63f069dc6,spanish-league,164874,32,2026-09-09T06:40:27Z,Sevilla,R. Sociedad,1,1,3.48,3.16,2.19,1.63,1.27,1.32,2.13,1.7,1.88,1.9,Non,Oui,Non,Oui,Non,Home,25,"[17, 25]",True
+346de46fdd0fed97,spanish-league,164874,32,2026-09-09T06:40:27Z,Girona,Betis,2,0,1.55,4.21,5.58,1.11,2.36,1.19,1.59,2.32,1.72,2.1,Non,Non,Oui,Non,Non,Home,87,"[86, 87]",True
+45cb983f8e88d02d,spanish-league,164874,32,2026-09-09T06:40:27Z,Levante,Valencia,2,0,2.36,2.92,3.41,1.28,1.54,1.37,2.49,1.52,2.08,1.73,Non,Non,Oui,Non,Non,Home,87,"[87, 87]",True
+1804acc945b48cf2,spanish-league,164874,35,2026-09-09T06:46:27Z,R. Sociedad,Betis,2,2,1.99,2.97,4.55,1.17,1.76,1.36,2.62,1.47,2.26,1.62,Oui,Oui,Non,Oui,Non,Home,75,"[23, 45, 62, 75]",True
+d336ca31471a8ed8,spanish-league,164874,35,2026-09-09T06:46:27Z,Getafe,A. Madrid,0,1,3.99,2.87,2.17,1.64,1.21,1.38,2.7,1.45,2.24,1.63,Non,Non,Non,Non,Oui,Away,31,[31],True
+4837a636bae0e71d,spanish-league,164874,35,2026-09-09T06:46:27Z,Osasuna,Sevilla,1,1,2.49,3.09,2.98,1.35,1.49,1.33,2.16,1.68,1.87,1.91,Non,Oui,Non,Oui,Non,Home,31,"[25, 31]",True
+6dc7f9f062feebc0,spanish-league,164874,35,2026-09-09T06:46:27Z,Alavés,Elche,2,1,1.8,2.85,6.57,1.08,1.95,1.38,3.28,1.32,2.94,1.39,Oui,Oui,Oui,Non,Non,Home,83,"[51, 76, 83]",True
+22253118e6787abc,spanish-league,164874,35,2026-09-09T06:46:27Z,Mallorca,Barca,0,2,3.59,2.65,2.48,1.5,1.26,1.44,3.16,1.35,2.43,1.54,Non,Non,Non,Non,Oui,Away,67,"[19, 67]",True
+a89c6a0f0818df1e,spanish-league,164874,35,2026-09-09T06:46:27Z,Valencia,Girona,1,1,2.27,3.03,3.47,1.27,1.59,1.35,2.31,1.59,1.98,1.8,Non,Oui,Non,Oui,Non,Home,70,"[62, 70]",True
+d43fe3fb35c612e7,spanish-league,164874,35,2026-09-09T06:46:27Z,Villareal,R. Madrid,0,1,3.16,3.73,2.1,1.68,1.32,1.24,1.56,2.38,1.52,2.48,Non,Non,Non,Non,Oui,Away,73,[73],True
+aa3124b6a3a92927,spanish-league,164874,35,2026-09-09T06:46:27Z,Real Oviedo,Levante,3,2,2.03,2.7,5.06,1.14,1.73,1.42,3.33,1.32,2.71,1.45,Oui,Oui,Oui,Non,Non,Home,71,"[26, 32, 44, 59, 71]",True
+e9cb03bcc27ac311,spanish-league,164874,35,2026-09-09T06:46:27Z,Vigo,Espanyol,1,2,2.03,3.52,3.53,1.26,1.73,1.26,1.76,2.04,1.66,2.18,Oui,Oui,Non,Non,Oui,Away,90,"[22, 35, 90]",True
+5233389ba70ab7db,spanish-league,164874,35,2026-09-09T06:46:27Z,R. Vallecano,Bilbao,1,3,2.76,3.0,2.75,1.41,1.41,1.35,2.3,1.6,1.94,1.84,Oui,Oui,Non,Non,Oui,Away,86,"[18, 47, 47, 86]",True
