@@ -1,0 +1,151 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+faae771ae8271703,english-league,165071,1,2026-09-10T11:55:29Z,Sunderland,Fulham,0,3,6.93,4.3,1.46,2.6,1.07,1.19,1.69,2.13,1.92,1.86,Oui,Non,Non,Non,Oui,Away,90,"[60, 64, 90]",True
+e4599fcfec213395,english-league,165071,1,2026-09-10T11:55:29Z,London Reds,Liverpool,0,2,1.78,4.33,3.75,1.24,1.97,1.18,1.34,3.17,1.41,2.84,Non,Non,Non,Non,Oui,Away,19,"[1, 19]",True
+c19de26e51bd1575,english-league,165071,1,2026-09-10T11:55:29Z,C. Palace,Bournemouth,0,1,1.86,4.0,3.69,1.24,1.88,1.21,1.47,2.62,1.5,2.56,Non,Non,Non,Non,Oui,Away,34,[34],True
+777684cd79217c53,english-league,165071,1,2026-09-10T11:55:29Z,Manchester Red,Brighton,0,1,1.92,3.98,3.47,1.27,1.82,1.21,1.46,2.67,1.47,2.63,Non,Non,Non,Non,Oui,Away,77,[77],True
+dfd28514e31e8b01,english-league,165071,1,2026-09-10T11:55:29Z,A. Villa,Manchester Blue,0,5,2.92,3.68,2.24,1.6,1.37,1.24,1.58,2.35,1.52,2.49,Oui,Non,Non,Non,Oui,Away,79,"[5, 40, 44, 52, 79]",True
+93375c53c9fe1236,english-league,165071,1,2026-09-10T11:55:29Z,Burnley,London Blues,0,1,3.46,3.57,2.04,1.72,1.27,1.26,1.71,2.1,1.63,2.23,Non,Non,Non,Non,Oui,Away,41,[41],True
+ec02d7e7959a7188,english-league,165071,1,2026-09-10T11:55:29Z,Leeds,Wolverhampton,2,2,3.66,3.69,1.94,1.8,1.25,1.24,1.65,2.2,1.61,2.28,Oui,Oui,Non,Oui,Non,Away,86,"[4, 42, 80, 86]",True
+d593d12c92d04758,english-league,165071,1,2026-09-10T11:55:29Z,Everton,N. Forest,2,0,1.98,3.42,3.81,1.23,1.77,1.28,1.89,1.88,1.76,2.03,Non,Non,Oui,Non,Non,Home,44,"[42, 44]",True
+3b02af8c1d180d2c,english-league,165071,1,2026-09-10T11:55:29Z,West Ham,Brentford,1,1,2.5,3.55,2.64,1.44,1.49,1.26,1.65,2.2,1.56,2.39,Non,Oui,Non,Oui,Non,Home,47,"[11, 47]",True
+4508958bc76e1830,english-league,165071,1,2026-09-10T11:55:29Z,Spurs,Newcastle,1,2,2.23,4.17,2.69,1.43,1.6,1.2,1.32,3.33,1.35,3.15,Oui,Oui,Non,Non,Oui,Away,86,"[8, 40, 86]",True
+c45a81dbc8a160b6,english-league,165071,4,2026-09-10T12:01:29Z,London Reds,Manchester Red,3,2,1.34,5.33,7.88,1.05,3.12,1.13,1.4,2.87,1.75,2.05,Oui,Oui,Oui,Non,Non,Home,64,"[25, 37, 44, 57, 64]",True
+6aa63300c068eb13,english-league,165071,4,2026-09-10T12:01:29Z,N. Forest,Leeds,2,0,1.46,4.15,7.37,1.06,2.61,1.2,1.82,1.96,2.06,1.74,Non,Non,Oui,Non,Non,Home,85,"[47, 85]",True
+3900b25d4c618c26,english-league,165071,4,2026-09-10T12:01:29Z,Liverpool,Sunderland,2,1,1.19,6.99,12.77,1.0,4.43,1.07,1.32,3.29,1.99,1.79,Oui,Oui,Oui,Non,Non,Home,82,"[57, 79, 82]",True
+736f45bbc094441f,english-league,165071,4,2026-09-10T12:01:29Z,Brentford,Fulham,2,0,2.01,3.97,3.22,1.31,1.74,1.21,1.44,2.74,1.45,2.71,Non,Non,Oui,Non,Non,Home,19,"[18, 19]",True
+a517eefca3dbd4b9,english-league,165071,4,2026-09-10T12:01:29Z,Newcastle,Burnley,0,1,1.21,6.97,11.09,1.01,4.2,1.07,1.27,3.65,1.84,1.94,Non,Non,Non,Non,Oui,Away,80,[80],True
+b90f42f88021fe31,english-league,165071,4,2026-09-10T12:01:29Z,Brighton,Manchester Blue,0,1,3.54,3.71,1.97,1.78,1.26,1.24,1.62,2.26,1.58,2.34,Non,Non,Non,Non,Oui,Away,9,[9],True
+c39299cb5966b670,english-league,165071,4,2026-09-10T12:01:29Z,Everton,West Ham,1,1,2.01,3.39,3.73,1.24,1.74,1.28,1.9,1.87,1.77,2.03,Non,Oui,Non,Oui,Non,Home,34,"[27, 34]",True
+b3008186c96a65db,english-league,165071,4,2026-09-10T12:01:29Z,Spurs,C. Palace,0,1,1.82,4.09,3.75,1.24,1.92,1.2,1.44,2.74,1.48,2.61,Non,Non,Non,Non,Oui,Away,17,[17],True
+73e5771c5f6766b1,english-league,165071,4,2026-09-10T12:01:29Z,London Blues,A. Villa,2,1,1.67,3.94,4.83,1.15,2.13,1.22,1.64,2.21,1.69,2.13,Oui,Oui,Oui,Non,Non,Away,82,"[41, 75, 82]",True
+67b5f7827d4dfeae,english-league,165071,4,2026-09-10T12:01:29Z,Bournemouth,Wolverhampton,3,2,1.83,3.68,4.13,1.2,1.91,1.25,1.72,2.09,1.69,2.14,Oui,Oui,Oui,Non,Non,Away,66,"[11, 28, 37, 48, 66]",True
+8afb7e1a193383fc,english-league,165071,6,2026-09-10T12:05:29Z,Brighton,Bournemouth,1,2,1.65,4.42,4.43,1.18,2.17,1.18,1.38,2.98,1.48,2.6,Oui,Oui,Non,Non,Oui,Away,87,"[1, 28, 87]",True
+be66accc8c084037,english-league,165071,6,2026-09-10T12:05:29Z,Brentford,A. Villa,0,2,1.9,3.95,3.58,1.26,1.84,1.22,1.49,2.58,1.5,2.55,Non,Non,Non,Non,Oui,Away,86,"[37, 86]",True
+18ae124153fd296f,english-league,165071,6,2026-09-10T12:05:29Z,Everton,Sunderland,2,0,1.91,3.47,4.02,1.21,1.83,1.27,1.87,1.9,1.77,2.02,Non,Non,Oui,Non,Non,Home,59,"[51, 59]",True
+b3c97028c776dea8,english-league,165071,6,2026-09-10T12:05:29Z,Manchester Red,Burnley,2,1,1.42,4.96,6.48,1.08,2.76,1.14,1.4,2.89,1.65,2.21,Oui,Oui,Oui,Non,Non,Away,66,"[46, 56, 66]",True
+d8b83b643b668738,english-league,165071,6,2026-09-10T12:05:29Z,London Reds,Leeds,2,1,1.16,7.42,16.71,0.98,5.04,1.06,1.37,3.01,2.3,1.6,Oui,Oui,Oui,Non,Non,Home,78,"[13, 55, 78]",True
+738f01bcbcf7fafc,english-league,165071,6,2026-09-10T12:05:29Z,West Ham,C. Palace,4,1,2.22,3.47,3.12,1.33,1.61,1.27,1.75,2.04,1.64,2.23,Oui,Oui,Oui,Non,Non,Away,74,"[24, 30, 68, 70, 74]",True
+3941f51bcf7e9f4f,english-league,165071,6,2026-09-10T12:05:29Z,N. Forest,Wolverhampton,3,0,1.67,3.91,4.87,1.15,2.13,1.22,1.67,2.17,1.71,2.1,Oui,Non,Oui,Non,Non,Home,89,"[89, 89, 89]",True
+44a4cde4a5339fc2,english-league,165071,6,2026-09-10T12:05:29Z,Spurs,Manchester Blue,1,1,3.63,4.09,1.85,1.89,1.25,1.2,1.43,2.79,1.46,2.67,Non,Oui,Non,Oui,Non,Away,82,"[52, 82]",True
+f5260c763caf109f,english-league,165071,6,2026-09-10T12:05:29Z,Newcastle,Fulham,3,0,1.48,4.53,6.09,1.1,2.55,1.17,1.51,2.52,1.7,2.12,Oui,Non,Oui,Non,Non,Home,84,"[84, 84, 84]",True
+d9b66b1518b7f25d,english-league,165071,6,2026-09-10T12:05:29Z,Liverpool,London Blues,0,4,1.35,5.22,7.7,1.06,3.05,1.13,1.42,2.82,1.75,2.05,Oui,Non,Non,Non,Oui,Away,64,"[29, 47, 54, 64]",True
+0177b030ac1a7bec,english-league,165071,9,2026-09-10T12:11:29Z,Bournemouth,London Reds,1,1,5.91,3.8,1.59,2.27,1.1,1.23,1.88,1.89,1.96,1.82,Non,Oui,Non,Oui,Non,Home,78,"[28, 78]",True
+a657c9b5b42c47cd,english-league,165071,9,2026-09-10T12:11:29Z,Sunderland,Leeds,0,1,3.41,3.2,2.2,1.62,1.28,1.31,2.07,1.74,1.84,1.94,Non,Non,Non,Non,Oui,Away,76,[76],True
+ddb06723052c3f30,english-league,165071,9,2026-09-10T12:11:29Z,Fulham,C. Palace,2,1,2.14,3.59,3.19,1.31,1.66,1.26,1.66,2.18,1.58,2.33,Oui,Oui,Oui,Non,Non,Home,61,"[28, 31, 61]",True
+4459ceca9cc7398d,english-league,165071,9,2026-09-10T12:11:29Z,London Blues,Manchester Red,2,0,1.69,3.88,4.71,1.16,2.09,1.22,1.67,2.18,1.7,2.12,Non,Non,Oui,Non,Non,Home,22,"[8, 22]",True
+ed6e804dbca78f50,english-league,165071,9,2026-09-10T12:11:29Z,Wolverhampton,West Ham,0,0,2.09,3.65,3.25,1.3,1.69,1.25,1.63,2.24,1.57,2.37,Non,Non,Non,Oui,Non,,,[],True
+4501939ead2f5db2,english-league,165071,9,2026-09-10T12:11:29Z,Liverpool,Newcastle,1,1,1.45,4.86,6.02,1.1,2.64,1.15,1.39,2.95,1.59,2.31,Non,Oui,Non,Oui,Non,Away,88,"[77, 88]",True
+468508d78eb229df,english-league,165071,9,2026-09-10T12:11:29Z,Brentford,Everton,0,3,1.72,3.87,4.56,1.17,2.05,1.22,1.66,2.19,1.68,2.15,Oui,Non,Non,Non,Oui,Away,89,"[61, 75, 89]",True
+334ca5f782db3856,english-league,165071,9,2026-09-10T12:11:29Z,Manchester Blue,Burnley,4,0,1.16,8.21,12.68,1.0,4.89,1.05,1.21,4.24,1.92,1.85,Oui,Non,Oui,Non,Non,Home,89,"[11, 79, 82, 89]",True
+9ea8ef3b2bc6b22c,english-league,165071,9,2026-09-10T12:11:29Z,A. Villa,N. Forest,3,2,1.37,5.27,7.17,1.07,2.98,1.13,1.37,3.05,1.66,2.18,Oui,Oui,Oui,Non,Non,Away,76,"[5, 13, 53, 68, 76]",True
+c2969daa7459a690,english-league,165071,9,2026-09-10T12:11:29Z,Brighton,Spurs,2,3,1.95,4.22,3.22,1.31,1.79,1.19,1.34,3.21,1.38,2.98,Oui,Oui,Non,Non,Oui,Home,85,"[13, 37, 57, 83, 85]",True
+98d4db524b92bfe1,english-league,165071,11,2026-09-10T12:15:29Z,Newcastle,Everton,1,0,1.34,4.85,9.47,1.03,3.15,1.15,1.66,2.19,2.11,1.71,Non,Non,Oui,Non,Non,Home,24,[24],True
+2a9e4fbe5aeaa8d0,english-league,165071,11,2026-09-10T12:15:29Z,London Blues,Leeds,2,0,1.29,5.25,10.54,1.02,3.44,1.13,1.59,2.33,2.12,1.7,Non,Non,Oui,Non,Non,Home,45,"[41, 45]",True
+4a1db1cddefe32b4,english-league,165071,11,2026-09-10T12:15:29Z,Wolverhampton,Sunderland,3,2,1.94,3.75,3.6,1.25,1.8,1.24,1.6,2.3,1.57,2.36,Oui,Oui,Oui,Non,Non,Home,88,"[42, 45, 61, 80, 88]",True
+2e546e05921d07f3,english-league,165071,11,2026-09-10T12:15:29Z,N. Forest,London Reds,1,1,5.03,3.72,1.69,2.1,1.14,1.24,1.82,1.96,1.83,1.95,Non,Oui,Non,Oui,Non,Home,90,"[87, 90]",True
+1a02d4e7b224f877,english-league,165071,11,2026-09-10T12:15:29Z,Brighton,West Ham,5,0,1.62,4.25,4.79,1.15,2.21,1.19,1.48,2.59,1.58,2.34,Oui,Non,Oui,Non,Non,Home,67,"[17, 29, 51, 54, 67]",True
+d5761b9ef3af5e7f,english-league,165071,11,2026-09-10T12:15:29Z,A. Villa,Spurs,5,0,1.66,4.67,4.12,1.2,2.15,1.16,1.28,3.61,1.39,2.93,Oui,Non,Oui,Non,Non,Home,83,"[1, 41, 77, 79, 83]",True
+78120e6ff614594b,english-league,165071,11,2026-09-10T12:15:29Z,Bournemouth,Burnley,2,2,1.73,3.94,4.37,1.18,2.03,1.22,1.59,2.33,1.62,2.26,Oui,Oui,Non,Oui,Non,Away,70,"[42, 45, 60, 70]",True
+8beae537b679276e,english-league,165071,11,2026-09-10T12:15:29Z,Liverpool,Manchester Red,1,0,1.31,5.38,9.24,1.03,3.34,1.12,1.47,2.62,1.91,1.86,Non,Non,Oui,Non,Non,Home,64,[64],True
+0fdb458061a5af24,english-league,165071,11,2026-09-10T12:15:29Z,Brentford,C. Palace,3,2,1.9,3.9,3.62,1.25,1.84,1.22,1.52,2.49,1.52,2.48,Oui,Oui,Oui,Non,Non,Away,76,"[23, 28, 48, 65, 76]",True
+002c46022b417c44,english-league,165071,11,2026-09-10T12:15:29Z,Fulham,Manchester Blue,2,0,4.36,3.85,1.75,2.01,1.18,1.23,1.64,2.23,1.65,2.2,Non,Non,Oui,Non,Non,Home,61,"[24, 61]",True
+6811d7b851cbf243,english-league,165071,14,2026-09-10T12:21:29Z,London Blues,Bournemouth,3,0,1.52,4.62,5.44,1.12,2.45,1.16,1.41,2.84,1.58,2.35,Oui,Non,Oui,Non,Non,Home,83,"[8, 42, 83]",True
+6b56813adad3dce4,english-league,165071,14,2026-09-10T12:21:29Z,Sunderland,N. Forest,2,0,4.71,3.92,1.69,2.1,1.16,1.22,1.64,2.22,1.68,2.15,Non,Non,Oui,Non,Non,Home,78,"[62, 78]",True
+d6bf48ed907162c2,english-league,165071,14,2026-09-10T12:21:29Z,Burnley,Spurs,3,1,3.55,3.94,1.91,1.83,1.26,1.22,1.48,2.59,1.49,2.57,Oui,Oui,Oui,Non,Non,Away,62,"[6, 13, 54, 62]",True
+c95cd2d347047a54,english-league,165071,14,2026-09-10T12:21:29Z,Manchester Red,A. Villa,3,1,1.77,3.73,4.43,1.18,1.99,1.24,1.73,2.08,1.72,2.1,Oui,Oui,Oui,Non,Non,Away,62,"[13, 42, 60, 62]",True
+ee23b7c42878e45d,english-league,165071,14,2026-09-10T12:21:29Z,Wolverhampton,Brentford,2,1,2.76,3.38,2.49,1.49,1.41,1.28,1.81,1.98,1.65,2.2,Oui,Oui,Oui,Non,Non,Away,83,"[38, 65, 83]",True
+a3e7d477e594168d,english-league,165071,14,2026-09-10T12:21:29Z,West Ham,London Reds,2,2,6.26,4.32,1.49,2.51,1.09,1.18,1.61,2.27,1.8,1.99,Oui,Oui,Non,Oui,Non,Away,60,"[32, 45, 51, 60]",True
+70ffa7576bec875e,english-league,165071,14,2026-09-10T12:21:29Z,C. Palace,Everton,1,1,1.88,3.37,4.34,1.18,1.86,1.29,2.02,1.77,1.89,1.88,Non,Oui,Non,Oui,Non,Away,42,"[30, 42]",True
+6825ce3e30de8563,english-league,165071,14,2026-09-10T12:21:29Z,Manchester Blue,Liverpool,1,0,1.55,4.82,4.8,1.15,2.36,1.15,1.3,3.45,1.45,2.7,Non,Non,Oui,Non,Non,Home,29,[29],True
+a40bb47d2124e3a3,english-league,165071,14,2026-09-10T12:21:29Z,Leeds,Newcastle,2,2,7.0,4.99,1.4,2.86,1.07,1.14,1.43,2.77,1.7,2.11,Oui,Oui,Non,Oui,Non,Away,72,"[15, 24, 31, 72]",True
+dbc7c794bb4cba5c,english-league,165071,14,2026-09-10T12:21:29Z,Fulham,Brighton,1,1,2.3,4.07,2.64,1.44,1.57,1.2,1.35,3.12,1.37,3.03,Non,Oui,Non,Oui,Non,Home,88,"[81, 88]",True
+e44585cb173ff82b,english-league,165071,16,2026-09-10T12:25:29Z,Wolverhampton,Newcastle,1,2,3.09,3.81,2.11,1.67,1.33,1.23,1.51,2.51,1.48,2.59,Oui,Oui,Non,Non,Oui,Away,75,"[16, 75, 75]",True
+6b057421326d0bf4,english-league,165071,16,2026-09-10T12:25:29Z,Sunderland,London Reds,0,3,23.43,8.15,1.12,5.94,0.96,1.05,1.41,2.84,2.77,1.43,Oui,Non,Non,Non,Oui,Away,87,"[77, 82, 87]",True
+698cfbf0fd1c9d57,english-league,165071,16,2026-09-10T12:25:29Z,Brentford,Brighton,3,2,1.98,4.38,3.07,1.34,1.77,1.18,1.27,3.7,1.33,3.27,Oui,Oui,Oui,Non,Non,Away,75,"[5, 32, 53, 68, 75]",True
+9d9ccf84214c5e1a,english-league,165071,16,2026-09-10T12:25:29Z,Fulham,Spurs,4,1,2.22,4.12,2.73,1.42,1.61,1.2,1.33,3.23,1.36,3.09,Oui,Oui,Oui,Non,Non,Home,71,"[7, 41, 44, 52, 71]",True
+b450a8461be30e11,english-league,165071,16,2026-09-10T12:25:29Z,Burnley,West Ham,2,0,2.7,3.46,2.49,1.49,1.42,1.27,1.73,2.07,1.61,2.28,Non,Non,Oui,Non,Non,Home,57,"[22, 57]",True
+2c088be9e4cf4a7f,english-league,165071,16,2026-09-10T12:25:29Z,Leeds,Manchester Red,1,3,4.83,3.83,1.69,2.1,1.15,1.23,1.71,2.1,1.74,2.06,Oui,Oui,Non,Non,Oui,Away,71,"[37, 45, 48, 71]",True
+76412953354bbe36,english-league,165071,16,2026-09-10T12:25:29Z,Manchester Blue,Everton,4,0,1.24,6.03,11.79,1.01,3.92,1.1,1.45,2.71,2.07,1.73,Oui,Non,Oui,Non,Non,Home,90,"[28, 64, 73, 90]",True
+7bbdc3d747b791c3,english-league,165071,16,2026-09-10T12:25:29Z,Bournemouth,Liverpool,0,1,3.52,3.7,1.98,1.77,1.26,1.24,1.63,2.25,1.58,2.34,Non,Non,Non,Non,Oui,Away,75,[75],True
+81de76db4d4d4bf1,english-league,165071,16,2026-09-10T12:25:29Z,London Blues,N. Forest,1,1,1.42,4.8,6.87,1.07,2.77,1.15,1.48,2.6,1.74,2.06,Non,Oui,Non,Oui,Non,Away,61,"[3, 61]",True
+2fc0a93454f1f1f8,english-league,165071,16,2026-09-10T12:25:29Z,C. Palace,A. Villa,0,0,2.09,3.57,3.33,1.29,1.69,1.26,1.7,2.12,1.62,2.26,Non,Non,Non,Oui,Non,,,[],True
+3fb8050813ea3ca7,english-league,165071,19,2026-09-10T12:31:29Z,Newcastle,N. Forest,2,2,1.23,6.42,10.96,1.01,3.98,1.09,1.34,3.19,1.89,1.88,Oui,Oui,Non,Oui,Non,Home,83,"[39, 42, 58, 83]",True
+63b7cd6666f4cd28,english-league,165071,19,2026-09-10T12:31:29Z,Leeds,Manchester Blue,1,2,14.79,6.61,1.19,4.48,0.99,1.08,1.45,2.72,2.28,1.61,Oui,Oui,Non,Non,Oui,Home,55,"[15, 53, 55]",True
+adc5ced660d8b116,english-league,165071,19,2026-09-10T12:31:29Z,C. Palace,Wolverhampton,2,1,1.69,3.95,4.63,1.16,2.09,1.22,1.62,2.27,1.66,2.19,Oui,Oui,Oui,Non,Non,Home,78,"[5, 77, 78]",True
+bcf5b27e9fc8b014,english-league,165071,19,2026-09-10T12:31:29Z,Spurs,Liverpool,3,2,2.67,4.23,2.23,1.61,1.43,1.19,1.29,3.53,1.33,3.27,Oui,Oui,Oui,Non,Non,Away,86,"[16, 45, 84, 84, 86]",True
+b7841a3b2ad589f8,english-league,165071,19,2026-09-10T12:31:29Z,West Ham,London Blues,1,2,2.41,3.72,2.66,1.43,1.52,1.24,1.53,2.45,1.48,2.59,Oui,Oui,Non,Non,Oui,Away,80,"[56, 57, 80]",True
+5f27c1ee57f41de5,english-league,165071,19,2026-09-10T12:31:29Z,Burnley,Fulham,0,3,3.42,3.36,2.13,1.66,1.28,1.29,1.89,1.89,1.73,2.07,Oui,Non,Non,Non,Oui,Away,83,"[3, 63, 83]",True
+3f2e074f6da5d5bb,english-league,165071,19,2026-09-10T12:31:29Z,A. Villa,Sunderland,2,0,1.36,5.42,7.12,1.07,3.02,1.12,1.33,3.22,1.64,2.23,Non,Non,Oui,Non,Non,Home,80,"[26, 80]",True
+4182a4b8e4fa590a,english-league,165071,19,2026-09-10T12:31:29Z,Manchester Red,Bournemouth,3,0,1.67,4.22,4.49,1.17,2.13,1.19,1.47,2.65,1.54,2.42,Oui,Non,Oui,Non,Non,Home,88,"[67, 75, 88]",True
+b6b31eb2ea56e069,english-league,165071,19,2026-09-10T12:31:29Z,London Reds,Brentford,1,1,1.47,4.67,6.12,1.09,2.6,1.16,1.46,2.67,1.66,2.19,Non,Oui,Non,Oui,Non,Home,67,"[16, 67]",True
+2ab28d4203f25f34,english-league,165071,19,2026-09-10T12:31:29Z,Everton,Brighton,1,2,2.6,3.57,2.53,1.48,1.45,1.26,1.63,2.23,1.55,2.42,Oui,Oui,Non,Non,Oui,Away,77,"[29, 49, 77]",True
+ed96b07eb08befe8,english-league,165071,21,2026-09-10T12:35:29Z,A. Villa,Fulham,0,4,1.68,4.17,4.48,1.17,2.12,1.2,1.49,2.58,1.56,2.38,Oui,Non,Non,Non,Oui,Away,73,"[32, 73, 73, 73]",True
+3d6ecf75678d5882,english-league,165071,21,2026-09-10T12:35:29Z,Burnley,Brentford,1,2,3.77,3.43,1.99,1.76,1.24,1.28,1.87,1.9,1.75,2.05,Oui,Oui,Non,Non,Oui,Home,62,"[28, 34, 62]",True
+4d6e31d429d5d452,english-league,165071,21,2026-09-10T12:35:29Z,West Ham,Liverpool,1,1,3.37,4.05,1.93,1.81,1.29,1.21,1.41,2.84,1.43,2.75,Non,Oui,Non,Oui,Non,Home,41,"[33, 41]",True
+dfaab59f287f01a4,english-league,165071,21,2026-09-10T12:35:29Z,Manchester Blue,Wolverhampton,2,3,1.18,7.52,12.88,1.0,4.66,1.06,1.27,3.7,1.94,1.83,Oui,Oui,Non,Non,Oui,Home,56,"[1, 17, 49, 55, 56]",True
+dbfae3b98b2490b6,english-league,165071,21,2026-09-10T12:35:29Z,Sunderland,London Blues,1,2,7.2,4.68,1.41,2.78,1.07,1.16,1.55,2.41,1.82,1.96,Oui,Oui,Non,Non,Oui,Home,88,"[11, 88, 88]",True
+c3081112bbbb568f,english-league,165071,21,2026-09-10T12:35:29Z,Everton,Spurs,1,2,2.52,3.57,2.61,1.45,1.48,1.26,1.63,2.23,1.55,2.42,Oui,Oui,Non,Non,Oui,Away,51,"[6, 20, 51]",True
+a787557313fb4953,english-league,165071,21,2026-09-10T12:35:29Z,Leeds,Bournemouth,1,2,4.33,4.19,1.69,2.09,1.18,1.19,1.46,2.66,1.53,2.45,Oui,Oui,Non,Non,Oui,Away,69,"[22, 55, 69]",True
+a8bd1b8de88ac964,english-league,165071,21,2026-09-10T12:35:29Z,London Reds,Newcastle,1,3,1.56,4.61,4.92,1.15,2.34,1.16,1.37,3.05,1.5,2.53,Oui,Oui,Non,Non,Oui,Home,72,"[18, 34, 35, 72]",True
+da203e8650eb5c08,english-league,165071,21,2026-09-10T12:35:29Z,Manchester Red,N. Forest,2,0,1.57,4.21,5.38,1.12,2.32,1.19,1.57,2.36,1.69,2.14,Non,Non,Oui,Non,Non,Home,66,"[5, 66]",True
+8b0366e41e4a793f,english-league,165071,21,2026-09-10T12:35:29Z,C. Palace,Brighton,4,0,2.37,3.86,2.63,1.44,1.54,1.23,1.45,2.7,1.43,2.76,Oui,Non,Oui,Non,Non,Home,77,"[25, 27, 70, 77]",True
+baf154d64b3d88b2,english-league,165071,24,2026-09-10T12:41:29Z,N. Forest,Manchester Blue,0,1,4.35,3.61,1.81,1.94,1.18,1.25,1.81,1.97,1.76,2.03,Non,Non,Non,Non,Oui,Away,59,[59],True
+f38c47c04c199ade,english-league,165071,24,2026-09-10T12:41:29Z,Spurs,Leeds,5,0,1.33,5.38,8.23,1.05,3.19,1.12,1.41,2.85,1.77,2.01,Oui,Non,Oui,Non,Non,Home,67,"[22, 23, 33, 62, 67]",True
+a7b08183ce328527,english-league,165071,24,2026-09-10T12:41:29Z,Brighton,Wolverhampton,3,1,1.53,4.52,5.46,1.12,2.43,1.17,1.45,2.69,1.61,2.28,Oui,Oui,Oui,Non,Non,Home,72,"[6, 47, 49, 72]",True
+9f65a7f17a35c857,english-league,165071,24,2026-09-10T12:41:29Z,Manchester Red,West Ham,2,0,1.6,4.13,5.16,1.13,2.25,1.2,1.58,2.33,1.68,2.15,Non,Non,Oui,Non,Non,Home,29,"[20, 29]",True
+ca8dbdef730371ab,english-league,165071,24,2026-09-10T12:41:29Z,Newcastle,Sunderland,1,0,1.26,6.05,9.75,1.03,3.66,1.1,1.35,3.12,1.82,1.95,Non,Non,Oui,Non,Non,Home,49,[49],True
+2bafc60ef2a21d64,english-league,165071,24,2026-09-10T12:41:29Z,London Reds,C. Palace,0,1,1.39,4.92,7.41,1.06,2.9,1.15,1.48,2.59,1.78,2.01,Non,Non,Non,Non,Oui,Away,72,[72],True
+e541230ef91f50a2,english-league,165071,24,2026-09-10T12:41:29Z,Bournemouth,A. Villa,1,0,2.26,3.31,3.18,1.32,1.59,1.3,1.91,1.87,1.73,2.07,Non,Non,Oui,Non,Non,Home,53,[53],True
+8afea5ad4f3f9253,english-league,165071,24,2026-09-10T12:41:29Z,Everton,Burnley,1,2,1.76,3.81,4.34,1.18,1.99,1.23,1.66,2.19,1.66,2.18,Oui,Oui,Non,Non,Oui,Away,67,"[25, 31, 67]",True
+e29aadd5c4dc7387,english-league,165071,24,2026-09-10T12:41:29Z,Liverpool,Fulham,3,0,1.39,4.89,7.47,1.06,2.9,1.15,1.5,2.54,1.8,1.98,Oui,Non,Oui,Non,Non,Home,82,"[22, 54, 82]",True
+7035cd699de7dd34,english-league,165071,24,2026-09-10T12:41:29Z,Brentford,London Blues,3,2,2.03,4.01,3.14,1.32,1.73,1.21,1.41,2.86,1.42,2.81,Oui,Oui,Oui,Non,Non,Away,63,"[42, 43, 50, 52, 63]",True
+839ddc1847d3b7ab,english-league,165071,26,2026-09-10T12:45:29Z,West Ham,Leeds,1,0,1.58,4.01,5.6,1.11,2.29,1.21,1.7,2.12,1.8,1.98,Non,Non,Oui,Non,Non,Home,36,[36],True
+16f7c71f7d8ef479,english-league,165071,26,2026-09-10T12:45:29Z,Manchester Red,Sunderland,2,0,1.51,4.41,5.9,1.1,2.48,1.18,1.53,2.45,1.7,2.12,Non,Non,Oui,Non,Non,Home,90,"[73, 90]",True
+81daf423bd126025,english-league,165071,26,2026-09-10T12:45:29Z,London Reds,Manchester Blue,2,1,2.27,3.61,2.92,1.37,1.58,1.25,1.62,2.25,1.55,2.41,Oui,Oui,Oui,Non,Non,Away,40,"[26, 30, 40]",True
+08c7124bf1038cdc,english-league,165071,26,2026-09-10T12:45:29Z,Everton,Fulham,4,1,2.64,3.16,2.74,1.41,1.44,1.32,2.05,1.75,1.8,1.98,Oui,Oui,Oui,Non,Non,Home,85,"[28, 35, 45, 72, 85]",True
+5a8e1883cdf9ce12,english-league,165071,26,2026-09-10T12:45:29Z,Newcastle,London Blues,3,0,1.45,4.73,6.21,1.09,2.64,1.16,1.44,2.72,1.66,2.19,Oui,Non,Oui,Non,Non,Home,77,"[1, 46, 77]",True
+676ec06b94bd5d3d,english-league,165071,26,2026-09-10T12:45:29Z,Brighton,A. Villa,1,1,1.82,3.83,4.0,1.21,1.92,1.23,1.61,2.28,1.6,2.29,Non,Oui,Non,Oui,Non,Away,81,"[64, 81]",True
+ae36124c3ae54fbb,english-league,165071,26,2026-09-10T12:45:29Z,N. Forest,Bournemouth,0,1,1.83,3.95,3.82,1.23,1.91,1.22,1.51,2.51,1.53,2.47,Non,Non,Non,Non,Oui,Away,43,[43],True
+d0a5c66b404d62b8,english-league,165071,26,2026-09-10T12:45:29Z,C. Palace,Burnley,2,1,1.58,4.43,4.97,1.14,2.3,1.18,1.43,2.76,1.56,2.4,Oui,Oui,Oui,Non,Non,Away,84,"[50, 61, 84]",True
+81cb4fb6f95218d1,english-league,165071,26,2026-09-10T12:45:29Z,Liverpool,Brentford,1,1,1.38,4.92,7.54,1.06,2.92,1.15,1.49,2.56,1.8,1.98,Non,Oui,Non,Oui,Non,Home,60,"[25, 60]",True
+45a9a20d51169acc,english-league,165071,26,2026-09-10T12:45:29Z,Spurs,Wolverhampton,3,3,1.48,4.95,5.52,1.12,2.56,1.14,1.32,3.29,1.51,2.5,Oui,Oui,Non,Oui,Non,Home,72,"[23, 25, 36, 47, 52, 72]",True
+b647c6c07875a5cd,english-league,165071,29,2026-09-10T12:51:29Z,Liverpool,Everton,1,0,1.27,5.32,11.67,1.01,3.59,1.13,1.63,2.25,2.26,1.62,Non,Non,Oui,Non,Non,Home,89,[89],True
+9b13c1db78685611,english-league,165071,29,2026-09-10T12:51:29Z,N. Forest,Spurs,2,0,2.22,3.84,2.86,1.38,1.61,1.23,1.48,2.61,1.45,2.68,Non,Non,Oui,Non,Non,Home,60,"[14, 60]",True
+8b4f3db05ac15976,english-league,165071,29,2026-09-10T12:51:29Z,Bournemouth,West Ham,2,1,1.99,3.54,3.65,1.25,1.76,1.26,1.75,2.04,1.67,2.17,Oui,Oui,Oui,Non,Non,Home,59,"[16, 29, 59]",True
+f6a0bc27dd67ba48,english-league,165071,29,2026-09-10T12:51:29Z,Wolverhampton,Burnley,3,1,1.82,3.99,3.84,1.23,1.92,1.21,1.5,2.55,1.52,2.49,Oui,Oui,Oui,Non,Non,Away,83,"[33, 34, 68, 83]",True
+7d7cc8b2846daa3b,english-league,165071,29,2026-09-10T12:51:29Z,London Blues,C. Palace,3,1,1.69,3.81,4.9,1.15,2.1,1.23,1.74,2.06,1.77,2.03,Oui,Oui,Oui,Non,Non,Home,56,"[40, 42, 50, 56]",True
+ee1878495b2adfa9,english-league,165071,29,2026-09-10T12:51:29Z,Brighton,London Reds,0,3,4.37,3.84,1.75,2.01,1.18,1.23,1.64,2.21,1.66,2.19,Oui,Non,Non,Non,Oui,Away,71,"[21, 47, 71]",True
+ce558d21a90d3109,english-league,165071,29,2026-09-10T12:51:29Z,Brentford,Manchester Red,0,0,1.83,4.1,3.7,1.24,1.91,1.2,1.43,2.78,1.47,2.65,Non,Non,Non,Oui,Non,,,[],True
+44aa3dacdb4584ec,english-league,165071,29,2026-09-10T12:51:29Z,Manchester Blue,Sunderland,2,0,1.18,7.54,12.5,1.0,4.62,1.06,1.25,3.84,1.89,1.88,Non,Non,Oui,Non,Non,Home,41,"[9, 41]",True
+d8b63d66b267fcc4,english-league,165071,29,2026-09-10T12:51:29Z,Fulham,Leeds,2,0,1.49,4.3,6.48,1.08,2.54,1.19,1.65,2.21,1.84,1.94,Non,Non,Oui,Non,Non,Home,60,"[24, 60]",True
+c09538433e77780b,english-league,165071,29,2026-09-10T12:51:29Z,A. Villa,Newcastle,1,0,1.86,4.2,3.51,1.27,1.88,1.19,1.37,3.04,1.41,2.83,Non,Non,Oui,Non,Non,Home,53,[53],True
+546d5b62377bf7c7,english-league,165071,32,2026-09-10T12:57:29Z,Leeds,Liverpool,0,4,9.38,5.81,1.28,3.52,1.03,1.11,1.38,2.98,1.83,1.95,Oui,Non,Non,Non,Oui,Away,78,"[17, 66, 69, 78]",True
+ebbc251b8109e161,english-league,165071,32,2026-09-10T12:57:29Z,Burnley,N. Forest,0,1,2.4,3.46,2.82,1.39,1.53,1.27,1.73,2.07,1.61,2.27,Non,Non,Non,Non,Oui,Away,89,[89],True
+bef7e1ec5f030c6a,english-league,165071,32,2026-09-10T12:57:29Z,Manchester Blue,Brentford,2,0,1.35,5.35,7.65,1.06,3.09,1.12,1.38,2.98,1.71,2.11,Non,Non,Oui,Non,Non,Home,19,"[17, 19]",True
+d27f019bb63146c8,english-league,165071,32,2026-09-10T12:57:29Z,Sunderland,Brighton,1,2,7.55,5.29,1.35,3.05,1.06,1.13,1.39,2.95,1.71,2.11,Oui,Oui,Non,Non,Oui,Home,72,"[9, 21, 72]",True
+71f99eb3d1b8da35,english-league,165071,32,2026-09-10T12:57:29Z,London Reds,A. Villa,0,1,1.35,5.28,7.63,1.06,3.06,1.13,1.4,2.9,1.72,2.08,Non,Non,Non,Non,Oui,Away,80,[80],True
+09bdc855a8f3d98c,english-league,165071,32,2026-09-10T12:57:29Z,Wolverhampton,London Blues,2,2,2.53,3.57,2.6,1.45,1.48,1.26,1.64,2.22,1.55,2.4,Oui,Oui,Non,Oui,Non,Away,65,"[17, 41, 62, 65]",True
+33afe9848dd0f7c4,english-league,165071,32,2026-09-10T12:57:29Z,West Ham,Spurs,2,1,2.44,4.01,2.49,1.49,1.51,1.21,1.37,3.01,1.38,2.98,Oui,Oui,Oui,Non,Non,Home,64,"[22, 55, 64]",True
+232dc5cfdcd01e95,english-league,165071,32,2026-09-10T12:57:29Z,C. Palace,Newcastle,4,1,2.45,3.74,2.6,1.45,1.5,1.24,1.52,2.49,1.48,2.62,Oui,Oui,Oui,Non,Non,Home,83,"[6, 26, 62, 78, 83]",True
+4d81f9f0635ae7c2,english-league,165071,32,2026-09-10T12:57:29Z,Fulham,Bournemouth,2,0,1.81,4.22,3.68,1.25,1.93,1.19,1.38,2.98,1.43,2.76,Non,Non,Oui,Non,Non,Home,44,"[8, 44]",True
+4f8c62046d5aaa14,english-league,165071,32,2026-09-10T12:57:29Z,Manchester Red,Everton,2,1,1.69,3.57,5.36,1.12,2.1,1.26,1.99,1.8,1.97,1.81,Oui,Oui,Oui,Non,Non,Home,55,"[18, 42, 55]",True
+bd6a03960b352c79,english-league,165071,34,2026-09-10T13:01:29Z,Burnley,London Reds,0,3,9.56,4.7,1.35,3.09,1.03,1.16,1.73,2.08,2.18,1.66,Oui,Non,Non,Non,Oui,Away,89,"[23, 46, 89]",True
+3ca58ab085aaf1c3,english-league,165071,34,2026-09-10T13:01:29Z,West Ham,A. Villa,0,4,2.21,3.57,3.05,1.34,1.62,1.26,1.67,2.18,1.58,2.34,Oui,Non,Non,Non,Oui,Away,82,"[30, 65, 66, 82]",True
+e12c6433c2aba9bf,english-league,165071,34,2026-09-10T13:01:29Z,Sunderland,Spurs,1,1,6.98,5.2,1.38,2.92,1.07,1.13,1.37,3.02,1.65,2.19,Non,Oui,Non,Oui,Non,Home,87,"[49, 87]",True
+0e5c49fc899045f6,english-league,165071,34,2026-09-10T13:01:29Z,Fulham,N. Forest,1,3,1.65,4.27,4.56,1.17,2.17,1.19,1.45,2.7,1.54,2.44,Oui,Oui,Non,Non,Oui,Home,84,"[28, 45, 66, 84]",True
+c431ad85c6a0a235,english-league,165071,34,2026-09-10T13:01:29Z,Bournemouth,Brentford,1,0,2.58,3.26,2.74,1.41,1.46,1.3,1.93,1.84,1.73,2.08,Non,Non,Oui,Non,Non,Home,54,[54],True
+f87af8b319fcb6e9,english-league,165071,34,2026-09-10T13:01:29Z,Manchester Blue,Newcastle,3,3,1.44,5.13,5.83,1.1,2.68,1.13,1.31,3.4,1.52,2.48,Oui,Oui,Non,Oui,Non,Home,80,"[26, 33, 34, 71, 75, 80]",True
+71cbbb9d5f5a45ad,english-league,165071,34,2026-09-10T13:01:29Z,Leeds,Everton,1,0,4.1,3.33,1.94,1.8,1.2,1.29,2.02,1.77,1.87,1.9,Non,Non,Oui,Non,Non,Home,57,[57],True
+3e40881df859a727,english-league,165071,34,2026-09-10T13:01:29Z,Wolverhampton,Liverpool,1,2,3.91,3.96,1.81,1.93,1.22,1.22,1.52,2.48,1.54,2.43,Oui,Oui,Non,Non,Oui,Away,61,"[42, 44, 61]",True
+f9577c3333ed0dbb,english-league,165071,34,2026-09-10T13:01:29Z,C. Palace,Manchester Red,0,1,2.02,3.56,3.5,1.27,1.73,1.26,1.73,2.08,1.64,2.21,Non,Non,Non,Non,Oui,Away,58,[58],True
+4d1d24694398297e,english-league,165071,34,2026-09-10T13:01:29Z,London Blues,Brighton,3,0,1.78,4.18,3.88,1.22,1.98,1.2,1.41,2.83,1.47,2.63,Oui,Non,Oui,Non,Non,Home,89,"[12, 26, 89]",True
+381092b3581ac073,english-league,165071,36,2026-09-10T13:05:29Z,Fulham,London Reds,1,2,5.15,4.07,1.61,2.23,1.13,1.21,1.62,2.27,1.7,2.11,Oui,Oui,Non,Non,Oui,Away,74,"[60, 70, 74]",True
+b378b745f8ba6ad6,english-league,165071,36,2026-09-10T13:05:29Z,Burnley,A. Villa,2,4,3.12,3.28,2.3,1.57,1.33,1.3,1.93,1.84,1.74,2.06,Oui,Oui,Non,Non,Oui,Home,68,"[18, 19, 31, 61, 62, 68]",True
+ff2876f712b5f434,english-league,165071,36,2026-09-10T13:05:29Z,Manchester Blue,Manchester Red,4,0,1.27,5.95,9.74,1.03,3.62,1.1,1.37,3.02,1.85,1.93,Oui,Non,Oui,Non,Non,Home,89,"[33, 45, 64, 89]",True
+ac613cf4310a1402,english-league,165071,36,2026-09-10T13:05:29Z,Brighton,Liverpool,1,1,2.66,3.99,2.31,1.57,1.44,1.21,1.39,2.94,1.39,2.92,Non,Oui,Non,Oui,Non,Away,38,"[7, 38]",True
+85e50c3c7b198d30,english-league,165071,36,2026-09-10T13:05:29Z,Wolverhampton,Everton,1,1,2.11,3.22,3.63,1.25,1.68,1.31,2.07,1.73,1.86,1.92,Non,Oui,Non,Oui,Non,Away,54,"[50, 54]",True
+8219246b2c620b26,english-league,165071,36,2026-09-10T13:05:29Z,London Blues,Spurs,2,4,1.74,4.29,3.95,1.22,2.02,1.19,1.38,3.0,1.45,2.71,Oui,Oui,Non,Non,Oui,Away,88,"[3, 10, 25, 55, 88, 88]",True
+053ea2fb3a6e01ed,english-league,165071,36,2026-09-10T13:05:29Z,Bournemouth,Newcastle,1,2,2.82,3.52,2.38,1.54,1.39,1.27,1.69,2.14,1.58,2.34,Oui,Oui,Non,Non,Oui,Away,84,"[35, 60, 84]",True
+cf38fd1636cf39e7,english-league,165071,36,2026-09-10T13:05:29Z,Sunderland,West Ham,0,4,5.05,4.02,1.63,2.2,1.14,1.21,1.63,2.24,1.7,2.12,Oui,Non,Non,Non,Oui,Away,74,"[28, 40, 60, 74]",True
+70ac3b591a9545a3,english-league,165071,36,2026-09-10T13:05:29Z,Brentford,N. Forest,2,0,1.56,4.67,4.91,1.15,2.35,1.16,1.35,3.13,1.49,2.56,Non,Non,Oui,Non,Non,Home,86,"[36, 86]",True
+054a887e80af90cc,english-league,165071,36,2026-09-10T13:05:29Z,Leeds,C. Palace,1,2,4.92,3.77,1.69,2.09,1.15,1.24,1.77,2.02,1.79,2.0,Oui,Oui,Non,Non,Oui,Away,68,"[30, 63, 68]",True
