@@ -1,0 +1,505 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+4487eef6148b1c9e,champions-league,165098,1,2026-09-10T17:28:02Z,Graz,Milan Blues,2,1,4.42,1.97,3.06,1.34,1.18,1.78,7.99,1.07,4.56,1.19,Oui,Oui,Oui,Non,Non,Home,73,"[19, 63, 73]",True
+0844f1bc242e862e,champions-league,165098,1,2026-09-10T17:28:02Z,Manchester Blue,Milan Reds,3,1,1.62,4.69,4.35,1.18,2.22,1.16,1.29,3.52,1.41,2.85,Oui,Oui,Oui,Non,Non,Away,84,"[14, 30, 52, 84]",True
+42310e3cc78d7089,champions-league,165098,1,2026-09-10T17:28:02Z,Girona,Leverkusen,0,2,2.01,3.76,3.38,1.28,1.75,1.24,1.57,2.37,1.53,2.45,Non,Non,Non,Non,Oui,Away,37,"[29, 37]",True
+eda49598e70661b3,champions-league,165098,1,2026-09-10T17:28:02Z,R. Madrid,Lisboa Green,3,1,1.73,4.05,4.23,1.19,2.03,1.21,1.52,2.5,1.56,2.38,Oui,Oui,Oui,Non,Non,Away,90,"[44, 45, 45, 90]",True
+df9c831ea4965a21,champions-league,165098,1,2026-09-10T17:28:02Z,Paris SG,Feyenoord,2,2,1.27,7.13,7.57,1.06,3.6,1.07,1.16,5.09,1.57,2.37,Oui,Oui,Non,Oui,Non,Home,56,"[30, 46, 53, 56]",True
+d1f0539c21e4bd1f,champions-league,165098,1,2026-09-10T17:28:02Z,Stuttgart,Bratislava,4,1,1.56,4.66,4.89,1.15,2.34,1.16,1.35,3.13,1.49,2.56,Oui,Oui,Oui,Non,Non,Home,89,"[20, 33, 46, 63, 89]",True
+ce6f61e73a871f88,champions-league,165098,1,2026-09-10T17:28:02Z,Bruges,Bern,0,0,1.43,4.13,8.52,1.04,2.73,1.2,1.95,1.83,2.28,1.61,Non,Non,Non,Oui,Non,,,[],True
+c27cc00395f16915,champions-league,165098,1,2026-09-10T17:28:02Z,Monaco,Leipzig,1,0,1.2,5.93,17.24,0.98,4.33,1.1,1.67,2.16,2.76,1.43,Non,Non,Oui,Non,Non,Home,24,[24],True
+b7576f700e274a4d,champions-league,165098,1,2026-09-10T17:28:02Z,Salzburg,Eindhoven,0,1,6.63,4.64,1.44,2.68,1.08,1.16,1.52,2.49,1.75,2.04,Non,Non,Non,Non,Oui,Away,26,[26],True
+3598ff457c0a8a4e,champions-league,165098,1,2026-09-10T17:28:02Z,Celtic,Prague,4,0,1.1,8.56,30.43,0.96,6.56,1.04,1.46,2.66,3.3,1.32,Oui,Non,Oui,Non,Non,Home,87,"[39, 42, 80, 87]",True
+e1dc3acb66c532f1,champions-league,165098,1,2026-09-10T17:28:02Z,Zagreb,London Reds,1,4,5.3,4.25,1.57,2.32,1.13,1.19,1.54,2.44,1.66,2.19,Oui,Oui,Non,Non,Oui,Away,60,"[44, 45, 45, 53, 60]",True
+b650688a8c475b1d,champions-league,165098,1,2026-09-10T17:28:02Z,Liverpool,Brest,3,0,1.07,10.28,36.48,0.95,7.87,1.02,1.36,3.1,3.41,1.3,Oui,Non,Oui,Non,Non,Home,55,"[37, 41, 55]",True
+c645773341cd4ff0,champions-league,165098,1,2026-09-10T17:28:02Z,A. Villa,A. Madrid,1,1,1.57,4.6,4.84,1.15,2.32,1.16,1.36,3.09,1.49,2.56,Non,Oui,Non,Oui,Non,Home,84,"[49, 84]",True
+38baa09d68112ef1,champions-league,165098,1,2026-09-10T17:28:02Z,Belgrade,Barca,4,1,2.24,5.9,2.25,1.59,1.6,1.1,1.05,9.57,1.23,4.09,Oui,Oui,Oui,Non,Non,Home,88,"[22, 30, 31, 69, 88]",True
+529db10612d3b9a7,champions-league,165098,1,2026-09-10T17:28:02Z,Bologna,Turin,2,2,3.56,2.25,2.99,1.35,1.26,1.59,4.95,1.17,3.25,1.33,Oui,Oui,Non,Oui,Non,Home,81,"[29, 35, 59, 81]",True
+301625e806eaa646,champions-league,165098,1,2026-09-10T17:28:02Z,Lille,Munich,3,0,1.46,5.07,5.58,1.11,2.61,1.14,1.3,3.45,1.5,2.55,Oui,Non,Oui,Non,Non,Home,82,"[48, 54, 82]",True
+1e2dc5e9a083d991,champions-league,165098,1,2026-09-10T17:28:02Z,Donetsk,Dortmund,3,1,4.75,5.23,1.52,2.44,1.16,1.13,1.21,4.32,1.38,2.98,Oui,Oui,Oui,Non,Non,Away,57,"[11, 15, 19, 57]",True
+476b15dc20826d10,champions-league,165098,1,2026-09-10T17:28:02Z,Atalanta,Lisboa Red,2,1,2.55,3.38,2.69,1.42,1.47,1.28,1.8,1.98,1.65,2.2,Oui,Oui,Oui,Non,Non,Home,81,"[63, 75, 81]",True
+650f0ea4c7a42da3,champions-league,165098,3,2026-09-10T17:32:02Z,Lille,Turin,2,0,1.51,4.0,6.75,1.08,2.47,1.21,1.84,1.94,2.01,1.78,Non,Non,Oui,Non,Non,Home,88,"[59, 88]",True
+8e4ed297eb99e778,champions-league,165098,3,2026-09-10T17:32:02Z,Bruges,Bratislava,2,0,1.93,3.29,4.22,1.19,1.81,1.3,2.09,1.72,1.92,1.85,Non,Non,Oui,Non,Non,Home,86,"[5, 86]",True
+4cb6503ad4a9b04f,champions-league,165098,3,2026-09-10T17:32:02Z,Zagreb,Munich,1,2,2.19,3.79,2.95,1.36,1.63,1.23,1.51,2.51,1.48,2.6,Oui,Oui,Non,Non,Oui,Home,78,"[25, 39, 78]",True
+81974a423566c46e,champions-league,165098,3,2026-09-10T17:32:02Z,Monaco,Brest,4,1,1.26,6.59,8.65,1.04,3.67,1.08,1.23,4.1,1.64,2.22,Oui,Oui,Oui,Non,Non,Home,65,"[7, 18, 37, 55, 65]",True
+63d8ab13fab03ff6,champions-league,165098,3,2026-09-10T17:32:02Z,Manchester Blue,Prague,5,0,1.1,9.11,23.89,0.96,6.47,1.03,1.32,3.28,2.66,1.46,Oui,Non,Oui,Non,Non,Home,83,"[34, 45, 61, 66, 83]",True
+5ad3896100b2e16e,champions-league,165098,3,2026-09-10T17:32:02Z,Celtic,Milan Blues,2,1,1.53,4.08,6.16,1.09,2.41,1.2,1.73,2.08,1.87,1.9,Oui,Oui,Oui,Non,Non,Home,86,"[60, 67, 86]",True
+d0280155337c9e92,champions-league,165098,3,2026-09-10T17:32:02Z,R. Madrid,Dortmund,1,3,1.74,5.24,3.39,1.28,2.02,1.13,1.12,6.01,1.25,3.82,Oui,Oui,Non,Non,Oui,Away,89,"[24, 46, 64, 89]",True
+a1ae604fa6e88634,champions-league,165098,3,2026-09-10T17:32:02Z,Leipzig,Leverkusen,2,0,2.09,4.2,2.91,1.37,1.69,1.19,1.31,3.35,1.35,3.13,Non,Non,Oui,Non,Non,Home,82,"[25, 82]",True
+36e6c0281f4046b9,champions-league,165098,3,2026-09-10T17:32:02Z,Paris SG,Stuttgart,3,0,1.19,7.85,11.19,1.01,4.53,1.05,1.2,4.42,1.8,1.99,Oui,Non,Oui,Non,Non,Home,82,"[63, 65, 82]",True
+f55515143703e4eb,champions-league,165098,3,2026-09-10T17:32:02Z,Atalanta,Feyenoord,2,0,1.72,4.8,3.69,1.24,2.05,1.15,1.21,4.28,1.32,3.29,Non,Non,Oui,Non,Non,Home,69,"[19, 69]",True
+4edc2d662bebd8fa,champions-league,165098,3,2026-09-10T17:32:02Z,Liverpool,A. Madrid,4,1,1.37,4.82,8.18,1.05,2.98,1.15,1.57,2.35,1.92,1.85,Oui,Oui,Oui,Non,Non,Home,83,"[9, 35, 46, 58, 83]",True
+5f6b74f88d2e36cb,champions-league,165098,3,2026-09-10T17:32:02Z,Salzburg,Bologna,0,0,2.98,2.0,4.44,1.18,1.35,1.75,7.58,1.08,4.41,1.2,Non,Non,Non,Oui,Non,,,[],True
+f191d06dbe89c8f6,champions-league,165098,3,2026-09-10T17:32:02Z,Belgrade,Lisboa Green,4,1,2.39,3.81,2.64,1.44,1.53,1.23,1.48,2.61,1.45,2.7,Oui,Oui,Oui,Non,Non,Home,83,"[24, 34, 43, 81, 83]",True
+f94beb072728d13f,champions-league,165098,3,2026-09-10T17:32:02Z,A. Villa,Lisboa Red,0,0,1.58,3.76,6.16,1.09,2.29,1.24,1.94,1.83,2.03,1.76,Non,Non,Non,Oui,Non,,,[],True
+c3765eeaf98ecbde,champions-league,165098,3,2026-09-10T17:32:02Z,Girona,London Reds,1,1,7.72,5.14,1.36,3.03,1.05,1.13,1.44,2.72,1.77,2.02,Non,Oui,Non,Oui,Non,Home,81,"[58, 81]",True
+0d5041d6e070f661,champions-league,165098,3,2026-09-10T17:32:02Z,Milan Reds,Barca,4,2,2.15,4.73,2.61,1.45,1.65,1.16,1.16,5.09,1.24,3.9,Oui,Oui,Oui,Non,Non,Home,84,"[30, 36, 44, 46, 51, 84]",True
+dabed09845bc53ac,champions-league,165098,3,2026-09-10T17:32:02Z,Graz,Bern,2,1,2.01,2.3,7.8,1.05,1.74,1.57,5.85,1.12,4.57,1.19,Oui,Oui,Oui,Non,Non,Home,86,"[16, 43, 86]",True
+9ec2e2d333360a58,champions-league,165098,3,2026-09-10T17:32:02Z,Donetsk,Eindhoven,2,0,3.08,4.14,2.02,1.73,1.33,1.2,1.35,3.15,1.38,2.99,Non,Non,Oui,Non,Non,Home,83,"[80, 83]",True
+f299aa2209ab5d18,champions-league,165098,5,2026-09-10T17:36:02Z,Monaco,Leverkusen,0,2,1.39,5.16,6.71,1.08,2.86,1.13,1.36,3.07,1.63,2.25,Non,Non,Non,Non,Oui,Away,62,"[59, 62]",True
+e31d6d752bff7e39,champions-league,165098,5,2026-09-10T17:36:02Z,Leipzig,London Reds,0,6,8.03,6.3,1.29,3.47,1.05,1.09,1.24,3.97,1.62,2.26,Oui,Non,Non,Non,Oui,Away,90,"[15, 18, 38, 60, 87, 90]",True
+5a7f39b15829a0ac,champions-league,165098,5,2026-09-10T17:36:02Z,Celtic,Bern,5,1,1.08,10.23,29.88,0.96,7.48,1.02,1.3,3.41,2.95,1.39,Oui,Oui,Oui,Non,Non,Home,78,"[23, 42, 43, 58, 60, 78]",True
+2e0afe8470b79572,champions-league,165098,5,2026-09-10T17:36:02Z,Donetsk,Bologna,2,0,1.85,2.65,7.07,1.07,1.89,1.44,3.98,1.24,3.43,1.3,Non,Non,Oui,Non,Non,Home,43,"[28, 43]",True
+2dec605fe779bfff,champions-league,165098,5,2026-09-10T17:36:02Z,Belgrade,Dortmund,2,1,2.43,5.08,2.21,1.62,1.51,1.14,1.1,6.55,1.21,4.24,Oui,Oui,Oui,Non,Non,Home,73,"[16, 50, 73]",True
+1d282cc0af9b9ff0,champions-league,165098,5,2026-09-10T17:36:02Z,Graz,Bratislava,1,0,2.72,2.1,4.63,1.16,1.42,1.68,6.5,1.1,4.04,1.23,Non,Non,Oui,Non,Non,Home,43,[43],True
+3bc17fcfe07dd1e1,champions-league,165098,5,2026-09-10T17:36:02Z,Barca,Prague,5,0,1.05,12.45,42.37,0.95,9.44,1.0,1.26,3.76,3.79,1.26,Oui,Non,Oui,Non,Non,Home,88,"[31, 34, 71, 72, 88]",True
+cf718757f3861642,champions-league,165098,5,2026-09-10T17:36:02Z,Zagreb,Turin,2,0,2.23,2.97,3.65,1.25,1.61,1.36,2.44,1.54,2.07,1.73,Non,Non,Oui,Non,Non,Home,85,"[77, 85]",True
+987bbe5881a1ee72,champions-league,165098,5,2026-09-10T17:36:02Z,R. Madrid,Eindhoven,1,2,1.4,5.91,5.65,1.11,2.83,1.1,1.17,4.84,1.42,2.81,Oui,Oui,Non,Non,Oui,Away,73,"[16, 61, 73]",True
+750a9028e0819874,champions-league,165098,5,2026-09-10T17:36:02Z,Liverpool,Lisboa Red,2,1,1.45,3.68,10.06,1.02,2.64,1.25,2.47,1.53,2.91,1.4,Oui,Oui,Oui,Non,Non,Away,90,"[78, 81, 90]",True
+21fee1877be8478a,champions-league,165098,5,2026-09-10T17:36:02Z,Brest,A. Madrid,0,0,8.73,5.76,1.3,3.4,1.04,1.11,1.36,3.1,1.76,2.04,Non,Non,Non,Oui,Non,,,[],True
+ce3b1a29a7ebf9cc,champions-league,165098,5,2026-09-10T17:36:02Z,Girona,Munich,1,2,2.97,3.92,2.14,1.66,1.36,1.22,1.44,2.73,1.44,2.75,Oui,Oui,Non,Non,Oui,Away,71,"[44, 49, 71]",True
+89e4beb7ec2bcd80,champions-league,165098,5,2026-09-10T17:36:02Z,Atalanta,Stuttgart,3,1,1.54,4.74,5.01,1.14,2.39,1.16,1.34,3.21,1.49,2.57,Oui,Oui,Oui,Non,Non,Away,59,"[17, 18, 24, 59]",True
+b8230e4cded0d7a4,champions-league,165098,5,2026-09-10T17:36:02Z,Bruges,Paris SG,2,1,6.65,3.59,1.59,2.29,1.08,1.26,2.16,1.68,2.23,1.63,Oui,Oui,Oui,Non,Non,Home,62,"[41, 43, 62]",True
+8be2cacd3df032a9,champions-league,165098,5,2026-09-10T17:36:02Z,A. Villa,Feyenoord,3,2,1.21,7.21,10.36,1.02,4.17,1.07,1.23,4.1,1.75,2.04,Oui,Oui,Oui,Non,Non,Away,75,"[26, 35, 56, 61, 75]",True
+642e24d38f6da3b4,champions-league,165098,5,2026-09-10T17:36:02Z,Milan Reds,Lisboa Green,1,2,2.35,2.91,3.45,1.27,1.55,1.37,2.53,1.51,2.09,1.72,Oui,Oui,Non,Non,Oui,Home,45,"[42, 43, 45]",True
+d19c980ad8021d7c,champions-league,165098,5,2026-09-10T17:36:02Z,Manchester Blue,Milan Blues,3,0,1.57,4.41,5.12,1.14,2.33,1.18,1.46,2.68,1.58,2.33,Oui,Non,Oui,Non,Non,Home,45,"[27, 34, 45]",True
+b97d6e7e8cfbc3a0,champions-league,165098,5,2026-09-10T17:36:02Z,Lille,Salzburg,0,0,1.21,7.55,9.62,1.03,4.15,1.06,1.18,4.66,1.7,2.12,Non,Non,Non,Oui,Non,,,[],True
+a0b4f7f51570c87b,champions-league,165098,8,2026-09-10T17:42:02Z,Milan Blues,Prague,1,0,1.07,10.04,42.59,0.95,7.97,1.02,1.42,2.81,3.88,1.25,Non,Non,Oui,Non,Non,Home,33,[33],True
+6ac44c7c8d025e9d,champions-league,165098,8,2026-09-10T17:42:02Z,Munich,Brest,2,0,1.12,9.34,16.13,0.98,5.81,1.03,1.21,4.24,2.21,1.65,Non,Non,Oui,Non,Non,Home,86,"[50, 86]",True
+3270c1bf270c04fd,champions-league,165098,8,2026-09-10T17:42:02Z,Donetsk,Atalanta,0,1,12.08,8.07,1.17,4.75,1.0,1.05,1.21,4.29,1.88,1.9,Non,Non,Non,Non,Oui,Away,18,[18],True
+0c9a0244f6f7a71d,champions-league,165098,8,2026-09-10T17:42:02Z,Turin,Liverpool,1,1,3.74,2.89,2.24,1.6,1.24,1.37,2.6,1.48,2.16,1.67,Non,Oui,Non,Oui,Non,Home,87,"[18, 87]",True
+4d021735d5dc155e,champions-league,165098,8,2026-09-10T17:42:02Z,Dortmund,Barca,2,1,1.51,5.81,4.4,1.18,2.46,1.11,1.12,5.88,1.32,3.28,Oui,Oui,Oui,Non,Non,Home,73,"[2, 71, 73]",True
+53eb6187fffb450b,champions-league,165098,8,2026-09-10T17:42:02Z,Paris SG,R. Madrid,1,0,1.28,5.91,9.25,1.03,3.54,1.1,1.36,3.1,1.8,1.98,Non,Non,Oui,Non,Non,Home,50,[50],True
+e6f560acdd586364,champions-league,165098,8,2026-09-10T17:42:02Z,Feyenoord,Leipzig,4,1,1.46,4.09,7.7,1.06,2.62,1.2,1.89,1.89,2.14,1.68,Oui,Oui,Oui,Non,Non,Home,84,"[28, 30, 41, 83, 84]",True
+74e497c61c5c522c,champions-league,165098,8,2026-09-10T17:42:02Z,Bologna,Celtic,2,1,1.8,3.01,5.85,1.1,1.95,1.35,2.81,1.42,2.55,1.5,Oui,Oui,Oui,Non,Non,Home,54,"[24, 48, 54]",True
+49e299b6696041d5,champions-league,165098,8,2026-09-10T17:42:02Z,Bern,Milan Reds,0,1,8.16,5.07,1.35,3.07,1.05,1.14,1.49,2.57,1.85,1.93,Non,Non,Non,Non,Oui,Away,55,[55],True
+d990f2c0868be481,champions-league,165098,8,2026-09-10T17:42:02Z,Lille,Graz,4,1,1.08,10.32,25.92,0.96,7.24,1.02,1.26,3.74,2.7,1.45,Oui,Oui,Oui,Non,Non,Home,69,"[9, 19, 29, 48, 69]",True
+99dbfbd3a89827c2,champions-league,165098,8,2026-09-10T17:42:02Z,Lisboa Red,Leverkusen,3,1,1.67,4.88,3.9,1.22,2.13,1.15,1.21,4.27,1.33,3.22,Oui,Oui,Oui,Non,Non,Home,90,"[41, 44, 56, 90]",True
+52de184fa7107d72,champions-league,165098,8,2026-09-10T17:42:02Z,Stuttgart,Girona,2,1,1.33,4.76,10.51,1.02,3.21,1.15,1.77,2.02,2.32,1.59,Oui,Oui,Oui,Non,Non,Home,62,"[40, 47, 62]",True
+e3352efe8d654ffb,champions-league,165098,8,2026-09-10T17:42:02Z,Lisboa Green,Monaco,2,2,1.86,4.54,3.33,1.29,1.88,1.17,1.25,3.89,1.33,3.27,Oui,Oui,Non,Oui,Non,Home,87,"[7, 80, 85, 87]",True
+668146820af315a1,champions-league,165098,8,2026-09-10T17:42:02Z,Salzburg,A. Villa,1,1,12.27,6.14,1.23,4.01,1.0,1.09,1.44,2.72,2.1,1.72,Non,Oui,Non,Oui,Non,Away,56,"[33, 56]",True
+9cb863d220677bfe,champions-league,165098,8,2026-09-10T17:42:02Z,London Reds,A. Madrid,2,2,1.43,4.58,7.09,1.07,2.73,1.17,1.58,2.34,1.84,1.94,Oui,Oui,Non,Oui,Non,Away,83,"[6, 29, 68, 83]",True
+3d38650b2752456a,champions-league,165098,8,2026-09-10T17:42:02Z,Bratislava,Belgrade,1,1,1.3,6.59,7.21,1.07,3.38,1.08,1.18,4.72,1.53,2.45,Non,Oui,Non,Oui,Non,Away,61,"[8, 61]",True
+f5c0dbdf010f6676,champions-league,165098,8,2026-09-10T17:42:02Z,Bruges,Zagreb,2,2,2.63,4.11,2.29,1.57,1.44,1.2,1.33,3.22,1.36,3.1,Oui,Oui,Non,Oui,Non,Home,89,"[17, 63, 76, 89]",True
+4a8f3343d0ee238a,champions-league,165098,8,2026-09-10T17:42:02Z,Eindhoven,Manchester Blue,3,2,1.68,5.78,3.42,1.28,2.11,1.11,1.08,7.26,1.26,3.76,Oui,Oui,Oui,Non,Non,Home,84,"[7, 10, 46, 74, 84]",True
+5a1053e3390489e6,champions-league,165098,10,2026-09-10T17:46:02Z,Turin,Brest,2,3,1.37,5.07,7.46,1.06,2.96,1.14,1.44,2.73,1.75,2.05,Oui,Oui,Non,Non,Oui,Away,77,"[27, 32, 41, 52, 77]",True
+ae7d63499eac686f,champions-league,165098,10,2026-09-10T17:46:02Z,Milan Blues,Monaco,1,2,1.16,7.79,13.9,0.99,4.9,1.05,1.26,3.73,1.99,1.79,Oui,Oui,Non,Non,Oui,Away,81,"[24, 25, 81]",True
+e959fbaa30c612f9,champions-league,165098,10,2026-09-10T17:46:02Z,Bruges,Girona,1,0,1.67,2.92,8.49,1.04,2.13,1.37,3.48,1.29,3.41,1.3,Non,Non,Oui,Non,Non,Home,60,[60],True
+f344f43b6982dd67,champions-league,165098,10,2026-09-10T17:46:02Z,Lille,Celtic,2,1,1.12,8.64,19.48,0.97,5.87,1.04,1.3,3.43,2.38,1.56,Oui,Oui,Oui,Non,Non,Home,74,"[46, 74, 74]",True
+af7ae29afbdb28df,champions-league,165098,10,2026-09-10T17:46:02Z,Salzburg,Liverpool,0,4,23.09,7.07,1.14,5.31,0.97,1.07,1.57,2.37,3.04,1.37,Oui,Non,Non,Non,Oui,Away,81,"[32, 52, 70, 81]",True
+9f55fe69ab0e7a1b,champions-league,165098,10,2026-09-10T17:46:02Z,Bologna,Manchester Blue,2,2,2.21,3.36,3.23,1.31,1.62,1.29,1.86,1.91,1.71,2.11,Oui,Oui,Non,Oui,Non,Away,53,"[10, 35, 48, 53]",True
+1357f36b48246dea,champions-league,165098,10,2026-09-10T17:46:02Z,Dortmund,Lisboa Green,3,2,1.63,3.61,5.92,1.1,2.2,1.25,2.04,1.76,2.07,1.73,Oui,Oui,Oui,Non,Non,Away,79,"[7, 15, 17, 68, 79]",True
+4bc7f9c4133e4418,champions-league,165098,10,2026-09-10T17:46:02Z,Bratislava,Milan Reds,0,1,2.32,4.45,2.47,1.5,1.56,1.17,1.22,4.19,1.28,3.59,Non,Non,Non,Non,Oui,Away,87,[87],True
+b5b3bf58fbb2f22d,champions-league,165098,10,2026-09-10T17:46:02Z,Donetsk,A. Villa,2,2,5.3,4.81,1.51,2.47,1.13,1.15,1.34,3.19,1.51,2.51,Oui,Oui,Non,Oui,Non,Home,88,"[30, 53, 68, 88]",True
+20b0c9e788e7b65b,champions-league,165098,10,2026-09-10T17:46:02Z,Paris SG,Belgrade,2,1,1.07,11.0,27.34,0.96,7.7,1.01,1.24,3.93,2.89,1.4,Oui,Oui,Oui,Non,Non,Home,80,"[66, 75, 80]",True
+cc31216169a194e7,champions-league,165098,10,2026-09-10T17:46:02Z,Feyenoord,Leverkusen,1,2,1.97,4.21,3.16,1.32,1.77,1.19,1.33,3.24,1.37,3.01,Oui,Oui,Non,Non,Oui,Home,73,"[26, 56, 73]",True
+a16152dc2fbccb01,champions-league,165098,10,2026-09-10T17:46:02Z,Lisboa Red,London Reds,0,3,5.38,5.54,1.44,2.68,1.12,1.12,1.2,4.41,1.42,2.82,Oui,Non,Non,Non,Oui,Away,62,"[26, 30, 62]",True
+ad9789db616238d7,champions-league,165098,10,2026-09-10T17:46:02Z,Graz,Zagreb,0,0,3.14,2.9,2.52,1.48,1.32,1.37,2.48,1.52,2.05,1.75,Non,Non,Non,Oui,Non,,,[],True
+3c11a5729a1e1c07,champions-league,165098,10,2026-09-10T17:46:02Z,Atalanta,R. Madrid,2,2,1.89,3.68,3.85,1.23,1.85,1.24,1.68,2.15,1.64,2.23,Oui,Oui,Non,Oui,Non,Away,87,"[18, 61, 71, 87]",True
+391b442c23cb5b90,champions-league,165098,10,2026-09-10T17:46:02Z,Bern,Prague,2,3,2.34,3.0,3.34,1.29,1.55,1.35,2.34,1.58,1.99,1.8,Oui,Oui,Non,Non,Oui,Home,85,"[2, 37, 48, 70, 85]",True
+ff7d94ebbb72eaab,champions-league,165098,10,2026-09-10T17:46:02Z,Eindhoven,Barca,3,0,2.2,5.94,2.29,1.57,1.62,1.1,1.05,9.67,1.23,4.05,Oui,Non,Oui,Non,Non,Home,81,"[64, 70, 81]",True
+78c615aff3c1bbd3,champions-league,165098,10,2026-09-10T17:46:02Z,Munich,A. Madrid,3,0,1.57,5.1,4.43,1.18,2.33,1.14,1.21,4.33,1.36,3.08,Oui,Non,Oui,Non,Non,Home,85,"[28, 62, 85]",True
+f260380e2788319c,champions-league,165098,10,2026-09-10T17:46:02Z,Stuttgart,Leipzig,3,1,1.41,4.5,7.77,1.05,2.8,1.17,1.67,2.16,1.97,1.81,Oui,Oui,Oui,Non,Non,Away,79,"[16, 41, 68, 79]",True
+313045e89f584fa5,champions-league,165098,13,2026-09-10T17:52:02Z,Liverpool,Graz,3,0,1.03,12.66,69.84,0.94,10.52,1.0,1.36,3.1,5.14,1.16,Oui,Non,Oui,Non,Non,Home,61,"[37, 59, 61]",True
+435106c41f967aec,champions-league,165098,13,2026-09-10T17:52:02Z,Leverkusen,Salzburg,3,0,1.08,9.64,29.13,0.96,7.11,1.03,1.34,3.18,2.99,1.38,Oui,Non,Oui,Non,Non,Home,44,"[22, 35, 44]",True
+15adbab37c04bf41,champions-league,165098,13,2026-09-10T17:52:02Z,Leipzig,Donetsk,2,1,1.75,3.85,4.37,1.18,2.01,1.23,1.64,2.22,1.65,2.2,Oui,Oui,Oui,Non,Non,Away,89,"[30, 78, 89]",True
+5c2e459aa70addcb,champions-league,165098,13,2026-09-10T17:52:02Z,Lisboa Green,Bratislava,3,0,1.68,4.28,4.34,1.18,2.12,1.19,1.42,2.79,1.51,2.52,Oui,Non,Oui,Non,Non,Home,88,"[34, 84, 88]",True
+889a236dfddd0098,champions-league,165098,13,2026-09-10T17:52:02Z,Barca,Paris SG,3,1,1.75,4.13,4.05,1.21,2.01,1.2,1.45,2.71,1.5,2.54,Oui,Oui,Oui,Non,Non,Home,76,"[27, 29, 46, 76]",True
+e25fdb14c454fc5f,champions-league,165098,13,2026-09-10T17:52:02Z,Belgrade,Zagreb,2,2,1.86,5.79,2.85,1.38,1.88,1.11,1.07,8.09,1.24,3.95,Oui,Oui,Non,Oui,Non,Away,64,"[25, 31, 35, 64]",True
+3f981663e9f92aae,champions-league,165098,13,2026-09-10T17:52:02Z,Celtic,A. Villa,1,0,1.72,4.11,4.24,1.19,2.05,1.2,1.48,2.6,1.54,2.45,Non,Non,Oui,Non,Non,Home,60,[60],True
+c1e3f311ee1ab4cb,champions-league,165098,13,2026-09-10T17:52:02Z,Monaco,Munich,2,1,1.71,4.52,3.96,1.22,2.07,1.17,1.3,3.42,1.4,2.9,Oui,Oui,Oui,Non,Non,Home,79,"[48, 58, 79]",True
+52aae2f91d7abd04,champions-league,165098,13,2026-09-10T17:52:02Z,London Reds,Turin,0,0,1.35,3.94,15.57,0.99,3.08,1.22,2.63,1.47,3.82,1.25,Non,Non,Non,Oui,Non,,,[],True
+436f209e3824cd06,champions-league,165098,13,2026-09-10T17:52:02Z,Manchester Blue,Atalanta,2,0,3.38,4.77,1.8,1.94,1.28,1.15,1.19,4.5,1.29,3.47,Non,Non,Oui,Non,Non,Home,68,"[46, 68]",True
+594b6cf812cdd214,champions-league,165098,13,2026-09-10T17:52:02Z,Dortmund,Bern,0,1,1.07,10.99,31.62,0.95,8.0,1.01,1.27,3.64,3.02,1.37,Non,Non,Non,Non,Oui,Away,88,[88],True
+ad1ce29cdfa269ac,champions-league,165098,13,2026-09-10T17:52:02Z,A. Madrid,Stuttgart,2,2,1.52,4.91,5.02,1.14,2.44,1.15,1.29,3.5,1.46,2.68,Oui,Oui,Non,Oui,Non,Home,86,"[3, 18, 48, 86]",True
+d60dcf01ae73c674,champions-league,165098,13,2026-09-10T17:52:02Z,Girona,R. Madrid,2,3,2.51,3.52,2.65,1.44,1.48,1.26,1.67,2.16,1.57,2.36,Oui,Oui,Non,Non,Oui,Away,90,"[2, 11, 29, 68, 90]",True
+6de142b9c9f1b028,champions-league,165098,13,2026-09-10T17:52:02Z,Milan Reds,Lille,3,1,1.98,3.57,3.62,1.25,1.76,1.26,1.73,2.08,1.65,2.2,Oui,Oui,Oui,Non,Non,Home,63,"[22, 46, 54, 63]",True
+72f654dd587d90a1,champions-league,165098,13,2026-09-10T17:52:02Z,Prague,Bologna,3,0,1.21,5.29,21.17,0.97,4.16,1.13,2.01,1.78,3.65,1.27,Oui,Non,Oui,Non,Non,Home,89,"[2, 58, 89]",True
+a6781eb70385d9e7,champions-league,165098,13,2026-09-10T17:52:02Z,Brest,Bruges,0,0,3.28,3.23,2.24,1.6,1.3,1.31,2.01,1.78,1.8,1.99,Non,Non,Non,Oui,Non,,,[],True
+ce753039a077ebfa,champions-league,165098,13,2026-09-10T17:52:02Z,Lisboa Red,Feyenoord,0,2,2.03,5.25,2.66,1.44,1.73,1.13,1.09,7.23,1.21,4.31,Non,Non,Non,Non,Oui,Away,63,"[52, 63]",True
+6b243a5c2465abc4,champions-league,165098,13,2026-09-10T17:52:02Z,Milan Blues,Eindhoven,2,0,1.24,6.39,10.5,1.02,3.9,1.09,1.33,3.23,1.87,1.91,Non,Non,Oui,Non,Non,Home,25,"[8, 25]",True
+1052ae72fa89bff3,champions-league,165098,15,2026-09-10T17:56:02Z,Lisboa Green,Paris SG,1,2,6.13,4.76,1.46,2.63,1.09,1.15,1.43,2.76,1.65,2.21,Oui,Oui,Non,Non,Oui,Home,58,"[28, 39, 58]",True
+74dd15289f365fe8,champions-league,165098,15,2026-09-10T17:56:02Z,London Reds,Salzburg,1,1,1.08,9.9,28.0,0.96,7.18,1.02,1.31,3.38,2.86,1.41,Non,Oui,Non,Oui,Non,Home,83,"[21, 83]",True
+9268b971463cbf36,champions-league,165098,15,2026-09-10T17:56:02Z,Belgrade,Girona,3,0,1.2,6.64,13.73,0.99,4.39,1.08,1.41,2.87,2.15,1.68,Oui,Non,Oui,Non,Non,Home,74,"[25, 34, 74]",True
+3ca1a10b539a5ef4,champions-league,165098,15,2026-09-10T17:56:02Z,Lisboa Red,Stuttgart,4,1,1.78,5.05,3.34,1.29,1.97,1.14,1.14,5.43,1.26,3.74,Oui,Oui,Oui,Non,Non,Home,61,"[24, 40, 54, 60, 61]",True
+48a3ad457e589f1b,champions-league,165098,15,2026-09-10T17:56:02Z,Munich,Turin,2,0,1.32,4.95,10.04,1.02,3.26,1.14,1.66,2.19,2.16,1.67,Non,Non,Oui,Non,Non,Home,83,"[35, 83]",True
+f44b48d7426ebd21,champions-league,165098,15,2026-09-10T17:56:02Z,Bern,Eindhoven,4,0,5.87,4.67,1.48,2.55,1.1,1.16,1.44,2.74,1.63,2.24,Oui,Non,Oui,Non,Non,Home,48,"[33, 34, 35, 48]",True
+8ed6f3c7ee44cdfa,champions-league,165098,15,2026-09-10T17:56:02Z,Leipzig,R. Madrid,1,4,2.59,3.97,2.37,1.54,1.46,1.21,1.39,2.93,1.39,2.92,Oui,Oui,Non,Non,Oui,Home,87,"[30, 37, 39, 59, 87]",True
+4b9733877e4f3b87,champions-league,165098,15,2026-09-10T17:56:02Z,A. Madrid,Bruges,2,0,1.55,4.41,5.37,1.12,2.38,1.18,1.48,2.6,1.62,2.26,Non,Non,Oui,Non,Non,Home,44,"[15, 44]",True
+ceb2653d5e9e33fb,champions-league,165098,15,2026-09-10T17:56:02Z,Manchester Blue,A. Villa,2,1,1.88,4.42,3.32,1.29,1.86,1.18,1.28,3.62,1.35,3.15,Oui,Oui,Oui,Non,Non,Away,72,"[32, 54, 72]",True
+339b75f67945bb7b,champions-league,165098,15,2026-09-10T17:56:02Z,Monaco,Feyenoord,0,2,1.46,5.68,4.97,1.14,2.6,1.11,1.16,5.04,1.37,3.03,Non,Non,Non,Non,Oui,Away,61,"[57, 61]",True
+503b980550390350,champions-league,165098,15,2026-09-10T17:56:02Z,Prague,Lille,2,1,1.7,4.59,3.91,1.22,2.07,1.17,1.28,3.58,1.38,2.97,Oui,Oui,Oui,Non,Non,Away,14,"[5, 10, 14]",True
+0342e1057e771ff3,champions-league,165098,15,2026-09-10T17:56:02Z,Milan Blues,Bologna,2,0,1.16,5.82,43.51,0.95,5.04,1.1,2.18,1.66,6.28,1.11,Non,Non,Oui,Non,Non,Home,70,"[16, 70]",True
+3c74a10d9bf9002e,champions-league,165098,15,2026-09-10T17:56:02Z,Milan Reds,Zagreb,4,1,1.68,4.86,3.84,1.23,2.11,1.15,1.21,4.29,1.33,3.25,Oui,Oui,Oui,Non,Non,Home,85,"[19, 28, 51, 60, 85]",True
+528518b374a2d8c0,champions-league,165098,15,2026-09-10T17:56:02Z,Dortmund,Bratislava,3,0,1.15,7.59,16.13,0.98,5.06,1.06,1.34,3.2,2.2,1.65,Oui,Non,Oui,Non,Non,Home,85,"[53, 68, 85]",True
+e29b3d027066d742,champions-league,165098,15,2026-09-10T17:56:02Z,Liverpool,Celtic,2,0,1.06,10.21,56.64,0.94,8.49,1.02,1.48,2.6,4.93,1.17,Non,Non,Oui,Non,Non,Home,74,"[65, 74]",True
+de192a79fcabf296,champions-league,165098,15,2026-09-10T17:56:02Z,Brest,Graz,3,0,1.84,3.44,4.44,1.18,1.9,1.28,1.97,1.81,1.87,1.91,Oui,Non,Oui,Non,Non,Home,85,"[39, 81, 85]",True
+17f602e2d3a871d2,champions-league,165098,15,2026-09-10T17:56:02Z,Leverkusen,Donetsk,3,0,1.16,6.01,33.05,0.95,4.99,1.1,1.99,1.79,4.77,1.18,Oui,Non,Oui,Non,Non,Home,57,"[46, 52, 57]",True
+6a9e16cadeda3aac,champions-league,165098,15,2026-09-10T17:56:02Z,Barca,Atalanta,1,3,2.02,4.46,2.94,1.36,1.74,1.17,1.23,4.0,1.3,3.43,Oui,Oui,Non,Non,Oui,Home,84,"[11, 38, 61, 84]",True
+bcee1f028b59d41f,champions-league,165098,18,2026-09-10T18:02:02Z,Graz,London Reds,2,2,9.64,3.0,1.61,2.24,1.03,1.35,3.46,1.3,3.61,1.28,Oui,Oui,Non,Oui,Non,Home,87,"[34, 45, 55, 87]",True
+0c559e5cf2c42205,champions-league,165098,18,2026-09-10T18:02:02Z,Manchester Blue,Leipzig,3,0,1.15,7.48,18.73,0.98,5.25,1.06,1.41,2.84,2.49,1.52,Oui,Non,Oui,Non,Non,Home,90,"[86, 88, 90]",True
+3b39088a35009790,champions-league,165098,18,2026-09-10T18:02:02Z,Stuttgart,Turin,0,2,2.43,3.56,2.71,1.42,1.51,1.26,1.64,2.22,1.55,2.4,Non,Non,Non,Non,Oui,Away,80,"[19, 80]",True
+78ff64a1a03d67f6,champions-league,165098,18,2026-09-10T18:02:02Z,Belgrade,Brest,6,0,1.48,5.97,4.59,1.17,2.55,1.1,1.12,5.98,1.34,3.2,Oui,Non,Oui,Non,Non,Home,60,"[23, 34, 38, 48, 53, 60]",True
+a2b6a554a8336134,champions-league,165098,18,2026-09-10T18:02:02Z,A. Villa,Prague,0,0,1.08,9.05,45.58,0.95,7.41,1.03,1.54,2.44,4.45,1.2,Non,Non,Non,Oui,Non,,,[],True
+2db2c4751f013842,champions-league,165098,18,2026-09-10T18:02:02Z,Celtic,Leverkusen,2,0,1.27,6.03,9.33,1.03,3.6,1.1,1.34,3.2,1.79,2.0,Non,Non,Oui,Non,Non,Home,40,"[7, 40]",True
+2c2c002ae2034307,champions-league,165098,18,2026-09-10T18:02:02Z,Zagreb,Lisboa Green,4,1,2.56,2.75,3.27,1.3,1.47,1.41,2.82,1.42,2.24,1.63,Oui,Oui,Oui,Non,Non,Home,78,"[18, 37, 59, 69, 78]",True
+9d18855c9b1c1c0a,champions-league,165098,18,2026-09-10T18:02:02Z,Donetsk,Lisboa Red,4,1,5.38,4.53,1.53,2.41,1.12,1.17,1.44,2.73,1.59,2.31,Oui,Oui,Oui,Non,Non,Home,76,"[10, 41, 61, 65, 76]",True
+4f44868346ef43c5,champions-league,165098,18,2026-09-10T18:02:02Z,R. Madrid,A. Madrid,3,0,2.13,5.14,2.53,1.48,1.66,1.13,1.1,6.69,1.21,4.24,Oui,Non,Oui,Non,Non,Home,83,"[74, 75, 83]",True
+b5321494d19ce699,champions-league,165098,18,2026-09-10T18:02:02Z,Bologna,Eindhoven,3,1,2.7,2.84,2.96,1.36,1.42,1.39,2.59,1.48,2.1,1.71,Oui,Oui,Oui,Non,Non,Home,89,"[38, 79, 86, 89]",True
+11448a310503b741,champions-league,165098,18,2026-09-10T18:02:02Z,Liverpool,Milan Reds,1,0,1.31,4.48,13.41,1.0,3.3,1.17,2.09,1.72,2.95,1.39,Non,Non,Oui,Non,Non,Home,60,[60],True
+c8ec7136f93d4197,champions-league,165098,18,2026-09-10T18:02:02Z,Lille,Dortmund,3,1,1.56,4.87,4.65,1.16,2.33,1.15,1.27,3.67,1.42,2.82,Oui,Oui,Oui,Non,Non,Home,58,"[5, 18, 41, 58]",True
+ca4b23eeb7c6ac92,champions-league,165098,18,2026-09-10T18:02:02Z,Paris SG,Bern,1,1,1.05,12.13,38.66,0.95,9.06,1.0,1.26,3.77,3.58,1.28,Non,Oui,Non,Oui,Non,Home,40,"[16, 40]",True
+fe8c85bbfa0f22e1,champions-league,165098,18,2026-09-10T18:02:02Z,Bruges,Munich,1,3,3.24,3.6,2.11,1.67,1.31,1.26,1.67,2.17,1.59,2.32,Oui,Oui,Non,Non,Oui,Away,78,"[23, 47, 53, 78]",True
+a2339d8e934d0736,champions-league,165098,18,2026-09-10T18:02:02Z,Salzburg,Feyenoord,3,2,7.15,6.17,1.32,3.25,1.07,1.09,1.21,4.28,1.53,2.45,Oui,Oui,Oui,Non,Non,Away,75,"[8, 9, 36, 74, 75]",True
+45326829e5dd79e9,champions-league,165098,18,2026-09-10T18:02:02Z,Atalanta,Milan Blues,1,2,2.12,3.22,3.6,1.26,1.67,1.31,2.06,1.74,1.85,1.93,Oui,Oui,Non,Non,Oui,Away,64,"[15, 45, 64]",True
+a9dde2290157ec20,champions-league,165098,18,2026-09-10T18:02:02Z,Girona,Barca,0,4,3.04,4.81,1.91,1.83,1.34,1.15,1.16,5.01,1.26,3.77,Oui,Non,Non,Non,Oui,Away,65,"[22, 55, 62, 65]",True
+44c02724a4feeabb,champions-league,165098,18,2026-09-10T18:02:02Z,Bratislava,Monaco,2,0,1.64,5.31,3.83,1.23,2.18,1.13,1.13,5.6,1.28,3.56,Non,Non,Oui,Non,Non,Home,68,"[63, 68]",True
+b996b8860c15a0a6,champions-league,165098,20,2026-09-10T18:06:02Z,Paris SG,Bratislava,2,1,1.12,8.64,20.41,0.97,5.96,1.04,1.31,3.35,2.43,1.54,Oui,Oui,Oui,Non,Non,Home,79,"[59, 60, 79]",True
+32e202398ce2daa4,champions-league,165098,20,2026-09-10T18:06:02Z,Atalanta,Bern,1,1,1.17,6.84,16.53,0.98,4.75,1.07,1.46,2.67,2.42,1.55,Non,Oui,Non,Oui,Non,Away,42,"[40, 42]",True
+5ce8713b61366794,champions-league,165098,20,2026-09-10T18:06:02Z,Bologna,Monaco,1,0,2.25,2.95,3.62,1.25,1.59,1.36,2.48,1.52,2.08,1.72,Non,Non,Oui,Non,Non,Home,48,[48],True
+f2628cd2fb6f5c03,champions-league,165098,20,2026-09-10T18:06:02Z,Salzburg,Stuttgart,1,1,6.47,5.06,1.41,2.79,1.08,1.14,1.37,3.03,1.62,2.27,Non,Oui,Non,Oui,Non,Home,85,"[18, 85]",True
+167efa278bfd5261,champions-league,165098,20,2026-09-10T18:06:02Z,Lille,Eindhoven,5,0,1.32,5.67,7.89,1.05,3.24,1.11,1.33,3.24,1.69,2.14,Oui,Non,Oui,Non,Non,Home,61,"[29, 30, 43, 60, 61]",True
+250012fd69b5fcf9,champions-league,165098,20,2026-09-10T18:06:02Z,A. Villa,Milan Blues,3,0,1.39,4.24,9.33,1.03,2.86,1.19,1.95,1.83,2.37,1.57,Oui,Non,Oui,Non,Non,Home,68,"[49, 58, 68]",True
+2ac0af3851f58493,champions-league,165098,20,2026-09-10T18:06:02Z,Milan Reds,Brest,4,0,1.36,5.47,7.09,1.07,3.03,1.12,1.32,3.31,1.62,2.26,Oui,Non,Oui,Non,Non,Home,81,"[6, 17, 76, 81]",True
+e571771562e53907,champions-league,165098,20,2026-09-10T18:06:02Z,Zagreb,Dortmund,1,0,2.37,3.93,2.6,1.45,1.54,1.22,1.41,2.85,1.4,2.88,Non,Non,Oui,Non,Non,Home,81,[81],True
+69ca15d885e0b2a4,champions-league,165098,20,2026-09-10T18:06:02Z,Graz,Munich,0,0,4.17,2.51,2.37,1.54,1.2,1.48,3.75,1.26,2.79,1.43,Non,Non,Non,Oui,Non,,,[],True
+b1cfc579ff9aac2e,champions-league,165098,20,2026-09-10T18:06:02Z,Leipzig,Barca,0,5,3.14,5.4,1.8,1.95,1.32,1.12,1.1,6.77,1.24,3.97,Oui,Non,Non,Non,Oui,Away,77,"[25, 39, 41, 69, 77]",True
+0b5e0fbb09aa97c7,champions-league,165098,20,2026-09-10T18:06:02Z,Girona,Lisboa Green,1,2,3.15,2.87,2.54,1.47,1.32,1.38,2.55,1.5,2.09,1.72,Oui,Oui,Non,Non,Oui,Away,73,"[6, 16, 73]",True
+13636a940c96ee38,champions-league,165098,20,2026-09-10T18:06:02Z,Bruges,Turin,1,0,3.14,2.73,2.66,1.43,1.32,1.41,2.86,1.41,2.25,1.62,Non,Non,Oui,Non,Non,Home,60,[60],True
+2c7294c8054fdabb,champions-league,165098,20,2026-09-10T18:06:02Z,Donetsk,Feyenoord,2,3,3.22,5.05,1.81,1.93,1.31,1.14,1.13,5.66,1.25,3.85,Oui,Oui,Non,Non,Oui,Away,78,"[42, 45, 45, 50, 78]",True
+0994dad0a5f8a2ba,champions-league,165098,20,2026-09-10T18:06:02Z,Celtic,London Reds,0,0,2.68,3.92,2.31,1.56,1.43,1.22,1.42,2.81,1.41,2.83,Non,Non,Non,Oui,Non,,,[],True
+1f70f87abf73468c,champions-league,165098,20,2026-09-10T18:06:02Z,Manchester Blue,Leverkusen,3,1,1.3,6.34,7.44,1.06,3.36,1.09,1.21,4.28,1.56,2.38,Oui,Oui,Oui,Non,Non,Home,87,"[5, 23, 64, 87]",True
+789fbf822a18ce33,champions-league,165098,20,2026-09-10T18:06:02Z,Liverpool,Prague,1,1,1.07,8.86,74.92,0.94,7.78,1.04,1.7,2.12,7.09,1.09,Non,Oui,Non,Oui,Non,Home,66,"[49, 66]",True
+92344bf30a6d7f3a,champions-league,165098,20,2026-09-10T18:06:02Z,R. Madrid,Lisboa Red,2,2,1.9,4.35,3.28,1.3,1.84,1.18,1.29,3.48,1.36,3.1,Oui,Oui,Non,Oui,Non,Away,89,"[16, 49, 75, 89]",True
+080dc8ff12094c77,champions-league,165098,20,2026-09-10T18:06:02Z,Belgrade,A. Madrid,2,1,2.98,5.58,1.83,1.91,1.36,1.11,1.08,7.47,1.23,4.01,Oui,Oui,Oui,Non,Non,Away,73,"[27, 41, 73]",True
+9aff7f544a342140,champions-league,165098,23,2026-09-10T18:12:02Z,Feyenoord,Celtic,2,2,1.41,5.03,6.49,1.08,2.78,1.14,1.38,2.99,1.62,2.25,Oui,Oui,Non,Oui,Non,Away,87,"[30, 81, 84, 87]",True
+7bb2243aa9c97e8e,champions-league,165098,23,2026-09-10T18:12:02Z,Dortmund,Liverpool,3,1,2.25,3.32,3.18,1.32,1.59,1.29,1.91,1.87,1.73,2.07,Oui,Oui,Oui,Non,Non,Away,73,"[3, 18, 26, 73]",True
+cf627c0daa0f9672,champions-league,165098,23,2026-09-10T18:12:02Z,Munich,Belgrade,5,1,1.07,11.38,29.27,0.96,8.04,1.01,1.24,3.98,2.93,1.39,Oui,Oui,Oui,Non,Non,Home,79,"[33, 37, 38, 57, 61, 79]",True
+edffc81c3bbacd32,champions-league,165098,23,2026-09-10T18:12:02Z,Prague,Leverkusen,5,1,1.41,5.78,5.63,1.11,2.8,1.11,1.18,4.66,1.42,2.8,Oui,Oui,Oui,Non,Non,Home,71,"[6, 10, 20, 59, 61, 71]",True
+acea8514fb26300a,champions-league,165098,23,2026-09-10T18:12:02Z,Paris SG,Lille,1,0,1.32,5.35,8.44,1.04,3.22,1.12,1.44,2.75,1.82,1.96,Non,Non,Oui,Non,Non,Home,50,[50],True
+b16a5cf00c7c7683,champions-league,165098,23,2026-09-10T18:12:02Z,Monaco,Bruges,2,2,1.45,4.84,6.14,1.09,2.66,1.15,1.4,2.88,1.62,2.26,Oui,Oui,Non,Oui,Non,Home,83,"[39, 46, 50, 83]",True
+1d9f5784d485512a,champions-league,165098,23,2026-09-10T18:12:02Z,Turin,R. Madrid,2,0,1.9,3.41,4.17,1.2,1.84,1.28,1.95,1.83,1.83,1.95,Non,Non,Oui,Non,Non,Home,75,"[70, 75]",True
+2b8a21a8993ffa12,champions-league,165098,23,2026-09-10T18:12:02Z,Eindhoven,A. Villa,2,1,2.59,4.6,2.19,1.63,1.46,1.16,1.18,4.64,1.26,3.77,Oui,Oui,Oui,Non,Non,Home,40,"[18, 29, 40]",True
+bb01685f45af579d,champions-league,165098,23,2026-09-10T18:12:02Z,A. Madrid,Barca,2,3,1.89,4.93,3.04,1.34,1.84,1.15,1.14,5.43,1.25,3.87,Oui,Oui,Non,Non,Oui,Home,64,"[22, 30, 47, 63, 64]",True
+7fe270d699b6eba0,champions-league,165098,23,2026-09-10T18:12:02Z,Bern,Girona,0,2,2.43,2.7,3.6,1.26,1.51,1.42,3.02,1.37,2.37,1.57,Non,Non,Non,Non,Oui,Away,29,"[21, 29]",True
+de16c08f36ad97c7,champions-league,165098,23,2026-09-10T18:12:02Z,Stuttgart,Graz,4,0,1.29,6.1,8.12,1.05,3.42,1.1,1.26,3.72,1.64,2.23,Oui,Non,Oui,Non,Non,Home,80,"[25, 49, 75, 80]",True
+5357210ecd066de5,champions-league,165098,23,2026-09-10T18:12:02Z,Salzburg,Donetsk,1,3,4.02,3.17,2.02,1.74,1.21,1.32,2.2,1.65,1.97,1.81,Oui,Oui,Non,Non,Oui,Away,83,"[7, 21, 71, 83]",True
+0a316ca4e9957211,champions-league,165098,23,2026-09-10T18:12:02Z,Lisboa Red,Manchester Blue,4,1,1.71,5.39,3.47,1.27,2.07,1.12,1.11,6.22,1.26,3.76,Oui,Oui,Oui,Non,Non,Home,77,"[21, 23, 61, 66, 77]",True
+9afbbd880f7f37aa,champions-league,165098,23,2026-09-10T18:12:02Z,Milan Blues,Leipzig,2,1,1.1,8.24,33.45,0.95,6.49,1.05,1.54,2.45,3.65,1.27,Oui,Oui,Oui,Non,Non,Home,65,"[20, 57, 65]",True
+3e49959cf37562f1,champions-league,165098,23,2026-09-10T18:12:02Z,Bologna,Atalanta,2,0,9.41,4.34,1.38,2.92,1.03,1.18,1.9,1.88,2.33,1.59,Non,Non,Oui,Non,Non,Home,24,"[19, 24]",True
+24d4cf26bcc42b02,champions-league,165098,23,2026-09-10T18:12:02Z,Lisboa Green,Brest,4,0,1.67,4.91,3.9,1.22,2.13,1.15,1.2,4.4,1.32,3.28,Oui,Non,Oui,Non,Non,Home,88,"[21, 55, 68, 88]",True
+9ca702669abf2fdb,champions-league,165098,23,2026-09-10T18:12:02Z,Bratislava,Zagreb,1,5,2.02,5.62,2.58,1.46,1.74,1.11,1.06,8.46,1.21,4.23,Oui,Oui,Non,Non,Oui,Home,75,"[11, 29, 45, 53, 54, 75]",True
+7e2686c8eb557e93,champions-league,165098,23,2026-09-10T18:12:02Z,London Reds,Milan Reds,2,1,1.31,4.53,12.96,1.0,3.3,1.17,2.03,1.76,2.83,1.42,Oui,Oui,Oui,Non,Non,Home,61,"[9, 12, 61]",True
+30d7b49b970e7d09,champions-league,165098,25,2026-09-10T18:16:02Z,Bologna,A. Villa,2,1,4.35,2.9,2.06,1.71,1.18,1.37,2.7,1.45,2.28,1.61,Oui,Oui,Oui,Non,Non,Away,87,"[23, 42, 87]",True
+2f24a55d81818cbb,champions-league,165098,25,2026-09-10T18:16:02Z,Turin,Belgrade,3,0,1.25,5.68,12.32,1.0,3.81,1.11,1.55,2.4,2.23,1.64,Oui,Non,Oui,Non,Non,Home,84,"[26, 28, 84]",True
+b65c6f9c6ea48278,champions-league,165098,25,2026-09-10T18:16:02Z,Bratislava,Girona,3,1,1.23,6.15,12.25,1.0,4.02,1.09,1.44,2.72,2.1,1.71,Oui,Oui,Oui,Non,Non,Home,77,"[2, 19, 47, 77]",True
+4baec8f77a4a5f26,champions-league,165098,25,2026-09-10T18:16:02Z,Dortmund,Brest,2,1,1.15,8.41,13.32,1.0,5.06,1.04,1.21,4.29,1.94,1.84,Oui,Oui,Oui,Non,Non,Away,60,"[41, 57, 60]",True
+12b68b9e9e1ecf1b,champions-league,165098,25,2026-09-10T18:16:02Z,Feyenoord,Manchester Blue,2,3,2.0,4.72,2.88,1.38,1.75,1.16,1.17,4.8,1.26,3.73,Oui,Oui,Non,Non,Oui,Away,90,"[38, 42, 46, 60, 90]",True
+76dc8b0b0c26e96d,champions-league,165098,25,2026-09-10T18:16:02Z,London Reds,Prague,5,0,1.07,9.11,69.84,0.94,7.91,1.03,1.65,2.2,6.47,1.1,Oui,Non,Oui,Non,Non,Home,66,"[30, 42, 44, 51, 66]",True
+8a73e4278cb37c66,champions-league,165098,25,2026-09-10T18:16:02Z,Lille,Atalanta,1,3,2.88,4.03,2.15,1.65,1.38,1.21,1.38,2.99,1.39,2.93,Oui,Oui,Non,Non,Oui,Home,63,"[34, 35, 41, 63]",True
+ac26167ba540c8b3,champions-league,165098,25,2026-09-10T18:16:02Z,Lisboa Red,Barca,2,1,2.44,5.51,2.13,1.66,1.51,1.12,1.06,8.34,1.21,4.33,Oui,Oui,Oui,Non,Non,Away,78,"[15, 73, 78]",True
+ba61049b4ff7bc17,champions-league,165098,25,2026-09-10T18:16:02Z,Eindhoven,Liverpool,0,1,3.93,4.4,1.73,2.04,1.22,1.18,1.34,3.2,1.42,2.81,Non,Non,Non,Non,Oui,Away,86,[86],True
+a67dc5a79af7995e,champions-league,165098,25,2026-09-10T18:16:02Z,Paris SG,Zagreb,4,1,1.24,7.5,8.31,1.04,3.87,1.06,1.15,5.18,1.61,2.28,Oui,Oui,Oui,Non,Non,Home,78,"[29, 45, 47, 60, 78]",True
+0aa47c2c148758fe,champions-league,165098,25,2026-09-10T18:16:02Z,Bern,Leipzig,1,1,2.7,2.79,3.01,1.35,1.42,1.4,2.71,1.45,2.17,1.67,Non,Oui,Non,Oui,Non,Home,85,"[82, 85]",True
+2919f9488f47623a,champions-league,165098,25,2026-09-10T18:16:02Z,Monaco,Donetsk,3,0,1.3,5.14,10.22,1.02,3.36,1.13,1.6,2.29,2.12,1.7,Oui,Non,Oui,Non,Non,Home,67,"[1, 59, 67]",True
+317064ada979e1a4,champions-league,165098,25,2026-09-10T18:16:02Z,Milan Blues,Leverkusen,0,1,1.18,7.3,13.26,1.0,4.62,1.06,1.3,3.44,2.0,1.78,Non,Non,Non,Non,Oui,Away,83,[83],True
+03815507cfdc6bbc,champions-league,165098,25,2026-09-10T18:16:02Z,Stuttgart,Celtic,4,0,1.4,5.27,6.39,1.09,2.84,1.13,1.31,3.36,1.56,2.38,Oui,Non,Oui,Non,Non,Home,74,"[29, 64, 66, 74]",True
+b97c213b4f3fe5ec,champions-league,165098,25,2026-09-10T18:16:02Z,Bruges,Graz,2,0,1.49,4.07,7.07,1.07,2.54,1.21,1.83,1.95,2.04,1.76,Non,Non,Oui,Non,Non,Home,28,"[19, 28]",True
+bf3bc4caf9657b48,champions-league,165098,25,2026-09-10T18:16:02Z,Salzburg,R. Madrid,0,0,7.81,4.78,1.38,2.91,1.05,1.15,1.57,2.37,1.89,1.89,Non,Non,Non,Oui,Non,,,[],True
+f0bcbbd4095be722,champions-league,165098,25,2026-09-10T18:16:02Z,Munich,Milan Reds,2,1,1.35,5.24,7.66,1.06,3.05,1.13,1.41,2.86,1.74,2.07,Oui,Oui,Oui,Non,Non,Home,73,"[4, 20, 73]",True
+8f0a974aeb8923b2,champions-league,165098,25,2026-09-10T18:16:02Z,Lisboa Green,A. Madrid,1,2,4.43,5.57,1.53,2.42,1.18,1.11,1.15,5.35,1.33,3.25,Oui,Oui,Non,Non,Oui,Away,77,"[34, 77, 77]",True
+9d2fc8c4f5a5ee20,champions-league,165098,28,2026-09-10T18:22:02Z,Liverpool,Paris SG,0,0,1.78,2.89,6.52,1.08,1.97,1.37,3.18,1.34,2.87,1.4,Non,Non,Non,Oui,Non,,,[],True
+80ac7b78bd89ae44,champions-league,165098,28,2026-09-10T18:22:02Z,Brest,Bratislava,4,2,2.6,2.97,2.95,1.36,1.45,1.36,2.35,1.58,1.97,1.81,Oui,Oui,Oui,Non,Non,Away,72,"[4, 7, 40, 50, 57, 72]",True
+b645b3aa52cf59b6,champions-league,165098,28,2026-09-10T18:22:02Z,Leverkusen,Eindhoven,3,0,1.21,5.58,18.07,0.98,4.18,1.11,1.81,1.97,3.04,1.37,Oui,Non,Oui,Non,Non,Home,59,"[5, 52, 59]",True
+3954bc969a693247,champions-league,165098,28,2026-09-10T18:22:02Z,A. Villa,Atalanta,0,1,2.26,3.64,2.93,1.37,1.59,1.25,1.6,2.29,1.54,2.44,Non,Non,Non,Non,Oui,Away,17,[17],True
+1d4afbbf24f9de0a,champions-league,165098,28,2026-09-10T18:22:02Z,Leipzig,Bologna,0,0,1.57,3.08,10.11,1.02,2.32,1.33,3.35,1.31,3.61,1.28,Non,Non,Non,Oui,Non,,,[],True
+fafee4e45b55e5bd,champions-league,165098,28,2026-09-10T18:22:02Z,Milan Reds,Stuttgart,4,1,1.59,4.7,4.6,1.16,2.28,1.16,1.31,3.38,1.44,2.73,Oui,Oui,Oui,Non,Non,Home,84,"[28, 30, 47, 79, 84]",True
+b74aed1aaaaa6012,champions-league,165098,28,2026-09-10T18:22:02Z,Prague,Feyenoord,4,2,1.7,5.77,3.36,1.29,2.09,1.11,1.08,7.27,1.26,3.76,Oui,Oui,Oui,Non,Non,Home,87,"[37, 38, 39, 67, 81, 87]",True
+be7deef6af6e847c,champions-league,165098,28,2026-09-10T18:22:02Z,London Reds,Dortmund,3,1,1.31,5.03,9.99,1.02,3.28,1.14,1.63,2.25,2.12,1.7,Oui,Oui,Oui,Non,Non,Home,86,"[43, 44, 47, 86]",True
+09c8dc8f948d741b,champions-league,165098,28,2026-09-10T18:22:02Z,R. Madrid,Graz,3,3,1.14,9.07,13.33,1.0,5.3,1.03,1.2,4.43,2.12,1.7,Oui,Oui,Non,Oui,Non,Home,72,"[14, 21, 38, 51, 66, 72]",True
+52ca88dc93a44a61,champions-league,165098,28,2026-09-10T18:22:02Z,Zagreb,Monaco,3,1,1.57,4.34,5.22,1.13,2.33,1.18,1.5,2.55,1.62,2.25,Oui,Oui,Oui,Non,Non,Home,88,"[22, 23, 48, 88]",True
+24d73e950e2361ee,champions-league,165098,28,2026-09-10T18:22:02Z,Manchester Blue,Salzburg,3,2,1.31,7.07,6.42,1.09,3.3,1.07,1.14,5.49,1.52,2.48,Oui,Oui,Oui,Non,Non,Home,68,"[43, 44, 54, 58, 68]",True
+15d2537825283288,champions-league,165098,28,2026-09-10T18:22:02Z,Celtic,Donetsk,1,0,1.21,6.14,14.4,0.99,4.22,1.09,1.53,2.47,2.35,1.57,Non,Non,Oui,Non,Non,Home,52,[52],True
+753faa6b86b10fc0,champions-league,165098,28,2026-09-10T18:22:02Z,A. Madrid,Bern,5,0,1.14,7.63,18.46,0.98,5.3,1.06,1.39,2.95,2.44,1.54,Oui,Non,Oui,Non,Non,Home,83,"[12, 27, 67, 69, 83]",True
+533228fbfac0c556,champions-league,165098,28,2026-09-10T18:22:02Z,Milan Blues,Lisboa Red,1,0,1.58,4.11,5.48,1.12,2.31,1.2,1.63,2.24,1.74,2.06,Non,Non,Oui,Non,Non,Home,11,[11],True
+deed48124e35012c,champions-league,165098,28,2026-09-10T18:22:02Z,Barca,Turin,5,0,1.24,6.12,10.93,1.01,3.85,1.09,1.39,2.93,1.95,1.83,Oui,Non,Oui,Non,Non,Home,89,"[26, 28, 32, 48, 89]",True
+53f9142dbb8f1821,champions-league,165098,28,2026-09-10T18:22:02Z,Lisboa Green,Munich,0,2,2.91,4.46,2.03,1.73,1.37,1.17,1.23,4.02,1.3,3.46,Non,Non,Non,Non,Oui,Away,60,"[54, 60]",True
+09aae7c5dd556932,champions-league,165098,28,2026-09-10T18:22:02Z,Belgrade,Bruges,5,0,1.68,5.04,3.75,1.24,2.11,1.14,1.17,4.92,1.3,3.47,Oui,Non,Oui,Non,Non,Home,87,"[12, 15, 56, 78, 87]",True
+547a734b9a456d5e,champions-league,165098,28,2026-09-10T18:22:02Z,Girona,Lille,0,0,2.76,3.4,2.47,1.5,1.41,1.28,1.79,2.0,1.64,2.22,Non,Non,Non,Oui,Non,,,[],True
+d34ad41f6d036438,champions-league,165098,30,2026-09-10T18:26:02Z,London Reds,Eindhoven,2,0,1.17,6.49,19.51,0.97,4.78,1.08,1.61,2.29,2.85,1.41,Non,Non,Oui,Non,Non,Home,68,"[48, 68]",True
+a565966edcab6eaf,champions-league,165098,30,2026-09-10T18:26:02Z,Milan Reds,Bruges,0,0,1.61,4.15,5.05,1.14,2.24,1.2,1.56,2.38,1.66,2.19,Non,Non,Non,Oui,Non,,,[],True
+fd5f5e71b8ff2653,champions-league,165098,30,2026-09-10T18:26:02Z,Girona,Zagreb,5,0,2.24,4.43,2.58,1.46,1.6,1.18,1.22,4.11,1.28,3.56,Oui,Non,Oui,Non,Non,Home,85,"[2, 37, 43, 79, 85]",True
+6e2869a4cba5469f,champions-league,165098,30,2026-09-10T18:26:02Z,Leipzig,Lille,2,2,2.8,3.9,2.24,1.6,1.4,1.22,1.44,2.73,1.43,2.78,Oui,Oui,Non,Oui,Non,Home,90,"[28, 51, 57, 90]",True
+1a4e17caed71e3f4,champions-league,165098,30,2026-09-10T18:26:02Z,Leverkusen,Bologna,0,0,1.27,3.87,59.56,0.94,3.57,1.22,3.65,1.27,13.23,1.02,Non,Non,Non,Oui,Non,,,[],True
+f326b9a6d93e199f,champions-league,165098,30,2026-09-10T18:26:02Z,Barca,Salzburg,0,2,1.24,7.75,8.12,1.05,3.89,1.05,1.22,4.2,1.99,1.79,Non,Non,Non,Non,Oui,Away,47,"[38, 47]",True
+9a4da1eacbe81950,champions-league,165098,30,2026-09-10T18:26:02Z,Manchester Blue,Donetsk,2,1,1.2,6.78,12.34,1.0,4.29,1.08,1.34,3.2,1.98,1.8,Oui,Oui,Oui,Non,Non,Home,58,"[12, 14, 58]",True
+7e364a6e9de6ce98,champions-league,165098,30,2026-09-10T18:26:02Z,Lisboa Green,Turin,3,1,2.69,3.5,2.49,1.49,1.43,1.27,1.7,2.13,1.59,2.33,Oui,Oui,Oui,Non,Non,Home,83,"[23, 34, 75, 83]",True
+57ec81715273746c,champions-league,165098,30,2026-09-10T18:26:02Z,Dortmund,Munich,4,2,1.47,5.07,5.48,1.12,2.58,1.14,1.29,3.48,1.49,2.57,Oui,Oui,Oui,Non,Non,Home,73,"[42, 43, 44, 46, 71, 73]",True
+3b7b606649e22784,champions-league,165098,30,2026-09-10T18:26:02Z,Lisboa Red,Bern,3,1,1.2,7.21,11.34,1.01,4.33,1.07,1.25,3.83,1.83,1.95,Oui,Oui,Oui,Non,Non,Home,61,"[23, 35, 48, 61]",True
+86754a4d66abb7d5,champions-league,165098,30,2026-09-10T18:26:02Z,A. Villa,Monaco,2,0,1.15,7.7,17.45,0.98,5.24,1.06,1.36,3.09,2.33,1.58,Non,Non,Oui,Non,Non,Home,65,"[63, 65]",True
+160227b7f4128f71,champions-league,165098,30,2026-09-10T18:26:02Z,Liverpool,Atalanta,0,3,1.88,3.24,4.57,1.17,1.86,1.31,2.21,1.65,2.03,1.77,Oui,Non,Non,Non,Oui,Away,37,"[22, 31, 37]",True
+7ec85ddfcd397467,champions-league,165098,30,2026-09-10T18:26:02Z,Milan Blues,Feyenoord,0,0,1.25,7.14,8.31,1.04,3.77,1.07,1.18,4.75,1.62,2.27,Non,Non,Non,Oui,Non,,,[],True
+db6bf65150b08569,champions-league,165098,30,2026-09-10T18:26:02Z,Prague,Stuttgart,3,0,1.46,5.92,4.83,1.15,2.61,1.1,1.13,5.67,1.35,3.13,Oui,Non,Oui,Non,Non,Home,60,"[54, 56, 60]",True
+15f3318b36da33fe,champions-league,165098,30,2026-09-10T18:26:02Z,A. Madrid,Bratislava,1,1,1.32,5.32,8.95,1.03,3.27,1.13,1.47,2.62,1.89,1.88,Non,Oui,Non,Oui,Non,Home,81,"[69, 81]",True
+6d42c4924b8be585,champions-league,165098,30,2026-09-10T18:26:02Z,Brest,Paris SG,0,4,10.63,4.44,1.35,3.07,1.02,1.18,1.94,1.84,2.49,1.52,Oui,Non,Non,Non,Oui,Away,87,"[9, 35, 70, 87]",True
+95488f1986d2bcf6,champions-league,165098,30,2026-09-10T18:26:02Z,Celtic,R. Madrid,3,1,1.44,4.76,6.4,1.09,2.68,1.15,1.45,2.7,1.67,2.16,Oui,Oui,Oui,Non,Non,Away,46,"[32, 38, 43, 46]",True
+4f6ff8bb976d0dd7,champions-league,165098,30,2026-09-10T18:26:02Z,Belgrade,Graz,6,0,1.23,7.52,9.02,1.03,4.03,1.06,1.18,4.75,1.68,2.15,Oui,Non,Oui,Non,Non,Home,65,"[14, 30, 31, 51, 58, 65]",True
+f01cf3971a60cb44,champions-league,165098,35,2026-09-10T18:36:02Z,Girona,Brest,2,1,1.65,4.39,4.39,1.18,2.15,1.18,1.39,2.95,1.48,2.59,Oui,Oui,Oui,Non,Non,Home,84,"[27, 42, 84]",True
+4fee95e6a240a655,champions-league,165098,35,2026-09-10T18:36:02Z,Lille,Lisboa Red,1,2,1.77,3.9,4.21,1.19,1.99,1.22,1.59,2.32,1.61,2.28,Oui,Oui,Non,Non,Oui,Away,89,"[5, 74, 89]",True
+0195501242624574,champions-league,165098,35,2026-09-10T18:36:02Z,Graz,Lisboa Green,4,0,5.32,1.82,3.1,1.33,1.13,1.92,11.27,1.03,5.9,1.12,Oui,Non,Oui,Non,Non,Home,83,"[15, 23, 48, 83]",True
+8d980eac2240e380,champions-league,165098,35,2026-09-10T18:36:02Z,Paris SG,Munich,1,1,1.31,5.96,7.63,1.06,3.29,1.1,1.26,3.74,1.6,2.29,Non,Oui,Non,Oui,Non,Home,70,"[7, 70]",True
+71e453eff2557abb,champions-league,165098,35,2026-09-10T18:36:02Z,Zagreb,A. Madrid,1,2,3.32,4.26,1.91,1.83,1.29,1.19,1.33,3.26,1.38,2.99,Oui,Oui,Non,Non,Oui,Away,54,"[13, 26, 54]",True
+c30471b119471158,champions-league,165098,35,2026-09-10T18:36:02Z,Bruges,Dortmund,0,4,3.69,3.86,1.89,1.85,1.24,1.23,1.55,2.4,1.55,2.42,Oui,Non,Non,Non,Oui,Away,86,"[21, 27, 55, 86]",True
+b563cd41935a7a7f,champions-league,165098,35,2026-09-10T18:36:02Z,Stuttgart,Eindhoven,1,1,2.07,4.35,2.88,1.38,1.7,1.18,1.26,3.71,1.32,3.32,Non,Oui,Non,Oui,Non,Home,37,"[32, 37]",True
+6304121af345db63,champions-league,165098,35,2026-09-10T18:36:02Z,Atalanta,London Reds,1,0,4.22,4.02,1.74,2.02,1.19,1.21,1.53,2.47,1.57,2.37,Non,Non,Oui,Non,Non,Home,80,[80],True
+b6ad648e7db0c795,champions-league,165098,35,2026-09-10T18:36:02Z,Bologna,Feyenoord,0,0,2.71,3.49,2.47,1.5,1.42,1.27,1.7,2.12,1.59,2.32,Non,Non,Non,Oui,Non,,,[],True
+e6faeb9596648166,champions-league,165098,35,2026-09-10T18:36:02Z,Donetsk,Milan Blues,1,1,3.76,3.75,1.9,1.84,1.24,1.24,1.62,2.26,1.59,2.31,Non,Oui,Non,Oui,Non,Away,42,"[20, 42]",True
+95e3dbe1d9b15368,champions-league,165098,35,2026-09-10T18:36:02Z,Celtic,Barca,5,1,1.54,5.66,4.3,1.19,2.4,1.11,1.13,5.73,1.31,3.34,Oui,Oui,Oui,Non,Non,Home,84,"[17, 30, 35, 67, 76, 84]",True
+7d8648baea80dda4,champions-league,165098,35,2026-09-10T18:36:02Z,A. Villa,Leverkusen,4,0,1.17,7.15,16.06,0.98,4.86,1.07,1.39,2.92,2.28,1.61,Oui,Non,Oui,Non,Non,Home,61,"[22, 49, 51, 61]",True
+1784001d7691f36c,champions-league,165098,35,2026-09-10T18:36:02Z,R. Madrid,Prague,4,2,1.1,9.21,21.86,0.97,6.36,1.03,1.29,3.52,2.5,1.52,Oui,Oui,Oui,Non,Non,Away,75,"[31, 38, 45, 57, 73, 75]",True
+1be6dd7f7e9d980e,champions-league,165098,35,2026-09-10T18:36:02Z,Belgrade,Milan Reds,2,4,2.23,4.49,2.57,1.46,1.6,1.17,1.21,4.27,1.28,3.61,Oui,Oui,Non,Non,Oui,Home,86,"[5, 17, 37, 54, 75, 86]",True
+863c8abbb37008de,champions-league,165098,35,2026-09-10T18:36:02Z,Monaco,Manchester Blue,3,0,1.37,5.97,6.06,1.1,2.95,1.1,1.19,4.61,1.46,2.68,Oui,Non,Oui,Non,Non,Home,69,"[8, 56, 69]",True
+a340518e51eb5c83,champions-league,165098,35,2026-09-10T18:36:02Z,Liverpool,Leipzig,3,0,1.11,6.97,57.77,0.94,6.1,1.07,1.95,1.82,6.89,1.09,Oui,Non,Oui,Non,Non,Home,82,"[5, 59, 82]",True
+1fc6c2707a71a3e1,champions-league,165098,35,2026-09-10T18:36:02Z,Bratislava,Turin,0,0,2.2,4.0,2.82,1.39,1.62,1.21,1.39,2.93,1.4,2.9,Non,Non,Non,Oui,Non,,,[],True
+f2061fa27ab46937,champions-league,165098,35,2026-09-10T18:36:02Z,Salzburg,Bern,4,1,2.42,3.16,3.03,1.34,1.52,1.32,2.08,1.73,1.82,1.96,Oui,Oui,Oui,Non,Non,Home,88,"[4, 19, 57, 58, 88]",True
+c6030457b859fd75,champions-league,165098,33,2026-09-10T18:32:02Z,Turin,Bern,5,0,1.18,6.32,18.06,0.98,4.6,1.09,1.6,2.29,2.73,1.44,Oui,Non,Oui,Non,Non,Home,62,"[25, 42, 48, 55, 62]",True
+96bc65b343c1072a,champions-league,165098,33,2026-09-10T18:32:02Z,Donetsk,Prague,1,0,1.64,3.75,5.4,1.12,2.17,1.24,1.85,1.93,1.89,1.89,Non,Non,Oui,Non,Non,Home,57,[57],True
+e309934e0e2faedf,champions-league,165098,33,2026-09-10T18:32:02Z,Bratislava,Munich,3,0,2.27,4.86,2.42,1.52,1.59,1.15,1.13,5.68,1.23,4.09,Oui,Non,Oui,Non,Non,Home,87,"[51, 77, 87]",True
+b8e4dab025bbf284,champions-league,165098,33,2026-09-10T18:32:02Z,Stuttgart,Dortmund,0,3,3.08,4.82,1.89,1.85,1.33,1.15,1.16,5.01,1.26,3.75,Oui,Non,Non,Non,Oui,Away,65,"[32, 34, 65]",True
+f0ee59e3206fdaf1,champions-league,165098,33,2026-09-10T18:32:02Z,Paris SG,London Reds,3,2,2.12,4.0,2.96,1.36,1.67,1.21,1.4,2.89,1.41,2.85,Oui,Oui,Oui,Non,Non,Away,61,"[5, 24, 29, 49, 61]",True
+b57ceede435a20fc,champions-league,165098,33,2026-09-10T18:32:02Z,Monaco,Belgrade,0,0,1.15,7.94,15.39,0.99,5.14,1.05,1.28,3.55,2.11,1.71,Non,Non,Non,Oui,Non,,,[],True
+bc9696acb36bf4e9,champions-league,165098,33,2026-09-10T18:32:02Z,Celtic,Manchester Blue,2,1,1.25,6.95,8.6,1.04,3.77,1.07,1.19,4.54,1.62,2.26,Oui,Oui,Oui,Non,Non,Away,63,"[28, 48, 63]",True
+917529333c83e503,champions-league,165098,33,2026-09-10T18:32:02Z,Graz,Barca,1,2,4.18,3.28,1.94,1.8,1.2,1.3,2.1,1.71,1.92,1.85,Oui,Oui,Non,Non,Oui,Home,78,"[52, 55, 78]",True
+43426b98b8006397,champions-league,165098,33,2026-09-10T18:32:02Z,Lille,A. Madrid,4,0,1.88,4.59,3.22,1.31,1.86,1.17,1.22,4.13,1.31,3.39,Oui,Non,Oui,Non,Non,Home,61,"[39, 41, 54, 61]",True
+7dae12a8f5a15d0b,champions-league,165098,33,2026-09-10T18:32:02Z,Atalanta,Leverkusen,2,2,1.52,4.49,5.57,1.11,2.44,1.17,1.47,2.64,1.63,2.25,Oui,Oui,Non,Oui,Non,Home,71,"[6, 45, 46, 71]",True
+cd3bfb1b94806029,champions-league,165098,33,2026-09-10T18:32:02Z,R. Madrid,Milan Reds,3,1,1.61,4.93,4.23,1.19,2.24,1.14,1.22,4.13,1.36,3.09,Oui,Oui,Oui,Non,Non,Home,89,"[30, 46, 66, 89]",True
+67c6c04a3dace2ca,champions-league,165098,33,2026-09-10T18:32:02Z,Bruges,Lisboa Green,1,1,3.79,2.59,2.44,1.51,1.23,1.46,3.38,1.31,2.56,1.49,Non,Oui,Non,Oui,Non,Home,35,"[28, 35]",True
+99f9e11ba1dc6c1b,champions-league,165098,33,2026-09-10T18:32:02Z,Salzburg,Milan Blues,2,0,9.45,4.51,1.37,2.99,1.03,1.17,1.81,1.97,2.25,1.62,Non,Non,Oui,Non,Non,Home,90,"[87, 90]",True
+f26b8c92280e5748,champions-league,165098,33,2026-09-10T18:32:02Z,Zagreb,Brest,3,1,1.43,4.93,6.29,1.09,2.71,1.14,1.39,2.92,1.62,2.25,Oui,Oui,Oui,Non,Non,Home,90,"[33, 66, 90, 90]",True
+a3f2929c7e267ba9,champions-league,165098,33,2026-09-10T18:32:02Z,Bologna,Lisboa Red,1,1,4.55,2.73,2.11,1.68,1.17,1.41,3.12,1.35,2.53,1.5,Non,Oui,Non,Oui,Non,Home,47,"[27, 47]",True
+c04fa59cf89a1813,champions-league,165098,33,2026-09-10T18:32:02Z,Girona,Liverpool,0,3,6.16,3.78,1.58,2.3,1.09,1.23,1.93,1.85,2.02,1.77,Oui,Non,Non,Non,Oui,Away,71,"[28, 56, 71]",True
+bf7af90b37b9c74d,champions-league,165098,33,2026-09-10T18:32:02Z,A. Villa,Leipzig,2,1,1.12,7.13,36.49,0.95,5.86,1.07,1.75,2.04,4.45,1.2,Oui,Oui,Oui,Non,Non,Home,66,"[26, 39, 66]",True
+4d2787598cce9a4d,champions-league,165098,33,2026-09-10T18:32:02Z,Eindhoven,Feyenoord,1,0,1.93,5.75,2.72,1.42,1.81,1.11,1.06,8.31,1.23,4.05,Non,Non,Oui,Non,Non,Home,75,[75],True
+7346404a25a8ae05,champions-league,165098,42,2026-09-10T18:50:02Z,Turin,Girona,5,0,1.3,4.23,17.85,0.98,3.35,1.19,2.49,1.52,3.96,1.24,Oui,Non,Oui,Non,Non,Home,83,"[32, 33, 55, 75, 83]",True
+1aad0947f6e80c80,champions-league,165098,42,2026-09-10T18:50:02Z,Dortmund,Milan Reds,1,1,1.45,4.79,6.19,1.09,2.65,1.15,1.42,2.8,1.64,2.22,Non,Oui,Non,Oui,Non,Away,84,"[81, 84]",True
+3f29d3b3f3a81f5a,champions-league,165098,42,2026-09-10T18:50:02Z,Bruges,Atalanta,0,4,10.44,5.67,1.27,3.61,1.02,1.11,1.47,2.65,1.99,1.79,Oui,Non,Non,Non,Oui,Away,65,"[28, 37, 40, 65]",True
+b590bf2f41fef5cd,champions-league,165098,42,2026-09-10T18:50:02Z,Munich,Leipzig,4,1,1.08,9.49,39.29,0.95,7.5,1.03,1.45,2.72,3.81,1.25,Oui,Oui,Oui,Non,Non,Home,90,"[34, 40, 63, 75, 90]",True
+b221cbcd6a159387,champions-league,165098,42,2026-09-10T18:50:02Z,Lisboa Green,Prague,1,0,1.39,4.67,8.06,1.05,2.9,1.16,1.63,2.25,1.96,1.82,Non,Non,Oui,Non,Non,Home,16,[16],True
+74b27029a415fd35,champions-league,165098,42,2026-09-10T18:50:02Z,Stuttgart,A. Villa,1,3,3.37,4.35,1.87,1.86,1.29,1.18,1.3,3.42,1.37,3.05,Oui,Oui,Non,Non,Oui,Away,54,"[7, 28, 51, 54]",True
+702f2819018f4921,champions-league,165098,42,2026-09-10T18:50:02Z,Lille,Donetsk,2,1,1.2,6.28,15.23,0.99,4.36,1.09,1.52,2.48,2.4,1.55,Oui,Oui,Oui,Non,Non,Home,88,"[61, 70, 88]",True
+2d925d1c08a51022,champions-league,165098,42,2026-09-10T18:50:02Z,Bern,Manchester Blue,2,1,4.67,5.0,1.55,2.37,1.16,1.14,1.25,3.87,1.41,2.87,Oui,Oui,Oui,Non,Non,Home,51,"[21, 38, 51]",True
+81d02a450e453a5b,champions-league,165098,42,2026-09-10T18:50:02Z,Salzburg,Zagreb,0,2,6.84,6.03,1.34,3.15,1.07,1.1,1.21,4.28,1.51,2.51,Non,Non,Non,Non,Oui,Away,29,"[23, 29]",True
+17da4c54e94b1142,champions-league,165098,42,2026-09-10T18:50:02Z,Milan Blues,Barca,1,0,1.4,6.13,5.44,1.12,2.83,1.09,1.14,5.43,1.39,2.92,Non,Non,Oui,Non,Non,Home,25,[25],True
+ad9f1c7c05c84788,champions-league,165098,42,2026-09-10T18:50:02Z,London Reds,Leverkusen,1,0,1.13,7.39,24.19,0.96,5.55,1.06,1.53,2.45,3.06,1.36,Non,Non,Oui,Non,Non,Home,35,[35],True
+da592a00ba1b1cd5,champions-league,165098,42,2026-09-10T18:50:02Z,A. Madrid,Monaco,3,1,1.38,5.34,6.84,1.07,2.94,1.12,1.33,3.24,1.61,2.27,Oui,Oui,Oui,Non,Non,Away,66,"[17, 61, 62, 66]",True
+38ab8a306c665d60,champions-league,165098,42,2026-09-10T18:50:02Z,Lisboa Red,Brest,4,1,1.5,5.6,4.65,1.16,2.49,1.11,1.15,5.27,1.34,3.19,Oui,Oui,Oui,Non,Non,Home,67,"[20, 31, 31, 53, 67]",True
+3097d3bc1e34cf7b,champions-league,165098,42,2026-09-10T18:50:02Z,Bratislava,Celtic,3,2,1.33,6.19,6.73,1.08,3.16,1.09,1.19,4.5,1.5,2.53,Oui,Oui,Oui,Non,Non,Away,83,"[20, 33, 66, 75, 83]",True
+526ed8ba2c34ca9d,champions-league,165098,42,2026-09-10T18:50:02Z,Bologna,R. Madrid,1,0,3.19,2.69,2.68,1.43,1.32,1.43,2.99,1.38,2.32,1.59,Non,Non,Oui,Non,Non,Home,27,[27],True
+8eddf9cc1df2c303,champions-league,165098,42,2026-09-10T18:50:02Z,Feyenoord,Liverpool,0,4,5.99,4.18,1.53,2.42,1.1,1.2,1.65,2.21,1.8,1.99,Oui,Non,Non,Non,Oui,Away,63,"[43, 45, 61, 63]",True
+f74b304f7b987a39,champions-league,165098,42,2026-09-10T18:50:02Z,Paris SG,Graz,4,0,1.07,11.23,29.12,0.96,7.96,1.01,1.24,3.9,3.12,1.35,Oui,Non,Oui,Non,Non,Home,80,"[16, 33, 35, 80]",True
+9f0d189ec30b0328,champions-league,165098,42,2026-09-10T18:50:02Z,Eindhoven,Belgrade,2,0,1.24,7.27,8.45,1.04,3.84,1.06,1.17,4.9,1.61,2.27,Non,Non,Oui,Non,Non,Home,77,"[70, 77]",True
+45846c2854535156,champions-league,165098,43,2026-09-10T18:52:02Z,Prague,Milan Blues,1,1,1.76,4.31,3.87,1.22,2.0,1.19,1.36,3.07,1.43,2.76,Non,Oui,Non,Oui,Non,Home,45,"[3, 45]",True
+33e9cfcfa7d3ee56,champions-league,165098,43,2026-09-10T18:52:02Z,Brest,Munich,1,3,4.94,3.98,1.65,2.16,1.14,1.21,1.63,2.24,1.69,2.13,Oui,Oui,Non,Non,Oui,Away,50,"[27, 32, 38, 50]",True
+d4eeec29628f1f3a,champions-league,165098,43,2026-09-10T18:52:02Z,Atalanta,Donetsk,1,0,1.45,4.17,7.73,1.05,2.66,1.2,1.84,1.93,2.11,1.7,Non,Non,Oui,Non,Non,Home,28,[28],True
+6c982db038f6b49f,champions-league,165098,43,2026-09-10T18:52:02Z,Liverpool,Turin,1,0,1.35,3.91,16.26,0.98,3.1,1.22,2.69,1.45,3.99,1.24,Non,Non,Oui,Non,Non,Home,46,[46],True
+5deea682cffcf6a0,champions-league,165098,43,2026-09-10T18:52:02Z,Barca,Dortmund,2,1,1.35,6.29,6.34,1.09,3.1,1.09,1.17,4.94,1.46,2.66,Oui,Oui,Oui,Non,Non,Away,43,"[38, 42, 43]",True
+f64f23c8a3945a98,champions-league,165098,43,2026-09-10T18:52:02Z,R. Madrid,Paris SG,1,5,2.59,4.07,2.33,1.55,1.46,1.21,1.36,3.1,1.37,3.02,Oui,Oui,Non,Non,Oui,Away,87,"[26, 28, 36, 54, 76, 87]",True
+efbad0308858b71e,champions-league,165098,43,2026-09-10T18:52:02Z,Leipzig,Feyenoord,2,2,2.53,4.92,2.17,1.64,1.48,1.15,1.12,5.91,1.22,4.15,Oui,Oui,Non,Oui,Non,Home,72,"[21, 51, 60, 72]",True
+62f1b10ba13cead9,champions-league,165098,43,2026-09-10T18:52:02Z,Celtic,Bologna,2,0,1.21,4.94,31.97,0.95,4.2,1.14,2.42,1.55,5.6,1.13,Non,Non,Oui,Non,Non,Home,62,"[13, 62]",True
+c165b46e6ff21da5,champions-league,165098,43,2026-09-10T18:52:02Z,Milan Reds,Bern,3,0,1.17,6.95,16.85,0.98,4.83,1.07,1.45,2.7,2.42,1.55,Oui,Non,Oui,Non,Non,Home,83,"[77, 78, 83]",True
+f9e19fe41fc05ee3,champions-league,165098,43,2026-09-10T18:52:02Z,Graz,Lille,2,0,4.2,2.11,2.86,1.38,1.19,1.67,6.2,1.11,3.85,1.25,Non,Non,Oui,Non,Non,Home,64,"[49, 64]",True
+c9d0a33091c5b1b7,champions-league,165098,43,2026-09-10T18:52:02Z,Leverkusen,Lisboa Red,0,0,1.53,3.36,9.03,1.03,2.4,1.29,2.74,1.44,2.98,1.38,Non,Non,Non,Oui,Non,,,[],True
+3e88bb961a2c79a5,champions-league,165098,43,2026-09-10T18:52:02Z,Girona,Stuttgart,2,1,2.07,4.06,3.02,1.35,1.7,1.21,1.38,2.99,1.4,2.91,Oui,Oui,Oui,Non,Non,Home,90,"[14, 31, 90]",True
+9bd2f4febcfb9fb0,champions-league,165098,43,2026-09-10T18:52:02Z,Monaco,Lisboa Green,1,2,1.91,3.26,4.37,1.18,1.83,1.3,2.15,1.68,1.97,1.81,Oui,Oui,Non,Non,Oui,Home,51,"[5, 35, 51]",True
+ba27c70b2ff413c2,champions-league,165098,43,2026-09-10T18:52:02Z,A. Villa,Salzburg,2,0,1.12,9.12,16.98,0.98,5.82,1.03,1.23,4.06,2.19,1.66,Non,Non,Oui,Non,Non,Home,40,"[18, 40]",True
+ae8379ee7a284702,champions-league,165098,43,2026-09-10T18:52:02Z,A. Madrid,London Reds,1,3,3.79,4.07,1.82,1.92,1.23,1.21,1.45,2.69,1.49,2.58,Oui,Oui,Non,Non,Oui,Away,88,"[8, 10, 56, 88]",True
+1079673f86342dec,champions-league,165098,43,2026-09-10T18:52:02Z,Belgrade,Bratislava,2,2,1.43,5.51,5.54,1.12,2.71,1.12,1.22,4.22,1.44,2.74,Oui,Oui,Non,Oui,Non,Home,49,"[40, 44, 44, 49]",True
+57954ef825e08aa1,champions-league,165098,43,2026-09-10T18:52:02Z,Zagreb,Bruges,0,3,1.75,3.78,4.46,1.17,2.01,1.23,1.69,2.13,1.7,2.13,Oui,Non,Non,Non,Oui,Away,45,"[31, 38, 45]",True
+761af6dd0362041d,champions-league,165098,43,2026-09-10T18:52:02Z,Manchester Blue,Eindhoven,3,1,1.41,5.6,5.77,1.11,2.79,1.11,1.22,4.21,1.45,2.69,Oui,Oui,Oui,Non,Non,Home,76,"[11, 59, 65, 76]",True
+601b12348c474fbf,champions-league,165098,45,2026-09-10T18:56:02Z,Brest,Turin,0,1,4.34,2.84,2.1,1.68,1.18,1.39,2.84,1.41,2.35,1.57,Non,Non,Non,Non,Oui,Away,1,[1],True
+1b52ecba2c97e2bc,champions-league,165098,45,2026-09-10T18:56:02Z,Monaco,Milan Blues,1,0,1.76,3.75,4.44,1.18,2.0,1.24,1.72,2.09,1.72,2.1,Non,Non,Oui,Non,Non,Home,6,[6],True
+614c5606ba6e6ade,champions-league,165098,45,2026-09-10T18:56:02Z,Girona,Bruges,2,2,2.18,3.57,3.12,1.33,1.63,1.26,1.67,2.17,1.59,2.33,Oui,Oui,Non,Oui,Non,Away,53,"[5, 48, 48, 53]",True
+7a345b545083bde7,champions-league,165098,45,2026-09-10T18:56:02Z,Celtic,Lille,2,0,1.53,4.32,5.66,1.11,2.4,1.18,1.55,2.41,1.7,2.12,Non,Non,Oui,Non,Non,Home,70,"[51, 70]",True
+383b7e3508c052c0,champions-league,165098,45,2026-09-10T18:56:02Z,Liverpool,Salzburg,2,0,1.07,10.65,32.1,0.95,7.85,1.02,1.3,3.47,3.07,1.36,Non,Non,Oui,Non,Non,Home,90,"[88, 90]",True
+e3c0632da71d1d54,champions-league,165098,45,2026-09-10T18:56:02Z,Manchester Blue,Bologna,2,1,1.16,6.14,29.32,0.96,4.98,1.09,1.9,1.88,4.19,1.22,Oui,Oui,Oui,Non,Non,Home,86,"[34, 66, 86]",True
+7e270ccb92f2328f,champions-league,165098,45,2026-09-10T18:56:02Z,Lisboa Green,Dortmund,3,1,3.38,4.79,1.8,1.94,1.28,1.15,1.19,4.59,1.29,3.51,Oui,Oui,Oui,Non,Non,Home,83,"[6, 35, 58, 83]",True
+73501a2f4c0e1dbb,champions-league,165098,45,2026-09-10T18:56:02Z,Milan Reds,Bratislava,0,0,1.38,4.75,7.97,1.05,2.92,1.16,1.59,2.33,1.92,1.86,Non,Non,Non,Oui,Non,,,[],True
+2bf11d259a7d1a94,champions-league,165098,45,2026-09-10T18:56:02Z,A. Villa,Donetsk,2,1,1.15,6.8,23.31,0.96,5.17,1.08,1.62,2.25,3.15,1.35,Oui,Oui,Oui,Non,Non,Home,80,"[36, 78, 80]",True
+e6e4d0b6c232eeac,champions-league,165098,45,2026-09-10T18:56:02Z,Belgrade,Paris SG,1,3,4.17,4.78,1.64,2.19,1.2,1.15,1.25,3.84,1.37,3.01,Oui,Oui,Non,Non,Oui,Away,83,"[26, 34, 41, 83]",True
+18c11d787792961b,champions-league,165098,45,2026-09-10T18:56:02Z,Leverkusen,Feyenoord,4,1,1.16,7.27,16.62,0.98,4.96,1.06,1.39,2.93,2.31,1.59,Oui,Oui,Oui,Non,Non,Away,85,"[10, 23, 48, 58, 85]",True
+3017dfa8c1916e95,champions-league,165098,45,2026-09-10T18:56:02Z,London Reds,Lisboa Red,2,1,1.46,3.71,9.34,1.03,2.61,1.24,2.37,1.57,2.73,1.44,Oui,Oui,Oui,Non,Non,Home,75,"[30, 32, 75]",True
+cfd21afcb93dfa87,champions-league,165098,45,2026-09-10T18:56:02Z,Zagreb,Graz,1,0,1.24,5.84,12.01,1.0,3.86,1.1,1.5,2.54,2.14,1.69,Non,Non,Oui,Non,Non,Home,27,[27],True
+60df74f59c7d97d4,champions-league,165098,45,2026-09-10T18:56:02Z,R. Madrid,Atalanta,4,0,3.26,4.95,1.81,1.93,1.3,1.14,1.15,5.21,1.26,3.72,Oui,Non,Oui,Non,Non,Home,53,"[11, 32, 48, 53]",True
+a0dcf5765573e58c,champions-league,165098,45,2026-09-10T18:56:02Z,Prague,Bern,4,0,1.13,9.16,16.11,0.98,5.73,1.03,1.21,4.29,2.1,1.71,Oui,Non,Oui,Non,Non,Home,90,"[15, 16, 38, 90]",True
+b274f0083abecb18,champions-league,165098,45,2026-09-10T18:56:02Z,Barca,Eindhoven,2,1,1.17,8.2,12.04,1.0,4.79,1.05,1.2,4.41,1.87,1.9,Oui,Oui,Oui,Non,Non,Away,34,"[11, 18, 34]",True
+28f989d3e9da0c14,champions-league,165098,45,2026-09-10T18:56:02Z,A. Madrid,Munich,1,1,1.83,4.25,3.6,1.26,1.91,1.19,1.36,3.08,1.42,2.83,Non,Oui,Non,Oui,Non,Home,45,"[44, 45]",True
+4f58cafbf249150f,champions-league,165098,45,2026-09-10T18:56:02Z,Leipzig,Stuttgart,2,2,2.17,4.53,2.64,1.44,1.64,1.17,1.2,4.39,1.27,3.66,Oui,Oui,Non,Oui,Non,Home,73,"[32, 59, 71, 73]",True
+9a080dedd275fa70,champions-league,165098,48,2026-09-10T19:02:02Z,Graz,Liverpool,0,0,8.44,2.22,2.04,1.72,1.04,1.61,6.69,1.1,5.16,1.15,Non,Non,Non,Oui,Non,,,[],True
+9c4062fc4851e89b,champions-league,165098,48,2026-09-10T19:02:02Z,Salzburg,Leverkusen,2,0,5.67,4.26,1.54,2.39,1.11,1.19,1.58,2.35,1.71,2.1,Non,Non,Oui,Non,Non,Home,86,"[50, 86]",True
+f4f227b2945d349f,champions-league,165098,48,2026-09-10T19:02:02Z,Donetsk,Leipzig,3,0,1.74,3.51,5.02,1.14,2.03,1.27,1.99,1.8,1.94,1.84,Oui,Non,Oui,Non,Non,Home,71,"[38, 65, 71]",True
+dcb0f3f644cca32f,champions-league,165098,48,2026-09-10T19:02:02Z,Bratislava,Lisboa Green,0,1,2.6,3.78,2.43,1.51,1.45,1.23,1.5,2.55,1.46,2.67,Non,Non,Non,Non,Oui,Away,42,[42],True
+7d24256b09fe7791,champions-league,165098,48,2026-09-10T19:02:02Z,Paris SG,Barca,5,1,1.39,6.42,5.42,1.12,2.88,1.09,1.13,5.67,1.41,2.84,Oui,Oui,Oui,Non,Non,Home,67,"[31, 44, 44, 52, 55, 67]",True
+484156bca9534041,champions-league,165098,48,2026-09-10T19:02:02Z,Zagreb,Belgrade,2,0,1.29,5.38,10.11,1.02,3.45,1.12,1.52,2.48,2.03,1.76,Non,Non,Oui,Non,Non,Home,79,"[70, 79]",True
+475eb718477d5b2e,champions-league,165098,48,2026-09-10T19:02:02Z,A. Villa,Celtic,2,0,1.08,9.71,32.51,0.95,7.34,1.03,1.37,3.04,3.21,1.34,Non,Non,Oui,Non,Non,Home,44,"[38, 44]",True
+a81ffb940f62707f,champions-league,165098,48,2026-09-10T19:02:02Z,Munich,Monaco,4,1,1.13,8.88,16.31,0.98,5.65,1.04,1.23,4.05,2.12,1.7,Oui,Oui,Oui,Non,Non,Home,90,"[13, 36, 41, 79, 90]",True
+86846f7282aefccc,champions-league,165098,48,2026-09-10T19:02:02Z,Turin,London Reds,2,4,4.28,3.71,1.8,1.95,1.19,1.24,1.72,2.09,1.7,2.12,Oui,Oui,Non,Non,Oui,Home,85,"[30, 36, 41, 70, 82, 85]",True
+865422d6d3d5d76c,champions-league,165098,48,2026-09-10T19:02:02Z,Atalanta,Manchester Blue,2,1,1.54,4.97,4.78,1.15,2.39,1.14,1.26,3.75,1.42,2.81,Oui,Oui,Oui,Non,Non,Home,71,"[60, 64, 71]",True
+b4615668d873d6fd,champions-league,165098,48,2026-09-10T19:02:02Z,Bern,Dortmund,0,4,9.47,6.7,1.24,3.85,1.03,1.08,1.25,3.89,1.71,2.11,Oui,Non,Non,Non,Oui,Away,89,"[29, 33, 53, 89]",True
+644373ed2164fcec,champions-league,165098,48,2026-09-10T19:02:02Z,Stuttgart,A. Madrid,0,3,3.93,5.42,1.61,2.24,1.22,1.12,1.13,5.71,1.29,3.52,Oui,Non,Non,Non,Oui,Away,34,"[14, 23, 34]",True
+32a28045f017ff2b,champions-league,165098,48,2026-09-10T19:02:02Z,R. Madrid,Girona,4,0,1.11,8.59,24.26,0.96,6.23,1.04,1.38,3.0,2.76,1.43,Oui,Non,Oui,Non,Non,Home,84,"[27, 44, 47, 84]",True
+a90f3cebc9425a25,champions-league,165098,48,2026-09-10T19:02:02Z,Lille,Milan Reds,1,1,1.51,4.49,5.69,1.11,2.46,1.17,1.49,2.58,1.65,2.2,Non,Oui,Non,Oui,Non,Away,66,"[26, 66]",True
+0e503721747a59e6,champions-league,165098,48,2026-09-10T19:02:02Z,Bologna,Prague,1,0,1.87,2.53,7.73,1.05,1.87,1.48,4.59,1.19,3.91,1.24,Non,Non,Oui,Non,Non,Home,29,[29],True
+72c637aaabc55488,champions-league,165098,48,2026-09-10T19:02:02Z,Bruges,Brest,1,1,1.86,3.81,3.85,1.23,1.88,1.23,1.6,2.3,1.59,2.32,Non,Oui,Non,Oui,Non,Away,41,"[30, 41]",True
+9f3ad9f6aabd192c,champions-league,165098,48,2026-09-10T19:02:02Z,Feyenoord,Lisboa Red,0,3,3.65,3.92,1.88,1.85,1.25,1.22,1.51,2.52,1.52,2.5,Oui,Non,Non,Non,Oui,Away,80,"[65, 70, 80]",True
+c25ba16c30536ba4,champions-league,165098,48,2026-09-10T19:02:02Z,Eindhoven,Milan Blues,3,1,2.04,4.26,2.98,1.35,1.72,1.19,1.3,3.46,1.34,3.17,Oui,Oui,Oui,Non,Non,Home,79,"[25, 58, 61, 79]",True
+d01edd172b27bffb,champions-league,165098,50,2026-09-10T19:06:02Z,Paris SG,Lisboa Green,5,1,1.46,4.09,7.72,1.05,2.62,1.2,1.89,1.88,2.15,1.68,Oui,Oui,Oui,Non,Non,Home,90,"[3, 8, 38, 59, 65, 90]",True
+acfcde9a352e00b5,champions-league,165098,50,2026-09-10T19:06:02Z,Salzburg,London Reds,0,3,28.6,10.64,1.07,7.61,0.96,1.02,1.27,3.69,2.85,1.41,Oui,Non,Non,Non,Oui,Away,76,"[47, 54, 76]",True
+4b746dd43cae97cd,champions-league,165098,50,2026-09-10T19:06:02Z,Girona,Belgrade,1,2,1.44,4.65,6.66,1.08,2.69,1.16,1.52,2.49,1.75,2.04,Oui,Oui,Non,Non,Oui,Home,90,"[24, 34, 90]",True
+1ffb622f6114a427,champions-league,165098,50,2026-09-10T19:06:02Z,Stuttgart,Lisboa Red,3,1,3.45,4.17,1.88,1.85,1.27,1.2,1.37,3.02,1.41,2.84,Oui,Oui,Oui,Non,Non,Home,77,"[40, 55, 57, 77]",True
+58f906db66fbfc56,champions-league,165098,50,2026-09-10T19:06:02Z,Turin,Munich,1,1,2.0,3.76,3.4,1.28,1.75,1.24,1.57,2.36,1.54,2.43,Non,Oui,Non,Oui,Non,Away,81,"[4, 81]",True
+f313efcda272dfc5,champions-league,165098,50,2026-09-10T19:06:02Z,Eindhoven,Bern,0,2,1.18,8.04,11.27,1.01,4.61,1.05,1.2,4.43,1.84,1.93,Non,Non,Non,Non,Oui,Away,10,"[3, 10]",True
+40c250a4a1e5497e,champions-league,165098,50,2026-09-10T19:06:02Z,R. Madrid,Leipzig,4,0,1.13,8.34,19.18,0.97,5.71,1.04,1.32,3.31,2.37,1.57,Oui,Non,Oui,Non,Non,Home,68,"[10, 28, 32, 68]",True
+7b92a79cc3a06968,champions-league,165098,50,2026-09-10T19:06:02Z,Bruges,A. Madrid,0,3,5.2,4.55,1.54,2.38,1.13,1.17,1.41,2.85,1.56,2.4,Oui,Non,Non,Non,Oui,Away,79,"[43, 44, 79]",True
+ac6727197f82d600,champions-league,165098,50,2026-09-10T19:06:02Z,A. Villa,Manchester Blue,4,0,1.15,8.26,14.71,0.99,5.19,1.05,1.24,3.9,2.04,1.76,Oui,Non,Oui,Non,Non,Home,85,"[31, 73, 76, 85]",True
+8723eeaf9e2f3dcc,champions-league,165098,50,2026-09-10T19:06:02Z,Feyenoord,Monaco,5,1,1.78,4.42,3.67,1.25,1.97,1.18,1.31,3.4,1.38,2.97,Oui,Oui,Oui,Non,Non,Home,88,"[13, 27, 34, 66, 79, 88]",True
+4641b0fab8fd8d05,champions-league,165098,50,2026-09-10T19:06:02Z,Lille,Prague,2,1,1.1,8.51,29.43,0.96,6.48,1.04,1.46,2.68,3.24,1.33,Oui,Oui,Oui,Non,Non,Home,81,"[66, 72, 81]",True
+922878183af4f756,champions-league,165098,50,2026-09-10T19:06:02Z,Bologna,Milan Blues,0,0,3.63,2.39,2.73,1.41,1.25,1.53,4.16,1.22,2.91,1.4,Non,Non,Non,Oui,Non,,,[],True
+06dcfe7673e00693,champions-league,165098,50,2026-09-10T19:06:02Z,Zagreb,Milan Reds,1,0,2.28,3.36,3.09,1.33,1.58,1.29,1.85,1.93,1.69,2.13,Non,Non,Oui,Non,Non,Home,30,[30],True
+49c6a49c30d395e8,champions-league,165098,50,2026-09-10T19:06:02Z,Bratislava,Dortmund,2,1,2.61,5.0,2.1,1.68,1.45,1.14,1.12,6.11,1.22,4.14,Oui,Oui,Oui,Non,Non,Home,34,"[29, 33, 34]",True
+e7e53fca4552c2a8,champions-league,165098,50,2026-09-10T19:06:02Z,Celtic,Liverpool,1,3,2.47,3.21,2.91,1.37,1.5,1.31,2.0,1.79,1.77,2.02,Oui,Oui,Non,Non,Oui,Away,63,"[37, 41, 59, 63]",True
+f0853bc7728b3e77,champions-league,165098,50,2026-09-10T19:06:02Z,Graz,Brest,3,1,2.42,2.51,4.03,1.21,1.52,1.49,3.73,1.26,2.76,1.43,Oui,Oui,Oui,Non,Non,Away,73,"[42, 43, 43, 73]",True
+3fd5141c78491761,champions-league,165098,50,2026-09-10T19:06:02Z,Donetsk,Leverkusen,1,1,2.71,4.08,2.24,1.6,1.42,1.2,1.35,3.13,1.37,3.04,Non,Oui,Non,Oui,Non,Home,88,"[88, 88]",True
+3a9f554117293844,champions-league,165098,50,2026-09-10T19:06:02Z,Atalanta,Barca,3,2,2.03,4.76,2.79,1.4,1.73,1.15,1.16,5.11,1.25,3.88,Oui,Oui,Oui,Non,Non,Home,87,"[29, 38, 45, 85, 87]",True
+42ca162efe23e976,champions-league,165098,53,2026-09-10T19:12:02Z,London Reds,Graz,3,0,1.04,12.59,67.8,0.94,10.42,1.0,1.36,3.1,5.02,1.16,Oui,Non,Oui,Non,Non,Home,79,"[11, 17, 79]",True
+7c8bc2f99e491848,champions-league,165098,53,2026-09-10T19:12:02Z,Leipzig,Manchester Blue,0,1,2.05,4.72,2.78,1.4,1.72,1.16,1.16,4.99,1.25,3.86,Non,Non,Non,Non,Oui,Away,4,[4],True
+a07918abfb7d41c7,champions-league,165098,53,2026-09-10T19:12:02Z,Turin,Stuttgart,2,1,1.57,4.4,5.09,1.14,2.32,1.18,1.45,2.69,1.58,2.34,Oui,Oui,Oui,Non,Non,Away,87,"[58, 66, 87]",True
+b12e3b5d8f3ab554,champions-league,165098,53,2026-09-10T19:12:02Z,Brest,Belgrade,3,0,1.92,3.38,4.1,1.2,1.82,1.28,1.98,1.8,1.84,1.93,Oui,Non,Oui,Non,Non,Home,89,"[70, 77, 89]",True
+d4cb85e0bd6c3707,champions-league,165098,53,2026-09-10T19:12:02Z,Prague,A. Villa,3,0,2.15,4.4,2.72,1.42,1.65,1.18,1.24,3.94,1.3,3.46,Oui,Non,Oui,Non,Non,Home,49,"[3, 41, 49]",True
+7ebdbf913eff3b93,champions-league,165098,53,2026-09-10T19:12:02Z,Leverkusen,Celtic,5,0,1.08,8.85,46.14,0.95,7.29,1.04,1.57,2.37,4.57,1.19,Oui,Non,Oui,Non,Non,Home,79,"[27, 35, 52, 63, 79]",True
+2f17babfff953c3a,champions-league,165098,53,2026-09-10T19:12:02Z,Lisboa Green,Zagreb,3,1,2.3,5.04,2.34,1.55,1.57,1.14,1.11,6.44,1.21,4.25,Oui,Oui,Oui,Non,Non,Home,55,"[27, 39, 41, 55]",True
+9f8e0bab783c5e36,champions-league,165098,53,2026-09-10T19:12:02Z,Lisboa Red,Donetsk,4,0,1.49,4.67,5.69,1.11,2.52,1.16,1.42,2.8,1.6,2.29,Oui,Non,Oui,Non,Non,Home,86,"[1, 53, 65, 86]",True
+70900985b208765d,champions-league,165098,53,2026-09-10T19:12:02Z,A. Madrid,R. Madrid,2,1,1.73,4.02,4.31,1.19,2.04,1.21,1.54,2.44,1.58,2.34,Oui,Oui,Oui,Non,Non,Home,42,"[18, 25, 42]",True
+afb8c8e8bdcdeb0e,champions-league,165098,53,2026-09-10T19:12:02Z,Eindhoven,Bologna,1,0,1.24,5.23,16.0,0.98,3.87,1.13,1.86,1.91,2.93,1.39,Non,Non,Oui,Non,Non,Home,5,[5],True
+f280bd4b77bc5d81,champions-league,165098,53,2026-09-10T19:12:02Z,Milan Reds,Liverpool,3,1,3.86,3.18,2.05,1.71,1.23,1.32,2.15,1.68,1.92,1.85,Oui,Oui,Oui,Non,Non,Home,59,"[11, 24, 54, 59]",True
+56d5340b380a8165,champions-league,165098,53,2026-09-10T19:12:02Z,Dortmund,Lille,3,0,1.43,4.79,6.61,1.08,2.72,1.15,1.46,2.66,1.7,2.11,Oui,Non,Oui,Non,Non,Home,81,"[64, 66, 81]",True
+3513df282ef3aaf4,champions-league,165098,53,2026-09-10T19:12:02Z,Bern,Paris SG,0,3,21.15,8.03,1.13,5.71,0.97,1.05,1.39,2.94,2.6,1.48,Oui,Non,Non,Non,Oui,Away,83,"[30, 83, 83]",True
+26643d3fea8f916f,champions-league,165098,53,2026-09-10T19:12:02Z,Munich,Bruges,1,0,1.18,7.28,13.4,1.0,4.63,1.06,1.3,3.41,2.01,1.78,Non,Non,Oui,Non,Non,Home,51,[51],True
+9a9eea4f19c6ba14,champions-league,165098,53,2026-09-10T19:12:02Z,Feyenoord,Salzburg,3,1,1.75,4.97,3.46,1.27,2.0,1.14,1.16,4.99,1.28,3.57,Oui,Oui,Oui,Non,Non,Away,89,"[4, 50, 51, 89]",True
+66e5890450d170fb,champions-league,165098,53,2026-09-10T19:12:02Z,Milan Blues,Atalanta,1,0,2.55,3.95,2.41,1.52,1.47,1.22,1.4,2.88,1.4,2.89,Non,Non,Oui,Non,Non,Home,63,[63],True
+e12d8856366bf3c2,champions-league,165098,53,2026-09-10T19:12:02Z,Barca,Girona,0,0,1.04,12.67,54.13,0.94,10.07,1.0,1.3,3.43,4.28,1.21,Non,Non,Non,Oui,Non,,,[],True
+7d5e66fec698eb27,champions-league,165098,53,2026-09-10T19:12:02Z,Monaco,Bratislava,2,2,1.28,5.77,9.74,1.03,3.55,1.11,1.41,2.86,1.88,1.89,Oui,Oui,Non,Oui,Non,Away,61,"[39, 52, 60, 61]",True
+6e62b4f4169bf9b9,champions-league,165098,55,2026-09-10T19:16:02Z,Bratislava,Paris SG,4,1,4.69,4.87,1.56,2.34,1.16,1.15,1.27,3.63,1.42,2.8,Oui,Oui,Oui,Non,Non,Away,85,"[21, 33, 51, 54, 85]",True
+e29e9d7708ddde64,champions-league,165098,55,2026-09-10T19:16:02Z,Bern,Atalanta,0,2,23.57,10.77,1.08,7.25,0.96,1.01,1.23,4.1,2.72,1.45,Non,Non,Non,Non,Oui,Away,43,"[12, 43]",True
+a2d875fb1be68a3b,champions-league,165098,55,2026-09-10T19:16:02Z,Monaco,Bologna,1,1,1.28,4.28,23.31,0.96,3.55,1.19,2.66,1.46,4.94,1.17,Non,Oui,Non,Oui,Non,Home,85,"[85, 85]",True
+138ef86e49f4ddf6,champions-league,165098,55,2026-09-10T19:16:02Z,Stuttgart,Salzburg,3,2,1.69,5.24,3.58,1.26,2.09,1.13,1.13,5.72,1.27,3.69,Oui,Oui,Oui,Non,Non,Home,88,"[16, 30, 47, 71, 88]",True
+f0697757505b3016,champions-league,165098,55,2026-09-10T19:16:02Z,Eindhoven,Lille,2,4,2.04,4.49,2.89,1.37,1.73,1.17,1.23,4.1,1.29,3.48,Oui,Oui,Non,Non,Oui,Away,80,"[42, 43, 43, 63, 75, 80]",True
+93161a28e8ae8333,champions-league,165098,55,2026-09-10T19:16:02Z,Milan Blues,A. Villa,1,2,1.53,4.42,5.51,1.12,2.41,1.18,1.49,2.56,1.64,2.22,Oui,Oui,Non,Non,Oui,Away,50,"[28, 42, 50]",True
+c4767f73e554de25,champions-league,165098,55,2026-09-10T19:16:02Z,Brest,Milan Reds,2,1,4.89,3.48,1.76,2.0,1.15,1.27,2.0,1.79,1.93,1.84,Oui,Oui,Oui,Non,Non,Away,70,"[12, 55, 70]",True
+3374ca5625e4113c,champions-league,165098,55,2026-09-10T19:16:02Z,Dortmund,Zagreb,3,1,1.31,6.74,6.83,1.07,3.33,1.08,1.16,5.12,1.51,2.52,Oui,Oui,Oui,Non,Non,Home,81,"[31, 58, 72, 81]",True
+0b439184eaa2af70,champions-league,165098,55,2026-09-10T19:16:02Z,Munich,Graz,4,0,1.06,11.45,31.15,0.95,8.22,1.01,1.25,3.87,3.22,1.33,Oui,Non,Oui,Non,Non,Home,84,"[3, 50, 71, 84]",True
+4ed79be0c0d6bcde,champions-league,165098,55,2026-09-10T19:16:02Z,Barca,Leipzig,3,0,1.05,11.55,42.18,0.95,8.9,1.01,1.31,3.39,3.72,1.26,Oui,Non,Oui,Non,Non,Home,44,"[38, 43, 44]",True
+8f9dc98286d2cf84,champions-league,165098,55,2026-09-10T19:16:02Z,Lisboa Green,Girona,0,2,1.38,4.42,9.37,1.03,2.95,1.18,1.85,1.92,2.28,1.61,Non,Non,Non,Non,Oui,Away,69,"[48, 69]",True
+cb34f6697508da9c,champions-league,165098,55,2026-09-10T19:16:02Z,Turin,Bruges,3,0,1.64,3.84,5.25,1.13,2.18,1.23,1.76,2.03,1.81,1.97,Oui,Non,Oui,Non,Non,Home,63,"[49, 63, 63]",True
+ae58458c1bb38bd9,champions-league,165098,55,2026-09-10T19:16:02Z,Feyenoord,Donetsk,4,0,1.71,3.9,4.6,1.16,2.07,1.22,1.64,2.22,1.67,2.16,Oui,Non,Oui,Non,Non,Home,89,"[20, 45, 66, 89]",True
+245cf71c99934376,champions-league,165098,55,2026-09-10T19:16:02Z,London Reds,Celtic,5,0,1.05,10.69,54.35,0.94,8.77,1.02,1.43,2.77,4.6,1.19,Oui,Non,Oui,Non,Non,Home,88,"[18, 24, 49, 64, 88]",True
+fdc1bc463f537efa,champions-league,165098,55,2026-09-10T19:16:02Z,Leverkusen,Manchester Blue,3,0,1.11,8.38,24.36,0.96,6.12,1.04,1.4,2.88,2.8,1.42,Oui,Non,Oui,Non,Non,Home,87,"[46, 48, 87]",True
+9e519cb9f4541268,champions-league,165098,55,2026-09-10T19:16:02Z,Prague,Liverpool,0,1,3.33,4.02,1.96,1.79,1.29,1.21,1.42,2.81,1.44,2.74,Non,Non,Non,Non,Oui,Away,10,[10],True
+a14ff02510a5e12a,champions-league,165098,55,2026-09-10T19:16:02Z,Lisboa Red,R. Madrid,2,0,2.02,4.32,3.0,1.35,1.74,1.18,1.28,3.59,1.33,3.23,Non,Non,Oui,Non,Non,Home,21,"[19, 21]",True
+e652ceece678f4b4,champions-league,165098,55,2026-09-10T19:16:02Z,A. Madrid,Belgrade,3,2,1.18,7.06,13.82,0.99,4.59,1.07,1.35,3.15,2.09,1.72,Oui,Oui,Oui,Non,Non,Home,74,"[6, 26, 39, 60, 74]",True
+70c0d4cb47461188,champions-league,165098,58,2026-09-10T19:22:02Z,Celtic,Feyenoord,5,1,1.36,6.15,6.1,1.1,3.01,1.09,1.16,4.97,1.44,2.74,Oui,Oui,Oui,Non,Non,Away,90,"[23, 38, 44, 68, 88, 90]",True
+403e9bc103de1fff,champions-league,165098,58,2026-09-10T19:22:02Z,Liverpool,Dortmund,3,0,1.27,5.27,11.69,1.01,3.56,1.13,1.65,2.21,2.29,1.6,Oui,Non,Oui,Non,Non,Home,40,"[22, 23, 40]",True
+d82ffa558b803fcb,champions-league,165098,58,2026-09-10T19:22:02Z,Belgrade,Munich,3,1,2.15,4.99,2.53,1.48,1.65,1.14,1.11,6.2,1.22,4.2,Oui,Oui,Oui,Non,Non,Home,83,"[18, 54, 62, 83]",True
+754fd7cad984e422,champions-league,165098,58,2026-09-10T19:22:02Z,Leverkusen,Prague,2,0,1.1,7.28,60.74,0.94,6.38,1.06,1.9,1.87,6.94,1.09,Non,Non,Oui,Non,Non,Home,44,"[35, 44]",True
+890ffb3c84e4bcdc,champions-league,165098,58,2026-09-10T19:22:02Z,Lille,Paris SG,3,1,2.32,3.41,2.98,1.36,1.56,1.28,1.79,2.0,1.65,2.2,Oui,Oui,Oui,Non,Non,Away,86,"[14, 27, 57, 86]",True
+e0c6c0119c756414,champions-league,165098,58,2026-09-10T19:22:02Z,Bruges,Monaco,0,0,2.12,3.49,3.3,1.3,1.67,1.27,1.75,2.04,1.65,2.21,Non,Non,Non,Oui,Non,,,[],True
+23ab296485b533c2,champions-league,165098,58,2026-09-10T19:22:02Z,R. Madrid,Turin,4,0,1.52,4.65,5.33,1.12,2.44,1.16,1.4,2.9,1.56,2.39,Oui,Non,Oui,Non,Non,Home,89,"[32, 63, 64, 89]",True
+c4059fc3c9bd28df,champions-league,165098,58,2026-09-10T19:22:02Z,A. Villa,Eindhoven,2,2,1.21,6.32,13.19,1.0,4.19,1.09,1.45,2.72,2.17,1.67,Oui,Oui,Non,Oui,Non,Away,76,"[23, 25, 64, 76]",True
+7a48a1a4caf0df50,champions-league,165098,58,2026-09-10T19:22:02Z,Barca,A. Madrid,2,3,1.52,5.69,4.39,1.18,2.43,1.11,1.13,5.6,1.33,3.26,Oui,Oui,Non,Non,Oui,Home,74,"[26, 38, 49, 68, 74]",True
+51147e206868b0d1,champions-league,165098,58,2026-09-10T19:22:02Z,Girona,Bern,2,0,1.32,5.03,9.79,1.02,3.26,1.14,1.62,2.27,2.1,1.71,Non,Non,Oui,Non,Non,Home,78,"[59, 78]",True
+0f5d23f1b4ceeef0,champions-league,165098,58,2026-09-10T19:22:02Z,Graz,Stuttgart,4,1,2.9,2.51,3.16,1.32,1.37,1.48,3.56,1.28,2.6,1.48,Oui,Oui,Oui,Non,Non,Home,57,"[22, 30, 34, 50, 57]",True
+8ccba197b46e1e1f,champions-league,165098,58,2026-09-10T19:22:02Z,Donetsk,Salzburg,3,1,2.33,4.65,2.4,1.52,1.56,1.16,1.17,4.88,1.25,3.87,Oui,Oui,Oui,Non,Non,Home,49,"[1, 9, 45, 49]",True
+c5ffb337257196c0,champions-league,165098,58,2026-09-10T19:22:02Z,Manchester Blue,Lisboa Red,2,1,1.81,4.26,3.66,1.25,1.93,1.19,1.36,3.09,1.42,2.82,Oui,Oui,Oui,Non,Non,Home,86,"[77, 77, 86]",True
+d04b7532e220dd65,champions-league,165098,58,2026-09-10T19:22:02Z,Leipzig,Milan Blues,2,3,2.89,3.63,2.28,1.58,1.37,1.25,1.61,2.28,1.54,2.44,Oui,Oui,Non,Non,Oui,Home,90,"[33, 45, 59, 87, 90]",True
+63fa4cd24e704788,champions-league,165098,58,2026-09-10T19:22:02Z,Atalanta,Bologna,0,0,1.44,3.24,17.2,0.98,2.68,1.31,3.69,1.27,5.25,1.15,Non,Non,Non,Oui,Non,,,[],True
+493688494a40fda5,champions-league,165098,58,2026-09-10T19:22:02Z,Brest,Lisboa Green,0,1,5.16,2.7,2.02,1.74,1.13,1.42,3.37,1.31,2.75,1.44,Non,Non,Non,Non,Oui,Away,2,[2],True
+51c5acc6ddf3963d,champions-league,165098,58,2026-09-10T19:22:02Z,Zagreb,Bratislava,4,0,1.48,4.22,6.81,1.07,2.56,1.19,1.72,2.09,1.93,1.85,Oui,Non,Oui,Non,Non,Home,55,"[2, 13, 51, 55]",True
+1d2c0b9c4c7c2e51,champions-league,165098,58,2026-09-10T19:22:02Z,Milan Reds,London Reds,2,1,4.11,4.02,1.76,2.0,1.2,1.21,1.51,2.5,1.55,2.41,Oui,Oui,Oui,Non,Non,Home,68,"[43, 49, 68]",True
+383030563ce47fdd,champions-league,165098,60,2026-09-10T19:26:02Z,A. Villa,Bologna,0,0,1.2,4.85,47.62,0.94,4.32,1.15,2.68,1.46,8.28,1.06,Non,Non,Non,Oui,Non,,,[],True
+5aa620c5f064a8f8,champions-league,165098,60,2026-09-10T19:26:02Z,Belgrade,Turin,1,4,2.02,4.06,3.15,1.32,1.74,1.21,1.39,2.94,1.41,2.85,Oui,Oui,Non,Non,Oui,Away,89,"[3, 4, 55, 88, 89]",True
+ce31999b98be65c4,champions-league,165098,60,2026-09-10T19:26:02Z,Girona,Bratislava,3,0,1.72,3.82,4.63,1.16,2.06,1.23,1.69,2.13,1.71,2.1,Oui,Non,Oui,Non,Non,Home,74,"[53, 59, 74]",True
+30dc8e0a3b4c2b81,champions-league,165098,60,2026-09-10T19:26:02Z,Brest,Dortmund,2,2,5.47,4.4,1.54,2.39,1.12,1.18,1.49,2.56,1.64,2.22,Oui,Oui,Non,Oui,Non,Home,70,"[19, 21, 54, 70]",True
+26d7858dd9c42b51,champions-league,165098,60,2026-09-10T19:26:02Z,Manchester Blue,Feyenoord,0,1,1.49,6.1,4.46,1.17,2.53,1.1,1.11,6.39,1.33,3.25,Non,Non,Non,Non,Oui,Away,59,[59],True
+7dab41a63e9b0d91,champions-league,165098,60,2026-09-10T19:26:02Z,Prague,London Reds,3,2,3.55,4.85,1.75,2.01,1.26,1.15,1.19,4.56,1.3,3.44,Oui,Oui,Oui,Non,Non,Home,66,"[28, 44, 48, 55, 66]",True
+57167a5511ed8579,champions-league,165098,60,2026-09-10T19:26:02Z,Atalanta,Lille,0,4,1.97,3.59,3.63,1.25,1.77,1.26,1.72,2.09,1.65,2.21,Oui,Non,Non,Non,Oui,Away,70,"[34, 46, 68, 70]",True
+f6357288f41a885d,champions-league,165098,60,2026-09-10T19:26:02Z,Barca,Lisboa Red,1,2,1.38,5.36,6.83,1.07,2.95,1.12,1.33,3.27,1.61,2.28,Oui,Oui,Non,Non,Oui,Away,36,"[27, 32, 36]",True
+75d767852224c033,champions-league,165098,60,2026-09-10T19:26:02Z,Liverpool,Eindhoven,2,0,1.18,6.13,20.33,0.97,4.62,1.09,1.71,2.1,3.08,1.36,Non,Non,Oui,Non,Non,Home,88,"[87, 88]",True
+85e43cabe1a8317e,champions-league,165098,60,2026-09-10T19:26:02Z,Zagreb,Paris SG,1,2,3.98,3.31,1.98,1.77,1.21,1.3,2.03,1.76,1.86,1.91,Oui,Oui,Non,Non,Oui,Home,84,"[34, 38, 84]",True
+134df9ca33aa3479,champions-league,165098,60,2026-09-10T19:26:02Z,Leipzig,Bern,2,1,1.34,5.28,8.0,1.05,3.12,1.13,1.42,2.8,1.77,2.02,Oui,Oui,Oui,Non,Non,Away,71,"[16, 68, 71]",True
+9dc7796fc34d0029,champions-league,165098,60,2026-09-10T19:26:02Z,Donetsk,Monaco,2,1,2.44,4.15,2.45,1.51,1.51,1.2,1.31,3.36,1.34,3.19,Oui,Oui,Oui,Non,Non,Home,55,"[20, 55, 55]",True
+801e8ebd8dbf7085,champions-league,165098,60,2026-09-10T19:26:02Z,Leverkusen,Milan Blues,0,0,1.4,3.7,12.95,1.0,2.83,1.24,2.7,1.45,3.52,1.29,Non,Non,Non,Oui,Non,,,[],True
+7b398b928d26dab8,champions-league,165098,60,2026-09-10T19:26:02Z,Celtic,Stuttgart,5,1,1.27,6.44,8.5,1.04,3.6,1.08,1.24,3.96,1.64,2.22,Oui,Oui,Oui,Non,Non,Home,81,"[16, 31, 33, 51, 63, 81]",True
+72553e71349ad4b3,champions-league,165098,60,2026-09-10T19:26:02Z,Graz,Bruges,0,0,3.18,2.21,3.41,1.28,1.32,1.62,5.26,1.15,3.38,1.31,Non,Non,Non,Oui,Non,,,[],True
+7f7a5050190a50b7,champions-league,165098,60,2026-09-10T19:26:02Z,R. Madrid,Salzburg,1,1,1.38,6.81,5.25,1.13,2.91,1.07,1.14,5.41,1.51,2.51,Non,Oui,Non,Oui,Non,Home,21,"[20, 21]",True
+5c27e0e605f070c2,champions-league,165098,60,2026-09-10T19:26:02Z,Milan Reds,Munich,2,2,2.09,3.93,3.06,1.34,1.69,1.22,1.44,2.72,1.44,2.73,Oui,Oui,Non,Oui,Non,Away,80,"[15, 52, 75, 80]",True
+1ed4bb6d7e5c24fe,champions-league,165098,60,2026-09-10T19:26:02Z,A. Madrid,Lisboa Green,1,2,2.12,3.08,3.81,1.23,1.67,1.33,2.29,1.6,2.0,1.79,Oui,Oui,Non,Non,Oui,Home,88,"[16, 17, 88]",True
+e486c4739a2ba5f4,champions-league,165098,63,2026-09-10T19:32:02Z,Paris SG,Liverpool,2,2,1.97,3.42,3.84,1.23,1.78,1.28,1.89,1.89,1.77,2.03,Oui,Oui,Non,Oui,Non,Away,81,"[4, 29, 73, 81]",True
+cb39f5375c3a2c45,champions-league,165098,63,2026-09-10T19:32:02Z,Bratislava,Brest,2,0,1.51,5.81,4.44,1.18,2.47,1.11,1.12,5.94,1.32,3.3,Non,Non,Oui,Non,Non,Home,39,"[28, 39]",True
+e52f77496efe2b11,champions-league,165098,63,2026-09-10T19:32:02Z,Eindhoven,Leverkusen,3,1,1.6,5.35,4.03,1.21,2.26,1.12,1.15,5.31,1.31,3.4,Oui,Oui,Oui,Non,Non,Home,81,"[24, 50, 67, 81]",True
+9104a097de3aee16,champions-league,165098,63,2026-09-10T19:32:02Z,Atalanta,A. Villa,1,1,2.48,3.64,2.62,1.45,1.49,1.25,1.59,2.32,1.52,2.49,Non,Oui,Non,Oui,Non,Away,23,"[13, 23]",True
+e9af0278a21b09fc,champions-league,165098,63,2026-09-10T19:32:02Z,Bologna,Leipzig,1,1,2.03,2.34,7.1,1.07,1.73,1.55,5.41,1.14,4.17,1.22,Non,Oui,Non,Oui,Non,Home,47,"[35, 47]",True
+35096ea9fdc998d3,champions-league,165098,63,2026-09-10T19:32:02Z,Stuttgart,Milan Reds,2,0,2.82,4.12,2.16,1.64,1.39,1.2,1.34,3.18,1.37,3.05,Non,Non,Oui,Non,Non,Home,85,"[55, 85]",True
+0f9720e5d860a80b,champions-league,165098,63,2026-09-10T19:32:02Z,Feyenoord,Prague,1,0,1.4,4.43,8.39,1.04,2.85,1.18,1.76,2.03,2.11,1.71,Non,Non,Oui,Non,Non,Home,59,[59],True
+a21a7d1bc31fcaac,champions-league,165098,63,2026-09-10T19:32:02Z,Dortmund,London Reds,4,0,2.37,3.92,2.61,1.45,1.54,1.22,1.42,2.82,1.41,2.85,Oui,Non,Oui,Non,Non,Home,58,"[21, 33, 54, 58]",True
+c879f8318dda47df,champions-league,165098,63,2026-09-10T19:32:02Z,Graz,R. Madrid,0,0,3.86,2.21,2.88,1.38,1.23,1.62,5.33,1.15,3.44,1.3,Non,Non,Non,Oui,Non,,,[],True
+42deb5a125cf07a1,champions-league,165098,63,2026-09-10T19:32:02Z,Monaco,Zagreb,1,0,1.53,5.46,4.46,1.17,2.41,1.12,1.16,5.13,1.33,3.22,Non,Non,Oui,Non,Non,Home,54,[54],True
+76cd38dd8ff3a5cd,champions-league,165098,63,2026-09-10T19:32:02Z,Salzburg,Manchester Blue,1,2,5.47,5.06,1.47,2.58,1.12,1.14,1.29,3.49,1.49,2.58,Oui,Oui,Non,Non,Oui,Home,73,"[16, 59, 73]",True
+4d509d3e902c9696,champions-league,165098,63,2026-09-10T19:32:02Z,Donetsk,Celtic,1,3,1.77,4.15,3.93,1.22,1.98,1.2,1.43,2.77,1.48,2.6,Oui,Oui,Non,Non,Oui,Away,87,"[25, 43, 71, 87]",True
+40b72985d537c993,champions-league,165098,63,2026-09-10T19:32:02Z,Bern,A. Madrid,0,5,12.53,8.4,1.16,4.94,1.0,1.04,1.2,4.44,1.91,1.87,Oui,Non,Non,Non,Oui,Away,76,"[26, 28, 42, 64, 76]",True
+2cebfe45b9eb1a19,champions-league,165098,63,2026-09-10T19:32:02Z,Lisboa Red,Milan Blues,2,1,2.33,3.92,2.66,1.43,1.56,1.22,1.43,2.79,1.42,2.82,Oui,Oui,Oui,Non,Non,Home,74,"[1, 25, 74]",True
+8970621fe225f888,champions-league,165098,63,2026-09-10T19:32:02Z,Turin,Barca,1,1,2.02,4.47,2.94,1.36,1.74,1.17,1.23,4.04,1.3,3.46,Non,Oui,Non,Oui,Non,Home,72,"[34, 72]",True
+80eee30118a297fa,champions-league,165098,63,2026-09-10T19:32:02Z,Munich,Lisboa Green,0,0,1.46,4.06,7.76,1.05,2.61,1.21,1.92,1.85,2.18,1.66,Non,Non,Non,Oui,Non,,,[],True
+c6200633fa915065,champions-league,165098,63,2026-09-10T19:32:02Z,Bruges,Belgrade,0,1,1.56,3.91,6.16,1.09,2.35,1.22,1.83,1.95,1.95,1.83,Non,Non,Non,Non,Oui,Away,81,[81],True
+1de79dd4c2effbde,champions-league,165098,63,2026-09-10T19:32:02Z,Lille,Girona,0,0,1.12,7.43,33.38,0.95,5.96,1.06,1.66,2.18,3.97,1.24,Non,Non,Non,Oui,Non,,,[],True
+9ec59fc0df4effa0,champions-league,165098,65,2026-09-10T19:36:02Z,Eindhoven,London Reds,1,5,4.47,5.61,1.52,2.44,1.17,1.11,1.14,5.51,1.32,3.28,Oui,Oui,Non,Non,Oui,Away,72,"[12, 19, 23, 47, 69, 72]",True
+8cb3f76db2ed5d87,champions-league,165098,65,2026-09-10T19:36:02Z,Bruges,Milan Reds,2,0,3.23,3.19,2.29,1.58,1.31,1.31,2.05,1.75,1.82,1.96,Non,Non,Oui,Non,Non,Home,41,"[10, 41]",True
+e128cd93fcb31efd,champions-league,165098,65,2026-09-10T19:36:02Z,Zagreb,Girona,0,0,1.36,3.96,13.38,1.0,3.0,1.22,2.47,1.53,3.35,1.31,Non,Non,Non,Oui,Non,,,[],True
+0090f61c176ded1d,champions-league,165098,65,2026-09-10T19:36:02Z,Lille,Leipzig,0,0,1.14,7.13,24.51,0.96,5.42,1.07,1.58,2.33,3.17,1.34,Non,Non,Non,Oui,Non,,,[],True
+6010e00acef6805e,champions-league,165098,65,2026-09-10T19:36:02Z,Bologna,Leverkusen,0,2,2.48,2.84,3.29,1.3,1.5,1.39,2.64,1.47,2.14,1.68,Non,Non,Non,Non,Oui,Away,65,"[46, 65]",True
+09365020a7896ae8,champions-league,165098,65,2026-09-10T19:36:02Z,Salzburg,Barca,0,5,9.44,7.68,1.21,4.16,1.03,1.06,1.17,4.86,1.68,2.14,Oui,Non,Non,Non,Oui,Away,77,"[24, 34, 36, 70, 77]",True
+ee05c78710f9ba95,champions-league,165098,65,2026-09-10T19:36:02Z,Donetsk,Manchester Blue,2,0,2.61,4.63,2.17,1.64,1.45,1.16,1.18,4.68,1.26,3.74,Non,Non,Oui,Non,Non,Home,29,"[27, 29]",True
+c8eae084e15a65a2,champions-league,165098,65,2026-09-10T19:36:02Z,Turin,Lisboa Green,0,2,2.38,2.65,3.8,1.23,1.53,1.44,3.19,1.34,2.47,1.53,Non,Non,Non,Non,Oui,Away,83,"[47, 83]",True
+168ee1c6be1865ad,champions-league,165098,65,2026-09-10T19:36:02Z,Munich,Dortmund,5,1,1.37,5.74,6.33,1.09,2.96,1.11,1.23,4.06,1.5,2.54,Oui,Oui,Oui,Non,Non,Home,70,"[21, 34, 45, 56, 57, 70]",True
+4d12a45c7eb543e3,champions-league,165098,65,2026-09-10T19:36:02Z,Bern,Lisboa Red,0,0,11.52,5.86,1.25,3.81,1.01,1.1,1.47,2.62,2.08,1.73,Non,Non,Non,Oui,Non,,,[],True
+cc6a9243d8d67431,champions-league,165098,65,2026-09-10T19:36:02Z,Monaco,A. Villa,0,0,2.02,3.92,3.23,1.31,1.74,1.22,1.46,2.66,1.46,2.67,Non,Non,Non,Oui,Non,,,[],True
+9b6ab104ccf6da90,champions-league,165098,65,2026-09-10T19:36:02Z,Atalanta,Liverpool,3,1,3.85,3.19,2.05,1.71,1.23,1.31,2.15,1.68,1.92,1.86,Oui,Oui,Oui,Non,Non,Away,61,"[13, 28, 32, 61]",True
+9b234adddd1b6795,champions-league,165098,65,2026-09-10T19:36:02Z,Feyenoord,Milan Blues,2,1,2.7,3.51,2.47,1.5,1.42,1.27,1.69,2.14,1.58,2.34,Oui,Oui,Oui,Non,Non,Home,42,"[27, 32, 42]",True
+312a099b990e50ed,champions-league,165098,65,2026-09-10T19:36:02Z,Stuttgart,Prague,2,1,1.32,5.15,9.4,1.03,3.26,1.13,1.55,2.41,2.0,1.79,Oui,Oui,Oui,Non,Non,Away,78,"[65, 73, 78]",True
+a6665020cd040b39,champions-league,165098,65,2026-09-10T19:36:02Z,Bratislava,A. Madrid,2,2,3.3,5.64,1.73,2.04,1.3,1.11,1.08,7.27,1.25,3.89,Oui,Oui,Non,Oui,Non,Home,70,"[15, 28, 49, 70]",True
+397cd1e6b316ad67,champions-league,165098,65,2026-09-10T19:36:02Z,Paris SG,Brest,2,3,1.13,9.19,15.41,0.99,5.65,1.03,1.21,4.31,2.13,1.69,Oui,Oui,Non,Non,Oui,Home,80,"[39, 44, 68, 77, 80]",True
+018349dc578884ed,champions-league,165098,65,2026-09-10T19:36:02Z,R. Madrid,Celtic,3,1,1.15,8.72,13.28,1.0,5.17,1.04,1.2,4.44,1.98,1.8,Oui,Oui,Oui,Non,Non,Home,86,"[32, 63, 66, 86]",True
+96ccd4331ac9d795,champions-league,165098,65,2026-09-10T19:36:02Z,Graz,Belgrade,1,0,2.13,2.37,5.92,1.1,1.66,1.54,4.89,1.17,3.64,1.27,Non,Non,Oui,Non,Non,Home,67,[67],True
+dc43c8eddda00c37,champions-league,165098,68,2026-09-10T19:42:02Z,Bern,Turin,2,2,6.47,3.87,1.55,2.38,1.08,1.22,1.9,1.88,2.03,1.76,Oui,Oui,Non,Oui,Non,Away,48,"[1, 28, 29, 48]",True
+afa503130c4624ae,champions-league,165098,68,2026-09-10T19:42:02Z,Prague,Donetsk,1,1,1.29,6.0,8.6,1.04,3.47,1.1,1.31,3.39,1.71,2.1,Non,Oui,Non,Oui,Non,Away,65,"[12, 65]",True
+9aa465c28b2ce316,champions-league,165098,68,2026-09-10T19:42:02Z,Munich,Bratislava,0,1,1.11,9.0,21.41,0.97,6.22,1.03,1.3,3.44,2.49,1.52,Non,Non,Non,Non,Oui,Away,49,[49],True
+5ab1aab1c194b2a5,champions-league,165098,68,2026-09-10T19:42:02Z,Dortmund,Stuttgart,3,1,1.26,6.77,8.51,1.04,3.7,1.08,1.2,4.38,1.61,2.27,Oui,Oui,Oui,Non,Non,Home,60,"[44, 45, 54, 60]",True
+5249324e0fdc0406,champions-league,165098,68,2026-09-10T19:42:02Z,London Reds,Paris SG,0,0,1.77,2.99,6.2,1.09,1.98,1.35,2.91,1.4,2.66,1.46,Non,Non,Non,Oui,Non,,,[],True
+6b8675f4afabcdb5,champions-league,165098,68,2026-09-10T19:42:02Z,Belgrade,Monaco,3,1,1.56,5.53,4.17,1.2,2.33,1.12,1.13,5.67,1.3,3.41,Oui,Oui,Oui,Non,Non,Home,72,"[9, 41, 58, 72]",True
+888dcee8df355ee2,champions-league,165098,68,2026-09-10T19:42:02Z,Manchester Blue,Celtic,5,0,1.15,8.59,14.23,0.99,5.26,1.04,1.22,4.18,2.02,1.77,Oui,Non,Oui,Non,Non,Home,80,"[43, 44, 45, 64, 80]",True
+7e365c1cee515c0f,champions-league,165098,68,2026-09-10T19:42:02Z,Barca,Graz,5,1,1.11,9.46,19.59,0.97,6.26,1.03,1.27,3.66,3.19,1.34,Oui,Oui,Oui,Non,Non,Home,89,"[13, 24, 35, 49, 76, 89]",True
+851ec14625e171ea,champions-league,165098,68,2026-09-10T19:42:02Z,A. Madrid,Lille,2,3,1.78,3.89,4.16,1.2,1.97,1.22,1.59,2.32,1.6,2.29,Oui,Oui,Non,Non,Oui,Home,85,"[36, 42, 68, 83, 85]",True
+6b3c8703ff78b360,champions-league,165098,68,2026-09-10T19:42:02Z,Leverkusen,Atalanta,0,0,2.06,3.04,4.08,1.2,1.71,1.34,2.4,1.55,2.09,1.72,Non,Non,Non,Oui,Non,,,[],True
+e62e29f810cad000,champions-league,165098,68,2026-09-10T19:42:02Z,Milan Reds,R. Madrid,3,0,1.84,3.81,3.92,1.22,1.9,1.23,1.61,2.29,1.6,2.3,Oui,Non,Oui,Non,Non,Home,81,"[30, 40, 81]",True
+331a4cb03902a6d5,champions-league,165098,68,2026-09-10T19:42:02Z,Lisboa Green,Bruges,1,1,2.12,4.1,2.9,1.37,1.67,1.2,1.36,3.09,1.38,2.98,Non,Oui,Non,Oui,Non,Home,70,"[6, 70]",True
+8976ea692729d9ae,champions-league,165098,68,2026-09-10T19:42:02Z,Milan Blues,Salzburg,2,0,1.16,8.54,12.36,1.0,4.96,1.04,1.19,4.57,1.9,1.87,Non,Non,Oui,Non,Non,Home,86,"[80, 86]",True
+be33bb6ef0d56a48,champions-league,165098,68,2026-09-10T19:42:02Z,Brest,Zagreb,0,2,3.72,4.32,1.79,1.96,1.24,1.18,1.34,3.17,1.41,2.85,Non,Non,Non,Non,Oui,Away,37,"[35, 37]",True
+103cec07359c8927,champions-league,165098,68,2026-09-10T19:42:02Z,Lisboa Red,Bologna,0,0,1.35,4.05,13.54,1.0,3.06,1.21,2.4,1.55,3.3,1.32,Non,Non,Non,Oui,Non,,,[],True
+867b3322a14cbfe0,champions-league,165098,68,2026-09-10T19:42:02Z,Liverpool,Girona,1,0,1.1,7.19,74.17,0.94,6.43,1.07,1.98,1.8,8.46,1.06,Non,Non,Oui,Non,Non,Home,55,[55],True
+d7e2b95ede84e04e,champions-league,165098,68,2026-09-10T19:42:02Z,Leipzig,A. Villa,0,2,3.85,4.38,1.75,2.01,1.23,1.18,1.34,3.18,1.42,2.81,Non,Non,Non,Non,Oui,Away,69,"[32, 69]",True
+f76c53f016e501b9,champions-league,165098,68,2026-09-10T19:42:02Z,Feyenoord,Eindhoven,0,1,2.27,4.07,2.67,1.43,1.58,1.21,1.35,3.12,1.37,3.04,Non,Non,Non,Non,Oui,Away,10,[10],True
+cbec03b85ec56404,champions-league,165098,70,2026-09-10T19:46:02Z,Brest,Girona,1,1,2.11,2.43,5.75,1.11,1.68,1.51,4.52,1.19,3.43,1.3,Non,Oui,Non,Oui,Non,Home,54,"[47, 54]",True
+9ddb2b222c151e56,champions-league,165098,70,2026-09-10T19:46:02Z,Lisboa Red,Lille,1,0,2.2,4.15,2.75,1.41,1.62,1.2,1.32,3.3,1.35,3.13,Non,Non,Oui,Non,Non,Home,23,[23],True
+abbae1e302993972,champions-league,165098,70,2026-09-10T19:46:02Z,Lisboa Green,Graz,2,2,1.36,5.56,7.02,1.07,3.05,1.12,1.3,3.47,1.6,2.31,Oui,Oui,Non,Oui,Non,Away,69,"[20, 46, 61, 69]",True
+817943b705574282,champions-league,165098,70,2026-09-10T19:46:02Z,Munich,Paris SG,0,1,1.86,3.68,3.98,1.21,1.88,1.25,1.7,2.12,1.66,2.18,Non,Non,Non,Non,Oui,Away,54,[54],True
+1acfd911d60c3a11,champions-league,165098,70,2026-09-10T19:46:02Z,A. Madrid,Zagreb,4,2,1.58,5.32,4.21,1.19,2.31,1.13,1.16,5.03,1.32,3.28,Oui,Oui,Oui,Non,Non,Away,80,"[16, 20, 27, 56, 66, 80]",True
+da4180c4f415f5c3,champions-league,165098,70,2026-09-10T19:46:02Z,Dortmund,Bruges,2,0,1.25,6.3,10.11,1.02,3.81,1.09,1.32,3.29,1.82,1.96,Non,Non,Oui,Non,Non,Home,38,"[28, 38]",True
+7af3954d926c2383,champions-league,165098,70,2026-09-10T19:46:02Z,Eindhoven,Stuttgart,3,1,1.71,5.45,3.44,1.28,2.07,1.12,1.1,6.47,1.25,3.81,Oui,Oui,Oui,Non,Non,Home,68,"[24, 57, 66, 68]",True
+edbaf53d41dc0fec,champions-league,165098,70,2026-09-10T19:46:02Z,London Reds,Atalanta,0,2,1.96,3.25,4.12,1.2,1.78,1.3,2.12,1.7,1.93,1.85,Non,Non,Non,Non,Oui,Away,49,"[26, 49]",True
+3dd2c65e9861a89a,champions-league,165098,70,2026-09-10T19:46:02Z,Feyenoord,Bologna,2,0,1.58,3.02,10.54,1.02,2.3,1.35,3.55,1.29,3.84,1.25,Non,Non,Oui,Non,Non,Home,63,"[46, 63]",True
+71cb8c9e36b43242,champions-league,165098,70,2026-09-10T19:46:02Z,Milan Blues,Donetsk,3,1,1.15,7.25,19.53,0.97,5.19,1.06,1.46,2.65,2.62,1.48,Oui,Oui,Oui,Non,Non,Away,63,"[4, 49, 58, 63]",True
+6c3777c2e8617551,champions-league,165098,70,2026-09-10T19:46:02Z,Barca,Celtic,4,0,1.08,10.58,22.87,0.97,7.1,1.02,1.23,4.0,2.91,1.4,Oui,Non,Oui,Non,Non,Home,53,"[42, 43, 45, 53]",True
+81b579d099afd808,champions-league,165098,70,2026-09-10T19:46:02Z,Leverkusen,A. Villa,2,1,1.44,3.86,9.57,1.03,2.7,1.23,2.25,1.63,2.66,1.46,Oui,Oui,Oui,Non,Non,Home,53,"[20, 26, 53]",True
+f7e941f050381757,champions-league,165098,70,2026-09-10T19:46:02Z,Prague,R. Madrid,0,4,1.63,4.87,4.14,1.2,2.19,1.15,1.23,4.0,1.37,3.05,Oui,Non,Non,Non,Oui,Away,69,"[26, 44, 66, 69]",True
+bc603da46ec5fb95,champions-league,165098,70,2026-09-10T19:46:02Z,Milan Reds,Belgrade,4,0,1.23,6.22,11.93,1.01,4.01,1.09,1.42,2.83,2.04,1.75,Oui,Non,Oui,Non,Non,Home,81,"[20, 42, 72, 81]",True
+09f6ba0633b17c6e,champions-league,165098,70,2026-09-10T19:46:02Z,Manchester Blue,Monaco,5,0,1.3,6.57,7.34,1.06,3.4,1.08,1.19,4.62,1.55,2.42,Oui,Non,Oui,Non,Non,Home,54,"[27, 41, 43, 51, 54]",True
+74a0732baa7bb63c,champions-league,165098,70,2026-09-10T19:46:02Z,Leipzig,Liverpool,2,2,7.13,4.75,1.41,2.8,1.07,1.16,1.52,2.49,1.79,1.99,Oui,Oui,Non,Oui,Non,Away,59,"[42, 43, 48, 59]",True
+8606d02882ff5fd8,champions-league,165098,70,2026-09-10T19:46:02Z,Turin,Bratislava,2,1,1.42,4.24,8.18,1.05,2.74,1.19,1.84,1.93,2.15,1.68,Oui,Oui,Oui,Non,Non,Away,43,"[35, 37, 43]",True
+4cd246653a1b727c,champions-league,165098,70,2026-09-10T19:46:02Z,Bern,Salzburg,3,2,4.03,4.83,1.65,2.16,1.21,1.15,1.23,4.01,1.36,3.09,Oui,Oui,Oui,Non,Non,Away,77,"[14, 21, 33, 68, 77]",True
