@@ -1,0 +1,127 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+bd70e96672bdb536,portuguese-league,165100,1,2026-09-10T16:35:30Z,Arouca,Moreirense,1,0,2.35,3.0,3.33,1.29,1.55,1.35,2.34,1.58,1.99,1.8,Non,Non,Oui,Non,Non,Home,40,[40],True
+fd70a16b5d8fa096,portuguese-league,165100,1,2026-09-10T16:35:30Z,Famalicão,Nacional,1,0,1.79,2.7,7.64,1.06,1.96,1.42,3.94,1.24,3.52,1.29,Non,Non,Oui,Non,Non,Home,75,[75],True
+83920638a64996c4,portuguese-league,165100,1,2026-09-10T16:35:30Z,Estoril,Rio Ave,2,1,1.86,3.35,4.47,1.17,1.88,1.29,2.06,1.74,1.93,1.84,Oui,Oui,Oui,Non,Non,Home,81,"[20, 67, 81]",True
+a7fa8c83528d82d2,portuguese-league,165100,1,2026-09-10T16:35:30Z,Alverca,Guimaraes,0,4,3.34,3.01,2.34,1.55,1.29,1.35,2.32,1.59,1.98,1.8,Oui,Non,Non,Non,Oui,Away,82,"[1, 48, 66, 82]",True
+467c6c75ee4e3b92,portuguese-league,165100,1,2026-09-10T16:35:30Z,Tondela,Braga,1,1,5.47,3.82,1.62,2.21,1.12,1.23,1.8,1.98,1.86,1.91,Non,Oui,Non,Oui,Non,Home,54,"[21, 54]",True
+397e64e5d348e8c0,portuguese-league,165100,1,2026-09-10T16:35:30Z,Lisboa Green,Gil Vicente,3,1,1.12,7.98,22.24,0.97,5.76,1.05,1.42,2.83,2.7,1.45,Oui,Oui,Oui,Non,Non,Home,84,"[24, 52, 56, 84]",True
+6f08c5132ecfb232,portuguese-league,165100,1,2026-09-10T16:35:30Z,Casa Pia,Estrela,2,1,1.89,2.56,7.17,1.07,1.85,1.47,4.34,1.21,3.65,1.27,Oui,Oui,Oui,Non,Non,Home,74,"[54, 63, 74]",True
+310fc65891d3496e,portuguese-league,165100,1,2026-09-10T16:35:30Z,Porto,Lisboa Red,2,0,1.94,3.3,4.15,1.2,1.8,1.3,2.06,1.74,1.9,1.88,Non,Non,Oui,Non,Non,Home,64,"[60, 64]",True
+57818062b7696600,portuguese-league,165100,1,2026-09-10T16:35:30Z,AFS,Santa Clara,1,1,3.26,2.47,2.87,1.38,1.3,1.5,3.74,1.26,2.69,1.45,Non,Oui,Non,Oui,Non,Home,50,"[13, 50]",True
+24507140d0300233,portuguese-league,165100,4,2026-09-10T16:41:30Z,Guimaraes,Braga,3,3,2.55,3.33,2.72,1.42,1.47,1.29,1.85,1.93,1.68,2.15,Oui,Oui,Non,Oui,Non,Home,72,"[27, 29, 29, 64, 68, 72]",True
+744f7c2f84522ac2,portuguese-league,165100,4,2026-09-10T16:41:30Z,Estrela,Arouca,4,0,2.71,3.33,2.55,1.47,1.42,1.29,1.85,1.92,1.68,2.15,Oui,Non,Oui,Non,Non,Home,65,"[6, 24, 33, 65]",True
+cced5fd5eede5c20,portuguese-league,165100,4,2026-09-10T16:41:30Z,Famalicão,Alverca,2,0,1.8,3.36,4.83,1.15,1.95,1.29,2.11,1.7,2.0,1.79,Non,Non,Oui,Non,Non,Home,90,"[59, 90]",True
+c0178c60a527c1db,portuguese-league,165100,4,2026-09-10T16:41:30Z,Nacional,AFS,1,0,1.58,3.94,5.78,1.11,2.3,1.22,1.77,2.02,1.86,1.91,Non,Non,Oui,Non,Non,Home,53,[53],True
+9a39c03ac3b6f68f,portuguese-league,165100,4,2026-09-10T16:41:30Z,Lisboa Red,Moreirense,2,0,1.18,6.34,17.31,0.98,4.56,1.09,1.58,2.35,2.64,1.47,Non,Non,Oui,Non,Non,Home,40,"[38, 40]",True
+c30f289842de9f55,portuguese-league,165100,4,2026-09-10T16:41:30Z,Gil Vicente,Santa Clara,2,1,1.96,2.81,5.11,1.14,1.78,1.39,3.06,1.36,2.58,1.49,Oui,Oui,Oui,Non,Non,Away,85,"[27, 56, 85]",True
+926c19ff7827cc68,portuguese-league,165100,4,2026-09-10T16:41:30Z,Estoril,Casa Pia,1,1,2.1,3.32,3.54,1.26,1.68,1.29,1.95,1.83,1.78,2.01,Non,Oui,Non,Oui,Non,Away,40,"[13, 40]",True
+30d6be96f68ba5ba,portuguese-league,165100,4,2026-09-10T16:41:30Z,Porto,Lisboa Green,1,1,1.94,3.59,3.75,1.24,1.8,1.26,1.73,2.07,1.66,2.18,Non,Oui,Non,Oui,Non,Away,57,"[13, 57]",True
+e20998ceec03db2d,portuguese-league,165100,4,2026-09-10T16:41:30Z,Rio Ave,Tondela,0,1,1.98,3.22,4.11,1.2,1.77,1.31,2.16,1.68,1.95,1.83,Non,Non,Non,Non,Oui,Away,24,[24],True
+f92b3b4285ea9c58,portuguese-league,165100,6,2026-09-10T16:45:30Z,Gil Vicente,Arouca,1,1,2.25,3.04,3.49,1.27,1.59,1.34,2.31,1.6,1.98,1.8,Non,Oui,Non,Oui,Non,Away,55,"[12, 55]",True
+86b08a2bb90fbaa6,portuguese-league,165100,6,2026-09-10T16:45:30Z,Lisboa Green,Tondela,5,0,1.2,6.46,14.54,0.99,4.39,1.08,1.46,2.65,2.27,1.61,Oui,Non,Oui,Non,Non,Home,90,"[29, 44, 49, 89, 90]",True
+e6b49daec8525cbb,portuguese-league,165100,6,2026-09-10T16:45:30Z,Alverca,Casa Pia,1,2,3.01,3.28,2.37,1.54,1.35,1.3,1.93,1.85,1.73,2.07,Oui,Oui,Non,Non,Oui,Away,79,"[39, 52, 79]",True
+147172219c98ca1b,portuguese-league,165100,6,2026-09-10T16:45:30Z,Rio Ave,Braga,1,0,3.49,3.45,2.07,1.7,1.27,1.27,1.82,1.96,1.7,2.13,Non,Non,Oui,Non,Non,Home,60,[60],True
+bbbaf665028dda66,portuguese-league,165100,6,2026-09-10T16:45:30Z,Lisboa Red,Guimaraes,1,3,1.19,6.26,17.12,0.98,4.5,1.09,1.59,2.32,2.64,1.47,Oui,Oui,Non,Non,Oui,Home,68,"[21, 44, 52, 68]",True
+e7497086a6b10574,portuguese-league,165100,6,2026-09-10T16:45:30Z,Famalicão,Moreirense,2,0,2.19,2.88,3.9,1.22,1.63,1.38,2.65,1.46,2.2,1.65,Non,Non,Oui,Non,Non,Home,39,"[28, 39]",True
+7badbca36f538260,portuguese-league,165100,6,2026-09-10T16:45:30Z,Porto,AFS,4,0,1.08,9.36,33.34,0.95,7.17,1.03,1.41,2.86,3.35,1.31,Oui,Non,Oui,Non,Non,Home,86,"[14, 40, 77, 86]",True
+bbcacb0f362c3eb2,portuguese-league,165100,6,2026-09-10T16:45:30Z,Estoril,Santa Clara,3,1,1.95,3.02,4.6,1.16,1.79,1.35,2.54,1.5,2.22,1.64,Oui,Oui,Oui,Non,Non,Home,83,"[29, 42, 78, 83]",True
+1fa9bcc37079de9b,portuguese-league,165100,6,2026-09-10T16:45:30Z,Nacional,Estrela,2,2,1.62,3.39,6.76,1.08,2.21,1.28,2.39,1.56,2.41,1.55,Oui,Oui,Non,Oui,Non,Home,78,"[41, 65, 67, 78]",True
+22ffbdba00684327,portuguese-league,165100,9,2026-09-10T16:51:30Z,Estrela,Alverca,0,2,2.11,3.46,3.36,1.29,1.67,1.27,1.79,2.0,1.67,2.16,Non,Non,Non,Non,Oui,Away,63,"[20, 63]",True
+bffdaa440a69ce7f,portuguese-league,165100,9,2026-09-10T16:51:30Z,Guimaraes,Lisboa Green,0,2,3.47,3.54,2.04,1.72,1.27,1.26,1.74,2.06,1.65,2.21,Non,Non,Non,Non,Oui,Away,79,"[74, 79]",True
+62879068199ea1e1,portuguese-league,165100,9,2026-09-10T16:51:30Z,Nacional,Estoril,2,2,2.12,3.76,3.11,1.33,1.67,1.24,1.54,2.45,1.5,2.54,Oui,Oui,Non,Oui,Non,Away,58,"[43, 44, 46, 58]",True
+83f2aa833591a3d5,portuguese-league,165100,9,2026-09-10T16:51:30Z,Arouca,Rio Ave,1,1,1.87,3.25,4.6,1.16,1.87,1.3,2.2,1.65,2.03,1.77,Non,Oui,Non,Oui,Non,Away,49,"[6, 49]",True
+d0b525d7b2b70fa6,portuguese-league,165100,9,2026-09-10T16:51:30Z,Gil Vicente,Porto,1,3,4.22,2.96,2.06,1.71,1.19,1.36,2.56,1.49,2.19,1.66,Oui,Oui,Non,Non,Oui,Away,81,"[41, 44, 60, 81]",True
+f556fee943addb6b,portuguese-league,165100,9,2026-09-10T16:51:30Z,Santa Clara,Tondela,2,1,2.5,2.97,3.09,1.33,1.49,1.36,2.36,1.57,1.99,1.8,Oui,Oui,Oui,Non,Non,Home,72,"[32, 62, 72]",True
+e935cfc20c5646f2,portuguese-league,165100,9,2026-09-10T16:51:30Z,Lisboa Red,Famalicão,4,1,1.15,7.16,18.82,0.97,5.09,1.07,1.46,2.66,2.57,1.49,Oui,Oui,Oui,Non,Non,Home,81,"[36, 37, 65, 74, 81]",True
+a80668b8f9f8324f,portuguese-league,165100,9,2026-09-10T16:51:30Z,Moreirense,AFS,1,2,1.53,3.68,7.37,1.06,2.41,1.24,2.17,1.67,2.33,1.59,Oui,Oui,Non,Non,Oui,Away,83,"[29, 40, 83]",True
+b9f237d5cfe45eff,portuguese-league,165100,9,2026-09-10T16:51:30Z,Braga,Casa Pia,1,1,1.4,4.73,7.45,1.06,2.84,1.16,1.56,2.4,1.85,1.92,Non,Oui,Non,Oui,Non,Home,83,"[75, 83]",True
+32fb59d990db12cf,portuguese-league,165100,11,2026-09-10T16:55:30Z,Guimaraes,AFS,2,0,1.28,4.97,13.06,1.0,3.53,1.14,1.83,1.94,2.62,1.47,Non,Non,Oui,Non,Non,Home,20,"[14, 20]",True
+5e6730f67dc37ee5,portuguese-league,165100,11,2026-09-10T16:55:30Z,Lisboa Red,Casa Pia,0,0,1.14,7.61,20.39,0.97,5.44,1.06,1.43,2.77,2.62,1.47,Non,Non,Non,Oui,Non,,,[],True
+669c6a60b81cf9b0,portuguese-league,165100,11,2026-09-10T16:55:30Z,Estoril,Porto,1,2,4.45,3.35,1.86,1.88,1.18,1.29,2.06,1.74,1.93,1.85,Oui,Oui,Non,Non,Oui,Home,79,"[36, 40, 79]",True
+878dcfca136cd7b0,portuguese-league,165100,11,2026-09-10T16:55:30Z,Estrela,Moreirense,1,0,2.66,3.09,2.78,1.4,1.43,1.33,2.16,1.68,1.86,1.91,Non,Non,Oui,Non,Non,Home,22,[22],True
+203cb7f9ba3336ee,portuguese-league,165100,11,2026-09-10T16:55:30Z,Nacional,Alverca,2,1,1.96,3.76,3.52,1.26,1.78,1.24,1.59,2.32,1.56,2.39,Oui,Oui,Oui,Non,Non,Home,57,"[23, 52, 57]",True
+96e846b17c47f94f,portuguese-league,165100,11,2026-09-10T16:55:30Z,Gil Vicente,Tondela,1,1,2.17,2.99,3.76,1.24,1.64,1.35,2.42,1.55,2.06,1.74,Non,Oui,Non,Oui,Non,Away,45,"[27, 45]",True
+e929832ba2d47ef9,portuguese-league,165100,11,2026-09-10T16:55:30Z,Braga,Santa Clara,2,1,1.34,4.53,10.44,1.02,3.1,1.17,1.87,1.9,2.41,1.55,Oui,Oui,Oui,Non,Non,Home,79,"[57, 73, 79]",True
+e83713d81e763992,portuguese-league,165100,11,2026-09-10T16:55:30Z,Arouca,Famalicão,1,1,2.25,3.19,3.31,1.29,1.59,1.31,2.06,1.74,1.83,1.95,Non,Oui,Non,Oui,Non,Home,79,"[27, 79]",True
+57a1b18e9d1cad8d,portuguese-league,165100,11,2026-09-10T16:55:30Z,Rio Ave,Lisboa Green,1,3,4.46,3.73,1.76,1.99,1.17,1.24,1.73,2.08,1.72,2.09,Oui,Oui,Non,Non,Oui,Away,84,"[27, 30, 62, 84]",True
+682f91bd25c1956c,portuguese-league,165100,14,2026-09-10T17:01:30Z,Guimaraes,Gil Vicente,2,1,1.49,3.94,7.34,1.06,2.52,1.22,1.95,1.83,2.16,1.68,Oui,Oui,Oui,Non,Non,Home,73,"[39, 52, 73]",True
+8eea4c20013dfb4e,portuguese-league,165100,14,2026-09-10T17:01:30Z,AFS,Famalicão,0,3,3.77,2.95,2.19,1.63,1.24,1.36,2.49,1.52,2.1,1.71,Oui,Non,Non,Non,Oui,Away,46,"[12, 25, 46]",True
+1a757278836a3e24,portuguese-league,165100,14,2026-09-10T17:01:30Z,Casa Pia,Lisboa Green,2,1,6.23,3.78,1.57,2.31,1.09,1.23,1.94,1.84,2.03,1.76,Oui,Oui,Oui,Non,Non,Home,69,"[14, 19, 69]",True
+7078881dd2a31ae7,portuguese-league,165100,14,2026-09-10T17:01:30Z,Tondela,Porto,1,0,6.58,3.54,1.6,2.26,1.08,1.26,2.2,1.65,2.26,1.62,Non,Non,Oui,Non,Non,Home,83,[83],True
+95ca353801cb50b4,portuguese-league,165100,14,2026-09-10T17:01:30Z,Braga,Nacional,3,1,1.28,4.69,14.93,0.99,3.5,1.16,2.06,1.74,3.08,1.36,Oui,Oui,Oui,Non,Non,Home,77,"[9, 52, 64, 77]",True
+ef58217ad6134303,portuguese-league,165100,14,2026-09-10T17:01:30Z,Moreirense,Estoril,0,2,1.83,3.6,4.23,1.19,1.91,1.25,1.79,1.99,1.74,2.06,Non,Non,Non,Non,Oui,Away,82,"[80, 82]",True
+9a5c57177d785139,portuguese-league,165100,14,2026-09-10T17:01:30Z,Estrela,Lisboa Red,1,3,6.92,4.19,1.48,2.56,1.07,1.2,1.75,2.05,1.96,1.82,Oui,Oui,Non,Non,Oui,Away,86,"[11, 71, 79, 86]",True
+8e28c254efd331e9,portuguese-league,165100,14,2026-09-10T17:01:30Z,Alverca,Arouca,1,2,3.33,3.27,2.21,1.62,1.29,1.3,1.98,1.81,1.78,2.01,Oui,Oui,Non,Non,Oui,Home,84,"[70, 75, 84]",True
+73d8d0aa985aa947,portuguese-league,165100,14,2026-09-10T17:01:30Z,Santa Clara,Rio Ave,3,1,2.1,3.01,3.97,1.21,1.68,1.35,2.42,1.54,2.09,1.72,Oui,Oui,Oui,Non,Non,Home,80,"[41, 44, 78, 80]",True
+d435d0b10bcafee9,portuguese-league,165100,16,2026-09-10T17:05:30Z,Braga,Porto,2,3,2.39,3.26,2.99,1.35,1.53,1.3,1.95,1.83,1.75,2.05,Oui,Oui,Non,Non,Oui,Home,89,"[19, 31, 61, 84, 89]",True
+d0dc5f5fa0d5d297,portuguese-league,165100,16,2026-09-10T17:05:30Z,Estrela,Famalicão,0,2,2.65,3.29,2.64,1.44,1.44,1.3,1.9,1.88,1.71,2.11,Non,Non,Non,Non,Oui,Away,55,"[11, 55]",True
+c73ae444497a6ced,portuguese-league,165100,16,2026-09-10T17:05:30Z,Moreirense,Alverca,1,3,1.76,3.6,4.65,1.16,1.99,1.26,1.86,1.92,1.82,1.96,Oui,Oui,Non,Non,Oui,Home,84,"[41, 65, 76, 84]",True
+f233a05307ea633f,portuguese-league,165100,16,2026-09-10T17:05:30Z,Guimaraes,Estoril,3,1,1.53,4.14,6.11,1.1,2.42,1.2,1.68,2.14,1.83,1.94,Oui,Oui,Oui,Non,Non,Home,90,"[24, 30, 62, 90]",True
+53ef8a0831d41db9,portuguese-league,165100,16,2026-09-10T17:05:30Z,Lisboa Red,Nacional,3,0,1.1,7.76,41.14,0.95,6.4,1.05,1.68,2.15,4.6,1.19,Oui,Non,Oui,Non,Non,Home,76,"[4, 62, 76]",True
+fe51171fc3ae88da,portuguese-league,165100,16,2026-09-10T17:05:30Z,Gil Vicente,Rio Ave,1,2,1.79,3.17,5.36,1.12,1.96,1.32,2.44,1.54,2.26,1.62,Oui,Oui,Non,Non,Oui,Home,33,"[21, 22, 33]",True
+e136e3170036e697,portuguese-league,165100,16,2026-09-10T17:05:30Z,Santa Clara,Lisboa Green,1,5,6.67,4.21,1.49,2.53,1.08,1.19,1.71,2.1,1.91,1.87,Oui,Oui,Non,Non,Oui,Home,71,"[20, 37, 39, 46, 50, 71]",True
+6fcb5a6b1b48d5a3,portuguese-league,165100,16,2026-09-10T17:05:30Z,AFS,Casa Pia,0,2,3.77,3.0,2.17,1.64,1.23,1.35,2.42,1.55,2.06,1.74,Non,Non,Non,Non,Oui,Away,46,"[22, 46]",True
+764cba487945bee8,portuguese-league,165100,16,2026-09-10T17:05:30Z,Tondela,Arouca,0,1,2.88,3.04,2.6,1.45,1.38,1.34,2.22,1.64,1.9,1.88,Non,Non,Non,Non,Oui,Away,50,[50],True
+8689eca5c560fb02,portuguese-league,165100,19,2026-09-10T17:11:30Z,Tondela,Guimaraes,0,2,3.12,2.9,2.54,1.47,1.33,1.37,2.49,1.52,2.06,1.74,Non,Non,Non,Non,Oui,Away,71,"[67, 71]",True
+28f5fb05372d3c5d,portuguese-league,165100,19,2026-09-10T17:11:30Z,Famalicão,Estoril,3,0,1.79,3.49,4.63,1.16,1.95,1.27,1.95,1.83,1.88,1.9,Oui,Non,Oui,Non,Non,Home,87,"[25, 84, 87]",True
+a6f412495342afb2,portuguese-league,165100,19,2026-09-10T17:11:30Z,AFS,Estrela,0,0,2.44,2.35,4.46,1.17,1.51,1.55,4.58,1.19,3.21,1.34,Non,Non,Non,Oui,Non,,,[],True
+cfe0acf859815e0a,portuguese-league,165100,19,2026-09-10T17:11:30Z,Alverca,Lisboa Red,1,3,8.54,4.48,1.39,2.88,1.04,1.17,1.75,2.04,2.12,1.7,Oui,Oui,Non,Non,Oui,Home,75,"[6, 71, 73, 75]",True
+d3b1cef1cba481ff,portuguese-league,165100,19,2026-09-10T17:11:30Z,Porto,Rio Ave,1,1,1.17,6.5,18.72,0.98,4.73,1.08,1.58,2.34,2.75,1.44,Non,Oui,Non,Oui,Non,Home,77,"[36, 77]",True
+702397ac3753bba1,portuguese-league,165100,19,2026-09-10T17:11:30Z,Arouca,Santa Clara,1,0,2.0,2.89,4.66,1.16,1.75,1.38,2.8,1.42,2.37,1.57,Non,Non,Oui,Non,Non,Home,7,[7],True
+29fca7bcea5abd6c,portuguese-league,165100,19,2026-09-10T17:11:30Z,Moreirense,Braga,1,3,3.73,3.38,2.02,1.74,1.24,1.29,1.92,1.86,1.77,2.02,Oui,Oui,Non,Non,Oui,Away,51,"[32, 33, 50, 51]",True
+78b84cc1852dff07,portuguese-league,165100,19,2026-09-10T17:11:30Z,Lisboa Green,Nacional,4,0,1.11,7.48,35.11,0.95,6.05,1.06,1.67,2.17,4.12,1.22,Oui,Non,Oui,Non,Non,Home,90,"[12, 17, 76, 90]",True
+bc8ac2be24153667,portuguese-league,165100,19,2026-09-10T17:11:30Z,Casa Pia,Gil Vicente,1,0,2.1,2.86,4.29,1.19,1.68,1.38,2.78,1.43,2.32,1.59,Non,Non,Oui,Non,Non,Home,86,[86],True
+671da76adc8e0cb8,portuguese-league,165100,21,2026-09-10T17:15:30Z,Tondela,Rio Ave,0,0,2.3,2.98,3.46,1.27,1.57,1.36,2.39,1.56,2.02,1.77,Non,Non,Non,Oui,Non,,,[],True
+7bc509a4c2071512,portuguese-league,165100,21,2026-09-10T17:15:30Z,Lisboa Green,Porto,2,0,1.71,3.64,4.99,1.14,2.06,1.25,1.88,1.9,1.86,1.91,Non,Non,Oui,Non,Non,Home,38,"[26, 38]",True
+2a72cc2e3f996e18,portuguese-league,165100,21,2026-09-10T17:15:30Z,Casa Pia,Estoril,0,0,2.23,3.08,3.49,1.27,1.61,1.34,2.24,1.63,1.94,1.83,Non,Non,Non,Oui,Non,,,[],True
+f8c3a78e48e94404,portuguese-league,165100,21,2026-09-10T17:15:30Z,Santa Clara,Gil Vicente,0,0,2.14,2.98,3.88,1.22,1.65,1.35,2.46,1.53,2.1,1.71,Non,Non,Non,Oui,Non,,,[],True
+588d573b6d3bf790,portuguese-league,165100,21,2026-09-10T17:15:30Z,Moreirense,Lisboa Red,1,3,4.75,3.29,1.83,1.91,1.16,1.3,2.18,1.66,2.03,1.76,Oui,Oui,Non,Non,Oui,Away,89,"[23, 40, 87, 89]",True
+70b6eade426193ea,portuguese-league,165100,21,2026-09-10T17:15:30Z,AFS,Nacional,1,2,2.71,2.29,3.94,1.22,1.42,1.57,4.78,1.18,3.22,1.33,Oui,Oui,Non,Non,Oui,Away,87,"[29, 78, 87]",True
+ebce0f884b81a5d1,portuguese-league,165100,21,2026-09-10T17:15:30Z,Alverca,Famalicão,1,3,3.18,3.18,2.32,1.56,1.32,1.32,2.06,1.74,1.82,1.96,Oui,Oui,Non,Non,Oui,Away,50,"[6, 18, 38, 50]",True
+e3c22c61dea7993d,portuguese-league,165100,21,2026-09-10T17:15:30Z,Braga,Guimaraes,0,0,1.56,3.91,6.1,1.1,2.34,1.22,1.82,1.95,1.94,1.84,Non,Non,Non,Oui,Non,,,[],True
+ed3f7b8369f98d72,portuguese-league,165100,21,2026-09-10T17:15:30Z,Arouca,Estrela,0,0,1.65,3.06,7.99,1.05,2.17,1.34,3.09,1.36,3.06,1.36,Non,Non,Non,Oui,Non,,,[],True
+d2638e078aa16029,portuguese-league,165100,24,2026-09-10T17:21:30Z,Alverca,AFS,2,3,1.92,3.23,4.34,1.18,1.82,1.31,2.18,1.66,1.99,1.8,Oui,Oui,Non,Non,Oui,Away,69,"[23, 25, 46, 63, 69]",True
+559761548b167585,portuguese-league,165100,24,2026-09-10T17:21:30Z,Lisboa Red,Arouca,1,0,1.17,6.82,16.37,0.98,4.73,1.07,1.46,2.67,2.41,1.55,Non,Non,Oui,Non,Non,Home,32,[32],True
+da45ed275136ffda,portuguese-league,165100,24,2026-09-10T17:21:30Z,Famalicão,Braga,2,4,3.25,3.26,2.25,1.6,1.3,1.3,1.97,1.81,1.77,2.02,Oui,Oui,Non,Non,Oui,Away,86,"[16, 18, 28, 75, 85, 86]",True
+8880053caee4247c,portuguese-league,165100,24,2026-09-10T17:21:30Z,Casa Pia,Tondela,3,0,2.52,2.75,3.34,1.29,1.48,1.41,2.84,1.41,2.25,1.62,Oui,Non,Oui,Non,Non,Home,43,"[26, 34, 43]",True
+1fa53bcfadaac947,portuguese-league,165100,24,2026-09-10T17:21:30Z,Porto,Santa Clara,3,0,1.25,5.1,16.12,0.98,3.8,1.14,1.92,1.86,3.01,1.37,Oui,Non,Oui,Non,Non,Home,59,"[18, 54, 59]",True
+1e9ee1567852ae4c,portuguese-league,165100,24,2026-09-10T17:21:30Z,Estoril,Estrela,0,0,1.58,3.27,8.16,1.05,2.29,1.3,2.75,1.44,2.86,1.41,Non,Non,Non,Oui,Non,,,[],True
+28edf9dc340b06a5,portuguese-league,165100,24,2026-09-10T17:21:30Z,Nacional,Gil Vicente,4,0,1.92,3.52,3.91,1.22,1.82,1.26,1.81,1.97,1.72,2.09,Oui,Non,Oui,Non,Non,Home,73,"[36, 44, 67, 73]",True
+d8ef6b548855032a,portuguese-league,165100,24,2026-09-10T17:21:30Z,Rio Ave,Guimaraes,0,1,2.19,2.99,3.72,1.24,1.63,1.35,2.41,1.55,2.06,1.74,Non,Non,Non,Non,Oui,Away,66,[66],True
+3506d93e619dba71,portuguese-league,165100,24,2026-09-10T17:21:30Z,Lisboa Green,Moreirense,4,0,1.21,5.98,14.43,0.99,4.15,1.1,1.57,2.37,2.41,1.55,Oui,Non,Oui,Non,Non,Home,89,"[25, 37, 59, 89]",True
+bd2e0e5e80b28922,portuguese-league,165100,26,2026-09-10T17:25:30Z,Casa Pia,Braga,0,0,4.14,3.18,1.98,1.77,1.2,1.32,2.2,1.65,1.98,1.8,Non,Non,Non,Oui,Non,,,[],True
+c77a63a85f652605,portuguese-league,165100,26,2026-09-10T17:25:30Z,AFS,Moreirense,1,0,4.15,2.9,2.11,1.67,1.2,1.37,2.66,1.46,2.24,1.63,Non,Non,Oui,Non,Non,Home,53,[53],True
+a70f7b23b92e08de,portuguese-league,165100,26,2026-09-10T17:25:30Z,Famalicão,Lisboa Red,1,1,4.7,3.19,1.87,1.87,1.16,1.31,2.29,1.6,2.09,1.72,Non,Oui,Non,Oui,Non,Home,75,"[48, 75]",True
+20c840064bf341da,portuguese-league,165100,26,2026-09-10T17:25:30Z,Tondela,Santa Clara,0,1,2.56,2.66,3.41,1.28,1.47,1.43,3.08,1.36,2.38,1.56,Non,Non,Non,Non,Oui,Away,78,[78],True
+1e73da2cb838f948,portuguese-league,165100,26,2026-09-10T17:25:30Z,Porto,Gil Vicente,3,0,1.17,6.59,18.51,0.98,4.77,1.08,1.56,2.39,2.71,1.45,Oui,Non,Oui,Non,Non,Home,71,"[65, 65, 71]",True
+703a72d85df57f41,portuguese-league,165100,26,2026-09-10T17:25:30Z,Rio Ave,Arouca,2,1,2.15,3.22,3.52,1.27,1.65,1.31,2.06,1.74,1.84,1.93,Oui,Oui,Oui,Non,Non,Home,65,"[4, 57, 65]",True
+045a20cbfa7ff26e,portuguese-league,165100,26,2026-09-10T17:25:30Z,Alverca,Estrela,3,1,2.01,2.73,5.12,1.14,1.75,1.42,3.28,1.32,2.7,1.45,Oui,Oui,Oui,Non,Non,Home,89,"[13, 29, 30, 89]",True
+e3c3510c4a38f6e9,portuguese-league,165100,26,2026-09-10T17:25:30Z,Estoril,Nacional,2,0,1.76,2.93,6.63,1.08,1.99,1.37,3.12,1.35,2.85,1.41,Non,Non,Oui,Non,Non,Home,31,"[19, 31]",True
+6bf63de10b33d9ec,portuguese-league,165100,26,2026-09-10T17:25:30Z,Lisboa Green,Guimaraes,2,0,1.26,5.44,12.42,1.0,3.71,1.12,1.63,2.25,2.32,1.59,Non,Non,Oui,Non,Non,Home,64,"[61, 64]",True
+8177a313cf722d0d,portuguese-league,165100,29,2026-09-10T17:31:30Z,Rio Ave,Casa Pia,1,1,1.95,3.36,4.01,1.21,1.8,1.29,1.98,1.81,1.83,1.94,Non,Oui,Non,Oui,Non,Away,62,"[38, 62]",True
+7553c660ad8bf9a4,portuguese-league,165100,29,2026-09-10T17:31:30Z,Arouca,Porto,1,2,4.4,3.18,1.93,1.81,1.18,1.32,2.26,1.62,2.04,1.76,Oui,Oui,Non,Non,Oui,Away,71,"[6, 10, 71]",True
+1467502c76bb6511,portuguese-league,165100,29,2026-09-10T17:31:30Z,Famalicão,Lisboa Green,0,1,4.71,3.51,1.78,1.97,1.16,1.27,1.94,1.84,1.88,1.9,Non,Non,Non,Non,Oui,Away,12,[12],True
+da09cc41da4a14d8,portuguese-league,165100,29,2026-09-10T17:31:30Z,Estoril,Alverca,3,1,1.78,3.67,4.44,1.18,1.97,1.25,1.77,2.02,1.75,2.05,Oui,Oui,Oui,Non,Non,Home,70,"[14, 59, 64, 70]",True
+634bf1ed0f5bb85b,portuguese-league,165100,29,2026-09-10T17:31:30Z,Guimaraes,Santa Clara,2,0,1.56,3.46,7.68,1.06,2.34,1.27,2.43,1.54,2.56,1.49,Non,Non,Oui,Non,Non,Home,89,"[78, 89]",True
+4e25c449964d0c6f,portuguese-league,165100,29,2026-09-10T17:31:30Z,Gil Vicente,Moreirense,1,2,2.22,2.89,3.8,1.23,1.61,1.37,2.6,1.48,2.17,1.67,Oui,Oui,Non,Non,Oui,Away,83,"[71, 78, 83]",True
+2d6396b7b0391e64,portuguese-league,165100,29,2026-09-10T17:31:30Z,Lisboa Red,AFS,4,0,1.05,11.88,48.42,0.94,9.37,1.01,1.32,3.3,4.02,1.23,Oui,Non,Oui,Non,Non,Home,50,"[16, 26, 37, 50]",True
+a60845741a1c0076,portuguese-league,165100,29,2026-09-10T17:31:30Z,Estrela,Braga,0,2,4.7,3.97,1.68,2.11,1.16,1.21,1.61,2.27,1.66,2.18,Non,Non,Non,Non,Oui,Away,77,"[73, 77]",True
+098c202831b35695,portuguese-league,165100,29,2026-09-10T17:31:30Z,Nacional,Tondela,0,0,2.27,3.42,3.06,1.34,1.58,1.28,1.79,1.99,1.66,2.19,Non,Non,Non,Oui,Non,,,[],True
+28df201638b1e516,portuguese-league,165100,31,2026-09-10T17:35:30Z,Gil Vicente,Guimaraes,0,1,2.39,2.8,3.52,1.27,1.53,1.4,2.74,1.44,2.22,1.64,Non,Non,Non,Non,Oui,Away,70,[70],True
+cf453dddffad928c,portuguese-league,165100,31,2026-09-10T17:35:30Z,Famalicão,AFS,1,1,1.47,3.73,8.78,1.04,2.57,1.24,2.28,1.61,2.59,1.48,Non,Oui,Non,Oui,Non,Away,32,"[26, 32]",True
+99f6e5c0a3961412,portuguese-league,165100,31,2026-09-10T17:35:30Z,Lisboa Green,Casa Pia,3,1,1.18,6.86,15.06,0.99,4.62,1.07,1.41,2.84,2.25,1.63,Oui,Oui,Oui,Non,Non,Home,90,"[40, 41, 45, 90]",True
+e714d4fa3f5eb003,portuguese-league,165100,31,2026-09-10T17:35:30Z,Porto,Tondela,5,0,1.27,5.24,11.95,1.01,3.58,1.13,1.67,2.17,2.33,1.58,Oui,Non,Oui,Non,Non,Home,74,"[41, 44, 63, 64, 74]",True
+ce6c8817e087a21a,portuguese-league,165100,31,2026-09-10T17:35:30Z,Nacional,Braga,1,3,4.25,4.06,1.73,2.04,1.19,1.21,1.51,2.51,1.56,2.39,Oui,Oui,Non,Non,Oui,Away,78,"[1, 27, 67, 78]",True
+4c486781b4c2befe,portuguese-league,165100,31,2026-09-10T17:35:30Z,Estoril,Moreirense,3,2,2.16,3.17,3.56,1.26,1.65,1.32,2.12,1.7,1.88,1.89,Oui,Oui,Oui,Non,Non,Home,75,"[24, 28, 40, 64, 75]",True
+ca020e41f3cfb2e5,portuguese-league,165100,31,2026-09-10T17:35:30Z,Lisboa Red,Estrela,5,0,1.07,9.74,53.69,0.94,8.09,1.03,1.51,2.51,4.89,1.17,Oui,Non,Oui,Non,Non,Home,89,"[12, 23, 68, 75, 89]",True
+7220340b78c897de,portuguese-league,165100,31,2026-09-10T17:35:30Z,Arouca,Alverca,0,1,1.84,3.5,4.32,1.18,1.9,1.27,1.89,1.88,1.81,1.97,Non,Non,Non,Non,Oui,Away,2,[2],True
+04ce649f267ed2ee,portuguese-league,165100,31,2026-09-10T17:35:30Z,Rio Ave,Santa Clara,2,1,1.86,3.0,5.29,1.13,1.88,1.35,2.7,1.45,2.41,1.55,Oui,Oui,Oui,Non,Non,Home,86,"[14, 85, 86]",True
+99a5dc8de3e88aee,portuguese-league,165100,34,2026-09-10T17:41:30Z,Moreirense,Tondela,2,0,2.13,3.12,3.69,1.24,1.66,1.33,2.21,1.64,1.94,1.83,Non,Non,Oui,Non,Non,Home,44,"[40, 44]",True
+17820f96858168a1,portuguese-league,165100,34,2026-09-10T17:41:30Z,Guimaraes,Porto,0,3,3.11,2.98,2.48,1.5,1.33,1.35,2.34,1.58,1.97,1.81,Oui,Non,Non,Non,Oui,Away,90,"[85, 90, 90]",True
+b5ba86ee1081f03b,portuguese-league,165100,34,2026-09-10T17:41:30Z,AFS,Arouca,3,2,4.16,3.04,2.04,1.72,1.2,1.34,2.41,1.55,2.1,1.71,Oui,Oui,Oui,Non,Non,Home,85,"[15, 22, 28, 55, 85]",True
+14302409bb25defa,portuguese-league,165100,34,2026-09-10T17:41:30Z,Lisboa Red,Estoril,5,0,1.1,9.23,23.12,0.97,6.47,1.03,1.3,3.42,2.56,1.49,Oui,Non,Oui,Non,Non,Home,85,"[23, 42, 50, 80, 85]",True
+de3b211803cc860c,portuguese-league,165100,34,2026-09-10T17:41:30Z,Braga,Alverca,1,1,1.26,5.79,10.37,1.02,3.65,1.11,1.44,2.75,1.96,1.82,Non,Oui,Non,Oui,Non,Away,87,"[20, 87]",True
+06fe3be308d7380f,portuguese-league,165100,34,2026-09-10T17:41:30Z,Estrela,Lisboa Green,2,2,7.08,4.7,1.42,2.77,1.07,1.16,1.53,2.46,1.79,1.99,Oui,Oui,Non,Oui,Non,Away,83,"[27, 64, 78, 83]",True
+be5eee683a52474c,portuguese-league,165100,34,2026-09-10T17:41:30Z,Nacional,Rio Ave,1,0,1.94,3.48,3.9,1.22,1.8,1.27,1.84,1.93,1.74,2.06,Non,Non,Oui,Non,Non,Home,27,[27],True
+47a2abd6b3121e52,portuguese-league,165100,34,2026-09-10T17:41:30Z,Gil Vicente,Famalicão,1,2,2.13,3.09,3.75,1.24,1.66,1.33,2.26,1.62,1.98,1.81,Oui,Oui,Non,Non,Oui,Away,61,"[30, 34, 61]",True
+24e7d53c681a0667,portuguese-league,165100,34,2026-09-10T17:41:30Z,Santa Clara,Casa Pia,2,3,2.52,3.07,2.96,1.36,1.48,1.34,2.18,1.66,1.88,1.89,Oui,Oui,Non,Non,Oui,Home,75,"[29, 34, 72, 73, 75]",True
