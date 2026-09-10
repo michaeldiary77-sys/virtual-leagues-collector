@@ -1,0 +1,171 @@
+match_key,league,season_id,round_number,expected_start,home_team,away_team,home_score,away_score,odds_1,odds_X,odds_2,odds_dc_1x,odds_dc_x2,odds_dc_12,odds_over_2_5,odds_under_2_5,odds_btts_yes,odds_btts_no,over_2_5,btts,home_win,draw,away_win,first_goal_team,last_goal_minute,goal_timeline,had_odds
+d90747a1372e64d1,italian-league,165080,1,2026-09-10T13:14:28Z,Atalanta,Napoli,2,2,2.87,3.34,2.43,1.51,1.38,1.29,1.86,1.92,1.69,2.14,Oui,Oui,Non,Oui,Non,Away,64,"[27, 52, 58, 64]",True
+f61a16ea7d0e6e3c,italian-league,165080,1,2026-09-10T13:14:28Z,Cagliari,Torino,3,0,2.68,3.37,2.57,1.46,1.43,1.29,1.82,1.96,1.66,2.18,Oui,Non,Oui,Non,Non,Home,73,"[19, 66, 73]",True
+48a5f1a752891a13,italian-league,165080,1,2026-09-10T13:14:28Z,Cremonese,Milan Blues,1,2,7.2,4.18,1.47,2.6,1.07,1.2,1.78,2.01,2.01,1.78,Oui,Oui,Non,Non,Oui,Away,79,"[34, 65, 79]",True
+c51080232baf3168,italian-league,165080,1,2026-09-10T13:14:28Z,Roma,Genoa,0,1,1.59,3.46,7.1,1.07,2.28,1.27,2.35,1.58,2.43,1.54,Non,Non,Non,Non,Oui,Away,5,[5],True
+e16bae2e80417403,italian-league,165080,1,2026-09-10T13:14:28Z,Sassuolo,Udinese,1,0,2.95,2.57,3.02,1.35,1.36,1.46,3.34,1.32,2.49,1.52,Non,Non,Oui,Non,Non,Home,50,[50],True
+391172578dd45622,italian-league,165080,1,2026-09-10T13:14:28Z,Milan Reds,Pisa,1,3,1.26,5.37,12.64,1.0,3.7,1.12,1.66,2.19,2.38,1.56,Oui,Oui,Non,Non,Oui,Home,75,"[40, 44, 63, 75]",True
+da1463ba9784104a,italian-league,165080,1,2026-09-10T13:14:28Z,Turin,Verona,1,1,1.42,3.88,10.3,1.02,2.76,1.22,2.3,1.6,2.79,1.43,Non,Oui,Non,Oui,Non,Home,49,"[27, 49]",True
+c564f123cdce9df8,italian-league,165080,1,2026-09-10T13:14:28Z,Parma,Lazio,0,1,3.73,3.44,1.99,1.76,1.24,1.28,1.85,1.92,1.74,2.07,Non,Non,Non,Non,Oui,Away,75,[75],True
+992d22611a372dac,italian-league,165080,1,2026-09-10T13:14:28Z,Lecce,Como,0,1,3.69,2.9,2.25,1.59,1.24,1.37,2.58,1.49,2.14,1.69,Non,Non,Non,Non,Oui,Away,6,[6],True
+f01e95c72521fc68,italian-league,165080,1,2026-09-10T13:14:28Z,Bologna,Fiorentina,1,1,1.9,3.11,4.71,1.16,1.84,1.33,2.41,1.55,2.16,1.67,Non,Oui,Non,Oui,Non,Home,59,"[52, 59]",True
+2f5632c072c9d4ce,italian-league,165080,2,2026-09-10T13:16:28Z,Milan Blues,Cagliari,3,0,1.2,5.99,16.88,0.98,4.34,1.1,1.65,2.21,2.71,1.45,Oui,Non,Oui,Non,Non,Home,87,"[32, 64, 87]",True
+e8bc655fcdec7399,italian-league,165080,2,2026-09-10T13:16:28Z,Verona,Udinese,1,1,2.9,2.96,2.65,1.44,1.37,1.36,2.36,1.57,1.98,1.8,Non,Oui,Non,Oui,Non,Home,74,"[14, 74]",True
+4a08ab05503831e8,italian-league,165080,2,2026-09-10T13:16:28Z,Pisa,Turin,0,1,4.39,2.69,2.17,1.64,1.18,1.43,3.2,1.34,2.55,1.5,Non,Non,Non,Non,Oui,Away,52,[52],True
+c14a87c790775ece,italian-league,165080,2,2026-09-10T13:16:28Z,Napoli,Roma,2,2,1.91,3.27,4.34,1.18,1.83,1.3,2.13,1.69,1.96,1.82,Oui,Oui,Non,Oui,Non,Home,62,"[30, 31, 57, 62]",True
+ad78fd468736bdda,italian-league,165080,2,2026-09-10T13:16:28Z,Torino,Atalanta,0,1,4.12,2.65,2.27,1.58,1.2,1.44,3.26,1.33,2.54,1.5,Non,Non,Non,Non,Oui,Away,49,[49],True
+b53bd82489fdc5f5,italian-league,165080,2,2026-09-10T13:16:28Z,Genoa,Sassuolo,2,0,1.9,3.21,4.49,1.17,1.84,1.31,2.23,1.64,2.03,1.76,Non,Non,Oui,Non,Non,Home,41,"[30, 41]",True
+613c3e2a4234566a,italian-league,165080,2,2026-09-10T13:16:28Z,Lecce,Bologna,1,2,3.99,3.12,2.05,1.72,1.21,1.33,2.26,1.62,2.0,1.79,Oui,Oui,Non,Non,Oui,Home,43,"[8, 43, 43]",True
+565a10d00f3a2a29,italian-league,165080,2,2026-09-10T13:16:28Z,Como,Cremonese,4,0,1.79,3.6,4.49,1.17,1.96,1.25,1.83,1.94,1.79,2.0,Oui,Non,Oui,Non,Non,Home,76,"[3, 48, 59, 76]",True
+1cf1d1a0d914b53f,italian-league,165080,2,2026-09-10T13:16:28Z,Fiorentina,Parma,2,0,1.52,4.04,6.45,1.08,2.44,1.21,1.78,2.0,1.94,1.84,Non,Non,Oui,Non,Non,Home,83,"[75, 83]",True
+4d30e9e3bdd88ea4,italian-league,165080,2,2026-09-10T13:16:28Z,Lazio,Milan Reds,2,1,2.1,3.57,3.3,1.3,1.68,1.26,1.69,2.13,1.61,2.28,Oui,Oui,Oui,Non,Non,Away,50,"[11, 28, 50]",True
+fb2d27b6feb314cc,italian-league,165080,4,2026-09-10T13:20:28Z,Napoli,Sassuolo,1,2,1.47,4.06,7.59,1.06,2.59,1.21,1.9,1.88,2.14,1.69,Oui,Oui,Non,Non,Oui,Home,73,"[53, 73, 73]",True
+96ccb902dfa3ed66,italian-league,165080,4,2026-09-10T13:20:28Z,Fiorentina,Turin,0,0,2.26,3.15,3.34,1.29,1.59,1.32,2.12,1.7,1.86,1.91,Non,Non,Non,Oui,Non,,,[],True
+65cebdf7f1206ab8,italian-league,165080,4,2026-09-10T13:20:28Z,Cremonese,Parma,0,0,2.4,3.08,3.13,1.32,1.52,1.33,2.19,1.66,1.89,1.88,Non,Non,Non,Oui,Non,,,[],True
+d8dfce50848aa084,italian-league,165080,4,2026-09-10T13:20:28Z,Lecce,Milan Reds,0,1,4.46,3.52,1.81,1.93,1.17,1.26,1.89,1.88,1.82,1.95,Non,Non,Non,Non,Oui,Away,75,[75],True
+0c445cf3e052e627,italian-league,165080,4,2026-09-10T13:20:28Z,Torino,Genoa,0,0,2.56,2.22,4.57,1.17,1.47,1.61,5.44,1.14,3.6,1.28,Non,Non,Non,Oui,Non,,,[],True
+1b1a8473fa489c41,italian-league,165080,4,2026-09-10T13:20:28Z,Como,Atalanta,0,1,3.76,3.63,1.93,1.81,1.24,1.25,1.71,2.11,1.65,2.2,Non,Non,Non,Non,Oui,Away,60,[60],True
+d7cfb7e7173270ff,italian-league,165080,4,2026-09-10T13:20:28Z,Bologna,Cagliari,2,0,1.34,4.3,11.97,1.01,3.1,1.19,2.11,1.7,2.81,1.42,Non,Non,Oui,Non,Non,Home,36,"[33, 36]",True
+3dec431593e3f459,italian-league,165080,4,2026-09-10T13:20:28Z,Milan Blues,Roma,4,1,1.52,3.94,6.71,1.08,2.44,1.22,1.88,1.89,2.05,1.75,Oui,Oui,Oui,Non,Non,Home,90,"[31, 39, 63, 88, 90]",True
+b5702c0e78827011,italian-league,165080,4,2026-09-10T13:20:28Z,Pisa,Verona,3,0,2.48,2.61,3.65,1.25,1.5,1.45,3.27,1.33,2.49,1.52,Oui,Non,Oui,Non,Non,Home,87,"[67, 77, 87]",True
+deb01fe7a2ad2649,italian-league,165080,4,2026-09-10T13:20:28Z,Lazio,Udinese,3,1,1.73,3.33,5.54,1.12,2.04,1.29,2.27,1.62,2.18,1.67,Oui,Oui,Oui,Non,Non,Away,85,"[42, 53, 69, 85]",True
+99960155f0ee519e,italian-league,165080,7,2026-09-10T13:26:28Z,Genoa,Bologna,1,2,2.39,3.3,2.95,1.36,1.53,1.3,1.9,1.87,1.72,2.09,Oui,Oui,Non,Non,Oui,Home,66,"[53, 59, 66]",True
+e14722b85fb33f39,italian-league,165080,7,2026-09-10T13:26:28Z,Roma,Parma,3,0,1.39,4.39,8.69,1.04,2.86,1.18,1.81,1.97,2.18,1.66,Oui,Non,Oui,Non,Non,Home,90,"[52, 90, 90]",True
+17cd8bb9c4897f46,italian-league,165080,7,2026-09-10T13:26:28Z,Atalanta,Milan Reds,3,1,1.86,4.04,3.65,1.25,1.88,1.21,1.45,2.71,1.47,2.62,Oui,Oui,Oui,Non,Non,Home,86,"[7, 10, 48, 86]",True
+fbca7721de97a494,italian-league,165080,7,2026-09-10T13:26:28Z,Udinese,Cremonese,1,1,1.92,3.35,4.13,1.2,1.82,1.29,2.0,1.78,1.86,1.91,Non,Oui,Non,Oui,Non,Home,89,"[30, 89]",True
+b9d40fe865a7059a,italian-league,165080,7,2026-09-10T13:26:28Z,Napoli,Como,3,1,1.66,3.57,5.59,1.11,2.14,1.26,2.02,1.77,2.02,1.77,Oui,Oui,Oui,Non,Non,Home,84,"[41, 47, 70, 84]",True
+39d7db616d8f3a45,italian-league,165080,7,2026-09-10T13:26:28Z,Turin,Cagliari,0,0,1.29,4.69,13.93,0.99,3.44,1.16,2.01,1.78,2.9,1.4,Non,Non,Non,Oui,Non,,,[],True
+13fed464003133bd,italian-league,165080,7,2026-09-10T13:26:28Z,Verona,Lecce,1,1,2.69,2.74,3.1,1.33,1.43,1.41,2.85,1.41,2.24,1.63,Non,Oui,Non,Oui,Non,Away,52,"[13, 52]",True
+e51174071e396bc2,italian-league,165080,7,2026-09-10T13:26:28Z,Sassuolo,Lazio,0,1,5.29,2.94,1.88,1.85,1.13,1.36,2.83,1.41,2.48,1.52,Non,Non,Non,Non,Oui,Away,43,[43],True
+b5a4e16c4a17bb6d,italian-league,165080,7,2026-09-10T13:26:28Z,Pisa,Fiorentina,1,1,3.71,2.79,2.32,1.56,1.24,1.4,2.81,1.42,2.27,1.61,Non,Oui,Non,Oui,Non,Away,49,"[15, 49]",True
+292597b7211ec3cc,italian-league,165080,7,2026-09-10T13:26:28Z,Torino,Milan Blues,1,1,5.19,2.85,1.94,1.81,1.13,1.38,2.99,1.38,2.55,1.5,Non,Oui,Non,Oui,Non,Home,28,"[22, 28]",True
+2bebb8fb797b0cd9,italian-league,165080,9,2026-09-10T13:30:28Z,Milan Blues,Como,1,0,1.4,4.39,8.52,1.04,2.85,1.18,1.79,1.99,2.14,1.68,Non,Non,Oui,Non,Non,Home,62,[62],True
+d8ed84a7f0980173,italian-league,165080,9,2026-09-10T13:30:28Z,Roma,Turin,3,0,2.04,3.05,4.14,1.2,1.72,1.34,2.4,1.55,2.09,1.72,Oui,Non,Oui,Non,Non,Home,33,"[23, 31, 33]",True
+810041ca0958001a,italian-league,165080,9,2026-09-10T13:30:28Z,Pisa,Cremonese,2,2,2.42,2.75,3.54,1.26,1.52,1.41,2.87,1.4,2.28,1.61,Oui,Oui,Non,Oui,Non,Away,86,"[36, 42, 62, 86]",True
+4f3add43a2f0251a,italian-league,165080,9,2026-09-10T13:30:28Z,Torino,Bologna,2,0,2.67,2.59,3.34,1.29,1.43,1.46,3.29,1.32,2.48,1.52,Non,Non,Oui,Non,Non,Home,69,"[4, 69]",True
+912c43470d134210,italian-league,165080,9,2026-09-10T13:30:28Z,Sassuolo,Fiorentina,0,3,4.51,2.88,2.04,1.73,1.17,1.38,2.78,1.43,2.34,1.58,Oui,Non,Non,Non,Oui,Away,50,"[18, 23, 50]",True
+95c8f54140dd0437,italian-league,165080,9,2026-09-10T13:30:28Z,Genoa,Milan Reds,1,2,2.82,3.42,2.42,1.52,1.39,1.28,1.77,2.02,1.63,2.23,Oui,Oui,Non,Non,Oui,Home,82,"[16, 75, 82]",True
+d9640663b8a37449,italian-league,165080,9,2026-09-10T13:30:28Z,Udinese,Atalanta,2,1,4.03,3.6,1.87,1.87,1.21,1.25,1.77,2.02,1.71,2.11,Oui,Oui,Oui,Non,Non,Away,44,"[21, 30, 44]",True
+e9bde26bd46db105,italian-league,165080,9,2026-09-10T13:30:28Z,Verona,Cagliari,1,2,2.32,3.03,3.34,1.29,1.56,1.34,2.29,1.61,1.96,1.82,Oui,Oui,Non,Non,Oui,Away,78,"[11, 48, 78]",True
+7e50ae9bd16a5de2,italian-league,165080,9,2026-09-10T13:30:28Z,Lazio,Lecce,3,0,1.63,3.33,6.91,1.07,2.21,1.29,2.49,1.52,2.5,1.52,Oui,Non,Oui,Non,Non,Home,84,"[1, 69, 84]",True
+f7f778943a0622b9,italian-league,165080,9,2026-09-10T13:30:28Z,Napoli,Parma,0,1,1.51,4.02,6.78,1.08,2.48,1.21,1.84,1.94,2.02,1.77,Non,Non,Non,Non,Oui,Away,61,[61],True
+79b32f012e3d8ea9,italian-league,165080,12,2026-09-10T13:36:28Z,Milan Reds,Milan Blues,2,2,2.79,3.4,2.45,1.5,1.4,1.28,1.79,1.99,1.65,2.21,Oui,Oui,Non,Oui,Non,Home,64,"[1, 9, 30, 64]",True
+6dd87e1b71e24beb,italian-league,165080,12,2026-09-10T13:36:28Z,Roma,Pisa,0,3,1.26,5.28,13.32,1.0,3.71,1.13,1.72,2.08,2.51,1.51,Oui,Non,Non,Non,Oui,Away,70,"[26, 46, 70]",True
+67af2e6c0ac55149,italian-league,165080,12,2026-09-10T13:36:28Z,Udinese,Napoli,0,0,5.01,3.51,1.74,2.02,1.14,1.27,2.0,1.79,1.94,1.83,Non,Non,Non,Oui,Non,,,[],True
+27c7be41cf490b3d,italian-league,165080,12,2026-09-10T13:36:28Z,Cremonese,Lecce,1,0,2.42,2.72,3.58,1.26,1.52,1.42,2.96,1.38,2.33,1.58,Non,Non,Oui,Non,Non,Home,83,[83],True
+e4882a62400159a0,italian-league,165080,12,2026-09-10T13:36:28Z,Parma,Como,4,0,2.41,3.24,2.98,1.35,1.52,1.31,1.98,1.81,1.76,2.03,Oui,Non,Oui,Non,Non,Home,90,"[25, 70, 81, 90]",True
+009f663489ba2494,italian-league,165080,12,2026-09-10T13:36:28Z,Bologna,Sassuolo,1,0,1.42,4.0,9.46,1.03,2.76,1.21,2.13,1.7,2.54,1.5,Non,Non,Oui,Non,Non,Home,70,[70],True
+cddfd7364d6de19d,italian-league,165080,12,2026-09-10T13:36:28Z,Atalanta,Lazio,1,1,2.16,3.52,3.2,1.31,1.64,1.26,1.72,2.09,1.62,2.26,Non,Oui,Non,Oui,Non,Home,85,"[41, 85]",True
+b72abf7875002d44,italian-league,165080,12,2026-09-10T13:36:28Z,Cagliari,Fiorentina,1,1,3.19,3.43,2.2,1.62,1.32,1.28,1.8,1.99,1.67,2.17,Non,Oui,Non,Oui,Non,Home,64,"[7, 64]",True
+6e4c35c803ded42b,italian-league,165080,12,2026-09-10T13:36:28Z,Genoa,Verona,0,0,2.01,3.01,4.34,1.18,1.74,1.35,2.51,1.51,2.18,1.67,Non,Non,Non,Oui,Non,,,[],True
+35aa9467889d30c5,italian-league,165080,12,2026-09-10T13:36:28Z,Turin,Torino,0,2,1.63,3.4,6.57,1.08,2.2,1.28,2.35,1.58,2.36,1.57,Non,Non,Non,Non,Oui,Away,68,"[56, 68]",True
+8b07f75a027b2a00,italian-league,165080,14,2026-09-10T13:40:28Z,Milan Reds,Bologna,2,0,1.55,4.13,5.79,1.11,2.37,1.2,1.65,2.2,1.78,2.0,Non,Non,Oui,Non,Non,Home,79,"[79, 79]",True
+60f4fa8912a11366,italian-league,165080,14,2026-09-10T13:40:28Z,Genoa,Lazio,3,2,3.5,3.1,2.22,1.61,1.27,1.33,2.22,1.64,1.93,1.85,Oui,Oui,Oui,Non,Non,Away,76,"[42, 44, 44, 70, 76]",True
+2b0ee528991b50f9,italian-league,165080,14,2026-09-10T13:40:28Z,Cagliari,Cremonese,2,1,2.02,3.46,3.64,1.25,1.74,1.27,1.82,1.96,1.71,2.1,Oui,Oui,Oui,Non,Non,Home,47,"[19, 35, 47]",True
+7837fd3c7830bb67,italian-league,165080,14,2026-09-10T13:40:28Z,Atalanta,Lecce,1,0,1.45,4.11,7.9,1.05,2.65,1.2,1.9,1.87,2.18,1.66,Non,Non,Oui,Non,Non,Home,36,[36],True
+0dd02be674d24c67,italian-league,165080,14,2026-09-10T13:40:28Z,Udinese,Milan Blues,2,2,5.57,3.98,1.59,2.28,1.11,1.21,1.72,2.09,1.81,1.96,Oui,Oui,Non,Oui,Non,Away,86,"[32, 35, 64, 86]",True
+5b5874e57551d400,italian-league,165080,14,2026-09-10T13:40:28Z,Turin,Como,0,0,1.56,3.56,7.27,1.06,2.35,1.26,2.27,1.61,2.4,1.56,Non,Non,Non,Oui,Non,,,[],True
+01504e347bcae72f,italian-league,165080,14,2026-09-10T13:40:28Z,Parma,Sassuolo,1,0,1.97,3.35,3.92,1.22,1.77,1.29,1.98,1.81,1.83,1.95,Non,Non,Oui,Non,Non,Home,58,[58],True
+8892ed2cf8bdcc83,italian-league,165080,14,2026-09-10T13:40:28Z,Verona,Torino,0,1,3.57,3.25,2.12,1.67,1.26,1.31,2.03,1.76,1.83,1.95,Non,Non,Non,Non,Oui,Away,82,[82],True
+e56e87538c44ee65,italian-league,165080,14,2026-09-10T13:40:28Z,Roma,Fiorentina,3,2,1.83,3.34,4.68,1.16,1.91,1.29,2.11,1.7,1.98,1.8,Oui,Oui,Oui,Non,Non,Home,79,"[5, 30, 56, 74, 79]",True
+fcfeea135458222c,italian-league,165080,14,2026-09-10T13:40:28Z,Napoli,Pisa,1,0,1.35,4.56,10.12,1.02,3.08,1.17,1.84,1.94,2.34,1.58,Non,Non,Oui,Non,Non,Home,40,[40],True
+6284b3b09f293964,italian-league,165080,17,2026-09-10T13:46:28Z,Cagliari,Roma,0,0,3.01,3.34,2.33,1.56,1.35,1.29,1.86,1.91,1.7,2.13,Non,Non,Non,Oui,Non,,,[],True
+86cdd131dc77c293,italian-league,165080,17,2026-09-10T13:46:28Z,Lecce,Napoli,0,0,8.51,3.75,1.48,2.56,1.04,1.24,2.23,1.63,2.52,1.51,Non,Non,Non,Oui,Non,,,[],True
+de5cf4c7dc90e641,italian-league,165080,17,2026-09-10T13:46:28Z,Bologna,Verona,1,0,1.48,3.67,9.09,1.03,2.57,1.25,2.38,1.56,2.71,1.45,Non,Non,Oui,Non,Non,Home,88,[88],True
+11939034cf686404,italian-league,165080,17,2026-09-10T13:46:28Z,Milan Reds,Turin,0,0,2.01,3.22,3.99,1.21,1.75,1.31,2.14,1.69,1.93,1.85,Non,Non,Non,Oui,Non,,,[],True
+3fdbc12a56f1f85a,italian-league,165080,17,2026-09-10T13:46:28Z,Como,Pisa,0,2,1.57,3.92,5.98,1.1,2.33,1.22,1.8,1.98,1.91,1.86,Non,Non,Non,Non,Oui,Away,79,"[21, 79]",True
+8956d9fb1215a7c3,italian-league,165080,17,2026-09-10T13:46:28Z,Fiorentina,Torino,1,0,1.83,3.57,4.31,1.19,1.92,1.26,1.83,1.95,1.77,2.02,Non,Non,Oui,Non,Non,Home,31,[31],True
+253b9d69174e5990,italian-league,165080,17,2026-09-10T13:46:28Z,Milan Blues,Lazio,1,1,1.77,3.47,4.86,1.15,1.99,1.27,2.01,1.78,1.94,1.84,Non,Oui,Non,Oui,Non,Away,68,"[53, 68]",True
+6dcbb44addf840bc,italian-league,165080,17,2026-09-10T13:46:28Z,Sassuolo,Atalanta,0,1,6.29,3.46,1.63,2.19,1.09,1.27,2.25,1.63,2.26,1.62,Non,Non,Non,Non,Oui,Away,52,[52],True
+e94e99adc3d8553f,italian-league,165080,17,2026-09-10T13:46:28Z,Parma,Udinese,3,2,2.22,3.19,3.37,1.29,1.61,1.31,2.07,1.73,1.84,1.94,Oui,Oui,Oui,Non,Non,Away,61,"[12, 36, 49, 52, 61]",True
+ea321fdffa45dc99,italian-league,165080,17,2026-09-10T13:46:28Z,Cremonese,Genoa,2,2,2.73,2.74,3.04,1.34,1.41,1.41,2.85,1.41,2.24,1.63,Oui,Oui,Non,Oui,Non,Home,79,"[24, 29, 73, 79]",True
+da85966437181c98,italian-league,165080,19,2026-09-10T13:50:28Z,Cagliari,Napoli,2,2,5.49,3.87,1.61,2.23,1.12,1.22,1.78,2.01,1.84,1.93,Oui,Oui,Non,Oui,Non,Away,76,"[2, 36, 37, 76]",True
+fdd2ada629d67702,italian-league,165080,19,2026-09-10T13:50:28Z,Lecce,Milan Blues,0,4,9.63,4.53,1.36,3.03,1.03,1.17,1.81,1.97,2.27,1.62,Oui,Non,Non,Non,Oui,Away,61,"[13, 37, 46, 61]",True
+9795b03d9d2f5d9f,italian-league,165080,19,2026-09-10T13:50:28Z,Bologna,Lazio,1,0,2.16,2.96,3.86,1.23,1.64,1.36,2.5,1.51,2.12,1.7,Non,Non,Oui,Non,Non,Home,60,[60],True
+cb9e42ed141f002b,italian-league,165080,19,2026-09-10T13:50:28Z,Atalanta,Genoa,0,1,1.58,3.8,6.03,1.1,2.29,1.23,1.89,1.88,1.98,1.8,Non,Non,Non,Non,Oui,Away,66,[66],True
+66e1a1dda7040330,italian-league,165080,19,2026-09-10T13:50:28Z,Turin,Udinese,2,0,1.45,3.84,9.27,1.03,2.66,1.23,2.24,1.63,2.61,1.48,Non,Non,Oui,Non,Non,Home,41,"[20, 41]",True
+919bebca341cbdf6,italian-league,165080,19,2026-09-10T13:50:28Z,Cremonese,Torino,1,1,3.03,3.07,2.48,1.5,1.35,1.34,2.2,1.65,1.89,1.88,Non,Oui,Non,Oui,Non,Away,90,"[88, 90]",True
+529cea3dd4ad96a4,italian-league,165080,19,2026-09-10T13:50:28Z,Milan Reds,Verona,2,1,1.4,4.25,9.25,1.03,2.86,1.19,1.94,1.84,2.35,1.57,Oui,Oui,Oui,Non,Non,Away,80,"[51, 63, 80]",True
+18ec080cd75f93ce,italian-league,165080,19,2026-09-10T13:50:28Z,Sassuolo,Roma,2,0,4.11,2.74,2.21,1.61,1.2,1.41,3.02,1.37,2.42,1.55,Non,Non,Oui,Non,Non,Home,65,"[64, 65]",True
+8dd6351fbac00313,italian-league,165080,19,2026-09-10T13:50:28Z,Parma,Pisa,3,0,1.71,3.59,5.13,1.13,2.07,1.26,1.94,1.84,1.92,1.86,Oui,Non,Oui,Non,Non,Home,83,"[36, 82, 83]",True
+8e9641bb4b99513e,italian-league,165080,19,2026-09-10T13:50:28Z,Como,Fiorentina,0,2,2.7,3.29,2.6,1.45,1.42,1.3,1.89,1.88,1.7,2.11,Non,Non,Non,Non,Oui,Away,82,"[16, 82]",True
+31a055ec969ee68f,italian-league,165080,22,2026-09-10T13:56:28Z,Como,Cagliari,1,0,1.61,3.8,5.74,1.11,2.24,1.23,1.86,1.91,1.93,1.85,Non,Non,Oui,Non,Non,Home,48,[48],True
+88d9cf7b31bf3c3b,italian-league,165080,22,2026-09-10T13:56:28Z,Milan Blues,Atalanta,1,3,1.97,3.47,3.8,1.23,1.78,1.27,1.84,1.93,1.74,2.07,Oui,Oui,Non,Non,Oui,Away,81,"[34, 40, 68, 81]",True
+3568bc85b5e9da6e,italian-league,165080,22,2026-09-10T13:56:28Z,Torino,Roma,0,0,2.89,2.37,3.43,1.28,1.38,1.54,4.22,1.21,2.93,1.39,Non,Non,Non,Oui,Non,,,[],True
+dba67d1d0ffa4646,italian-league,165080,22,2026-09-10T13:56:28Z,Pisa,Udinese,0,2,2.55,2.58,3.56,1.26,1.47,1.46,3.35,1.31,2.53,1.51,Non,Non,Non,Non,Oui,Away,73,"[46, 73]",True
+52030c145e4a7390,italian-league,165080,22,2026-09-10T13:56:28Z,Verona,Sassuolo,0,4,2.64,3.01,2.87,1.38,1.44,1.35,2.28,1.61,1.93,1.85,Oui,Non,Non,Non,Oui,Away,71,"[23, 24, 70, 71]",True
+25a6613c98a46aef,italian-league,165080,22,2026-09-10T13:56:28Z,Napoli,Genoa,1,1,1.65,3.37,6.4,1.09,2.17,1.29,2.36,1.57,2.34,1.58,Non,Oui,Non,Oui,Non,Home,72,"[11, 72]",True
+143f7fb1c0d95cb4,italian-league,165080,22,2026-09-10T13:56:28Z,Bologna,Cremonese,2,1,1.4,4.18,9.29,1.03,2.83,1.2,1.98,1.8,2.39,1.56,Oui,Oui,Oui,Non,Non,Home,69,"[43, 47, 69]",True
+f633b404f9b182e0,italian-league,165080,22,2026-09-10T13:56:28Z,Lecce,Parma,2,2,3.01,2.86,2.65,1.44,1.35,1.38,2.57,1.49,2.09,1.72,Oui,Oui,Non,Oui,Non,Home,65,"[2, 29, 53, 65]",True
+70409eacebe64f78,italian-league,165080,22,2026-09-10T13:56:28Z,Lazio,Turin,1,1,2.44,2.99,3.17,1.32,1.51,1.35,2.34,1.58,1.97,1.81,Non,Oui,Non,Oui,Non,Away,45,"[43, 45]",True
+101c7bbe6c856aa3,italian-league,165080,22,2026-09-10T13:56:28Z,Fiorentina,Milan Reds,0,0,1.99,3.71,3.49,1.27,1.76,1.24,1.62,2.27,1.57,2.36,Non,Non,Non,Oui,Non,,,[],True
+ffebb468dde1538b,italian-league,165080,25,2026-09-10T14:02:28Z,Napoli,Milan Blues,3,2,3.18,3.35,2.24,1.6,1.32,1.29,1.87,1.9,1.71,2.11,Oui,Oui,Oui,Non,Non,Home,74,"[7, 13, 66, 67, 74]",True
+47a2de535fff230f,italian-league,165080,25,2026-09-10T14:02:28Z,Turin,Cremonese,2,0,1.38,4.21,10.05,1.02,2.91,1.19,2.03,1.76,2.52,1.51,Non,Non,Oui,Non,Non,Home,49,"[17, 49]",True
+a16dd1b058419747,italian-league,165080,25,2026-09-10T14:02:28Z,Milan Reds,Cagliari,1,1,1.29,5.01,11.5,1.01,3.43,1.14,1.73,2.08,2.36,1.57,Non,Oui,Non,Oui,Non,Home,85,"[68, 85]",True
+06aae28689bf817e,italian-league,165080,25,2026-09-10T14:02:28Z,Sassuolo,Torino,1,1,3.63,2.74,2.38,1.53,1.25,1.41,2.92,1.39,2.32,1.59,Non,Oui,Non,Oui,Non,Home,78,"[75, 78]",True
+7e94bb7cc35509f8,italian-league,165080,25,2026-09-10T14:02:28Z,Atalanta,Parma,2,0,1.43,4.61,6.9,1.07,2.71,1.16,1.56,2.4,1.81,1.97,Non,Non,Oui,Non,Non,Home,8,"[5, 8]",True
+cd6a9cc9f371693c,italian-league,165080,25,2026-09-10T14:02:28Z,Udinese,Lecce,0,0,2.01,2.94,4.49,1.17,1.75,1.36,2.65,1.47,2.27,1.61,Non,Non,Non,Oui,Non,,,[],True
+c66f67a19241cf04,italian-league,165080,25,2026-09-10T14:02:28Z,Roma,Bologna,2,2,1.54,4.03,6.09,1.1,2.38,1.21,1.75,2.05,1.88,1.89,Oui,Oui,Non,Oui,Non,Away,46,"[36, 38, 39, 46]",True
+41fcbd568cc702ed,italian-league,165080,25,2026-09-10T14:02:28Z,Pisa,Lazio,0,2,4.68,2.83,2.03,1.73,1.16,1.39,2.91,1.39,2.44,1.54,Non,Non,Non,Non,Oui,Away,64,"[21, 64]",True
+f70d0cabaafd0d4b,italian-league,165080,25,2026-09-10T14:02:28Z,Genoa,Como,1,0,2.22,3.11,3.47,1.27,1.61,1.33,2.19,1.66,1.91,1.86,Non,Non,Oui,Non,Non,Home,25,[25],True
+6dd90890622c1338,italian-league,165080,25,2026-09-10T14:02:28Z,Verona,Fiorentina,0,1,4.28,3.37,1.89,1.85,1.19,1.29,2.01,1.78,1.88,1.89,Non,Non,Non,Non,Oui,Away,72,[72],True
+8ddd915d79466919,italian-league,165080,27,2026-09-10T14:06:28Z,Pisa,Lecce,0,0,2.61,2.4,3.84,1.23,1.45,1.52,4.13,1.22,2.92,1.39,Non,Non,Non,Oui,Non,,,[],True
+3b6c148567304469,italian-league,165080,27,2026-09-10T14:06:28Z,Turin,Atalanta,0,0,2.23,3.04,3.54,1.26,1.6,1.34,2.31,1.59,1.99,1.8,Non,Non,Non,Oui,Non,,,[],True
+09a932b3e4a7da62,italian-league,165080,27,2026-09-10T14:06:28Z,Torino,Como,1,1,2.56,2.44,3.84,1.23,1.46,1.51,3.96,1.24,2.84,1.41,Non,Oui,Non,Oui,Non,Home,90,"[82, 90]",True
+1f51449b1e7c6119,italian-league,165080,27,2026-09-10T14:06:28Z,Sassuolo,Milan Blues,0,2,9.12,4.14,1.41,2.8,1.03,1.2,1.99,1.79,2.38,1.56,Non,Non,Non,Non,Oui,Away,47,"[35, 47]",True
+4a59e89a49147f56,italian-league,165080,27,2026-09-10T14:06:28Z,Verona,Cremonese,1,2,2.55,3.14,2.87,1.38,1.47,1.32,2.09,1.72,1.82,1.95,Oui,Oui,Non,Non,Oui,Away,56,"[10, 40, 56]",True
+8cc22526f2cd5b06,italian-league,165080,27,2026-09-10T14:06:28Z,Udinese,Cagliari,3,1,1.76,3.43,5.01,1.14,2.0,1.28,2.06,1.74,1.99,1.8,Oui,Oui,Oui,Non,Non,Away,89,"[4, 69, 86, 89]",True
+c6c9edb5a13dd4e9,italian-league,165080,27,2026-09-10T14:06:28Z,Roma,Milan Reds,2,3,1.73,3.87,4.51,1.17,2.04,1.22,1.65,2.2,1.67,2.17,Oui,Oui,Non,Non,Oui,Home,73,"[1, 5, 39, 65, 73]",True
+b3a5a8e3599632e6,italian-league,165080,27,2026-09-10T14:06:28Z,Napoli,Bologna,4,1,1.67,3.81,5.0,1.14,2.12,1.23,1.75,2.04,1.78,2.0,Oui,Oui,Oui,Non,Non,Away,86,"[19, 22, 50, 58, 86]",True
+5f3766edae823d25,italian-league,165080,27,2026-09-10T14:06:28Z,Lazio,Fiorentina,1,1,2.23,3.11,3.45,1.27,1.61,1.33,2.18,1.66,1.91,1.87,Non,Oui,Non,Oui,Non,Home,63,"[63, 63]",True
+202bb93d62e3c18d,italian-league,165080,27,2026-09-10T14:06:28Z,Genoa,Parma,1,1,2.03,3.22,3.88,1.22,1.73,1.31,2.11,1.71,1.9,1.87,Non,Oui,Non,Oui,Non,Away,69,"[64, 69]",True
+2c81154c81dc4a7e,italian-league,165080,29,2026-09-10T14:10:28Z,Verona,Atalanta,0,1,6.64,4.21,1.49,2.53,1.08,1.19,1.71,2.11,1.9,1.87,Non,Non,Non,Non,Oui,Away,6,[6],True
+95922e96dbb0e88b,italian-league,165080,29,2026-09-10T14:10:28Z,Udinese,Roma,1,1,2.77,3.13,2.64,1.44,1.4,1.33,2.1,1.71,1.83,1.95,Non,Oui,Non,Oui,Non,Home,42,"[30, 42]",True
+3c7bcbf4f24efa26,italian-league,165080,29,2026-09-10T14:10:28Z,Genoa,Turin,0,0,3.32,2.98,2.36,1.54,1.29,1.35,2.36,1.57,2.0,1.79,Non,Non,Non,Oui,Non,,,[],True
+7ee2dd70c546b226,italian-league,165080,29,2026-09-10T14:10:28Z,Pisa,Cagliari,0,0,2.19,2.67,4.39,1.18,1.63,1.43,3.27,1.33,2.58,1.49,Non,Non,Non,Oui,Non,,,[],True
+bdcc013957822800,italian-league,165080,29,2026-09-10T14:10:28Z,Lazio,Cremonese,1,2,1.56,3.75,6.49,1.08,2.33,1.24,1.99,1.79,2.1,1.71,Oui,Oui,Non,Non,Oui,Away,67,"[35, 61, 67]",True
+79ebc34dc7912107,italian-league,165080,29,2026-09-10T14:10:28Z,Napoli,Milan Reds,1,2,1.92,3.63,3.81,1.23,1.82,1.25,1.71,2.11,1.65,2.2,Oui,Oui,Non,Non,Oui,Home,47,"[22, 44, 47]",True
+9fe94bdddecf435f,italian-league,165080,29,2026-09-10T14:10:28Z,Milan Blues,Bologna,0,0,1.39,4.64,7.92,1.05,2.87,1.16,1.63,2.24,1.95,1.83,Non,Non,Non,Oui,Non,,,[],True
+c8d2f4732ece886a,italian-league,165080,29,2026-09-10T14:10:28Z,Fiorentina,Lecce,1,1,1.56,3.61,6.99,1.07,2.34,1.25,2.18,1.66,2.29,1.6,Non,Oui,Non,Oui,Non,Home,44,"[34, 44]",True
+f62cfed1e73924b1,italian-league,165080,29,2026-09-10T14:10:28Z,Torino,Parma,1,0,2.25,2.54,4.5,1.17,1.59,1.47,3.72,1.26,2.82,1.42,Non,Non,Oui,Non,Non,Home,24,[24],True
+fc1c25fb3bad90e8,italian-league,165080,29,2026-09-10T14:10:28Z,Sassuolo,Como,2,2,3.34,2.69,2.57,1.46,1.29,1.42,2.99,1.38,2.33,1.59,Oui,Oui,Non,Oui,Non,Home,83,"[7, 27, 49, 83]",True
+3756e419dad8fd1e,italian-league,165080,28,2026-09-10T14:08:28Z,Como,Milan Blues,1,3,5.01,4.09,1.62,2.21,1.14,1.2,1.58,2.33,1.67,2.17,Oui,Oui,Non,Non,Oui,Away,61,"[27, 34, 38, 61]",True
+dd6f0c9e8b8a30e2,italian-league,165080,28,2026-09-10T14:08:28Z,Turin,Roma,0,1,1.68,3.28,6.31,1.09,2.12,1.3,2.46,1.53,2.4,1.55,Non,Non,Non,Non,Oui,Away,3,[3],True
+00e14cde4898eebb,italian-league,165080,28,2026-09-10T14:08:28Z,Cremonese,Pisa,2,1,1.9,3.18,4.58,1.17,1.84,1.32,2.3,1.6,2.08,1.72,Oui,Oui,Oui,Non,Non,Home,54,"[6, 49, 54]",True
+2c1f20f900c67aec,italian-league,165080,28,2026-09-10T14:08:28Z,Bologna,Torino,2,1,1.65,3.4,6.24,1.09,2.16,1.28,2.3,1.6,2.28,1.61,Oui,Oui,Oui,Non,Non,Home,61,"[32, 45, 61]",True
+483b991b5059f852,italian-league,165080,28,2026-09-10T14:08:28Z,Fiorentina,Sassuolo,0,0,1.5,4.11,6.71,1.08,2.5,1.2,1.77,2.02,1.96,1.82,Non,Non,Non,Oui,Non,,,[],True
+33f5e1811d6c45f0,italian-league,165080,28,2026-09-10T14:08:28Z,Milan Reds,Genoa,3,0,1.53,3.65,7.44,1.06,2.4,1.25,2.2,1.65,2.36,1.57,Oui,Non,Oui,Non,Non,Home,61,"[34, 58, 61]",True
+35b4a7c3fc2857d3,italian-league,165080,28,2026-09-10T14:08:28Z,Atalanta,Udinese,2,1,1.49,4.17,6.64,1.08,2.51,1.2,1.73,2.08,1.91,1.86,Oui,Oui,Oui,Non,Non,Home,89,"[70, 81, 89]",True
+a4c40d91a925cf10,italian-league,165080,28,2026-09-10T14:08:28Z,Cagliari,Verona,3,0,2.03,3.3,3.78,1.23,1.73,1.3,2.01,1.78,1.83,1.95,Oui,Non,Oui,Non,Non,Home,83,"[64, 77, 83]",True
+142cb5e428c82824,italian-league,165080,28,2026-09-10T14:08:28Z,Lecce,Lazio,2,1,5.93,3.32,1.7,2.09,1.1,1.29,2.35,1.58,2.28,1.61,Oui,Oui,Oui,Non,Non,Away,40,"[32, 40, 40]",True
+794182e118959727,italian-league,165080,28,2026-09-10T14:08:28Z,Parma,Napoli,1,0,5.18,3.61,1.7,2.09,1.13,1.25,1.93,1.85,1.92,1.86,Non,Non,Oui,Non,Non,Home,57,[57],True
+2cc556721c16c89d,italian-league,165080,32,2026-09-10T14:16:28Z,Atalanta,Fiorentina,1,2,1.86,3.7,3.95,1.22,1.88,1.24,1.68,2.15,1.65,2.2,Oui,Oui,Non,Non,Oui,Away,76,"[2, 71, 76]",True
+0ba38f5320888f70,italian-league,165080,32,2026-09-10T14:16:28Z,Roma,Lazio,0,0,2.11,3.13,3.76,1.24,1.68,1.33,2.21,1.64,1.95,1.83,Non,Non,Non,Oui,Non,,,[],True
+efec122d108f46ff,italian-league,165080,32,2026-09-10T14:16:28Z,Parma,Bologna,1,3,2.54,3.49,2.63,1.44,1.47,1.27,1.7,2.12,1.59,2.32,Oui,Oui,Non,Non,Oui,Away,56,"[37, 45, 53, 56]",True
+f5a7b5d820ea4ef1,italian-league,165080,32,2026-09-10T14:16:28Z,Cremonese,Sassuolo,1,2,2.27,3.01,3.48,1.27,1.58,1.35,2.35,1.58,2.0,1.78,Oui,Oui,Non,Non,Oui,Home,43,"[19, 41, 43]",True
+9c9402daa26540ff,italian-league,165080,32,2026-09-10T14:16:28Z,Milan Reds,Como,5,0,1.56,3.8,6.41,1.09,2.34,1.23,1.94,1.84,2.05,1.74,Oui,Non,Oui,Non,Non,Home,79,"[36, 37, 38, 79, 79]",True
+c5eee6ded5b3eaa3,italian-league,165080,32,2026-09-10T14:16:28Z,Verona,Napoli,0,2,8.28,4.09,1.44,2.69,1.04,1.2,1.95,1.83,2.26,1.62,Non,Non,Non,Non,Oui,Away,84,"[22, 84]",True
+5a4693bdb50c6859,italian-league,165080,32,2026-09-10T14:16:28Z,Cagliari,Lecce,1,0,2.13,3.08,3.75,1.24,1.66,1.33,2.28,1.61,1.99,1.8,Non,Non,Oui,Non,Non,Home,81,[81],True
+90ee4652298277ad,italian-league,165080,32,2026-09-10T14:16:28Z,Udinese,Torino,2,0,2.51,3.16,2.9,1.37,1.48,1.32,2.05,1.75,1.8,1.98,Non,Non,Oui,Non,Non,Home,60,"[6, 60]",True
+fe58b3cecb4e7c62,italian-league,165080,32,2026-09-10T14:16:28Z,Genoa,Pisa,2,1,1.64,3.53,5.98,1.1,2.18,1.26,2.12,1.7,2.13,1.69,Oui,Oui,Oui,Non,Non,Away,82,"[6, 65, 82]",True
+3cb95f8ad35b7941,italian-league,165080,32,2026-09-10T14:16:28Z,Turin,Milan Blues,0,1,2.78,3.0,2.73,1.41,1.4,1.35,2.3,1.6,1.94,1.84,Non,Non,Non,Non,Oui,Away,64,[64],True
+78f0cfa7cd0f6ecc,italian-league,165080,34,2026-09-10T14:20:28Z,Milan Reds,Parma,1,1,1.37,4.64,8.79,1.04,2.98,1.16,1.7,2.12,2.09,1.72,Non,Oui,Non,Oui,Non,Away,46,"[29, 46]",True
+eb6947151fd9947d,italian-league,165080,34,2026-09-10T14:20:28Z,Atalanta,Cremonese,0,0,1.37,4.9,7.93,1.05,2.97,1.15,1.53,2.46,1.86,1.91,Non,Non,Non,Oui,Non,,,[],True
+2ea140ad5abfbf15,italian-league,165080,34,2026-09-10T14:20:28Z,Pisa,Torino,2,2,3.15,2.74,2.65,1.44,1.32,1.41,2.84,1.41,2.24,1.63,Oui,Oui,Non,Oui,Non,Away,73,"[4, 7, 56, 73]",True
+b0c6027d34699e94,italian-league,165080,34,2026-09-10T14:20:28Z,Genoa,Fiorentina,0,2,2.87,3.09,2.57,1.46,1.38,1.33,2.15,1.68,1.86,1.91,Non,Non,Non,Non,Oui,Away,67,"[24, 67]",True
+c27deee51cc788d8,italian-league,165080,34,2026-09-10T14:20:28Z,Udinese,Como,1,1,2.35,3.14,3.17,1.32,1.55,1.32,2.11,1.7,1.85,1.93,Non,Oui,Non,Oui,Non,Away,27,"[14, 27]",True
+8c11fa3b5936bd4e,italian-league,165080,34,2026-09-10T14:20:28Z,Napoli,Lazio,4,0,2.22,3.19,3.37,1.29,1.61,1.32,2.08,1.73,1.84,1.94,Oui,Non,Oui,Non,Non,Home,76,"[12, 53, 73, 76]",True
+3ea2e1ff37d3f26b,italian-league,165080,34,2026-09-10T14:20:28Z,Cagliari,Sassuolo,1,2,2.0,3.43,3.73,1.24,1.75,1.28,1.86,1.91,1.74,2.06,Oui,Oui,Non,Non,Oui,Home,66,"[39, 61, 66]",True
+71d352e0981e6797,italian-league,165080,34,2026-09-10T14:20:28Z,Turin,Bologna,0,2,1.55,3.81,6.56,1.08,2.37,1.23,1.96,1.82,2.08,1.72,Non,Non,Non,Non,Oui,Away,53,"[11, 53]",True
+1a02172db968dd46,italian-league,165080,34,2026-09-10T14:20:28Z,Verona,Milan Blues,0,3,9.4,5.09,1.32,3.24,1.03,1.14,1.57,2.36,2.03,1.76,Oui,Non,Non,Non,Oui,Away,89,"[64, 70, 89]",True
+f28578b208e4bf85,italian-league,165080,34,2026-09-10T14:20:28Z,Roma,Lecce,0,0,1.44,3.81,9.59,1.03,2.68,1.23,2.29,1.6,2.7,1.45,Non,Non,Non,Oui,Non,,,[],True
+564ba8e91f8aeac6,italian-league,165080,37,2026-09-10T14:26:28Z,Como,Lazio,1,1,3.21,3.39,2.21,1.62,1.31,1.28,1.83,1.95,1.69,2.14,Non,Oui,Non,Oui,Non,Away,50,"[30, 50]",True
+61a425dc749083c1,italian-league,165080,37,2026-09-10T14:26:28Z,Bologna,Pisa,3,1,1.32,4.54,12.57,1.0,3.27,1.17,2.01,1.78,2.77,1.43,Oui,Oui,Oui,Non,Non,Home,81,"[1, 23, 47, 81]",True
+fc5b46e9206e8342,italian-league,165080,37,2026-09-10T14:26:28Z,Lecce,Torino,2,2,3.74,2.9,2.23,1.6,1.24,1.37,2.59,1.48,2.15,1.68,Oui,Oui,Non,Oui,Non,Home,51,"[19, 29, 51, 51]",True
+c7fc546d9555b3cc,italian-league,165080,37,2026-09-10T14:26:28Z,Parma,Verona,0,0,2.06,3.21,3.81,1.23,1.71,1.31,2.12,1.7,1.9,1.87,Non,Non,Non,Oui,Non,,,[],True
+e8e0841dbb0497d0,italian-league,165080,37,2026-09-10T14:26:28Z,Sassuolo,Turin,0,2,4.97,2.76,2.02,1.74,1.14,1.41,3.16,1.34,2.61,1.48,Non,Non,Non,Non,Oui,Away,76,"[67, 76]",True
+905cf5dcb38daa47,italian-league,165080,37,2026-09-10T14:26:28Z,Milan Reds,Udinese,2,0,1.45,4.07,8.1,1.05,2.66,1.21,1.94,1.84,2.23,1.64,Non,Non,Oui,Non,Non,Home,69,"[58, 69]",True
+1ab275a011280ea8,italian-league,165080,37,2026-09-10T14:26:28Z,Cremonese,Napoli,0,4,6.69,3.67,1.57,2.33,1.08,1.25,2.09,1.72,2.19,1.66,Oui,Non,Non,Non,Oui,Away,87,"[27, 42, 52, 87]",True
+996b602b4c26fa74,italian-league,165080,37,2026-09-10T14:26:28Z,Cagliari,Genoa,0,2,2.36,3.1,3.19,1.32,1.54,1.33,2.17,1.67,1.88,1.89,Non,Non,Non,Non,Oui,Away,74,"[31, 74]",True
+ca21ec88e116b0c7,italian-league,165080,37,2026-09-10T14:26:28Z,Atalanta,Roma,2,0,1.77,3.8,4.32,1.18,1.98,1.23,1.66,2.18,1.67,2.18,Non,Non,Oui,Non,Non,Home,64,"[35, 64]",True
+cf2702c7fd36e478,italian-league,165080,37,2026-09-10T14:26:28Z,Fiorentina,Milan Blues,0,2,3.36,3.48,2.1,1.68,1.29,1.27,1.76,2.03,1.66,2.19,Non,Non,Non,Non,Oui,Away,23,"[20, 23]",True
